@@ -14,8 +14,10 @@ def render(all_data_df):
     st.divider()
     c1, c2, c3 = st.columns(3)
     
-    top_scorer = df.groupby('player_display_name')['fantasy_points_ppr'].sum().idxmax()
-    max_pts = df.groupby('player_display_name')['fantasy_points_ppr'].sum().max()
+    # Single groupby operation for efficiency
+    player_totals = df.groupby('player_display_name')['fantasy_points_ppr'].sum()
+    top_scorer = player_totals.idxmax()
+    max_pts = player_totals.max()
     
     with c1:
         st.metric(f"Top Player of {latest_year}", top_scorer)

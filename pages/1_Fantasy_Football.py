@@ -1,8 +1,11 @@
 import streamlit as st
-from utils import load_data_from_disk
+from utils import load_data_from_disk, render_theme_toggle
 from tabs import fantasy_home, boom_bust, deep_dive
 
 st.set_page_config(layout="wide", page_title="Fantasy Football Hub")
+
+# Theme toggle (top right)
+render_theme_toggle()
 
 # 1. LOAD DATA (Global)
 all_data_df = load_data_from_disk()

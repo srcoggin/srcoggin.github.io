@@ -1,14 +1,9 @@
 import streamlit as st
-from utils import calculate_boom_bust
+from utils import calculate_boom_bust, render_year_selector
 
 def render(all_data_df):
-    # --- YEAR SELECTOR (Squashed Layout) ---
-    available_years = sorted(all_data_df['season'].unique(), reverse=True)
-    
-    # Unique key 'bb_year' prevents conflict with other tabs
-    col_year, col_spacer = st.columns([2, 10])
-    with col_year:
-        selected_year = st.selectbox("📅 Select Season", available_years, index=0, key="bb_year")
+    # --- YEAR SELECTOR ---
+    selected_year = render_year_selector(all_data_df, "bb")
         
     # Filter Data
     df = all_data_df[all_data_df['season'] == selected_year].copy()

@@ -1,7 +1,11 @@
 import streamlit as st
 import base64
+from utils import render_theme_toggle
 
 st.set_page_config(layout="wide", page_title="The Expert Football", page_icon="🏈")
+
+# Theme toggle (top right)
+render_theme_toggle()
 
 # --- HERO SECTION ---
 def get_base64_image(image_path):
@@ -50,16 +54,6 @@ with col_updates:
     st.success("✅ **NFL Database:** Online")
     st.success("✅ **Calculation Engine:** Operational")
     st.warning("⚠️ **Maintenance:** Scheduled for Tuesday 3 AM EST")
-
-st.divider()
-st.markdown("### 🏈 Ready to analyze?")
-st.markdown("#### 👈 Click **'Fantasy Football'** in the sidebar to access the tools.")
-
-# Home.py (Inside the 'System Status' column)
-with col_updates:
-    st.header("🛠️ System Status")
-    
-    # ... (Existing status messages) ...
     
     if st.button("🔄 Force Update Data"):
         import os
@@ -67,3 +61,7 @@ with col_updates:
             os.remove("nfl_data_master.parquet")
         st.cache_resource.clear()
         st.success("Data cache cleared! Refresh the page to download the latest stats.")
+
+st.divider()
+st.markdown("### 🏈 Ready to analyze?")
+st.markdown("#### 👈 Click **'Fantasy Football'** in the sidebar to access the tools.")

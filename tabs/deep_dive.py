@@ -1,33 +1,20 @@
 import streamlit as st
 import altair as alt
 import pandas as pd
-import os
-from utils import get_player_metrics
-
-# Headshot configuration
-HEADSHOTS_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "headshots")
-
-def get_headshot_path(player_name: str, position: str) -> str:
-    """Get local file path for player headshot, falling back to default if not found."""
-    # Build filename: "First_Last_POS.png"
-    # Remove periods (e.g., "A.J. Brown" -> "AJ Brown") and replace spaces with underscores
-    clean_name = player_name.replace('.', '').replace(' ', '_')
-    filename = f"{clean_name}_{position}.png"
-    filepath = os.path.join(HEADSHOTS_DIR, filename)
-    
-    if os.path.exists(filepath):
-        return filepath
-    # Fall back to default image
-    return os.path.join(HEADSHOTS_DIR, "default.png")
+from utils import (
+    get_player_metrics, 
+    get_player_profile, 
+    render_year_selector,
+    safe_get,
+    format_height,
+    format_weight,
+    get_headshot_path
+)
 
 def render(all_data_df):
 
     # --- YEAR SELECTOR ---
-    available_years = sorted(all_data_df['season'].unique(), reverse=True)
-    
-    col_year, col_spacer = st.columns([2, 10])
-    with col_year:
-        selected_year = st.selectbox("📅 Select Season", available_years, index=0, key="dd_year")
+    selected_year = render_year_selector(all_data_df, "dd")
 
     # Filter Data
     weekly_df = all_data_df[all_data_df['season'] == selected_year].copy()
@@ -147,6 +134,14 @@ def render(all_data_df):
                     st.metric(f"Avg Points ({selected_year})", f"{avg_pts:.1f}")
                     if player_pos not in ["K", "DEF"]:
                         st.metric(f"Avg EPA ({selected_year})", f"{avg_epa:.2f}")
+                
+                # Player Profile Blurb (only for 2025)
+                if selected_year == 2025:
+                    profile = get_player_profile(player_name, 2025)
+                    if profile and 'blurb' in profile:
+                        st.markdown("---")
+                        st.markdown("#### 📝 Season Summary")
+                        st.info(profile['blurb'])
 
     # --- RIGHT COLUMN: CONTENT ---
     with col_right:
@@ -163,14 +158,15 @@ def render(all_data_df):
             with c_bio:
                 st.subheader(f"{player_name} ({player_pos})")
                 
-                jersey_val = player_bio_row.get('jersey_number') if 'jersey_number' in player_bio_row else None
-                jersey = str(int(jersey_val)) if pd.notna(jersey_val) else "-"
-                height = player_bio_row.get('height', "-") if 'height' in player_bio_row and pd.notna(player_bio_row.get('height')) else "-"
-                weight_val = player_bio_row.get('weight') if 'weight' in player_bio_row else None
-                weight = f"{int(weight_val)} lbs" if pd.notna(weight_val) else "-"
-                college = player_bio_row.get('college_name', "-") if 'college_name' in player_bio_row and pd.notna(player_bio_row.get('college_name')) else "-"
+                # Extract bio data using helper functions
+                jersey_val = safe_get(player_bio_row, 'jersey_number')
+                jersey = str(int(jersey_val)) if jersey_val != "-" else "-"
+                team = safe_get(player_bio_row, 'recent_team')
+                height = format_height(safe_get(player_bio_row, 'height', None))
+                weight = format_weight(safe_get(player_bio_row, 'weight', None))
+                college = safe_get(player_bio_row, 'college_name')
                 
-                st.markdown(f"**#{jersey}** | {height} | {weight} | {college}")
+                st.markdown(f"**{team}** | #{jersey} | {height} | {weight} | {college}")
 
             st.divider()
 
@@ -201,11 +197,11 @@ def render(all_data_df):
                 
                 st.dataframe(
                     df_player[safe_matchup_cols]
-                    .style.applymap(color_rank, subset=['Pass Def Rank', 'Rush Def Rank'])
+                    .style.map(color_rank, subset=['Pass Def Rank', 'Rush Def Rank'])
                     .format({'Points': '{:.1f}', 'EPA': '{:.2f}', 'Pass Def Rank': '{:.0f}', 'Rush Def Rank': '{:.0f}'}),
                     use_container_width=True, 
                     hide_index=True,
-                    height=table_height # <--- Auto-Expanded Height
+                    height=table_height
                 )
 
             # 4. TABLE 2: SMART BOX SCORE (Dynamic Columns)
