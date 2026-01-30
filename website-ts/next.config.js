@@ -6,9 +6,9 @@ const nextConfig = {
     // Disable image optimization for local images to prevent blur
     unoptimized: true,
   },
-  // Uncomment and set if hosting in a subdirectory (e.g., /Website)
-  // basePath: '/Website',
-  // assetPrefix: '/Website/',
+  // GitHub Pages subdirectory hosting
+  basePath: '/fantasy-football',
+  assetPrefix: '/fantasy-football/',
 }
 
 module.exports = nextConfig
