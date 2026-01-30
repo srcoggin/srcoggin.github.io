@@ -10,7 +10,7 @@ export default function Sidebar() {
 
   const navItems = [
     { name: 'Home', path: '/', icon: '🏠' },
-    { name: 'Fantasy Football', path: '/tools', icon: '🏈' },
+    { name: 'Fantasy Football', path: '/fantasy-football', icon: '🏈' },
   ]
 
   return (
