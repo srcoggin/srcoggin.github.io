@@ -1,6 +1,6 @@
 'use client'
 
-import { useTheme } from '@/contexts/ThemeContext'
+import React from 'react'
 
 interface Column<T> {
   key: keyof T | string
@@ -11,6 +11,9 @@ interface Column<T> {
   width?: string
 }
 
+/** Per-column gradient: highIsGood = green for high values, lowIsGood = green for low values */
+export type ColumnGradientDirection = 'highIsGood' | 'lowIsGood'
+
 interface DataTableProps<T> {
   data: T[]
   columns: Column<T>[]
@@ -18,6 +21,8 @@ interface DataTableProps<T> {
   className?: string
   showGradient?: 'green' | 'red'
   gradientColumn?: string
+  /** Per-column number coloring: key = column key, value = gradient direction */
+  columnGradients?: Record<string, ColumnGradientDirection>
 }
 
 export default function DataTable<T extends Record<string, any>>({
@@ -27,10 +32,8 @@ export default function DataTable<T extends Record<string, any>>({
   className = '',
   showGradient,
   gradientColumn,
+  columnGradients,
 }: DataTableProps<T>) {
-  const { theme } = useTheme()
-
-  // Calculate min/max for gradient
   let minVal = 0
   let maxVal = 1
   if (showGradient && gradientColumn) {
@@ -46,46 +49,66 @@ export default function DataTable<T extends Record<string, any>>({
     return 0.1 + ((value - minVal) / (maxVal - minVal)) * 0.4
   }
 
-  const getValue = (row: T, key: string): any => {
+  function getValueRaw(row: T, key: string): any {
     const keys = key.split('.')
     let value: any = row
-    for (const k of keys) {
-      value = value?.[k]
-    }
+    for (const k of keys) value = value?.[k]
     return value
   }
 
-  const borderColor = theme === 'dark' ? '#30363d' : '#d0d7de'
-  const headerBg = theme === 'dark' ? '#21262d' : '#f6f8fa'
-  const hoverBg = theme === 'dark' ? '#30363d' : '#eaeef2'
-  const textSecondary = theme === 'dark' ? '#8b949e' : '#57606a'
+  const columnMinMax = React.useMemo(() => {
+    if (!columnGradients || Object.keys(columnGradients).length === 0) return {}
+    const result: Record<string, { min: number; max: number }> = {}
+    for (const colKey of Object.keys(columnGradients)) {
+      const values = data
+        .map(row => getValueRaw(row, colKey))
+        .filter((v): v is number => typeof v === 'number' && !isNaN(v))
+      if (values.length > 0) {
+        result[colKey] = { min: Math.min(...values), max: Math.max(...values) }
+      }
+    }
+    return result
+  }, [data, columnGradients])
+
+  function getColumnGradientStyle(colKey: string, rawValue: any): React.CSSProperties | undefined {
+    const dir = columnGradients?.[colKey]
+    const range = columnMinMax[colKey]
+    if (!dir || !range || typeof rawValue !== 'number' || isNaN(rawValue)) return undefined
+    const { min, max } = range
+    const t = max === min ? 0.5 : (rawValue - min) / (max - min)
+    const goodT = dir === 'highIsGood' ? t : 1 - t
+    const greenOpacity = 0.08 + goodT * 0.35
+    const redOpacity = 0.08 + (1 - goodT) * 0.35
+    return {
+      backgroundColor: `rgba(63, 185, 80, ${greenOpacity})`,
+      boxShadow: `inset 0 0 0 1px rgba(248, 81, 73, ${redOpacity * 0.5})`,
+    }
+  }
+
+  const getValue = (row: T, key: string): any => getValueRaw(row, key)
 
   return (
-    <div 
-      className={`overflow-x-auto rounded-lg border ${className}`}
-      style={{ 
-        maxHeight: maxHeight || undefined, 
+    <div
+      className={`overflow-x-auto rounded-lg border border-[var(--border-color)] ${className}`}
+      style={{
+        maxHeight: maxHeight || undefined,
         overflowY: maxHeight ? 'auto' : undefined,
-        borderColor,
       }}
     >
       <table className="min-w-full">
-        <thead style={{ backgroundColor: headerBg }}>
+        <thead className="bg-[var(--bg-card)]">
           <tr>
             {columns.map(col => (
               <th
                 key={String(col.key)}
                 className={`
                   px-3 py-3 text-left text-xs font-semibold uppercase tracking-wider
-                  sticky top-0
+                  sticky top-0 text-[var(--text-secondary)]
+                  border-b border-[var(--border-color)]
                   ${col.headerClass || ''}
                   ${col.width || ''}
                 `}
-                style={{ 
-                  backgroundColor: headerBg,
-                  color: textSecondary,
-                  borderBottom: `1px solid ${borderColor}`,
-                }}
+                style={{ backgroundColor: 'var(--bg-card)' }}
               >
                 {col.header}
               </th>
@@ -106,42 +129,43 @@ export default function DataTable<T extends Record<string, any>>({
             return (
               <tr
                 key={rowIndex}
-                className="transition-colors duration-150"
+                className="transition-colors duration-150 hover:bg-[var(--bg-hover)]"
                 style={{
                   ...gradientStyle,
-                  borderBottom: `1px solid ${borderColor}`,
-                }}
-                onMouseEnter={(e) => {
-                  if (!gradientStyle) {
-                    e.currentTarget.style.backgroundColor = hoverBg
-                  }
-                }}
-                onMouseLeave={(e) => {
-                  if (!gradientStyle) {
-                    e.currentTarget.style.backgroundColor = 'transparent'
-                  }
+                  borderBottom: '1px solid var(--border-color)',
                 }}
               >
                 {columns.map(col => {
-                  const rawValue = getValue(row, String(col.key))
+                  const colKey = String(col.key)
+                  const rawValue = getValue(row, colKey)
                   const displayValue = col.format ? col.format(rawValue, row) : rawValue
                   const cellClass = col.cellClass ? col.cellClass(rawValue, row) : ''
+                  const isTextOnlyClass = cellClass && !cellClass.includes('bg-')
 
-                  // Handle highlight classes
                   let cellStyle: React.CSSProperties = {}
-                  if (cellClass.includes('bg-green-200')) {
+                  if (!isTextOnlyClass && cellClass.includes('bg-green-200')) {
                     cellStyle.backgroundColor = 'rgba(63, 185, 80, 0.3)'
-                  } else if (cellClass.includes('bg-red-200')) {
+                  } else if (!isTextOnlyClass && cellClass.includes('bg-red-200')) {
                     cellStyle.backgroundColor = 'rgba(248, 81, 73, 0.3)'
+                  } else if (!isTextOnlyClass) {
+                    const colGrad = getColumnGradientStyle(colKey, rawValue)
+                    if (colGrad) cellStyle = { ...cellStyle, ...colGrad }
                   }
+
+                  const cellContent = displayValue ?? '-'
+                  const inner = isTextOnlyClass && cellClass ? (
+                    <span className={cellClass}>{cellContent}</span>
+                  ) : (
+                    cellContent
+                  )
 
                   return (
                     <td
-                      key={String(col.key)}
+                      key={colKey}
                       className={`px-3 py-2 text-sm ${col.width || ''}`}
                       style={cellStyle}
                     >
-                      {displayValue ?? '-'}
+                      {inner}
                     </td>
                   )
                 })}

@@ -1,7 +1,6 @@
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
-import { useTheme } from '@/contexts/ThemeContext'
 
 interface Option {
   value: string
@@ -23,7 +22,6 @@ export default function Autocomplete({
   placeholder = 'Search...',
   className = '' 
 }: AutocompleteProps) {
-  const { theme } = useTheme()
   const [inputValue, setInputValue] = useState('')
   const [isOpen, setIsOpen] = useState(false)
   const [highlightedIndex, setHighlightedIndex] = useState(0)
@@ -137,13 +135,6 @@ export default function Autocomplete({
     }
   }
 
-  const bgColor = theme === 'dark' ? '#21262d' : '#ffffff'
-  const borderColor = theme === 'dark' ? '#30363d' : '#d0d7de'
-  const textColor = theme === 'dark' ? '#f0f6fc' : '#1f2328'
-  const textSecondary = theme === 'dark' ? '#8b949e' : '#57606a'
-  const hoverBg = theme === 'dark' ? '#30363d' : '#f3f4f6'
-  const highlightBg = theme === 'dark' ? '#388bfd30' : '#0969da20'
-
   return (
     <div className={`relative ${className}`}>
       <input
@@ -155,40 +146,25 @@ export default function Autocomplete({
         onBlur={handleInputBlur}
         onKeyDown={handleKeyDown}
         placeholder={placeholder}
-        className="w-full px-3 py-2 rounded-lg border outline-none transition-all duration-200 focus:ring-2 focus:ring-blue-500/50"
-        style={{
-          backgroundColor: bgColor,
-          borderColor: borderColor,
-          color: textColor,
-        }}
+        className="w-full px-3 py-2 rounded-lg border border-[var(--border-color)] bg-[var(--bg-card)] text-[var(--text-primary)] outline-none transition-all duration-200 focus:ring-2 focus:ring-blue-500/50"
       />
-      
-      {/* Dropdown arrow */}
-      <div 
-        className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none"
-        style={{ color: textSecondary }}
-      >
+
+      <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-[var(--text-secondary)]">
         ▼
       </div>
 
-      {/* Dropdown list */}
       {isOpen && filteredOptions.length > 0 && (
         <ul
           ref={listRef}
-          className="absolute z-50 w-full mt-1 max-h-60 overflow-auto rounded-lg border shadow-lg"
-          style={{
-            backgroundColor: bgColor,
-            borderColor: borderColor,
-          }}
+          className="absolute z-50 w-full mt-1 max-h-60 overflow-auto rounded-lg border border-[var(--border-color)] shadow-lg bg-[var(--bg-card)]"
         >
           {filteredOptions.map((option, index) => (
             <li
               key={option.value}
               onClick={() => handleOptionClick(option)}
-              className="px-3 py-2 cursor-pointer transition-colors duration-100 text-sm"
+              className="px-3 py-2 cursor-pointer transition-colors duration-100 text-sm text-[var(--text-primary)]"
               style={{
-                backgroundColor: index === highlightedIndex ? highlightBg : 'transparent',
-                color: textColor,
+                backgroundColor: index === highlightedIndex ? 'color-mix(in srgb, var(--accent-blue) 25%, transparent)' : 'transparent',
               }}
               onMouseEnter={() => setHighlightedIndex(index)}
             >
@@ -198,16 +174,8 @@ export default function Autocomplete({
         </ul>
       )}
 
-      {/* No results message */}
       {isOpen && inputValue.trim() !== '' && filteredOptions.length === 0 && (
-        <div
-          className="absolute z-50 w-full mt-1 px-3 py-2 rounded-lg border text-sm"
-          style={{
-            backgroundColor: bgColor,
-            borderColor: borderColor,
-            color: textSecondary,
-          }}
-        >
+        <div className="absolute z-50 w-full mt-1 px-3 py-2 rounded-lg border border-[var(--border-color)] text-sm bg-[var(--bg-card)] text-[var(--text-secondary)]">
           No players found
         </div>
       )}

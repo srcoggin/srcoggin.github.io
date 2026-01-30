@@ -5,7 +5,6 @@ import YearSelector from '@/components/YearSelector'
 import Divider from '@/components/Divider'
 import DataTable from '@/components/DataTable'
 import InfoBox from '@/components/InfoBox'
-import { useTheme } from '@/contexts/ThemeContext'
 import { PlayerData, BoomBustStats } from '@/types'
 import { calculateBoomBust } from '@/utils/calculations'
 import { getAvailableSeasons } from '@/utils/dataLoader'
@@ -198,7 +197,6 @@ const REGRESSION_CANDIDATES = [
 ]
 
 export default function FantasyRadar({ data }: FantasyRadarProps) {
-  const { theme } = useTheme()
   const availableYears = useMemo(() => getAvailableSeasons(data), [data])
   const [selectedYear, setSelectedYear] = useState(availableYears[0] || 2025)
   const [selectedPosition, setSelectedPosition] = useState('ALL POSITIONS')
@@ -313,7 +311,7 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
   }
 
   return (
-    <div>
+    <div className="min-w-0 w-full">
       <YearSelector 
         years={availableYears}
         selectedYear={selectedYear}
@@ -322,14 +320,14 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
       />
 
       <h2 className={`
-        text-2xl font-bold mb-2
-        ${theme === 'dark' ? 'text-[#f0f6fc]' : 'text-[#1f2328]'}
+        text-xl sm:text-2xl font-bold mb-2 break-words
+        text-[var(--text-primary)]
       `}>
         🔥 The Boom/Bust Watch ({selectedYear})
       </h2>
       <p className={`
-        text-sm mb-4
-        ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}
+        text-xs sm:text-sm mb-4 break-words
+        text-[var(--text-secondary)]
       `}>
         Identify League Winners (&gt;25 pts) and Lineup Killers (&lt;8 pts) from {selectedYear}.
       </p>
@@ -340,21 +338,14 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
       <div className="mb-6">
         <p className={`
           font-medium mb-2
-          ${theme === 'dark' ? 'text-[#f0f6fc]' : 'text-[#1f2328]'}
+          text-[var(--text-primary)]
         `}>
           Filter Positions:
         </p>
         <select
           value={selectedPosition}
           onChange={(e) => setSelectedPosition(e.target.value)}
-          className={`
-            px-3 py-2 rounded-lg border outline-none transition-all duration-200
-            focus:ring-2 focus:ring-blue-500/50
-            ${theme === 'dark' 
-              ? 'bg-[#21262d] border-[#30363d] text-[#f0f6fc]' 
-              : 'bg-[#f6f8fa] border-[#d0d7de] text-[#1f2328]'
-            }
-          `}
+          className="px-3 py-2 rounded-lg border border-[var(--border-color)] bg-[var(--bg-card)] text-[var(--text-primary)] outline-none transition-all duration-200 focus:ring-2 focus:ring-blue-500/50"
         >
           {filterOptions.map(opt => (
             <option key={opt} value={opt}>{opt}</option>
@@ -368,7 +359,7 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
         <div>
           <h3 className={`
             text-xl font-bold mb-4
-            ${theme === 'dark' ? 'text-[#3fb950]' : 'text-[#1a7f37]'}
+            text-[var(--accent-green)]
           `}>
             🚀 Boom Squad (&gt;25 pts)
           </h3>
@@ -380,7 +371,7 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
               gradientColumn="boomWeeks"
             />
           ) : (
-            <p className={`text-sm ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}`}>
+            <p className={`text-sm text-[var(--text-secondary)]`}>
               No boom data available.
             </p>
           )}
@@ -390,7 +381,7 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
         <div>
           <h3 className={`
             text-xl font-bold mb-4
-            ${theme === 'dark' ? 'text-[#f85149]' : 'text-[#cf222e]'}
+            text-[var(--accent-red)]
           `}>
             📉 Bust Watch (&lt;8 pts)
           </h3>
@@ -402,14 +393,14 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
               gradientColumn="bustWeeks"
             />
           ) : (
-            <p className={`text-sm ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}`}>
+            <p className={`text-sm text-[var(--text-secondary)]`}>
               No bust data available.
             </p>
           )}
         </div>
       </div>
 
-      <p className={`text-xs mt-4 ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}`}>
+      <p className={`text-xs mt-4 text-[var(--text-secondary)]`}>
         <strong>(R)</strong> = Rookie (2025 Draft Class)
       </p>
 
@@ -418,13 +409,13 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
       {/* 2026 Outlook Section */}
       <h2 className={`
         text-2xl font-bold mb-2
-        ${theme === 'dark' ? 'text-[#f0f6fc]' : 'text-[#1f2328]'}
+        text-[var(--text-primary)]
       `}>
         🔮 2026 Season Outlook - Breakouts & Busts
       </h2>
       <p className={`
         text-sm mb-4
-        ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}
+        text-[var(--text-secondary)]
       `}>
         Non-rookie players expected to surge or decline in the upcoming season.
       </p>
@@ -439,27 +430,23 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
         <div>
           <h3 className={`
             text-xl font-bold mb-4
-            ${theme === 'dark' ? 'text-[#3fb950]' : 'text-[#1a7f37]'}
+            text-[var(--accent-green)]
           `}>
             📈 2026 Breakout Candidates
           </h3>
-          <p className={`text-sm mb-4 ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}`}>
+          <p className={`text-sm mb-4 text-[var(--text-secondary)]`}>
             Players poised for a big jump in fantasy value next season.
           </p>
           <div className="space-y-3">
             {BREAKOUT_CANDIDATES.map((player) => (
               <div 
                 key={player.name}
-                className={`p-3 rounded-lg border ${
-                  theme === 'dark' 
-                    ? 'bg-[#1a1d24] border-[#30363d]' 
-                    : 'bg-[#f6f8fa] border-[#d0d7de]'
-                }`}
+                className="p-3 rounded-lg border bg-[var(--bg-secondary)] border-[var(--border-color)]"
               >
                 <div className="flex items-start justify-between gap-2">
                   <div>
                     <div className="flex items-center gap-2">
-                      <span className={`font-bold ${theme === 'dark' ? 'text-[#f0f6fc]' : 'text-[#1f2328]'}`}>
+                      <span className={`font-bold text-[var(--text-primary)]`}>
                         {player.name}
                       </span>
                       <span className={`text-xs px-2 py-0.5 rounded-full ${
@@ -472,21 +459,19 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
                         {player.position}
                       </span>
                     </div>
-                    <p className={`text-xs ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}`}>
+                    <p className={`text-xs text-[var(--text-secondary)]`}>
                       {player.team}
                     </p>
                   </div>
                 </div>
-                <p className={`text-sm mt-2 ${theme === 'dark' ? 'text-[#c9d1d9]' : 'text-[#1f2328]'}`}>
+                <p className={`text-sm mt-2 text-[var(--text-primary)]`}>
                   {player.analysis}
                 </p>
                 <div className="flex items-center justify-between mt-2">
-                  <span className={`text-xs font-medium ${
-                    theme === 'dark' ? 'text-green-400' : 'text-green-600'
-                  }`}>
+                  <span className="text-xs font-medium text-green-400">
                     ⬆️ {player.upside}
                   </span>
-                  <span className={`text-xs ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}`}>
+                  <span className={`text-xs text-[var(--text-secondary)]`}>
                     Source: {player.source}
                   </span>
                 </div>
@@ -499,27 +484,23 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
         <div>
           <h3 className={`
             text-xl font-bold mb-4
-            ${theme === 'dark' ? 'text-[#f85149]' : 'text-[#cf222e]'}
+            text-[var(--accent-red)]
           `}>
             📉 2026 Regression Watch
           </h3>
-          <p className={`text-sm mb-4 ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}`}>
+          <p className={`text-sm mb-4 text-[var(--text-secondary)]`}>
             Players who may decline or underperform their ADP next season.
           </p>
           <div className="space-y-3">
             {REGRESSION_CANDIDATES.map((player) => (
               <div 
                 key={player.name}
-                className={`p-3 rounded-lg border ${
-                  theme === 'dark' 
-                    ? 'bg-[#1a1d24] border-[#30363d]' 
-                    : 'bg-[#f6f8fa] border-[#d0d7de]'
-                }`}
+                className="p-3 rounded-lg border bg-[var(--bg-secondary)] border-[var(--border-color)]"
               >
                 <div className="flex items-start justify-between gap-2">
                   <div>
                     <div className="flex items-center gap-2">
-                      <span className={`font-bold ${theme === 'dark' ? 'text-[#f0f6fc]' : 'text-[#1f2328]'}`}>
+                      <span className={`font-bold text-[var(--text-primary)]`}>
                         {player.name}
                       </span>
                       <span className={`text-xs px-2 py-0.5 rounded-full ${
@@ -532,21 +513,19 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
                         {player.position}
                       </span>
                     </div>
-                    <p className={`text-xs ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}`}>
+                    <p className={`text-xs text-[var(--text-secondary)]`}>
                       {player.team}
                     </p>
                   </div>
                 </div>
-                <p className={`text-sm mt-2 ${theme === 'dark' ? 'text-[#c9d1d9]' : 'text-[#1f2328]'}`}>
+                <p className={`text-sm mt-2 text-[var(--text-primary)]`}>
                   {player.analysis}
                 </p>
                 <div className="flex items-center justify-between mt-2">
-                  <span className={`text-xs font-medium ${
-                    theme === 'dark' ? 'text-red-400' : 'text-red-600'
-                  }`}>
+                  <span className="text-xs font-medium text-red-400">
                     ⚠️ {player.concern}
                   </span>
-                  <span className={`text-xs ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}`}>
+                  <span className={`text-xs text-[var(--text-secondary)]`}>
                     Source: {player.source}
                   </span>
                 </div>

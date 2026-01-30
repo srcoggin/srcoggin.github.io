@@ -2,6 +2,7 @@
 
 import { ScatterChart, Scatter, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts'
 import { useTheme } from '@/contexts/ThemeContext'
+import { CHART_COLORS } from '@/utils/themeColors'
 import { PlayerMetrics } from '@/types'
 
 interface PlayerChartProps {
@@ -10,21 +11,13 @@ interface PlayerChartProps {
 
 export default function PlayerChart({ data }: PlayerChartProps) {
   const { theme } = useTheme()
+  const colors = CHART_COLORS[theme]
 
   const chartData = data.map(d => ({
     week: d.week,
     points: d.points,
     opponent: d.opponent,
   }))
-
-  const colors = {
-    text: theme === 'dark' ? '#f0f6fc' : '#1f2328',
-    textSecondary: theme === 'dark' ? '#8b949e' : '#57606a',
-    grid: theme === 'dark' ? '#30363d' : '#d0d7de',
-    bg: theme === 'dark' ? '#21262d' : '#ffffff',
-    border: theme === 'dark' ? '#30363d' : '#d0d7de',
-    dot: theme === 'dark' ? '#58a6ff' : '#0969da',
-  }
 
   return (
     <div className="w-full h-72">

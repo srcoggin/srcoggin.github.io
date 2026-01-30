@@ -1,7 +1,6 @@
 'use client'
 
 import { useState, ReactNode } from 'react'
-import { useTheme } from '@/contexts/ThemeContext'
 
 interface ExpanderProps {
   title: string
@@ -12,32 +11,15 @@ interface ExpanderProps {
 
 export default function Expander({ title, children, defaultExpanded = false, className = '' }: ExpanderProps) {
   const [isExpanded, setIsExpanded] = useState(defaultExpanded)
-  const { theme } = useTheme()
 
   return (
-    <div className={`
-      rounded-lg border overflow-hidden
-      ${theme === 'dark' 
-        ? 'border-[#30363d] bg-[#21262d]' 
-        : 'border-[#d0d7de] bg-[#f6f8fa]'
-      }
-      ${className}
-    `}>
+    <div className={`rounded-lg border border-[var(--border-color)] bg-[var(--bg-card)] overflow-hidden ${className}`}>
       <button
         onClick={() => setIsExpanded(!isExpanded)}
-        className={`
-          w-full px-4 py-3 flex justify-between items-center cursor-pointer transition-colors
-          ${theme === 'dark' 
-            ? 'hover:bg-[#30363d]' 
-            : 'hover:bg-[#eaeef2]'
-          }
-        `}
+        className="w-full px-4 py-3 flex justify-between items-center cursor-pointer transition-colors hover:bg-[var(--bg-hover)] text-[var(--text-primary)]"
       >
         <span className="font-medium">{title}</span>
-        <span className={`
-          text-sm transition-transform duration-200
-          ${isExpanded ? 'rotate-180' : 'rotate-0'}
-        `}>
+        <span className={`text-sm transition-transform duration-200 ${isExpanded ? 'rotate-180' : 'rotate-0'}`}>
           ▼
         </span>
       </button>
