@@ -1,0 +1,2241 @@
+{
+  "scraped_at": "2026-01-30T18:35:55.436927",
+  "source": "https://www.tankathon.com/nfl/mock_draft",
+  "total_picks": 138,
+  "picks": [
+    {
+      "pick": 1,
+      "round": 1,
+      "team": "LV",
+      "player_name": "Fernando Mendoza",
+      "position": "QB",
+      "college": "Indiana",
+      "height": "6'5\"",
+      "weight": 225,
+      "stats": {
+        "pass_yds": 3535,
+        "td": 41,
+        "int": 6,
+        "pct": 72.0,
+        "rating": 182.9
+      }
+    },
+    {
+      "pick": 2,
+      "round": 1,
+      "team": "NYJ",
+      "player_name": "Arvell Reese",
+      "position": "LB",
+      "college": "Ohio State",
+      "height": "6'4\"",
+      "weight": 243,
+      "stats": {
+        "tkls": 69,
+        "sack": 6.5,
+        "pass_def": 2,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 3,
+      "round": 1,
+      "team": "ARI",
+      "player_name": "Rueben Bain Jr.",
+      "position": "EDGE",
+      "college": "Miami",
+      "height": "6'3\"",
+      "weight": 275,
+      "stats": {
+        "tkls": 54,
+        "sack": 9.5,
+        "pass_def": 1,
+        "int": 1,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 4,
+      "round": 1,
+      "team": "TEN",
+      "player_name": "Carnell Tate",
+      "position": "WR",
+      "college": "Ohio State",
+      "height": "6'3\"",
+      "weight": 191,
+      "stats": {
+        "rec": 51,
+        "rec_yds": 875,
+        "td": 9,
+        "avg": 17.2,
+        "rush_yds": 16
+      }
+    },
+    {
+      "pick": 5,
+      "round": 1,
+      "team": "NYG",
+      "player_name": "Spencer Fano",
+      "position": "OT",
+      "college": "Utah",
+      "height": "6'6\"",
+      "weight": 302,
+      "stats": {
+        "games": 12
+      }
+    },
+    {
+      "pick": 6,
+      "round": 1,
+      "team": "CLE",
+      "player_name": "Francis Mauigoa",
+      "position": "OT",
+      "college": "Miami",
+      "height": "6'6\"",
+      "weight": 335,
+      "stats": {
+        "games": 16
+      }
+    },
+    {
+      "pick": 7,
+      "round": 1,
+      "team": "WSH",
+      "player_name": "Caleb Downs",
+      "position": "S",
+      "college": "Ohio State",
+      "height": "6'0\"",
+      "weight": 205,
+      "stats": {
+        "tkls": 68,
+        "sack": 1.0,
+        "pass_def": 2,
+        "int": 2,
+        "ff": 2
+      }
+    },
+    {
+      "pick": 8,
+      "round": 1,
+      "team": "NO",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "college": "Notre Dame",
+      "height": "6'0\"",
+      "weight": 214,
+      "stats": {
+        "rush_yds": 1372,
+        "td": 18,
+        "avg": 6.9,
+        "rec_yds": 280,
+        "rec_td": 3
+      }
+    },
+    {
+      "pick": 9,
+      "round": 1,
+      "team": "KC",
+      "player_name": "David Bailey",
+      "position": "EDGE",
+      "college": "Texas Tech",
+      "height": "6'3\"",
+      "weight": 250,
+      "stats": {
+        "tkls": 52,
+        "sack": 14.5,
+        "pass_def": 3,
+        "int": 0,
+        "ff": 3
+      }
+    },
+    {
+      "pick": 10,
+      "round": 1,
+      "team": "CIN",
+      "player_name": "Mansoor Delane",
+      "position": "CB",
+      "college": "LSU",
+      "height": "6'1\"",
+      "weight": 187,
+      "stats": {
+        "tkls": 45,
+        "sack": 0.0,
+        "pass_def": 11,
+        "int": 2,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 11,
+      "round": 1,
+      "team": "MIA",
+      "player_name": "Jordyn Tyson",
+      "position": "WR",
+      "college": "Arizona State",
+      "height": "6'2\"",
+      "weight": 195,
+      "stats": {
+        "rec": 61,
+        "rec_yds": 711,
+        "td": 8,
+        "avg": 11.7,
+        "rush_yds": 4
+      }
+    },
+    {
+      "pick": 12,
+      "round": 1,
+      "team": "DAL",
+      "player_name": "Keldric Faulk",
+      "position": "EDGE",
+      "college": "Auburn",
+      "height": "6'6\"",
+      "weight": 270,
+      "stats": {
+        "tkls": 29,
+        "sack": 2.0,
+        "pass_def": 4,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 13,
+      "round": 1,
+      "team": "LAR",
+      "player_name": "Jermod McCoy",
+      "position": "CB",
+      "college": "Tennessee",
+      "height": "6'0\"",
+      "weight": 193,
+      "stats": {
+        "tkls": 44,
+        "sack": 0.0,
+        "pass_def": 9,
+        "int": 4,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 14,
+      "round": 1,
+      "team": "BAL",
+      "player_name": "Peter Woods",
+      "position": "DL",
+      "college": "Clemson",
+      "height": "6'3\"",
+      "weight": 315,
+      "stats": {
+        "tkls": 30,
+        "sack": 2.0,
+        "pass_def": 1,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 15,
+      "round": 1,
+      "team": "TB",
+      "player_name": "Sonny Styles",
+      "position": "LB",
+      "college": "Ohio State",
+      "height": "6'4\"",
+      "weight": 235,
+      "stats": {
+        "tkls": 82,
+        "sack": 1.0,
+        "pass_def": 3,
+        "int": 1,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 16,
+      "round": 1,
+      "team": "NYJ",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "college": "USC",
+      "height": "5'11\"",
+      "weight": 195,
+      "stats": {
+        "rec": 79,
+        "rec_yds": 1156,
+        "td": 11,
+        "avg": 14.6,
+        "rush_yds": 4
+      }
+    },
+    {
+      "pick": 17,
+      "round": 1,
+      "team": "DET",
+      "player_name": "Avieon Terrell",
+      "position": "CB",
+      "college": "Clemson",
+      "height": "5'11\"",
+      "weight": 180,
+      "stats": {
+        "tkls": 48,
+        "sack": 3.0,
+        "pass_def": 9,
+        "int": 0,
+        "ff": 5
+      }
+    },
+    {
+      "pick": 18,
+      "round": 1,
+      "team": "MIN",
+      "player_name": "Kayden McDonald",
+      "position": "DL",
+      "college": "Ohio State",
+      "height": "6'3\"",
+      "weight": 326,
+      "stats": {
+        "tkls": 65,
+        "sack": 3.0,
+        "pass_def": 1,
+        "int": 0,
+        "ff": 2
+      }
+    },
+    {
+      "pick": 19,
+      "round": 1,
+      "team": "CAR",
+      "player_name": "Kenyon Sadiq",
+      "position": "TE",
+      "college": "Oregon",
+      "height": "6'3\"",
+      "weight": 245,
+      "stats": {
+        "rec": 51,
+        "rec_yds": 560,
+        "td": 8,
+        "avg": 11.0,
+        "rush_yds": 6
+      }
+    },
+    {
+      "pick": 20,
+      "round": 1,
+      "team": "DAL",
+      "player_name": "CJ Allen",
+      "position": "LB",
+      "college": "Georgia",
+      "height": "6'1\"",
+      "weight": 235,
+      "stats": {
+        "tkls": 88,
+        "sack": 3.5,
+        "pass_def": 4,
+        "int": 0,
+        "ff": 2
+      }
+    },
+    {
+      "pick": 21,
+      "round": 1,
+      "team": "PIT",
+      "player_name": "Ty Simpson",
+      "position": "QB",
+      "college": "Alabama",
+      "height": "6'2\"",
+      "weight": 208,
+      "stats": {
+        "pass_yds": 3567,
+        "td": 28,
+        "int": 5,
+        "pct": 64.5,
+        "rating": 145.2
+      }
+    },
+    {
+      "pick": 22,
+      "round": 1,
+      "team": "LAC",
+      "player_name": "Vega Ioane",
+      "position": "IOL",
+      "college": "Penn State",
+      "height": "6'4\"",
+      "weight": 328,
+      "stats": {
+        "games": 11
+      }
+    },
+    {
+      "pick": 23,
+      "round": 1,
+      "team": "PHI",
+      "player_name": "Denzel Boston",
+      "position": "WR",
+      "college": "Washington",
+      "height": "6'4\"",
+      "weight": 210,
+      "stats": {
+        "rec": 62,
+        "rec_yds": 881,
+        "td": 11,
+        "avg": 14.2,
+        "rush_yds": 0
+      }
+    },
+    {
+      "pick": 24,
+      "round": 1,
+      "team": "CLE",
+      "player_name": "KC Concepcion",
+      "position": "WR",
+      "college": "Texas A&M",
+      "height": "5'11\"",
+      "weight": 190,
+      "stats": {
+        "rec": 61,
+        "rec_yds": 919,
+        "td": 9,
+        "avg": 15.1,
+        "rush_yds": 75
+      }
+    },
+    {
+      "pick": 25,
+      "round": 1,
+      "team": "CHI",
+      "player_name": "Caleb Banks",
+      "position": "DL",
+      "college": "Florida",
+      "height": "6'6\"",
+      "weight": 329,
+      "stats": {
+        "tkls": 6,
+        "sack": 0.0,
+        "pass_def": 0,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 26,
+      "round": 1,
+      "team": "BUF",
+      "player_name": "T.J. Parker",
+      "position": "EDGE",
+      "college": "Clemson",
+      "height": "6'3\"",
+      "weight": 265,
+      "stats": {
+        "tkls": 37,
+        "sack": 5.0,
+        "pass_def": 1,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 27,
+      "round": 1,
+      "team": "SF",
+      "player_name": "Kadyn Proctor",
+      "position": "OT",
+      "college": "Alabama",
+      "height": "6'7\"",
+      "weight": 366,
+      "stats": {
+        "games": 15
+      }
+    },
+    {
+      "pick": 28,
+      "round": 1,
+      "team": "HOU",
+      "player_name": "Anthony Hill Jr.",
+      "position": "LB",
+      "college": "Texas",
+      "height": "6'3\"",
+      "weight": 235,
+      "stats": {
+        "tkls": 69,
+        "sack": 4.0,
+        "pass_def": 1,
+        "int": 2,
+        "ff": 3
+      }
+    },
+    {
+      "pick": 29,
+      "round": 1,
+      "team": "LAR",
+      "player_name": "Caleb Lomu",
+      "position": "OT",
+      "college": "Utah",
+      "height": "6'6\"",
+      "weight": 304,
+      "stats": {
+        "games": 12
+      }
+    },
+    {
+      "pick": 30,
+      "round": 1,
+      "team": "DEN",
+      "player_name": "Emmanuel Pregnon",
+      "position": "IOL",
+      "college": "Oregon",
+      "height": "6'5\"",
+      "weight": 320,
+      "stats": {
+        "games": 15
+      }
+    },
+    {
+      "pick": 31,
+      "round": 1,
+      "team": "NE",
+      "player_name": "Cashius Howell",
+      "position": "EDGE",
+      "college": "Texas A&M",
+      "height": "6'2\"",
+      "weight": 248,
+      "stats": {
+        "tkls": 31,
+        "sack": 11.5,
+        "pass_def": 6,
+        "int": 0,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 32,
+      "round": 1,
+      "team": "SEA",
+      "player_name": "Brandon Cisse",
+      "position": "CB",
+      "college": "South Carolina",
+      "height": "6'0\"",
+      "weight": 190,
+      "stats": {
+        "tkls": 27,
+        "sack": 0.0,
+        "pass_def": 5,
+        "int": 1,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 33,
+      "round": 2,
+      "team": "NYJ",
+      "player_name": "Colton Hood",
+      "position": "CB",
+      "college": "Tennessee",
+      "height": "6'0\"",
+      "weight": 195,
+      "stats": {
+        "tkls": 50,
+        "sack": 0.0,
+        "pass_def": 8,
+        "int": 1,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 34,
+      "round": 2,
+      "team": "ARI",
+      "player_name": "Monroe Freeling",
+      "position": "OT",
+      "college": "Georgia",
+      "height": "6'7\"",
+      "weight": 315,
+      "stats": {
+        "games": 14
+      }
+    },
+    {
+      "pick": 35,
+      "round": 2,
+      "team": "TEN",
+      "player_name": "Akheem Mesidor",
+      "position": "EDGE",
+      "college": "Miami",
+      "height": "6'3\"",
+      "weight": 265,
+      "stats": {
+        "tkls": 63,
+        "sack": 12.5,
+        "pass_def": 0,
+        "int": 0,
+        "ff": 4
+      }
+    },
+    {
+      "pick": 36,
+      "round": 2,
+      "team": "LV",
+      "player_name": "Christen Miller",
+      "position": "DL",
+      "college": "Georgia",
+      "height": "6'4\"",
+      "weight": 305,
+      "stats": {
+        "tkls": 23,
+        "sack": 1.5,
+        "pass_def": 0,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 37,
+      "round": 2,
+      "team": "NYG",
+      "player_name": "Chris Bell",
+      "position": "WR",
+      "college": "Louisville",
+      "height": "6'2\"",
+      "weight": 220,
+      "stats": {
+        "rec": 72,
+        "rec_yds": 917,
+        "td": 6,
+        "avg": 12.7,
+        "rush_yds": 0
+      }
+    },
+    {
+      "pick": 38,
+      "round": 2,
+      "team": "HOU",
+      "player_name": "Lee Hunter",
+      "position": "DL",
+      "college": "Texas Tech",
+      "height": "6'4\"",
+      "weight": 330,
+      "stats": {
+        "tkls": 41,
+        "sack": 2.5,
+        "pass_def": 0,
+        "int": 0,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 39,
+      "round": 2,
+      "team": "CLE",
+      "player_name": "Chris Johnson",
+      "position": "CB",
+      "college": "San Diego State",
+      "height": "6'0\"",
+      "weight": 195,
+      "stats": {
+        "tkls": 49,
+        "sack": 1.0,
+        "pass_def": 9,
+        "int": 4,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 40,
+      "round": 2,
+      "team": "KC",
+      "player_name": "Gennings Dunker",
+      "position": "OT",
+      "college": "Iowa",
+      "height": "6'5\"",
+      "weight": 316,
+      "stats": {
+        "games": 13
+      }
+    },
+    {
+      "pick": 41,
+      "round": 2,
+      "team": "CIN",
+      "player_name": "Caleb Tiernan",
+      "position": "OT",
+      "college": "Northwestern",
+      "height": "6'7\"",
+      "weight": 329,
+      "stats": {
+        "games": 13
+      }
+    },
+    {
+      "pick": 42,
+      "round": 2,
+      "team": "NO",
+      "player_name": "Keith Abney II",
+      "position": "CB",
+      "college": "Arizona State",
+      "height": "6'0\"",
+      "weight": 190,
+      "stats": {
+        "tkls": 44,
+        "sack": 1.0,
+        "pass_def": 12,
+        "int": 2,
+        "ff": 2
+      }
+    },
+    {
+      "pick": 43,
+      "round": 2,
+      "team": "MIA",
+      "player_name": "D'Angelo Ponds",
+      "position": "CB",
+      "college": "Indiana",
+      "height": "5'9\"",
+      "weight": 173,
+      "stats": {
+        "tkls": 61,
+        "sack": 0.0,
+        "pass_def": 11,
+        "int": 2,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 44,
+      "round": 2,
+      "team": "NYJ",
+      "player_name": "Emmanuel McNeil-Warren",
+      "position": "S",
+      "college": "Toledo",
+      "height": "6'2\"",
+      "weight": 202,
+      "stats": {
+        "tkls": 77,
+        "sack": 0.5,
+        "pass_def": 5,
+        "int": 2,
+        "ff": 3
+      }
+    },
+    {
+      "pick": 45,
+      "round": 2,
+      "team": "BAL",
+      "player_name": "R Mason Thomas",
+      "position": "EDGE",
+      "college": "Oklahoma",
+      "height": "6'2\"",
+      "weight": 249,
+      "stats": {
+        "tkls": 26,
+        "sack": 6.5,
+        "pass_def": 1,
+        "int": 0,
+        "ff": 2
+      }
+    },
+    {
+      "pick": 46,
+      "round": 2,
+      "team": "TB",
+      "player_name": "LT Overton",
+      "position": "EDGE",
+      "college": "Alabama",
+      "height": "6'5\"",
+      "weight": 283,
+      "stats": {
+        "tkls": 42,
+        "sack": 4.0,
+        "pass_def": 1,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 47,
+      "round": 2,
+      "team": "IND",
+      "player_name": "Romello Height",
+      "position": "EDGE",
+      "college": "Texas Tech",
+      "height": "6'3\"",
+      "weight": 240,
+      "stats": {
+        "tkls": 38,
+        "sack": 10.0,
+        "pass_def": 1,
+        "int": 0,
+        "ff": 2
+      }
+    },
+    {
+      "pick": 48,
+      "round": 2,
+      "team": "ATL",
+      "player_name": "Connor Lew",
+      "position": "IOL",
+      "college": "Auburn",
+      "height": "6'3\"",
+      "weight": 303,
+      "stats": {
+        "games": 7
+      }
+    },
+    {
+      "pick": 49,
+      "round": 2,
+      "team": "MIN",
+      "player_name": "Keionte Scott",
+      "position": "CB",
+      "college": "Miami",
+      "height": "6'0\"",
+      "weight": 195,
+      "stats": {
+        "tkls": 64,
+        "sack": 5.0,
+        "pass_def": 5,
+        "int": 2,
+        "ff": 2
+      }
+    },
+    {
+      "pick": 50,
+      "round": 2,
+      "team": "DET",
+      "player_name": "Zion Young",
+      "position": "EDGE",
+      "college": "Missouri",
+      "height": "6'5\"",
+      "weight": 262,
+      "stats": {
+        "tkls": 42,
+        "sack": 6.5,
+        "pass_def": 2,
+        "int": 0,
+        "ff": 2
+      }
+    },
+    {
+      "pick": 51,
+      "round": 2,
+      "team": "CAR",
+      "player_name": "Germie Bernard",
+      "position": "WR",
+      "college": "Alabama",
+      "height": "6'1\"",
+      "weight": 202,
+      "stats": {
+        "rec": 64,
+        "rec_yds": 862,
+        "td": 7,
+        "avg": 13.5,
+        "rush_yds": 101
+      }
+    },
+    {
+      "pick": 52,
+      "round": 2,
+      "team": "GB",
+      "player_name": "Malik Muhammad",
+      "position": "CB",
+      "college": "Texas",
+      "height": "6'0\"",
+      "weight": 178,
+      "stats": {
+        "tkls": 30,
+        "sack": 1.0,
+        "pass_def": 4,
+        "int": 2,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 53,
+      "round": 2,
+      "team": "PIT",
+      "player_name": "Chris Brazzell II",
+      "position": "WR",
+      "college": "Tennessee",
+      "height": "6'5\"",
+      "weight": 200,
+      "stats": {
+        "rec": 62,
+        "rec_yds": 1017,
+        "td": 9,
+        "avg": 16.4,
+        "rush_yds": 0
+      }
+    },
+    {
+      "pick": 54,
+      "round": 2,
+      "team": "PHI",
+      "player_name": "Blake Miller",
+      "position": "OT",
+      "college": "Clemson",
+      "height": "6'6\"",
+      "weight": 310,
+      "stats": {
+        "games": 13
+      }
+    },
+    {
+      "pick": 55,
+      "round": 2,
+      "team": "LAC",
+      "player_name": "Joshua Josephs",
+      "position": "EDGE",
+      "college": "Tennessee",
+      "height": "6'3\"",
+      "weight": 240,
+      "stats": {
+        "tkls": 33,
+        "sack": 4.0,
+        "pass_def": 3,
+        "int": 0,
+        "ff": 3
+      }
+    },
+    {
+      "pick": 56,
+      "round": 2,
+      "team": "JAX",
+      "player_name": "Isaiah World",
+      "position": "OT",
+      "college": "Oregon",
+      "height": "6'8\"",
+      "weight": 312,
+      "stats": {
+        "games": 15
+      }
+    },
+    {
+      "pick": 57,
+      "round": 2,
+      "team": "CHI",
+      "player_name": "Dillon Thieneman",
+      "position": "S",
+      "college": "Oregon",
+      "height": "6'0\"",
+      "weight": 207,
+      "stats": {
+        "tkls": 96,
+        "sack": 1.0,
+        "pass_def": 5,
+        "int": 2,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 58,
+      "round": 2,
+      "team": "SF",
+      "player_name": "Zachariah Branch",
+      "position": "WR",
+      "college": "Georgia",
+      "height": "5'10\"",
+      "weight": 180,
+      "stats": {
+        "rec": 81,
+        "rec_yds": 811,
+        "td": 6,
+        "avg": 10.0,
+        "rush_yds": 7
+      }
+    },
+    {
+      "pick": 59,
+      "round": 2,
+      "team": "HOU",
+      "player_name": "Chase Bisontis",
+      "position": "IOL",
+      "college": "Texas A&M",
+      "height": "6'6\"",
+      "weight": 330,
+      "stats": {
+        "games": 13
+      }
+    },
+    {
+      "pick": 60,
+      "round": 2,
+      "team": "BUF",
+      "player_name": "Elijah Sarratt",
+      "position": "WR",
+      "college": "Indiana",
+      "height": "6'2\"",
+      "weight": 209,
+      "stats": {
+        "rec": 65,
+        "rec_yds": 830,
+        "td": 15,
+        "avg": 12.8,
+        "rush_yds": 0
+      }
+    },
+    {
+      "pick": 61,
+      "round": 2,
+      "team": "LAR",
+      "player_name": "A.J. Haulcy",
+      "position": "S",
+      "college": "LSU",
+      "height": "6'0\"",
+      "weight": 222,
+      "stats": {
+        "tkls": 88,
+        "sack": 0.0,
+        "pass_def": 4,
+        "int": 3,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 62,
+      "round": 2,
+      "team": "DEN",
+      "player_name": "Deontae Lawson",
+      "position": "LB",
+      "college": "Alabama",
+      "height": "6'2\"",
+      "weight": 239,
+      "stats": {
+        "tkls": 89,
+        "sack": 1.5,
+        "pass_def": 4,
+        "int": 0,
+        "ff": 2
+      }
+    },
+    {
+      "pick": 63,
+      "round": 2,
+      "team": "NE",
+      "player_name": "Kamari Ramsey",
+      "position": "S",
+      "college": "USC",
+      "height": "6'0\"",
+      "weight": 205,
+      "stats": {
+        "tkls": 27,
+        "sack": 0.0,
+        "pass_def": 2,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 64,
+      "round": 2,
+      "team": "SEA",
+      "player_name": "Jake Slaughter",
+      "position": "IOL",
+      "college": "Florida",
+      "height": "6'4.5\"",
+      "weight": 294,
+      "stats": {
+        "games": 12
+      }
+    },
+    {
+      "pick": 65,
+      "round": 3,
+      "team": "ARI",
+      "player_name": "Trinidad Chambliss",
+      "position": "QB",
+      "college": "Ole Miss",
+      "height": "6'0\"",
+      "weight": 200,
+      "stats": {
+        "pass_yds": 3937,
+        "td": 22,
+        "int": 3,
+        "pct": 66.1,
+        "rating": 155.4
+      }
+    },
+    {
+      "pick": 66,
+      "round": 3,
+      "team": "TEN",
+      "player_name": "Julian Neal",
+      "position": "CB",
+      "college": "Arkansas",
+      "height": "6'2\"",
+      "weight": 208,
+      "stats": {
+        "tkls": 55,
+        "sack": 0.0,
+        "pass_def": 10,
+        "int": 2,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 67,
+      "round": 3,
+      "team": "LV",
+      "player_name": "Jake Golday",
+      "position": "LB",
+      "college": "Cincinnati",
+      "height": "6'4\"",
+      "weight": 240,
+      "stats": {
+        "tkls": 105,
+        "sack": 3.5,
+        "pass_def": 3,
+        "int": 0,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 68,
+      "round": 3,
+      "team": "PHI",
+      "player_name": "Max Klare",
+      "position": "TE",
+      "college": "Ohio State",
+      "height": "6'4\"",
+      "weight": 236,
+      "stats": {
+        "rec": 43,
+        "rec_yds": 448,
+        "td": 2,
+        "avg": 10.4,
+        "rush_yds": 0
+      }
+    },
+    {
+      "pick": 69,
+      "round": 3,
+      "team": "HOU",
+      "player_name": "Domonique Orange",
+      "position": "DL",
+      "college": "Iowa State",
+      "height": "6'4\"",
+      "weight": 325,
+      "stats": {
+        "tkls": 18,
+        "sack": 0.0,
+        "pass_def": 1,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 70,
+      "round": 3,
+      "team": "CLE",
+      "player_name": "Josiah Trotter",
+      "position": "LB",
+      "college": "Missouri",
+      "height": "6'2\"",
+      "weight": 237,
+      "stats": {
+        "tkls": 84,
+        "sack": 2.0,
+        "pass_def": 1,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 71,
+      "round": 3,
+      "team": "WSH",
+      "player_name": "Gabe Jacas",
+      "position": "EDGE",
+      "college": "Illinois",
+      "height": "6'3\"",
+      "weight": 275,
+      "stats": {
+        "tkls": 43,
+        "sack": 11.0,
+        "pass_def": 1,
+        "int": 0,
+        "ff": 3
+      }
+    },
+    {
+      "pick": 72,
+      "round": 3,
+      "team": "CIN",
+      "player_name": "Dani Dennis-Sutton",
+      "position": "EDGE",
+      "college": "Penn State",
+      "height": "6'5\"",
+      "weight": 270,
+      "stats": {
+        "tkls": 42,
+        "sack": 8.5,
+        "pass_def": 3,
+        "int": 0,
+        "ff": 3
+      }
+    },
+    {
+      "pick": 73,
+      "round": 3,
+      "team": "NO",
+      "player_name": "Ja'Kobi Lane",
+      "position": "WR",
+      "college": "USC",
+      "height": "6'4\"",
+      "weight": 195,
+      "stats": {
+        "rec": 49,
+        "rec_yds": 745,
+        "td": 4,
+        "avg": 15.2,
+        "rush_yds": 0
+      }
+    },
+    {
+      "pick": 74,
+      "round": 3,
+      "team": "KC",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "college": "Vanderbilt",
+      "height": "6'4\"",
+      "weight": 235,
+      "stats": {
+        "rec": 62,
+        "rec_yds": 769,
+        "td": 4,
+        "avg": 12.4,
+        "rush_yds": 2
+      }
+    },
+    {
+      "pick": 75,
+      "round": 3,
+      "team": "MIA",
+      "player_name": "Carson Beck",
+      "position": "QB",
+      "college": "Miami",
+      "height": "6'4\"",
+      "weight": 220,
+      "stats": {
+        "pass_yds": 3813,
+        "td": 30,
+        "int": 12,
+        "pct": 72.4,
+        "rating": 157.0
+      }
+    },
+    {
+      "pick": 76,
+      "round": 3,
+      "team": "PIT",
+      "player_name": "Brian Parker II",
+      "position": "OT",
+      "college": "Duke",
+      "height": "6'5\"",
+      "weight": 305,
+      "stats": {
+        "games": 13
+      }
+    },
+    {
+      "pick": 77,
+      "round": 3,
+      "team": "TB",
+      "player_name": "Michael Trigg",
+      "position": "TE",
+      "college": "Baylor",
+      "height": "6'4\"",
+      "weight": 240,
+      "stats": {
+        "rec": 50,
+        "rec_yds": 694,
+        "td": 6,
+        "avg": 13.9,
+        "rush_yds": 0
+      }
+    },
+    {
+      "pick": 78,
+      "round": 3,
+      "team": "IND",
+      "player_name": "Taurean York",
+      "position": "LB",
+      "college": "Texas A&M",
+      "height": "6'0\"",
+      "weight": 235,
+      "stats": {
+        "tkls": 73,
+        "sack": 1.0,
+        "pass_def": 3,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 79,
+      "round": 3,
+      "team": "ATL",
+      "player_name": "Darrell Jackson Jr.",
+      "position": "DL",
+      "college": "Florida State",
+      "height": "6'5\"",
+      "weight": 337,
+      "stats": {
+        "tkls": 45,
+        "sack": 1.0,
+        "pass_def": 0,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 80,
+      "round": 3,
+      "team": "BAL",
+      "player_name": "Omar Cooper Jr.",
+      "position": "WR",
+      "college": "Indiana",
+      "height": "6'0\"",
+      "weight": 204,
+      "stats": {
+        "rec": 69,
+        "rec_yds": 937,
+        "td": 13,
+        "avg": 13.6,
+        "rush_yds": 74
+      }
+    },
+    {
+      "pick": 81,
+      "round": 3,
+      "team": "JAX",
+      "player_name": "Dontay Corleone",
+      "position": "DL",
+      "college": "Cincinnati",
+      "height": "6'2\"",
+      "weight": 318,
+      "stats": {
+        "tkls": 13,
+        "sack": 0.0,
+        "pass_def": 0,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 82,
+      "round": 3,
+      "team": "MIN",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "college": "Notre Dame",
+      "height": "5'11\"",
+      "weight": 210,
+      "stats": {
+        "rush_yds": 674,
+        "td": 11,
+        "avg": 6.0,
+        "rec_yds": 87,
+        "rec_td": 2
+      }
+    },
+    {
+      "pick": 83,
+      "round": 3,
+      "team": "CAR",
+      "player_name": "Will Lee III",
+      "position": "CB",
+      "college": "Texas A&M",
+      "height": "6'3\"",
+      "weight": 190,
+      "stats": {
+        "tkls": 50,
+        "sack": 1.0,
+        "pass_def": 8,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 84,
+      "round": 3,
+      "team": "GB",
+      "player_name": "Davison Igbinosun",
+      "position": "CB",
+      "college": "Ohio State",
+      "height": "6'2\"",
+      "weight": 193,
+      "stats": {
+        "tkls": 53,
+        "sack": 0.0,
+        "pass_def": 8,
+        "int": 2,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 85,
+      "round": 3,
+      "team": "PIT",
+      "player_name": "Antonio Williams",
+      "position": "WR",
+      "college": "Clemson",
+      "height": "5'11\"",
+      "weight": 190,
+      "stats": {
+        "rec": 55,
+        "rec_yds": 604,
+        "td": 4,
+        "avg": 11.0,
+        "rush_yds": 78
+      }
+    },
+    {
+      "pick": 86,
+      "round": 3,
+      "team": "LAC",
+      "player_name": "Devin Moore",
+      "position": "CB",
+      "college": "Florida",
+      "height": "6'2.75\"",
+      "weight": 198,
+      "stats": {
+        "tkls": 35,
+        "sack": 1.0,
+        "pass_def": 4,
+        "int": 2,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 87,
+      "round": 3,
+      "team": "MIA",
+      "player_name": "Max Iheanachor",
+      "position": "OT",
+      "college": "Arizona State",
+      "height": "6'6\"",
+      "weight": 330,
+      "stats": {
+        "games": 12
+      }
+    },
+    {
+      "pick": 88,
+      "round": 3,
+      "team": "JAX",
+      "player_name": "Treydan Stukes",
+      "position": "CB",
+      "college": "Arizona",
+      "height": "6'2\"",
+      "weight": 200,
+      "stats": {
+        "tkls": 52,
+        "sack": 1.0,
+        "pass_def": 6,
+        "int": 4,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 89,
+      "round": 3,
+      "team": "CHI",
+      "player_name": "Anthony Lucas",
+      "position": "EDGE",
+      "college": "USC",
+      "height": "6'5\"",
+      "weight": 285,
+      "stats": {
+        "tkls": 37,
+        "sack": 3.0,
+        "pass_def": 0,
+        "int": 0,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 90,
+      "round": 3,
+      "team": "MIA",
+      "player_name": "Derrick Moore",
+      "position": "EDGE",
+      "college": "Michigan",
+      "height": "6'3\"",
+      "weight": 256,
+      "stats": {
+        "tkls": 30,
+        "sack": 10.0,
+        "pass_def": 3,
+        "int": 0,
+        "ff": 2
+      }
+    },
+    {
+      "pick": 91,
+      "round": 3,
+      "team": "BUF",
+      "player_name": "Harold Perkins Jr.",
+      "position": "LB",
+      "college": "LSU",
+      "height": "6'1\"",
+      "weight": 225,
+      "stats": {
+        "tkls": 56,
+        "sack": 4.0,
+        "pass_def": 3,
+        "int": 3,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 92,
+      "round": 3,
+      "team": "SF",
+      "player_name": "Zakee Wheatley",
+      "position": "S",
+      "college": "Penn State",
+      "height": "6'2\"",
+      "weight": 202,
+      "stats": {
+        "tkls": 74,
+        "sack": 0.0,
+        "pass_def": 1,
+        "int": 1,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 93,
+      "round": 3,
+      "team": "LAR",
+      "player_name": "Chandler Rivers",
+      "position": "CB",
+      "college": "Duke",
+      "height": "5'10\"",
+      "weight": 180,
+      "stats": {
+        "tkls": 59,
+        "sack": 0.0,
+        "pass_def": 8,
+        "int": 2,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 94,
+      "round": 3,
+      "team": "DEN",
+      "player_name": "Malachi Fields",
+      "position": "WR",
+      "college": "Notre Dame",
+      "height": "6'4\"",
+      "weight": 220,
+      "stats": {
+        "rec": 36,
+        "rec_yds": 630,
+        "td": 5,
+        "avg": 17.5,
+        "rush_yds": 0
+      }
+    },
+    {
+      "pick": 95,
+      "round": 3,
+      "team": "NE",
+      "player_name": "Deion Burks",
+      "position": "WR",
+      "college": "Oklahoma",
+      "height": "5'9\"",
+      "weight": 189,
+      "stats": {
+        "rec": 57,
+        "rec_yds": 620,
+        "td": 4,
+        "avg": 10.9,
+        "rush_yds": -1
+      }
+    },
+    {
+      "pick": 96,
+      "round": 3,
+      "team": "SEA",
+      "player_name": "Jaishawn Barham",
+      "position": "LB",
+      "college": "Michigan",
+      "height": "6'3\"",
+      "weight": 243,
+      "stats": {
+        "tkls": 32,
+        "sack": 4.0,
+        "pass_def": 3,
+        "int": 0,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 97,
+      "round": 3,
+      "team": "MIN",
+      "player_name": "Genesis Smith",
+      "position": "S",
+      "college": "Arizona",
+      "height": "6'2\"",
+      "weight": 204,
+      "stats": {
+        "tkls": 77,
+        "sack": 0.0,
+        "pass_def": 8,
+        "int": 1,
+        "ff": 2
+      }
+    },
+    {
+      "pick": 98,
+      "round": 3,
+      "team": "PHI",
+      "player_name": "Daylen Everette",
+      "position": "CB",
+      "college": "Georgia",
+      "height": "6'1\"",
+      "weight": 190,
+      "stats": {
+        "tkls": 50,
+        "sack": 0.0,
+        "pass_def": 10,
+        "int": 1,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 99,
+      "round": 3,
+      "team": "PIT",
+      "player_name": "Lander Barton",
+      "position": "LB",
+      "college": "Utah",
+      "height": "6'5\"",
+      "weight": 240,
+      "stats": {
+        "tkls": 55,
+        "sack": 1.5,
+        "pass_def": 1,
+        "int": 1,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 100,
+      "round": 3,
+      "team": "JAX",
+      "player_name": "Jonah Coleman",
+      "position": "RB",
+      "college": "Washington",
+      "height": "5'9\"",
+      "weight": 220,
+      "stats": {
+        "rush_yds": 758,
+        "td": 15,
+        "avg": 4.9,
+        "rec_yds": 354,
+        "rec_td": 2
+      }
+    },
+    {
+      "pick": 101,
+      "round": 4,
+      "team": "TEN",
+      "player_name": "Jalon Kilgore",
+      "position": "S",
+      "college": "South Carolina",
+      "height": "6'1\"",
+      "weight": 211,
+      "stats": {
+        "tkls": 54,
+        "sack": 0.0,
+        "pass_def": 10,
+        "int": 2,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 102,
+      "round": 4,
+      "team": "LV",
+      "player_name": "Skyler Bell",
+      "position": "WR",
+      "college": "UConn",
+      "height": "6'0\"",
+      "weight": 185,
+      "stats": {
+        "rec": 101,
+        "rec_yds": 1278,
+        "td": 13,
+        "avg": 12.7,
+        "rush_yds": -2
+      }
+    },
+    {
+      "pick": 103,
+      "round": 4,
+      "team": "NYJ",
+      "player_name": "Tim Keenan III",
+      "position": "DL",
+      "college": "Alabama",
+      "height": "6'2\"",
+      "weight": 325,
+      "stats": {
+        "tkls": 16,
+        "sack": 2.0,
+        "pass_def": 1,
+        "int": 0,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 104,
+      "round": 4,
+      "team": "ARI",
+      "player_name": "Nicholas Singleton",
+      "position": "RB",
+      "college": "Penn State",
+      "height": "6'0\"",
+      "weight": 224,
+      "stats": {
+        "rush_yds": 549,
+        "td": 13,
+        "avg": 4.5,
+        "rec_yds": 219,
+        "rec_td": 1
+      }
+    },
+    {
+      "pick": 105,
+      "round": 4,
+      "team": "NYG",
+      "player_name": "Matt Gulbin",
+      "position": "IOL",
+      "college": "Michigan State",
+      "height": "6'4\"",
+      "weight": 312,
+      "stats": {
+        "games": 11
+      }
+    },
+    {
+      "pick": 106,
+      "round": 4,
+      "team": "HOU",
+      "player_name": "Austin Barber",
+      "position": "OT",
+      "college": "Florida",
+      "height": "6'6\"",
+      "weight": 322,
+      "stats": {
+        "games": 12
+      }
+    },
+    {
+      "pick": 107,
+      "round": 4,
+      "team": "CLE",
+      "player_name": "Jack Endries",
+      "position": "TE",
+      "college": "Texas",
+      "height": "6'4\"",
+      "weight": 236,
+      "stats": {
+        "rec": 33,
+        "rec_yds": 346,
+        "td": 3,
+        "avg": 10.5,
+        "rush_yds": 0
+      }
+    },
+    {
+      "pick": 108,
+      "round": 4,
+      "team": "DEN",
+      "player_name": "Zane Durant",
+      "position": "DL",
+      "college": "Penn State",
+      "height": "6'1\"",
+      "weight": 292,
+      "stats": {
+        "tkls": 25,
+        "sack": 4.0,
+        "pass_def": 2,
+        "int": 1,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 109,
+      "round": 4,
+      "team": "KC",
+      "player_name": "Emmett Johnson",
+      "position": "RB",
+      "college": "Nebraska",
+      "height": "5'11\"",
+      "weight": 200,
+      "stats": {
+        "rush_yds": 1451,
+        "td": 12,
+        "avg": 5.8,
+        "rec_yds": 370,
+        "rec_td": 3
+      }
+    },
+    {
+      "pick": 110,
+      "round": 4,
+      "team": "CIN",
+      "player_name": "Jacob Rodriguez",
+      "position": "LB",
+      "college": "Texas Tech",
+      "height": "6'1\"",
+      "weight": 235,
+      "stats": {
+        "tkls": 128,
+        "sack": 1.0,
+        "pass_def": 6,
+        "int": 4,
+        "ff": 7
+      }
+    },
+    {
+      "pick": 111,
+      "round": 4,
+      "team": "MIA",
+      "player_name": "Eli Raridon",
+      "position": "TE",
+      "college": "Notre Dame",
+      "height": "6'7\"",
+      "weight": 252,
+      "stats": {
+        "rec": 32,
+        "rec_yds": 482,
+        "td": 0,
+        "avg": 15.1,
+        "rush_yds": 0
+      }
+    },
+    {
+      "pick": 112,
+      "round": 4,
+      "team": "DAL",
+      "player_name": "Xavier Scott",
+      "position": "CB",
+      "college": "Illinois",
+      "height": "5'11\"",
+      "weight": 195,
+      "stats": {
+        "tkls": 6,
+        "sack": 0.0,
+        "pass_def": 2,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 113,
+      "round": 4,
+      "team": "IND",
+      "player_name": "Garrett Nussmeier",
+      "position": "QB",
+      "college": "LSU",
+      "height": "6'1\"",
+      "weight": 205,
+      "stats": {
+        "pass_yds": 1927,
+        "td": 12,
+        "int": 5,
+        "pct": 67.4,
+        "rating": 133.8
+      }
+    },
+    {
+      "pick": 114,
+      "round": 4,
+      "team": "ATL",
+      "player_name": "Tacario Davis",
+      "position": "CB",
+      "college": "Washington",
+      "height": "6'4\"",
+      "weight": 200,
+      "stats": {
+        "tkls": 19,
+        "sack": 0.0,
+        "pass_def": 3,
+        "int": 2,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 115,
+      "round": 4,
+      "team": "BAL",
+      "player_name": "Ar'maj Reed-Adams",
+      "position": "IOL",
+      "college": "Texas A&M",
+      "height": "6'5\"",
+      "weight": 340,
+      "stats": {
+        "games": 13
+      }
+    },
+    {
+      "pick": 116,
+      "round": 4,
+      "team": "TB",
+      "player_name": "Domani Jackson",
+      "position": "CB",
+      "college": "Alabama",
+      "height": "6'1\"",
+      "weight": 195,
+      "stats": {
+        "tkls": 39,
+        "sack": 0.0,
+        "pass_def": 1,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 117,
+      "round": 4,
+      "team": "LV",
+      "player_name": "Tyreak Sapp",
+      "position": "EDGE",
+      "college": "Florida",
+      "height": "6'3\"",
+      "weight": 274,
+      "stats": {
+        "tkls": 34,
+        "sack": 1.0,
+        "pass_def": 1,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 118,
+      "round": 4,
+      "team": "DET",
+      "player_name": "Drew Shelton",
+      "position": "OT",
+      "college": "Penn State",
+      "height": "6'5\"",
+      "weight": 305,
+      "stats": {
+        "games": 12
+      }
+    },
+    {
+      "pick": 119,
+      "round": 4,
+      "team": "CAR",
+      "player_name": "Parker Brailsford",
+      "position": "IOL",
+      "college": "Alabama",
+      "height": "6'2\"",
+      "weight": 275,
+      "stats": {
+        "games": 14
+      }
+    },
+    {
+      "pick": 120,
+      "round": 4,
+      "team": "GB",
+      "player_name": "Kaytron Allen",
+      "position": "RB",
+      "college": "Penn State",
+      "height": "5'11\"",
+      "weight": 219,
+      "stats": {
+        "rush_yds": 1303,
+        "td": 15,
+        "avg": 6.2,
+        "rec_yds": 68,
+        "rec_td": 0
+      }
+    },
+    {
+      "pick": 121,
+      "round": 4,
+      "team": "PIT",
+      "player_name": "Jude Bowry",
+      "position": "OT",
+      "college": "Boston College",
+      "height": "6'5\"",
+      "weight": 308,
+      "stats": {
+        "games": 9
+      }
+    },
+    {
+      "pick": 122,
+      "round": 4,
+      "team": "PHI",
+      "player_name": "Michael Taaffe",
+      "position": "S",
+      "college": "Texas",
+      "height": "6'0\"",
+      "weight": 189,
+      "stats": {
+        "tkls": 70,
+        "sack": 1.0,
+        "pass_def": 1,
+        "int": 2,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 123,
+      "round": 4,
+      "team": "LAC",
+      "player_name": "Oscar Delp",
+      "position": "TE",
+      "college": "Georgia",
+      "height": "6'5\"",
+      "weight": 245,
+      "stats": {
+        "rec": 20,
+        "rec_yds": 261,
+        "td": 1,
+        "avg": 13.1,
+        "rush_yds": 0
+      }
+    },
+    {
+      "pick": 124,
+      "round": 4,
+      "team": "JAX",
+      "player_name": "Logan Jones",
+      "position": "IOL",
+      "college": "Iowa",
+      "height": "6'3\"",
+      "weight": 302,
+      "stats": {
+        "games": 13
+      }
+    },
+    {
+      "pick": 125,
+      "round": 4,
+      "team": "NE",
+      "player_name": "Albert Regis",
+      "position": "DL",
+      "college": "Texas A&M",
+      "height": "6'1\"",
+      "weight": 317,
+      "stats": {
+        "tkls": 49,
+        "sack": 2.0,
+        "pass_def": 3,
+        "int": 0,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 126,
+      "round": 4,
+      "team": "BUF",
+      "player_name": "Keylan Rutledge",
+      "position": "IOL",
+      "college": "Georgia Tech",
+      "height": "6'4\"",
+      "weight": 330,
+      "stats": {
+        "games": 13
+      }
+    },
+    {
+      "pick": 127,
+      "round": 4,
+      "team": "SF",
+      "player_name": "Hezekiah Masses",
+      "position": "CB",
+      "college": "California",
+      "height": "6'1\"",
+      "weight": 185,
+      "stats": {
+        "tkls": 47,
+        "sack": 0.0,
+        "pass_def": 13,
+        "int": 5,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 128,
+      "round": 4,
+      "team": "HOU",
+      "player_name": "Mikail Kamara",
+      "position": "EDGE",
+      "college": "Indiana",
+      "height": "6'1\"",
+      "weight": 265,
+      "stats": {
+        "tkls": 34,
+        "sack": 2.0,
+        "pass_def": 1,
+        "int": 0,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 129,
+      "round": 4,
+      "team": "CHI",
+      "player_name": "Aamil Wagner",
+      "position": "OT",
+      "college": "Notre Dame",
+      "height": "6'6\"",
+      "weight": 300,
+      "stats": {
+        "games": 12
+      }
+    },
+    {
+      "pick": 130,
+      "round": 4,
+      "team": "DEN",
+      "player_name": "Joe Royer",
+      "position": "TE",
+      "college": "Cincinnati",
+      "height": "6'5\"",
+      "weight": 250,
+      "stats": {
+        "rec": 29,
+        "rec_yds": 416,
+        "td": 4,
+        "avg": 14.3,
+        "rush_yds": 0
+      }
+    },
+    {
+      "pick": 131,
+      "round": 4,
+      "team": "NE",
+      "player_name": "Kage Casey",
+      "position": "OT",
+      "college": "Boise State",
+      "height": "6'5\"",
+      "weight": 316,
+      "stats": {
+        "games": 13
+      }
+    },
+    {
+      "pick": 132,
+      "round": 4,
+      "team": "NO",
+      "player_name": "Malachi Lawrence",
+      "position": "EDGE",
+      "college": "UCF",
+      "height": "6'4\"",
+      "weight": 260,
+      "stats": {
+        "tkls": 28,
+        "sack": 7.0,
+        "pass_def": 3,
+        "int": 0,
+        "ff": 2
+      }
+    },
+    {
+      "pick": 133,
+      "round": 4,
+      "team": "SF",
+      "player_name": "Beau Stephens",
+      "position": "IOL",
+      "college": "Iowa",
+      "height": "6'5\"",
+      "weight": 315,
+      "stats": {
+        "games": 13
+      }
+    },
+    {
+      "pick": 134,
+      "round": 4,
+      "team": "LV",
+      "player_name": "Demond Claiborne",
+      "position": "RB",
+      "college": "Wake Forest",
+      "height": "5'10\"",
+      "weight": 195,
+      "stats": {
+        "rush_yds": 907,
+        "td": 10,
+        "avg": 5.1,
+        "rec_yds": 140,
+        "rec_td": 0
+      }
+    },
+    {
+      "pick": 135,
+      "round": 4,
+      "team": "PIT",
+      "player_name": "Gracen Halton",
+      "position": "DL",
+      "college": "Oklahoma",
+      "height": "6'2\"",
+      "weight": 292,
+      "stats": {
+        "tkls": 33,
+        "sack": 3.5,
+        "pass_def": 2,
+        "int": 0,
+        "ff": 1
+      }
+    },
+    {
+      "pick": 136,
+      "round": 4,
+      "team": "NO",
+      "player_name": "DJ Campbell",
+      "position": "IOL",
+      "college": "Texas",
+      "height": "6'3\"",
+      "weight": 321,
+      "stats": {
+        "games": 13
+      }
+    },
+    {
+      "pick": 137,
+      "round": 4,
+      "team": "PHI",
+      "player_name": "Skyler Gill-Howard",
+      "position": "DL",
+      "college": "Texas Tech",
+      "height": "6'1\"",
+      "weight": 290,
+      "stats": {
+        "tkls": 13,
+        "sack": 0.5,
+        "pass_def": 1,
+        "int": 1,
+        "ff": 0
+      }
+    },
+    {
+      "pick": 138,
+      "round": 4,
+      "team": "SF",
+      "player_name": "Zxavian Harris",
+      "position": "DL",
+      "college": "Ole Miss",
+      "height": "6'7\"",
+      "weight": 320,
+      "stats": {
+        "tkls": 58,
+        "sack": 3.0,
+        "pass_def": 3,
+        "int": 1,
+        "ff": 0
+      }
+    }
+  ]
+}
