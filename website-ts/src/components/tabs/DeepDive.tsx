@@ -40,16 +40,22 @@ export default function DeepDive({ data }: DeepDiveProps) {
   }, [data, selectedYear])
   
   const availablePositions = useMemo(() => getAvailablePositions(yearData), [yearData])
+  // Filter position options: exclude FB from the Deep Dive filter
+  const filterPositionOptions = useMemo(
+    () => availablePositions.filter(p => p !== 'FB'),
+    [availablePositions]
+  )
   
   // Position filter state
-  const [selectedPositions, setSelectedPositions] = useState<string[]>(availablePositions)
+  const [selectedPositions, setSelectedPositions] = useState<string[]>(filterPositionOptions)
   const [selectAll, setSelectAll] = useState(true)
   
   // Sort method
   const [sortMethod, setSortMethod] = useState('Alphabetical (A-Z)')
   
-  // Selected player
+  // Selected player - track both label (for Autocomplete) and name (for persistence across seasons)
   const [selectedPlayerLabel, setSelectedPlayerLabel] = useState<string | null>(null)
+  const [selectedPlayerName, setSelectedPlayerName] = useState<string | null>(null)
   
   // Player profiles
   const [profiles, setProfiles] = useState<Record<string, PlayerProfile>>({})
@@ -61,9 +67,9 @@ export default function DeepDive({ data }: DeepDiveProps) {
   
   // Update selected positions when year changes
   useEffect(() => {
-    setSelectedPositions(availablePositions)
+    setSelectedPositions(filterPositionOptions)
     setSelectAll(true)
-  }, [availablePositions])
+  }, [filterPositionOptions])
   
   // Filter data by positions
   const filteredData = useMemo(() => {
@@ -92,12 +98,24 @@ export default function DeepDive({ data }: DeepDiveProps) {
     return players
   }, [filteredData, sortMethod])
   
-  // Set default selection when players list changes
+  // Set default selection when players list changes (only if no player selected yet)
   useEffect(() => {
-    if (uniquePlayers.length > 0 && !selectedPlayerLabel) {
+    if (uniquePlayers.length > 0 && !selectedPlayerName) {
       setSelectedPlayerLabel(uniquePlayers[0].searchLabel)
+      setSelectedPlayerName(uniquePlayers[0].name)
     }
-  }, [uniquePlayers, selectedPlayerLabel])
+  }, [uniquePlayers, selectedPlayerName])
+  
+  // When season changes, try to find the same player in the new season's data
+  useEffect(() => {
+    if (selectedPlayerName && uniquePlayers.length > 0) {
+      const playerInNewSeason = uniquePlayers.find(p => p.name === selectedPlayerName)
+      if (playerInNewSeason) {
+        // Player exists in new season - update the label to match new stats
+        setSelectedPlayerLabel(playerInNewSeason.searchLabel)
+      }
+    }
+  }, [selectedYear, uniquePlayers, selectedPlayerName])
   
   // Get selected player data
   const selectedPlayer = useMemo(() => {
@@ -129,7 +147,7 @@ export default function DeepDive({ data }: DeepDiveProps) {
       setSelectedPositions([])
       setSelectAll(false)
     } else {
-      setSelectedPositions(availablePositions)
+      setSelectedPositions(filterPositionOptions)
       setSelectAll(true)
     }
   }
@@ -140,6 +158,16 @@ export default function DeepDive({ data }: DeepDiveProps) {
       setSelectedPositions(selectedPositions.filter(p => p !== pos))
     } else {
       setSelectedPositions([...selectedPositions, pos])
+    }
+  }
+  
+  // Handle player selection from Autocomplete
+  const handlePlayerSelect = (label: string) => {
+    setSelectedPlayerLabel(label)
+    // Extract player name from the label and store it
+    const player = uniquePlayers.find(p => p.searchLabel === label)
+    if (player) {
+      setSelectedPlayerName(player.name)
     }
   }
   
@@ -344,7 +372,7 @@ export default function DeepDive({ data }: DeepDiveProps) {
             </label>
             
             <div className="grid grid-cols-2 gap-2">
-              {availablePositions.map(pos => (
+              {filterPositionOptions.map(pos => (
                 <label key={pos} className="flex items-center gap-2 cursor-pointer">
                   <input
                     type="checkbox"
@@ -388,7 +416,7 @@ export default function DeepDive({ data }: DeepDiveProps) {
                   label: p.searchLabel,
                 }))}
                 value={selectedPlayerLabel}
-                onChange={setSelectedPlayerLabel}
+                onChange={handlePlayerSelect}
                 placeholder="Type to search players..."
               />
             )}
