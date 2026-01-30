@@ -3,7 +3,6 @@
 import { useState, useEffect } from 'react'
 import Divider from '@/components/Divider'
 import InfoBox from '@/components/InfoBox'
-import { useTheme } from '@/contexts/ThemeContext'
 
 interface DraftPick {
   pick: number
@@ -335,7 +334,6 @@ const LANDING_SPOT_GRADES = [
 ]
 
 export default function RookieTalk() {
-  const { theme } = useTheme()
   const [mockDraft, setMockDraft] = useState<MockDraftData | null>(null)
   const [activeSection, setActiveSection] = useState<'buy' | 'sell'>('buy')
 
@@ -355,28 +353,28 @@ export default function RookieTalk() {
     loadMockDraft()
   }, [])
 
-  const cardBg = theme === 'dark' ? 'bg-[#1a1d24]' : 'bg-[#f6f8fa]'
-  const cardBorder = theme === 'dark' ? 'border-[#30363d]' : 'border-[#d0d7de]'
-  const textPrimary = theme === 'dark' ? 'text-[#f0f6fc]' : 'text-[#1f2328]'
-  const textSecondary = theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'
+  const cardBg = 'bg-[var(--bg-secondary)]'
+  const cardBorder = 'border-[var(--border-color)]'
+  const textPrimary = 'text-[var(--text-primary)]'
+  const textSecondary = 'text-[var(--text-secondary)]'
 
   const getTierColor = (tier: string) => {
     switch (tier) {
       case 'Elite':
       case 'S':
-        return theme === 'dark' ? 'bg-emerald-900/50 text-emerald-300' : 'bg-emerald-100 text-emerald-700'
+        return 'bg-emerald-500/20 text-emerald-400'
       case 'High-End':
       case 'A':
-        return theme === 'dark' ? 'bg-blue-900/50 text-blue-300' : 'bg-blue-100 text-blue-700'
+        return 'bg-blue-500/20 text-blue-400'
       case 'Solid':
       case 'B':
-        return theme === 'dark' ? 'bg-yellow-900/50 text-yellow-300' : 'bg-yellow-100 text-yellow-700'
+        return 'bg-yellow-500/20 text-yellow-400'
       case 'High Risk':
-        return theme === 'dark' ? 'bg-red-900/50 text-red-300' : 'bg-red-100 text-red-700'
+        return 'bg-red-500/20 text-red-400'
       case 'Moderate Risk':
-        return theme === 'dark' ? 'bg-orange-900/50 text-orange-300' : 'bg-orange-100 text-orange-700'
+        return 'bg-orange-500/20 text-orange-400'
       default:
-        return theme === 'dark' ? 'bg-gray-900/50 text-gray-300' : 'bg-gray-100 text-gray-700'
+        return 'bg-gray-500/20 text-gray-400'
     }
   }
 
@@ -398,12 +396,12 @@ export default function RookieTalk() {
   const firstRound = mockDraft?.picks.filter(p => p.round === 1) || []
 
   return (
-    <div>
+    <div className="min-w-0 w-full">
       {/* Header */}
-      <h2 className={`text-2xl font-bold mb-2 ${textPrimary}`}>
+      <h2 className={`text-xl sm:text-2xl font-bold mb-2 break-words ${textPrimary}`}>
         2026 NFL Draft - Rookie Talk
       </h2>
-      <p className={`text-sm mb-4 ${textSecondary}`}>
+      <p className={`text-xs sm:text-sm mb-4 break-words ${textSecondary}`}>
         Your guide to the 2026 rookie class for dynasty and redraft leagues.
       </p>
 
@@ -422,9 +420,7 @@ export default function RookieTalk() {
           className={`px-6 py-3 rounded-lg font-bold text-lg transition-all ${
             activeSection === 'buy'
               ? 'bg-green-600 text-white shadow-lg shadow-green-600/30'
-              : theme === 'dark'
-                ? 'bg-[#21262d] text-[#8b949e] hover:bg-[#30363d]'
-                : 'bg-[#eaeef2] text-[#57606a] hover:bg-[#d0d7de]'
+              : 'bg-[var(--bg-card)] text-[var(--text-secondary)] hover:bg-[var(--bg-hover)]'
           }`}
         >
           📈 Top 10 Rookies to BUY
@@ -434,9 +430,7 @@ export default function RookieTalk() {
           className={`px-6 py-3 rounded-lg font-bold text-lg transition-all ${
             activeSection === 'sell'
               ? 'bg-red-600 text-white shadow-lg shadow-red-600/30'
-              : theme === 'dark'
-                ? 'bg-[#21262d] text-[#8b949e] hover:bg-[#30363d]'
-                : 'bg-[#eaeef2] text-[#57606a] hover:bg-[#d0d7de]'
+              : 'bg-[var(--bg-card)] text-[var(--text-secondary)] hover:bg-[var(--bg-hover)]'
           }`}
         >
           📉 Top 10 Rookies to AVOID
@@ -480,17 +474,17 @@ export default function RookieTalk() {
                   </p>
                   <div className="flex flex-wrap gap-2">
                     <span className={`px-2 py-1 text-xs rounded-full ${
-                      theme === 'dark' ? 'bg-purple-900/50 text-purple-300' : 'bg-purple-100 text-purple-700'
+                      'bg-purple-500/20 text-purple-400'
                     }`}>
                       Round {prospect.round}
                     </span>
                     <span className={`px-2 py-1 text-xs rounded-full ${
-                      theme === 'dark' ? 'bg-blue-900/50 text-blue-300' : 'bg-blue-100 text-blue-700'
+                      'bg-blue-500/20 text-blue-400'
                     }`}>
                       Comp: {prospect.proComp}
                     </span>
                     <span className={`px-2 py-1 text-xs rounded-full ${
-                      theme === 'dark' ? 'bg-cyan-900/50 text-cyan-300' : 'bg-cyan-100 text-cyan-700'
+                      'bg-cyan-500/20 text-cyan-400'
                     }`}>
                       Projection: {prospect.fantasyProjection}
                     </span>
@@ -536,12 +530,12 @@ export default function RookieTalk() {
                   </p>
                   <div className="flex flex-wrap gap-2">
                     <span className={`px-2 py-1 text-xs rounded-full ${
-                      theme === 'dark' ? 'bg-purple-900/50 text-purple-300' : 'bg-purple-100 text-purple-700'
+                      'bg-purple-500/20 text-purple-400'
                     }`}>
                       Round {prospect.round}
                     </span>
                     <span className={`px-2 py-1 text-xs rounded-full ${
-                      theme === 'dark' ? 'bg-red-900/50 text-red-300' : 'bg-red-100 text-red-700'
+                      'bg-red-500/20 text-red-400'
                     }`}>
                       ⚠️ {prospect.redFlag}
                     </span>
@@ -628,17 +622,15 @@ export default function RookieTalk() {
             <div 
               key={pick.pick}
               className={`p-2 rounded-lg border flex items-center gap-2 ${
-                isFantasyRelevant 
-                  ? theme === 'dark' 
-                    ? 'bg-blue-900/30 border-blue-800' 
-                    : 'bg-blue-50 border-blue-200'
+                isFantasyRelevant
+                  ? 'bg-blue-500/20 border-blue-500/50'
                   : `${cardBg} ${cardBorder}`
               }`}
             >
               <div className={`w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold ${
                 isFantasyRelevant
                   ? 'bg-blue-600 text-white'
-                  : theme === 'dark' ? 'bg-[#30363d] text-[#8b949e]' : 'bg-[#e1e4e8] text-[#57606a]'
+                  : 'bg-[var(--bg-hover)] text-[var(--text-secondary)]'
               }`}>
                 {pick.pick}
               </div>

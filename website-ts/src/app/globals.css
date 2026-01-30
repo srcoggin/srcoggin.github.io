@@ -17,6 +17,10 @@
   --accent-green: #3fb950;
   --accent-red: #f85149;
   --accent-yellow: #d29922;
+  --info-bg: rgba(88, 166, 255, 0.1);
+  --success-bg: rgba(63, 185, 80, 0.1);
+  --warning-bg: rgba(210, 153, 34, 0.1);
+  --error-bg: rgba(248, 81, 73, 0.1);
 }
 
 [data-theme="light"],
@@ -33,17 +37,83 @@
   --accent-green: #1a7f37;
   --accent-red: #cf222e;
   --accent-yellow: #9a6700;
+  --info-bg: rgba(9, 105, 218, 0.08);
+  --success-bg: rgba(26, 127, 55, 0.08);
+  --warning-bg: rgba(154, 103, 0, 0.08);
+  --error-bg: rgba(207, 34, 46, 0.08);
+}
+
+/* Ocean – cool blue/teal */
+[data-theme="ocean"] {
+  --bg-primary: #0c1929;
+  --bg-secondary: #132f4c;
+  --bg-card: #1a3a5c;
+  --bg-hover: #243d5c;
+  --border-color: #2d5a87;
+  --text-primary: #e6f2ff;
+  --text-secondary: #7eb8da;
+  --text-muted: #5a9fc9;
+  --accent-blue: #4fc3f7;
+  --accent-green: #26a69a;
+  --accent-red: #ef5350;
+  --accent-yellow: #ffca28;
+  --info-bg: rgba(79, 195, 247, 0.12);
+  --success-bg: rgba(38, 166, 154, 0.12);
+  --warning-bg: rgba(255, 202, 40, 0.12);
+  --error-bg: rgba(239, 83, 80, 0.12);
+}
+
+/* Amber – warm sepia */
+[data-theme="amber"] {
+  --bg-primary: #1c1917;
+  --bg-secondary: #292524;
+  --bg-card: #44403c;
+  --bg-hover: #57534e;
+  --border-color: #78716c;
+  --text-primary: #fef3c7;
+  --text-secondary: #d6d3d1;
+  --text-muted: #a8a29e;
+  --accent-blue: #f59e0b;
+  --accent-green: #84cc16;
+  --accent-red: #f87171;
+  --accent-yellow: #fbbf24;
+  --info-bg: rgba(245, 158, 11, 0.12);
+  --success-bg: rgba(132, 204, 22, 0.12);
+  --warning-bg: rgba(251, 191, 36, 0.12);
+  --error-bg: rgba(248, 113, 113, 0.12);
+}
+
+/* Forest – nature green */
+[data-theme="forest"] {
+  --bg-primary: #0d1f0d;
+  --bg-secondary: #1a331a;
+  --bg-card: #243d24;
+  --bg-hover: #2d4a2d;
+  --border-color: #3d5c3d;
+  --text-primary: #dcfce7;
+  --text-secondary: #86efac;
+  --text-muted: #4ade80;
+  --accent-blue: #22c55e;
+  --accent-green: #16a34a;
+  --accent-red: #f87171;
+  --accent-yellow: #a3e635;
+  --info-bg: rgba(34, 197, 94, 0.12);
+  --success-bg: rgba(22, 163, 74, 0.12);
+  --warning-bg: rgba(163, 230, 53, 0.12);
+  --error-bg: rgba(248, 113, 113, 0.12);
 }
 
 /* ========== BASE STYLES ========== */
 html {
   scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
   background-color: var(--bg-primary);
   color: var(--text-primary);
   transition: background-color 0.3s ease, color 0.3s ease;
+  overflow-x: hidden;
 }
 
 /* ========== SCROLLBAR ========== */
@@ -157,43 +227,22 @@ input[type="checkbox"]:checked {
 
 .info-box.info {
   border-left-color: var(--accent-blue);
-  background-color: rgba(88, 166, 255, 0.1);
+  background-color: var(--info-bg);
 }
 
 .info-box.success {
   border-left-color: var(--accent-green);
-  background-color: rgba(63, 185, 80, 0.1);
+  background-color: var(--success-bg);
 }
 
 .info-box.warning {
   border-left-color: var(--accent-yellow);
-  background-color: rgba(210, 153, 34, 0.1);
+  background-color: var(--warning-bg);
 }
 
 .info-box.error {
   border-left-color: var(--accent-red);
-  background-color: rgba(248, 81, 73, 0.1);
-}
-
-/* Light mode info boxes with better contrast */
-[data-theme="light"] .info-box.info,
-.light .info-box.info {
-  background-color: rgba(9, 105, 218, 0.08);
-}
-
-[data-theme="light"] .info-box.success,
-.light .info-box.success {
-  background-color: rgba(26, 127, 55, 0.08);
-}
-
-[data-theme="light"] .info-box.warning,
-.light .info-box.warning {
-  background-color: rgba(154, 103, 0, 0.08);
-}
-
-[data-theme="light"] .info-box.error,
-.light .info-box.error {
-  background-color: rgba(207, 34, 46, 0.08);
+  background-color: var(--error-bg);
 }
 
 /* ========== CELL HIGHLIGHTING ========== */

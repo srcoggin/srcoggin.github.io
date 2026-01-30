@@ -9,10 +9,8 @@ import DeepDive from '@/components/tabs/DeepDive'
 import RookieTalk from '@/components/tabs/RookieTalk'
 import { loadAllData } from '@/utils/dataLoader'
 import { PlayerData } from '@/types'
-import { useTheme } from '@/contexts/ThemeContext'
 
 export default function FantasyFootball() {
-  const { theme } = useTheme()
   const [data, setData] = useState<PlayerData[]>([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
@@ -39,15 +37,12 @@ export default function FantasyFootball() {
 
   if (loading) {
     return (
-      <div className="p-8 max-w-7xl mx-auto">
+      <div className="p-4 sm:p-6 lg:p-8 max-w-7xl mx-auto w-full min-w-0 box-border">
         <div className="flex justify-end mb-4">
           <ThemeToggle />
         </div>
         <div className="flex items-center justify-center h-64">
-          <div className={`
-            text-xl
-            ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}
-          `}>
+          <div className="text-xl text-[var(--text-secondary)]">
             Loading data...
           </div>
         </div>
@@ -57,7 +52,7 @@ export default function FantasyFootball() {
 
   if (error) {
     return (
-      <div className="p-8 max-w-7xl mx-auto">
+      <div className="p-4 sm:p-6 lg:p-8 max-w-7xl mx-auto w-full min-w-0 box-border">
         <div className="flex justify-end mb-4">
           <ThemeToggle />
         </div>
@@ -92,16 +87,13 @@ export default function FantasyFootball() {
   ]
 
   return (
-    <div className="p-8 max-w-7xl mx-auto">
+    <div className="p-4 sm:p-6 lg:p-8 max-w-7xl mx-auto w-full min-w-0 box-border">
       {/* Theme Toggle - Top Right */}
       <div className="flex justify-end mb-4">
         <ThemeToggle />
       </div>
 
-      <h1 className={`
-        text-3xl font-bold mb-6
-        ${theme === 'dark' ? 'text-[#f0f6fc]' : 'text-[#1f2328]'}
-      `}>
+      <h1 className="text-xl sm:text-2xl md:text-3xl font-bold mb-4 sm:mb-6 break-words text-[var(--text-primary)]">
         🏈 Fantasy Football Hub
       </h1>
 

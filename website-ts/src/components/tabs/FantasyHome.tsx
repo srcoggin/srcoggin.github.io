@@ -4,7 +4,6 @@ import { useMemo, useState, useEffect } from 'react'
 import Metric from '@/components/Metric'
 import Divider from '@/components/Divider'
 import InfoBox from '@/components/InfoBox'
-import { useTheme } from '@/contexts/ThemeContext'
 import { PlayerData } from '@/types'
 
 interface FantasyHomeProps {
@@ -91,7 +90,6 @@ const TOP_PROSPECT_BLURBS: Record<string, { description: string; highlights: str
 const FEATURED_PROSPECT_PICKS = [1, 8, 4, 16, 21] // Mendoza, Love, Tate, Lemon, Simpson
 
 export default function FantasyHome({ data }: FantasyHomeProps) {
-  const { theme } = useTheme()
   const [mockDraft, setMockDraft] = useState<MockDraftData | null>(null)
 
   // Load mock draft data
@@ -180,29 +178,23 @@ export default function FantasyHome({ data }: FantasyHomeProps) {
     return ''
   }
 
-  const cardBg = theme === 'dark' ? 'bg-[#1a1d24]' : 'bg-[#f6f8fa]'
-  const cardBorder = theme === 'dark' ? 'border-[#30363d]' : 'border-[#d0d7de]'
-  const textPrimary = theme === 'dark' ? 'text-[#f0f6fc]' : 'text-[#1f2328]'
-  const textSecondary = theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'
+  const cardBg = 'bg-[var(--bg-secondary)]'
+  const cardBorder = 'border-[var(--border-color)]'
+  const textPrimary = 'text-[var(--text-primary)]'
+  const textSecondary = 'text-[var(--text-secondary)]'
 
   return (
-    <div>
-      <h2 className={`
-        text-2xl font-bold mb-2
-        ${theme === 'dark' ? 'text-[#f0f6fc]' : 'text-[#1f2328]'}
-      `}>
+    <div className="min-w-0 w-full">
+      <h2 className="text-xl sm:text-2xl font-bold mb-2 break-words text-[var(--text-primary)]">
         Welcome to the Fantasy Command Center
       </h2>
-      <p className={`
-        text-sm mb-6
-        ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}
-      `}>
+      <p className="text-xs sm:text-sm mb-4 sm:mb-6 break-words text-[var(--text-secondary)]">
         Showing latest data for the <strong>{latestYear} NFL Season</strong>.
       </p>
 
       <Divider />
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-6">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:gap-6 md:gap-8 mb-6">
         <Metric 
           label={`Top Player of ${latestYear}`}
           value={stats.topScorer}
@@ -226,10 +218,10 @@ export default function FantasyHome({ data }: FantasyHomeProps) {
         <>
           <Divider />
           
-          <h2 className={`text-2xl font-bold mb-2 ${textPrimary}`}>
+          <h2 className={`text-xl sm:text-2xl font-bold mb-2 break-words ${textPrimary}`}>
             2026 NFL Draft - Hottest Fantasy Prospects
           </h2>
-          <p className={`text-sm mb-6 ${textSecondary}`}>
+          <p className={`text-xs sm:text-sm mb-4 sm:mb-6 break-words ${textSecondary}`}>
             The top fantasy-relevant prospects heading into the 2026 NFL Draft. Get ahead of your dynasty leagues!
           </p>
 
@@ -273,9 +265,7 @@ export default function FantasyHome({ data }: FantasyHomeProps) {
                               <span 
                                 key={i}
                                 className={`px-2 py-1 text-xs rounded-full ${
-                                  theme === 'dark' 
-                                    ? 'bg-blue-900/50 text-blue-300' 
-                                    : 'bg-blue-100 text-blue-700'
+                                'bg-blue-500/20 text-blue-400'
                                 }`}
                               >
                                 {highlight}
@@ -298,17 +288,17 @@ export default function FantasyHome({ data }: FantasyHomeProps) {
           </div>
 
           {/* Remaining First Round Picks */}
-          <h3 className={`text-xl font-bold mb-4 ${textPrimary}`}>
+          <h3 className={`text-lg sm:text-xl font-bold mb-4 break-words ${textPrimary}`}>
             Rest of the Projected First Round
           </h3>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
             {remainingFirstRound.map((prospect) => (
               <div 
                 key={prospect.pick}
                 className={`p-3 rounded-lg border ${cardBg} ${cardBorder} flex items-center gap-3`}
               >
                 <div className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold ${
-                  theme === 'dark' ? 'bg-[#30363d] text-[#8b949e]' : 'bg-[#e1e4e8] text-[#57606a]'
+                  'bg-[var(--bg-hover)] text-[var(--text-secondary)]'
                 }`}>
                   {prospect.pick}
                 </div>

@@ -10,7 +10,6 @@ import Metric from '@/components/Metric'
 import DataTable from '@/components/DataTable'
 import PlayerChart from '@/components/PlayerChart'
 import Autocomplete from '@/components/Autocomplete'
-import { useTheme } from '@/contexts/ThemeContext'
 import { PlayerData, PlayerMetrics, PlayerProfile } from '@/types'
 import { getPlayerMetrics, getUniquePlayers, UniquePlayer } from '@/utils/calculations'
 import { 
@@ -30,7 +29,6 @@ interface DeepDiveProps {
 }
 
 export default function DeepDive({ data }: DeepDiveProps) {
-  const { theme } = useTheme()
   const availableYears = useMemo(() => getAvailableSeasons(data), [data])
   const [selectedYear, setSelectedYear] = useState(availableYears[0] || 2025)
   
@@ -123,11 +121,11 @@ export default function DeepDive({ data }: DeepDiveProps) {
     return uniquePlayers.find(p => p.searchLabel === selectedPlayerLabel) || null
   }, [uniquePlayers, selectedPlayerLabel])
   
-  // Get player metrics
+  // Get player metrics from full season data so defence ranks and weekly rows are stable (not affected by position filter)
   const playerMetrics = useMemo(() => {
     if (!selectedPlayer) return null
-    return getPlayerMetrics(filteredData, selectedPlayer.name)
-  }, [filteredData, selectedPlayer])
+    return getPlayerMetrics(yearData, selectedPlayer.name)
+  }, [yearData, selectedPlayer])
   
   // Get player bio data
   const playerBioRow = useMemo(() => {
@@ -140,24 +138,42 @@ export default function DeepDive({ data }: DeepDiveProps) {
     if (!selectedPlayer || selectedYear !== 2025) return null
     return getPlayerProfile(profiles, selectedPlayer.name)
   }, [selectedPlayer, selectedYear, profiles])
+
+  // First season per player (for rookie detection)
+  const playerFirstSeason = useMemo(() => {
+    const map: Record<string, number> = {}
+    for (const row of data) {
+      const name = row.player_display_name
+      if (map[name] === undefined) map[name] = row.season
+      else map[name] = Math.min(map[name], row.season)
+    }
+    return map
+  }, [data])
+
+  const isRookie = selectedPlayer && selectedYear === playerFirstSeason[selectedPlayer.name]
   
-  // Handle select all toggle
+  // Handle select all toggle: unchecked = only uncheck the "Select all" box; checked = fill in any unchecked position boxes
   const handleSelectAllToggle = () => {
     if (selectAll) {
-      setSelectedPositions([])
       setSelectAll(false)
     } else {
       setSelectedPositions(filterPositionOptions)
       setSelectAll(true)
     }
   }
+
+  // Select All shows checked only when selectAll is true and every position is selected
+  const selectAllChecked = selectAll && selectedPositions.length === filterPositionOptions.length && filterPositionOptions.every(p => selectedPositions.includes(p))
   
-  // Handle position toggle
+  // Handle position toggle; sync selectAll when user checks all positions manually
   const handlePositionToggle = (pos: string) => {
     if (selectedPositions.includes(pos)) {
       setSelectedPositions(selectedPositions.filter(p => p !== pos))
+      setSelectAll(false)
     } else {
-      setSelectedPositions([...selectedPositions, pos])
+      const next = [...selectedPositions, pos]
+      setSelectedPositions(next)
+      if (next.length === filterPositionOptions.length) setSelectAll(true)
     }
   }
   
@@ -214,10 +230,10 @@ export default function DeepDive({ data }: DeepDiveProps) {
     }
   }, [playerMetrics, selectedPlayer])
   
-  // Matchup efficiency columns
+  // Matchup efficiency: green = top 10 defence (rank 1–10), red = bottom 10 (rank 23–32); number colour only
   const matchupColumns = useMemo(() => {
     if (selectedPlayer?.position === 'K') return []
-    
+
     return [
       { key: 'week', header: 'Week' },
       { key: 'opponent', header: 'Opponent' },
@@ -229,8 +245,8 @@ export default function DeepDive({ data }: DeepDiveProps) {
         format: (v: number) => v ? v.toFixed(0) : '-',
         cellClass: (v: number) => {
           if (!v) return ''
-          if (v <= 8) return 'bg-red-200 text-black'
-          if (v >= 25) return 'bg-green-200 text-black'
+          if (v >= 1 && v <= 10) return 'text-[var(--accent-green)] font-medium'
+          if (v >= 23 && v <= 32) return 'text-[var(--accent-red)] font-medium'
           return ''
         }
       },
@@ -240,8 +256,8 @@ export default function DeepDive({ data }: DeepDiveProps) {
         format: (v: number) => v ? v.toFixed(0) : '-',
         cellClass: (v: number) => {
           if (!v) return ''
-          if (v <= 8) return 'bg-red-200 text-black'
-          if (v >= 25) return 'bg-green-200 text-black'
+          if (v >= 1 && v <= 10) return 'text-[var(--accent-green)] font-medium'
+          if (v >= 23 && v <= 32) return 'text-[var(--accent-red)] font-medium'
           return ''
         }
       },
@@ -273,47 +289,38 @@ export default function DeepDive({ data }: DeepDiveProps) {
     const cols = [colDefs.week, colDefs.opponent]
     for (const key of specColumns) {
       if (colDefs[key]) {
-        // Add cell highlighting logic
+        // Legend: Green = QB 3+ Pass TDs ≤1 INT; WR/RB/TE 2+ Rush/Rec TDs. Red = catch rate <50% on 5+ tgt; >2 INT. Number colour only.
         const col = { ...colDefs[key] }
         if (key === 'tgt' || key === 'rec') {
           col.cellClass = (v: number, row: PlayerMetrics) => {
             const tgt = row.tgt || 0
             const rec = row.rec || 0
-            if (tgt >= 5 && rec < tgt * 0.5) {
-              return 'bg-red-200 text-black'
-            }
+            if (tgt >= 5 && rec < tgt * 0.5) return 'text-[var(--accent-red)] font-medium'
             return ''
           }
         } else if (key === 'int') {
           col.cellClass = (v: number, row: PlayerMetrics) => {
             const ints = row.int || 0
             const passTD = row.passTD || 0
-            // Red: > 2 ints
-            if (ints > 2) return 'bg-red-200 text-black'
-            // Green: QB with 3+ Pass TDs and ≤1 INT
-            if (selectedPlayer?.position === 'QB' && passTD >= 3 && ints <= 1) {
-              return 'bg-green-200 text-black'
-            }
+            if (ints > 2) return 'text-[var(--accent-red)] font-medium'
+            if (selectedPlayer?.position === 'QB' && passTD >= 3 && ints <= 1) return 'text-[var(--accent-green)] font-medium'
             return ''
           }
         } else if (key === 'passTD') {
           col.cellClass = (v: number, row: PlayerMetrics) => {
             const passTD = row.passTD || 0
             const ints = row.int || 0
-            // Green: QB with 3+ Pass TDs and ≤1 INT
-            if (selectedPlayer?.position === 'QB' && passTD >= 3 && ints <= 1) {
-              return 'bg-green-200 text-black'
-            }
+            if (selectedPlayer?.position === 'QB' && passTD >= 3 && ints <= 1) return 'text-[var(--accent-green)] font-medium'
             return ''
           }
         } else if (key === 'recTD') {
           col.cellClass = (v: number) => {
-            if (v >= 2) return 'bg-green-200 text-black'
+            if (v >= 2) return 'text-[var(--accent-green)] font-medium'
             return ''
           }
         } else if (key === 'rushTD') {
           col.cellClass = (v: number) => {
-            if (v >= 2) return 'bg-green-200 text-black'
+            if (v >= 2) return 'text-[var(--accent-green)] font-medium'
             return ''
           }
         }
@@ -324,15 +331,12 @@ export default function DeepDive({ data }: DeepDiveProps) {
     return cols
   }, [specColumns, selectedPlayer])
 
-  // Theme colors
-  const textPrimary = theme === 'dark' ? 'text-[#f0f6fc]' : 'text-[#1f2328]'
-  const textSecondary = theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'
-  const selectStyles = theme === 'dark' 
-    ? 'bg-[#21262d] border-[#30363d] text-[#f0f6fc]' 
-    : 'bg-[#f6f8fa] border-[#d0d7de] text-[#1f2328]'
+  const textPrimary = 'text-[var(--text-primary)]'
+  const textSecondary = 'text-[var(--text-secondary)]'
+  const selectStyles = 'bg-[var(--bg-card)] border-[var(--border-color)] text-[var(--text-primary)]'
 
   return (
-    <div>
+    <div className="min-w-0 w-full">
       <YearSelector 
         years={availableYears}
         selectedYear={selectedYear}
@@ -340,9 +344,9 @@ export default function DeepDive({ data }: DeepDiveProps) {
         className="mb-6"
       />
       
-      <h2 className={`text-2xl font-bold mb-6 ${textPrimary}`}>🔎 Deep Dive Tool</h2>
+      <h2 className={`text-xl sm:text-2xl font-bold mb-4 sm:mb-6 break-words ${textPrimary}`}>🔎 Deep Dive Tool</h2>
       
-      <div className="grid grid-cols-1 lg:grid-cols-[1fr_2.5fr] gap-8">
+      <div className="grid grid-cols-1 lg:grid-cols-[1fr_2.5fr] gap-4 sm:gap-6 lg:gap-8">
         {/* Left Column - Controls */}
         <div className="space-y-4">
           {/* Metric Key */}
@@ -364,7 +368,7 @@ export default function DeepDive({ data }: DeepDiveProps) {
             <label className="flex items-center gap-2 mb-2 cursor-pointer">
               <input
                 type="checkbox"
-                checked={selectAll}
+                checked={selectAllChecked}
                 onChange={handleSelectAllToggle}
                 className="w-4 h-4 accent-blue-500"
               />
@@ -411,10 +415,11 @@ export default function DeepDive({ data }: DeepDiveProps) {
               <p className="text-yellow-500">No players found.</p>
             ) : (
               <Autocomplete
-                options={uniquePlayers.map(p => ({
-                  value: p.searchLabel,
-                  label: p.searchLabel,
-                }))}
+                options={uniquePlayers.map(p => {
+                  const rookieInYear = selectedYear === playerFirstSeason[p.name]
+                  const label = rookieInYear ? `${p.searchLabel} • Rookie` : p.searchLabel
+                  return { value: p.searchLabel, label }
+                })}
                 value={selectedPlayerLabel}
                 onChange={handlePlayerSelect}
                 placeholder="Type to search players..."
@@ -456,10 +461,8 @@ export default function DeepDive({ data }: DeepDiveProps) {
             <>
               {/* Bio Header */}
               <div className="flex items-end gap-6 mb-6">
-                <div className={`
-                  w-[280px] h-[200px] relative overflow-hidden rounded-xl shadow-lg
-                  ${theme === 'dark' ? 'bg-[#21262d]' : 'bg-[#f6f8fa]'}
-                `}>
+                <div className="w-[280px] h-[200px] relative overflow-hidden rounded-xl shadow-lg bg-[var(--bg-card)]"
+              >
                   <Image
                     src={getHeadshotPath(selectedPlayer.name, selectedPlayer.position)}
                     alt={selectedPlayer.name}
@@ -473,8 +476,13 @@ export default function DeepDive({ data }: DeepDiveProps) {
                   />
                 </div>
                 <div>
-                  <h2 className={`text-2xl font-bold mb-2 ${textPrimary}`}>
+                  <h2 className={`text-2xl font-bold mb-2 flex flex-wrap items-center gap-2 ${textPrimary}`}>
                     {selectedPlayer.name} ({selectedPlayer.position})
+                    {isRookie && (
+                      <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-amber-500/20 text-amber-600 dark:bg-amber-500/30 dark:text-amber-400 border border-amber-500/40">
+                        Rookie
+                      </span>
+                    )}
                   </h2>
                   <p className={textSecondary}>
                     <strong>{safeGet(playerBioRow.recent_team, '-')}</strong>
@@ -499,6 +507,22 @@ export default function DeepDive({ data }: DeepDiveProps) {
               {selectedPlayer.position !== 'K' && (
                 <>
                   <p className={`text-sm mt-6 mb-2 ${textSecondary}`}>Matchup Efficiency</p>
+                  <Expander title="📖 Metric Key (Defence ranks)" defaultExpanded={false} className="mb-3">
+                    <div className="grid grid-cols-2 gap-4">
+                      <div>
+                        <p className="font-medium mb-1 text-[var(--accent-green)]">
+                          🟢 Green Highlights
+                        </p>
+                        <p className={`text-xs ${textSecondary}`}>• Top 10 defence (rank 1–10)</p>
+                      </div>
+                      <div>
+                        <p className="font-medium mb-1 text-[var(--accent-red)]">
+                          🔴 Red Highlights
+                        </p>
+                        <p className={`text-xs ${textSecondary}`}>• Bottom 10 defence (rank 23–32)</p>
+                      </div>
+                    </div>
+                  </Expander>
                   <DataTable 
                     data={playerMetrics}
                     columns={matchupColumns}
@@ -513,14 +537,14 @@ export default function DeepDive({ data }: DeepDiveProps) {
               <Expander title="📖 Box Score Legend" defaultExpanded={false} className="mb-4">
                 <div className="grid grid-cols-2 gap-4">
                   <div>
-                    <p className={`font-medium mb-1 ${theme === 'dark' ? 'text-[#3fb950]' : 'text-[#1a7f37]'}`}>
+                    <p className="font-medium mb-1 text-[var(--accent-green)]">
                       🟢 Green Highlights
                     </p>
                     <p className={`text-xs ${textSecondary}`}>• QB: 3+ Pass TDs with ≤1 INT</p>
                     <p className={`text-xs ${textSecondary}`}>• WR/RB/TE: 2+ Rushing or Receiving TDs</p>
                   </div>
                   <div>
-                    <p className={`font-medium mb-1 ${theme === 'dark' ? 'text-[#f85149]' : 'text-[#cf222e]'}`}>
+                    <p className="font-medium mb-1 text-[var(--accent-red)]">
                       🔴 Red Highlights
                     </p>
                     <p className={`text-xs ${textSecondary}`}>• Catch rate &lt; 50% (on 5+ targets)</p>
