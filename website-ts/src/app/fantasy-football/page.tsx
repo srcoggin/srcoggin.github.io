@@ -6,6 +6,7 @@ import Tabs from '@/components/Tabs'
 import FantasyHome from '@/components/tabs/FantasyHome'
 import FantasyRadar from '@/components/tabs/FantasyRadar'
 import DeepDive from '@/components/tabs/DeepDive'
+import RookieTalk from '@/components/tabs/RookieTalk'
 import { loadAllData } from '@/utils/dataLoader'
 import { PlayerData } from '@/types'
 import { useTheme } from '@/contexts/ThemeContext'
@@ -72,6 +73,11 @@ export default function FantasyFootball() {
       id: 'home',
       label: '🏠 Fantasy Home',
       content: <FantasyHome data={data} />,
+    },
+    {
+      id: 'rookie-talk',
+      label: '🌟 Rookie Talk',
+      content: <RookieTalk />,
     },
     {
       id: 'radar',

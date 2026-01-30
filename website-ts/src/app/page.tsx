@@ -1,6 +1,5 @@
 'use client'
 
-import { useState } from 'react'
 import Image from 'next/image'
 import ThemeToggle from '@/components/ThemeToggle'
 import InfoBox from '@/components/InfoBox'
@@ -9,16 +8,6 @@ import { useTheme } from '@/contexts/ThemeContext'
 
 export default function Home() {
   const { theme } = useTheme()
-  const [cacheCleared, setCacheCleared] = useState(false)
-
-  const handleForceUpdate = () => {
-    if (typeof window !== 'undefined') {
-      localStorage.removeItem('nfl_data_cache')
-      sessionStorage.clear()
-    }
-    setCacheCleared(true)
-    setTimeout(() => setCacheCleared(false), 3000)
-  }
 
   return (
     <div className="p-8 max-w-7xl mx-auto">
@@ -49,91 +38,94 @@ export default function Home() {
         ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}
       `}>
         Your Hub for Advanced Sports Analytics
+        (Powered by NFLVerse)
       </p>
 
       <Divider />
 
-      {/* News & Updates Section */}
+      {/* Content Section */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-        {/* Latest News */}
+        {/* Left Column - Latest News & CTA */}
         <div>
           <h2 className={`
             text-2xl font-bold mb-4
             ${theme === 'dark' ? 'text-[#f0f6fc]' : 'text-[#1f2328]'}
           `}>
-            📰 Latest News
+            📰 Latest Updates
           </h2>
           
           <InfoBox type="info" className="mb-4">
-            📅 <strong>Feb 2026:</strong> 2024 Season Data is now fully finalized.
+            📅 <strong>Jan 2026:</strong> Website rebuilt from scratch with React & Next.js!
           </InfoBox>
           
           <ul className={`
-            space-y-2
+            space-y-2 mb-8
             ${theme === 'dark' ? 'text-[#c9d1d9]' : 'text-[#1f2328]'}
           `}>
-            <li>• <strong>New Feature:</strong> Boom/Bust Radar now supports position filtering.</li>
-            <li>• <strong>Data Update:</strong> Corrected EPA calculations for Week 14.</li>
-            <li>• <strong>Community:</strong> Join our Discord to request new stats!</li>
+            <li>• <strong>New:</strong> Rookie Talk tab with top 10 best/worst 2026 dynasty prospects!</li>
+            <li>• <strong>New:</strong> 2026 NFL Draft prospects section with top fantasy picks.</li>
+            <li>• <strong>Improved:</strong> Faster data loading - all seasons load in parallel.</li>
+            <li>• <strong>Added:</strong> Deep Dive tool with player search, stats, and EPA analysis.</li>
+            <li>• <strong>Updated:</strong> 2025 season data now fully available.</li>
           </ul>
+
+          {/* Call to Action */}
+          <div className={`
+            p-4 rounded-xl border
+            ${theme === 'dark' ? 'bg-[#1a1d24] border-[#30363d]' : 'bg-[#f6f8fa] border-[#d0d7de]'}
+          `}>
+            <h3 className={`
+              text-xl font-bold mb-2
+              ${theme === 'dark' ? 'text-[#f0f6fc]' : 'text-[#1f2328]'}
+            `}>
+              🏈 Ready to analyze?
+            </h3>
+            <p className={`
+              ${theme === 'dark' ? 'text-[#c9d1d9]' : 'text-[#1f2328]'}
+            `}>
+              👈 Click <strong>&apos;Fantasy Football&apos;</strong> in the sidebar to access the tools.
+            </p>
+          </div>
         </div>
 
-        {/* System Status */}
+        {/* Right Column - About */}
         <div>
           <h2 className={`
             text-2xl font-bold mb-4
             ${theme === 'dark' ? 'text-[#f0f6fc]' : 'text-[#1f2328]'}
           `}>
-            🛠️ System Status
+            👋 About This Site
           </h2>
           
-          <InfoBox type="success" className="mb-3">
-            ✅ <strong>NFL Database:</strong> Online
-          </InfoBox>
-          
-          <InfoBox type="success" className="mb-3">
-            ✅ <strong>Calculation Engine:</strong> Operational
-          </InfoBox>
-          
-          <InfoBox type="warning" className="mb-4">
-            ⚠️ <strong>Maintenance:</strong> Scheduled for Tuesday 3 AM EST
-          </InfoBox>
-
-          <button
-            onClick={handleForceUpdate}
-            className={`
-              px-4 py-2 rounded-lg font-medium transition-all duration-200
-              bg-blue-600 text-white hover:bg-blue-700
-              flex items-center gap-2 shadow-lg shadow-blue-600/20
-            `}
-          >
-            🔄 Force Update Data
-          </button>
-
-          {cacheCleared && (
-            <InfoBox type="success" className="mt-3">
-              Data cache cleared! Refresh the page to download the latest stats.
-            </InfoBox>
-          )}
+          <div className={`
+            p-5 rounded-xl border
+            ${theme === 'dark' ? 'bg-[#1a1d24] border-[#30363d]' : 'bg-[#f6f8fa] border-[#d0d7de]'}
+          `}>
+            <p className={`
+              mb-4
+              ${theme === 'dark' ? 'text-[#c9d1d9]' : 'text-[#1f2328]'}
+            `}>
+              Hey! I&apos;m a small-time coder and a <strong className="text-purple-500">massive Baltimore Ravens fan</strong> 🦅💜. 
+              I built this site because my buddies and I needed an easier way to access NFL stats 
+              and fantasy football data in a format that actually made sense to us.
+            </p>
+            <p className={`
+              mb-4
+              ${theme === 'dark' ? 'text-[#c9d1d9]' : 'text-[#1f2328]'}
+            `}>
+              Tired of jumping between a dozen different sites just to compare players or look up 
+              EPA stats? Same. So I made this — a simple hub where we can dig into the numbers, 
+              track draft prospects, and settle debates with actual data.
+            </p>
+            <p className={`
+              ${theme === 'dark' ? 'text-[#8b949e]' : 'text-[#57606a]'}
+              text-sm italic
+            `}>
+              Built with Next.js, React, and way too cursor prompts. 
+              Hope you find it useful!
+            </p>
+          </div>
         </div>
-      </div>
-
-      <Divider />
-
-      {/* Call to Action */}
-      <div>
-        <h3 className={`
-          text-xl font-bold mb-2
-          ${theme === 'dark' ? 'text-[#f0f6fc]' : 'text-[#1f2328]'}
-        `}>
-          🏈 Ready to analyze?
-        </h3>
-        <h4 className={`
-          text-lg
-          ${theme === 'dark' ? 'text-[#c9d1d9]' : 'text-[#1f2328]'}
-        `}>
-          👈 Click <strong>&apos;Fantasy Football&apos;</strong> in the sidebar to access the tools.
-        </h4>
       </div>
     </div>
   )
