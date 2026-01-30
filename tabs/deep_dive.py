@@ -5,19 +5,20 @@ import os
 from utils import get_player_metrics
 
 # Headshot configuration
-HEADSHOTS_DIR = "C:/Users/Will/Documents/GitHub/Website/headshots"
-HEADSHOTS_URL_BASE = f"file:///{HEADSHOTS_DIR}"
+HEADSHOTS_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "headshots")
 
-def get_headshot_url(player_name: str, position: str) -> str:
-    """Get local file URL for player headshot, falling back to default if not found."""
+def get_headshot_path(player_name: str, position: str) -> str:
+    """Get local file path for player headshot, falling back to default if not found."""
     # Build filename: "First_Last_POS.png"
-    filename = f"{player_name.replace(' ', '_')}_{position}.png"
+    # Remove periods (e.g., "A.J. Brown" -> "AJ Brown") and replace spaces with underscores
+    clean_name = player_name.replace('.', '').replace(' ', '_')
+    filename = f"{clean_name}_{position}.png"
     filepath = os.path.join(HEADSHOTS_DIR, filename)
     
     if os.path.exists(filepath):
-        return f"{HEADSHOTS_URL_BASE}/{filename}"
-    else:
-        return f"{HEADSHOTS_URL_BASE}/default.png"
+        return filepath
+    # Fall back to default image
+    return os.path.join(HEADSHOTS_DIR, "default.png")
 
 def render(all_data_df):
 
@@ -156,8 +157,8 @@ def render(all_data_df):
             _, c_img, c_bio = st.columns([0.1, 1, 4], vertical_alignment="bottom")
             
             with c_img:
-                headshot_url = get_headshot_url(player_name, player_pos)
-                st.image(headshot_url, width=350) 
+                headshot_path = get_headshot_path(player_name, player_pos)
+                st.image(headshot_path, width=350) 
 
             with c_bio:
                 st.subheader(f"{player_name} ({player_pos})")
