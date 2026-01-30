@@ -7,91 +7,77 @@ const TARGET_POSITIONS = ['QB', 'RB', 'WR', 'TE', 'FB', 'K', 'DEF']
 let cachedData: PlayerData[] | null = null
 let cachedProfiles: Record<string, PlayerProfile> | null = null
 
-// Helper function to process raw stats data into PlayerData
-function processStatsData(data: PlayerWeekStats[]): PlayerData[] {
-  const processed: PlayerData[] = []
-  
-  for (const row of data) {
-    // Filter: Regular season (week <= 18) and target positions
-    if (row.week > 18) continue
-    if (!TARGET_POSITIONS.includes(row.position)) continue
-    
-    // Standardize column names
-    const recentTeam = row.recent_team || row.team
-    
-    // Calculate fantasy points PPR if not present
-    let fantasyPointsPpr = row.fantasy_points_ppr || row.fantasy_points || 0
-    
-    // Kicker logic
-    if (row.position === 'K') {
-      const fgMade = row.fg_made || 0
-      const patMade = row.pat_made || 0
-      fantasyPointsPpr = (fgMade * 3) + (patMade * 1)
-    }
-    
-    const playerData: PlayerData = {
-      player_display_name: row.player_display_name,
-      position: row.position,
-      recent_team: recentTeam,
-      season: row.season,
-      week: row.week,
-      opponent_team: row.opponent_team,
-      fantasy_points_ppr: fantasyPointsPpr,
-      passing_epa: row.passing_epa || 0,
-      rushing_epa: row.rushing_epa || 0,
-      receiving_epa: row.receiving_epa || 0,
-      passing_yards: row.passing_yards || 0,
-      passing_tds: row.passing_tds || 0,
-      passing_interceptions: row.passing_interceptions || 0,
-      rushing_yards: row.rushing_yards || 0,
-      rushing_tds: row.rushing_tds || 0,
-      receptions: row.receptions || 0,
-      receiving_yards: row.receiving_yards || 0,
-      receiving_tds: row.receiving_tds || 0,
-      targets: row.targets || 0,
-      fg_made: row.fg_made || 0,
-      fg_att: row.fg_att || 0,
-      fg_pct: row.fg_att > 0 ? (row.fg_made / row.fg_att) * 100 : 0,
-      pat_made: row.pat_made || 0,
-      pat_att: row.pat_att || 0,
-      pat_pct: (row.pat_att || 0) > 0 ? ((row.pat_made || 0) / (row.pat_att || 0)) * 100 : 0,
-      height: row.height,
-      weight: row.weight,
-      college_name: row.college_name,
-      jersey_number: row.jersey_number,
-      headshot_url: row.headshot_url,
-    }
-    
-    processed.push(playerData)
-  }
-  
-  return processed
-}
-
 export async function loadAllData(): Promise<PlayerData[]> {
   if (cachedData) {
     return cachedData
   }
 
-  // Fetch all season files in parallel for faster loading
-  const fetchPromises = SEASONS.map(async (year) => {
+  const allData: PlayerData[] = []
+
+  for (const year of SEASONS) {
     try {
       const response = await fetch(`/json_data/stats_${year}.json`)
-      if (!response.ok) return []
+      if (!response.ok) continue
       
       const data: PlayerWeekStats[] = await response.json()
-      return processStatsData(data)
+      
+      for (const row of data) {
+        // Filter: Regular season (week <= 18) and target positions
+        if (row.week > 18) continue
+        if (!TARGET_POSITIONS.includes(row.position)) continue
+        
+        // Standardize column names
+        const recentTeam = row.recent_team || row.team
+        
+        // Calculate fantasy points PPR if not present
+        let fantasyPointsPpr = row.fantasy_points_ppr || row.fantasy_points || 0
+        
+        // Kicker logic
+        if (row.position === 'K') {
+          const fgMade = row.fg_made || 0
+          const patMade = row.pat_made || 0
+          fantasyPointsPpr = (fgMade * 3) + (patMade * 1)
+        }
+        
+        const playerData: PlayerData = {
+          player_display_name: row.player_display_name,
+          position: row.position,
+          recent_team: recentTeam,
+          season: row.season,
+          week: row.week,
+          opponent_team: row.opponent_team,
+          fantasy_points_ppr: fantasyPointsPpr,
+          passing_epa: row.passing_epa || 0,
+          rushing_epa: row.rushing_epa || 0,
+          receiving_epa: row.receiving_epa || 0,
+          passing_yards: row.passing_yards || 0,
+          passing_tds: row.passing_tds || 0,
+          passing_interceptions: row.passing_interceptions || 0,
+          rushing_yards: row.rushing_yards || 0,
+          rushing_tds: row.rushing_tds || 0,
+          receptions: row.receptions || 0,
+          receiving_yards: row.receiving_yards || 0,
+          receiving_tds: row.receiving_tds || 0,
+          targets: row.targets || 0,
+          fg_made: row.fg_made || 0,
+          fg_att: row.fg_att || 0,
+          fg_pct: row.fg_att > 0 ? (row.fg_made / row.fg_att) * 100 : 0,
+          pat_made: row.pat_made || 0,
+          pat_att: row.pat_att || 0,
+          pat_pct: (row.pat_att || 0) > 0 ? ((row.pat_made || 0) / (row.pat_att || 0)) * 100 : 0,
+          height: row.height,
+          weight: row.weight,
+          college_name: row.college_name,
+          jersey_number: row.jersey_number,
+          headshot_url: row.headshot_url,
+        }
+        
+        allData.push(playerData)
+      }
     } catch (error) {
       console.error(`Error loading stats_${year}.json:`, error)
-      return []
     }
-  })
-
-  // Wait for all fetches to complete simultaneously
-  const allResults = await Promise.all(fetchPromises)
-  
-  // Flatten all results into a single array
-  const allData = allResults.flat()
+  }
 
   // Remove duplicates (same player, season, week)
   const seen = new Set<string>()
