@@ -237,7 +237,7 @@ export default function FantasyHome({ data }: FantasyHomeProps) {
                   <div className="flex flex-col lg:flex-row lg:items-start gap-4">
                     {/* Left: Pick badge and basic info */}
                     <div className="flex items-center gap-4 lg:w-64 flex-shrink-0">
-                      <div className="w-12 h-12 rounded-full bg-blue-600 flex items-center justify-center text-white font-bold text-lg shadow-lg shadow-blue-600/30">
+                      <div className="w-12 h-12 rounded-full bg-[var(--accent-primary)] flex items-center justify-center text-white font-bold text-lg">
                         #{prospect.pick}
                       </div>
                       <div>
@@ -247,7 +247,7 @@ export default function FantasyHome({ data }: FantasyHomeProps) {
                         <p className={`text-sm ${textSecondary}`}>
                           {prospect.position} • {prospect.college}
                         </p>
-                        <p className={`text-sm font-medium text-blue-500`}>
+                        <p className={`text-sm font-medium text-[var(--accent-primary)]`}>
                           → {TEAM_NAMES[prospect.team] || prospect.team}
                         </p>
                       </div>
@@ -265,7 +265,7 @@ export default function FantasyHome({ data }: FantasyHomeProps) {
                               <span 
                                 key={i}
                                 className={`px-2 py-1 text-xs rounded-full ${
-                                'bg-blue-500/20 text-blue-400'
+                                'bg-[var(--accent-primary)]/20 text-[var(--accent-primary)]'
                                 }`}
                               >
                                 {highlight}

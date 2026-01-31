@@ -22,16 +22,24 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
   const [mounted, setMounted] = useState(false)
 
   useEffect(() => {
-    const saved = localStorage.getItem('theme')
-    if (saved && isValidTheme(saved)) {
-      setThemeState(saved)
+    try {
+      const saved = typeof window !== 'undefined' && localStorage.getItem('theme')
+      if (saved && isValidTheme(saved)) {
+        setThemeState(saved)
+      }
+    } catch {
+      // localStorage may be unavailable (private browsing, etc.)
     }
     setMounted(true)
   }, [])
 
   useEffect(() => {
-    if (!mounted) return
-    localStorage.setItem('theme', theme)
+    if (typeof document === 'undefined' || !mounted) return
+    try {
+      localStorage.setItem('theme', theme)
+    } catch {
+      // ignore
+    }
     document.documentElement.setAttribute('data-theme', theme)
     const isDarkLike = ['dark', 'ocean', 'forest', 'amber'].includes(theme)
     document.documentElement.style.colorScheme = isDarkLike ? 'dark' : 'light'
@@ -49,8 +57,7 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
         style={{
           backgroundColor: 'var(--bg-primary)',
           color: 'var(--text-primary)',
-          opacity: mounted ? 1 : 0,
-          transition: 'opacity 0.1s ease-in-out, background-color 0.3s ease, color 0.3s ease',
+          transition: 'background-color 0.3s ease, color 0.3s ease',
         }}
       >
         {children}

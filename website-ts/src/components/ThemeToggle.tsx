@@ -80,7 +80,7 @@ export default function ThemeToggle() {
                 w-full flex items-center gap-3 px-4 py-2.5 text-left
                 transition-colors
                 ${theme === t.id
-                  ? 'bg-[var(--accent-blue)]/20 text-[var(--accent-blue)]'
+                  ? 'bg-[var(--accent-primary)]/15 text-[var(--accent-primary)]'
                   : 'text-[var(--text-primary)] hover:bg-[var(--bg-hover)]'
                 }
               `}

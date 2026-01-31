@@ -2,6 +2,7 @@
 
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
+import { IconHome, IconAnalytics } from '@/components/Icons'
 
 interface SidebarProps {
   collapsed: boolean
@@ -12,8 +13,8 @@ export default function Sidebar({ collapsed, onToggle }: SidebarProps) {
   const pathname = usePathname()
 
   const navItems = [
-    { name: 'Home', path: '/', icon: '🏠' },
-    { name: 'Fantasy Football', path: '/fantasy-football', icon: '🏈' },
+    { name: 'Home', path: '/', icon: <IconHome size={20} className="flex-shrink-0" /> },
+    { name: 'Fantasy Football', path: '/fantasy-football', icon: <IconAnalytics size={20} className="flex-shrink-0" /> },
   ]
 
   const toggleButton = (
@@ -35,7 +36,7 @@ export default function Sidebar({ collapsed, onToggle }: SidebarProps) {
     </button>
   )
 
-  const asideClass = "bg-[var(--bg-secondary)] border-[var(--border-color)]"
+  const asideClass = "bg-[var(--header-bg)] border-r border-[var(--border-color)]"
 
   if (collapsed) {
     return (
@@ -66,8 +67,8 @@ export default function Sidebar({ collapsed, onToggle }: SidebarProps) {
         `}
       >
         <div className="p-4 flex items-center justify-between gap-2">
-          <h2 className="text-lg font-bold text-[var(--text-secondary)]">
-            Navigation
+          <h2 className="section-label text-[var(--text-muted)]">
+            Quick Links
           </h2>
           {toggleButton}
         </div>
@@ -80,12 +81,12 @@ export default function Sidebar({ collapsed, onToggle }: SidebarProps) {
               className={`
                 flex items-center gap-3 px-4 py-3 rounded-lg transition-all duration-200
                 ${pathname === item.path
-                  ? 'bg-blue-600 text-white shadow-lg shadow-blue-600/20'
+                  ? 'bg-[var(--accent-primary)] text-white'
                   : 'text-[var(--text-primary)] hover:bg-[var(--bg-hover)]'
                 }
               `}
             >
-              <span className="text-xl flex-shrink-0">{item.icon}</span>
+              <span className="flex items-center justify-center w-5 h-5 flex-shrink-0 [&_svg]:w-5 [&_svg]:h-5" aria-hidden>{item.icon}</span>
               <span className="font-medium truncate">{item.name}</span>
             </Link>
           ))}

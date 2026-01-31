@@ -5,6 +5,7 @@ import YearSelector from '@/components/YearSelector'
 import Divider from '@/components/Divider'
 import DataTable from '@/components/DataTable'
 import InfoBox from '@/components/InfoBox'
+import { IconStar, IconWarning, IconTrendUp } from '@/components/Icons'
 import { PlayerData, BoomBustStats } from '@/types'
 import { calculateBoomBust } from '@/utils/calculations'
 import { getAvailableSeasons } from '@/utils/dataLoader'
@@ -294,6 +295,17 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
     },
   ]
 
+  const getPositionBadgeClass = (position: string) => {
+    const p = (position ?? '').trim().toUpperCase()
+    switch (p) {
+      case 'QB': return 'bg-red-500/20 text-red-400'
+      case 'RB': return 'bg-green-500/20 text-green-400'
+      case 'WR': return 'bg-blue-500/20 text-blue-400'
+      case 'TE': return 'bg-orange-500/20 text-orange-400'
+      default: return 'bg-gray-500/20 text-gray-400'
+    }
+  }
+
   if (filteredData.length === 0) {
     return (
       <div>
@@ -345,7 +357,7 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
         <select
           value={selectedPosition}
           onChange={(e) => setSelectedPosition(e.target.value)}
-          className="px-3 py-2 rounded-lg border border-[var(--border-color)] bg-[var(--bg-card)] text-[var(--text-primary)] outline-none transition-all duration-200 focus:ring-2 focus:ring-blue-500/50"
+          className="px-3 py-2 rounded-lg border border-[var(--border-color)] bg-[var(--bg-card)] text-[var(--text-primary)] outline-none transition-all duration-200 focus:ring-2 focus:ring-[var(--accent-primary)]/50"
         >
           {filterOptions.map(opt => (
             <option key={opt} value={opt}>{opt}</option>
@@ -358,10 +370,11 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
         {/* Boom Squad */}
         <div>
           <h3 className={`
-            text-xl font-bold mb-4
+            text-xl font-bold mb-4 flex items-center gap-2
             text-[var(--accent-green)]
           `}>
-            🚀 Boom Squad (&gt;25 pts)
+            <IconStar size={22} className="flex-shrink-0" />
+            Boom Squad (&gt;25 pts)
           </h3>
           {boomData.length > 0 ? (
             <DataTable 
@@ -380,10 +393,10 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
         {/* Bust Watch */}
         <div>
           <h3 className={`
-            text-xl font-bold mb-4
+            text-xl font-bold mb-4 flex items-center gap-2
             text-[var(--accent-red)]
           `}>
-            📉 Bust Watch (&lt;8 pts)
+            <IconWarning size={22} className="flex-shrink-0" /> Bust Watch (&lt;8 pts)
           </h3>
           {bustData.length > 0 ? (
             <DataTable 
@@ -449,13 +462,7 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
                       <span className={`font-bold text-[var(--text-primary)]`}>
                         {player.name}
                       </span>
-                      <span className={`text-xs px-2 py-0.5 rounded-full ${
-                        player.position === 'QB' ? 'bg-red-500/20 text-red-400' :
-                        player.position === 'RB' ? 'bg-green-500/20 text-green-400' :
-                        player.position === 'WR' ? 'bg-blue-500/20 text-blue-400' :
-                        player.position === 'TE' ? 'bg-orange-500/20 text-orange-400' :
-                        'bg-purple-500/20 text-purple-400'
-                      }`}>
+                      <span className={`text-xs px-2 py-0.5 rounded-full ${getPositionBadgeClass(player.position)}`}>
                         {player.position}
                       </span>
                     </div>
@@ -468,8 +475,8 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
                   {player.analysis}
                 </p>
                 <div className="flex items-center justify-between mt-2">
-                  <span className="text-xs font-medium text-green-400">
-                    ⬆️ {player.upside}
+                  <span className="text-xs font-medium text-green-400 flex items-center gap-1">
+                    <IconTrendUp size={14} /> {player.upside}
                   </span>
                   <span className={`text-xs text-[var(--text-secondary)]`}>
                     Source: {player.source}
@@ -483,10 +490,10 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
         {/* Regression Candidates */}
         <div>
           <h3 className={`
-            text-xl font-bold mb-4
+            text-xl font-bold mb-4 flex items-center gap-2
             text-[var(--accent-red)]
           `}>
-            📉 2026 Regression Watch
+            <IconWarning size={22} className="flex-shrink-0" /> 2026 Regression Watch
           </h3>
           <p className={`text-sm mb-4 text-[var(--text-secondary)]`}>
             Players who may decline or underperform their ADP next season.
@@ -503,13 +510,7 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
                       <span className={`font-bold text-[var(--text-primary)]`}>
                         {player.name}
                       </span>
-                      <span className={`text-xs px-2 py-0.5 rounded-full ${
-                        player.position === 'QB' ? 'bg-red-500/20 text-red-400' :
-                        player.position === 'RB' ? 'bg-green-500/20 text-green-400' :
-                        player.position === 'WR' ? 'bg-blue-500/20 text-blue-400' :
-                        player.position === 'TE' ? 'bg-orange-500/20 text-orange-400' :
-                        'bg-gray-500/20 text-gray-400'
-                      }`}>
+                      <span className={`text-xs px-2 py-0.5 rounded-full ${getPositionBadgeClass(player.position)}`}>
                         {player.position}
                       </span>
                     </div>
@@ -522,8 +523,8 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
                   {player.analysis}
                 </p>
                 <div className="flex items-center justify-between mt-2">
-                  <span className="text-xs font-medium text-red-400">
-                    ⚠️ {player.concern}
+                  <span className="text-xs font-medium text-red-400 flex items-center gap-1">
+                    <IconWarning size={14} /> {player.concern}
                   </span>
                   <span className={`text-xs text-[var(--text-secondary)]`}>
                     Source: {player.source}
