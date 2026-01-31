@@ -3,7 +3,7 @@
 import { useState, ReactNode } from 'react'
 
 interface ExpanderProps {
-  title: string
+  title: ReactNode
   children: ReactNode
   defaultExpanded?: boolean
   className?: string
@@ -18,7 +18,7 @@ export default function Expander({ title, children, defaultExpanded = false, cla
         onClick={() => setIsExpanded(!isExpanded)}
         className="w-full px-4 py-3 flex justify-between items-center cursor-pointer transition-colors hover:bg-[var(--bg-hover)] text-[var(--text-primary)]"
       >
-        <span className="font-medium">{title}</span>
+        <span className="font-medium flex items-center gap-2">{title}</span>
         <span className={`text-sm transition-transform duration-200 ${isExpanded ? 'rotate-180' : 'rotate-0'}`}>
           ▼
         </span>

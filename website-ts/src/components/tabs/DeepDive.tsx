@@ -10,6 +10,7 @@ import Metric from '@/components/Metric'
 import DataTable from '@/components/DataTable'
 import PlayerChart from '@/components/PlayerChart'
 import Autocomplete from '@/components/Autocomplete'
+import { IconDeepDive, IconDoc, IconBook } from '@/components/Icons'
 import { PlayerData, PlayerMetrics, PlayerProfile } from '@/types'
 import { getPlayerMetrics, getUniquePlayers, UniquePlayer } from '@/utils/calculations'
 import { 
@@ -337,6 +338,8 @@ export default function DeepDive({ data }: DeepDiveProps) {
 
   return (
     <div className="min-w-0 w-full">
+      <h2 className={`text-xl sm:text-2xl font-bold mb-4 sm:mb-6 break-words flex items-center gap-2 ${textPrimary}`}><IconDeepDive size={28} className="flex-shrink-0 text-[var(--accent-primary)]" /> Deep Dive Tool</h2>
+
       <YearSelector 
         years={availableYears}
         selectedYear={selectedYear}
@@ -344,21 +347,12 @@ export default function DeepDive({ data }: DeepDiveProps) {
         className="mb-6"
       />
       
-      <h2 className={`text-xl sm:text-2xl font-bold mb-4 sm:mb-6 break-words ${textPrimary}`}>🔎 Deep Dive Tool</h2>
-      
       <div className="grid grid-cols-1 lg:grid-cols-[1fr_2.5fr] gap-4 sm:gap-6 lg:gap-8">
+        
         {/* Left Column - Controls */}
         <div className="space-y-4">
-          {/* Metric Key */}
-          <Expander title="📖 Metric Key" defaultExpanded={false}>
-            <div className="space-y-2">
-              <InfoBox type="info">📊 <strong>EPA</strong>: Efficiency (&gt;0 good)</InfoBox>
-              <InfoBox type="info">🛡️ <strong>Def</strong>: Red=Tough, Green=Easy</InfoBox>
-              <InfoBox type="info">💣 <strong>Boom/Bust</strong>: High Ceiling/Floor</InfoBox>
-            </div>
-          </Expander>
-          
-          <Divider />
+        
+        
           
           {/* Filter Positions */}
           <div>
@@ -370,7 +364,7 @@ export default function DeepDive({ data }: DeepDiveProps) {
                 type="checkbox"
                 checked={selectAllChecked}
                 onChange={handleSelectAllToggle}
-                className="w-4 h-4 accent-blue-500"
+                className="w-4 h-4"
               />
               <span className={textPrimary}>Select All</span>
             </label>
@@ -382,7 +376,7 @@ export default function DeepDive({ data }: DeepDiveProps) {
                     type="checkbox"
                     checked={selectedPositions.includes(pos)}
                     onChange={() => handlePositionToggle(pos)}
-                    className="w-4 h-4 accent-blue-500"
+                    className="w-4 h-4"
                   />
                   <span className={textPrimary}>{pos}</span>
                 </label>
@@ -397,7 +391,7 @@ export default function DeepDive({ data }: DeepDiveProps) {
             <select
               value={sortMethod}
               onChange={(e) => setSortMethod(e.target.value)}
-              className={`w-full px-3 py-2 rounded-lg border outline-none transition-all duration-200 focus:ring-2 focus:ring-blue-500/50 ${selectStyles}`}
+              className={`w-full px-3 py-2 rounded-lg border outline-none transition-all duration-200 focus:ring-2 focus:ring-[var(--accent-primary)]/50 ${selectStyles}`}
             >
               <option>Alphabetical (A-Z)</option>
               <option>Highest PPG</option>
@@ -438,6 +432,7 @@ export default function DeepDive({ data }: DeepDiveProps) {
                 <Metric 
                   label={`Avg EPA (${selectedYear})`}
                   value={avgStats.avgEpa.toFixed(2)}
+                  secondaryText="<-1 = Sold, 0-5 = Avg, 5-10 = Above Avg, >10 = Elite"
                 />
               )}
               
@@ -445,7 +440,7 @@ export default function DeepDive({ data }: DeepDiveProps) {
               {playerProfile && playerProfile.blurb && (
                 <>
                   <Divider />
-                  <h4 className={`font-bold ${textPrimary}`}>📝 Season Summary</h4>
+                  <h4 className={`font-bold flex items-center gap-2 ${textPrimary}`}><IconDoc size={18} className="flex-shrink-0" /> Season Summary</h4>
                   <InfoBox type="info">
                     {playerProfile.blurb}
                   </InfoBox>
@@ -507,7 +502,7 @@ export default function DeepDive({ data }: DeepDiveProps) {
               {selectedPlayer.position !== 'K' && (
                 <>
                   <p className={`text-sm mt-6 mb-2 ${textSecondary}`}>Matchup Efficiency</p>
-                  <Expander title="📖 Metric Key (Defence ranks)" defaultExpanded={false} className="mb-3">
+                  <Expander title={<><IconBook size={16} className="inline flex-shrink-0 mr-1" /> Metric Key (Defence ranks)</>} defaultExpanded={false} className="mb-3">
                     <div className="grid grid-cols-2 gap-4">
                       <div>
                         <p className="font-medium mb-1 text-[var(--accent-green)]">
@@ -534,7 +529,7 @@ export default function DeepDive({ data }: DeepDiveProps) {
               <p className={`text-sm mt-6 mb-2 ${textSecondary}`}>Weekly Box Score</p>
               
               {/* Box Score Legend */}
-              <Expander title="📖 Box Score Legend" defaultExpanded={false} className="mb-4">
+              <Expander title={<><IconBook size={16} className="inline flex-shrink-0 mr-1" /> Box Score Legend</>} defaultExpanded={false} className="mb-4">
                 <div className="grid grid-cols-2 gap-4">
                   <div>
                     <p className="font-medium mb-1 text-[var(--accent-green)]">

@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react'
 import Divider from '@/components/Divider'
 import InfoBox from '@/components/InfoBox'
+import { IconStar, IconWarning, IconTarget, IconList, IconSleep, IconTrendUp, IconTrendDown } from '@/components/Icons'
 
 interface DraftPick {
   pick: number
@@ -359,37 +360,35 @@ export default function RookieTalk() {
   const textSecondary = 'text-[var(--text-secondary)]'
 
   const getTierColor = (tier: string) => {
-    switch (tier) {
-      case 'Elite':
-      case 'S':
-        return 'bg-emerald-500/20 text-emerald-400'
-      case 'High-End':
-      case 'A':
-        return 'bg-blue-500/20 text-blue-400'
-      case 'Solid':
-      case 'B':
-        return 'bg-yellow-500/20 text-yellow-400'
-      case 'High Risk':
-        return 'bg-red-500/20 text-red-400'
-      case 'Moderate Risk':
-        return 'bg-orange-500/20 text-orange-400'
-      default:
-        return 'bg-gray-500/20 text-gray-400'
+    const t = (tier ?? '').trim()
+    const normalized = t.toLowerCase().replace(/\s+/g, '-')
+    if (normalized === 'elite' || normalized === 's') return 'bg-emerald-500/20 text-emerald-400'
+    if (normalized === 'high-end' || normalized === 'a') return 'bg-emerald-500/20 text-emerald-400'
+    if (normalized === 'solid' || normalized === 'b') return 'bg-yellow-500/20 text-yellow-400'
+    if (normalized === 'high-risk') return 'bg-red-500/20 text-red-400'
+    if (normalized === 'moderate-risk') return 'bg-orange-500/20 text-orange-400'
+    return 'bg-gray-500/20 text-gray-400'
+  }
+
+  const getPositionBadgeClass = (position: string) => {
+    const p = (position ?? '').trim().toUpperCase()
+    switch (p) {
+      case 'QB': return 'bg-red-500/20 text-red-400'
+      case 'RB': return 'bg-green-500/20 text-green-400'
+      case 'WR': return 'bg-[var(--accent-primary)]/20 text-[var(--accent-primary)]'
+      case 'TE': return 'bg-orange-500/20 text-orange-400'
+      default: return 'bg-gray-500/20 text-gray-400'
     }
   }
 
   const getPositionColor = (position: string) => {
-    switch (position) {
-      case 'QB':
-        return 'text-red-500'
-      case 'RB':
-        return 'text-green-500'
-      case 'WR':
-        return 'text-blue-500'
-      case 'TE':
-        return 'text-orange-500'
-      default:
-        return textSecondary
+    const p = (position ?? '').trim().toUpperCase()
+    switch (p) {
+      case 'QB': return 'text-red-500'
+      case 'RB': return 'text-green-500'
+      case 'WR': return 'text-[var(--accent-primary)]'
+      case 'TE': return 'text-orange-500'
+      default: return textSecondary
     }
   }
 
@@ -440,8 +439,9 @@ export default function RookieTalk() {
       {/* Prospects Section */}
       {activeSection === 'buy' ? (
         <div className="space-y-4 mb-8">
-          <h3 className={`text-xl font-bold mb-4 ${textPrimary}`}>
-            🚀 Top 10 Fantasy Rookies - Maximum Upside
+          <h3 className={`text-xl font-bold mb-4 flex items-center gap-2 ${textPrimary}`}>
+            <IconStar size={22} className="flex-shrink-0 text-green-500" />
+            Top 10 Fantasy Rookies - Maximum Upside
           </h3>
           {TOP_FANTASY_ROOKIES.map((prospect) => (
             <div 
@@ -457,7 +457,7 @@ export default function RookieTalk() {
                     <h4 className={`text-lg font-bold ${textPrimary}`}>
                       {prospect.name}
                     </h4>
-                    <p className={`text-sm ${getPositionColor(prospect.position)}`}>
+                    <p className="text-sm text-green-500">
                       {prospect.position} • {prospect.college}
                     </p>
                     <span className={`inline-block px-2 py-0.5 text-xs rounded-full mt-1 ${getTierColor(prospect.tier)}`}>
@@ -466,8 +466,8 @@ export default function RookieTalk() {
                   </div>
                 </div>
                 <div className="flex-1">
-                  <p className={`text-sm font-semibold text-green-500 mb-2`}>
-                    ⬆️ {prospect.upside}
+                  <p className={`text-sm font-semibold text-green-500 mb-2 flex items-center gap-1`}>
+                    <IconTrendUp size={16} /> {prospect.upside}
                   </p>
                   <p className={`text-sm mb-3 ${textSecondary}`}>
                     {prospect.analysis}
@@ -479,7 +479,7 @@ export default function RookieTalk() {
                       Round {prospect.round}
                     </span>
                     <span className={`px-2 py-1 text-xs rounded-full ${
-                      'bg-blue-500/20 text-blue-400'
+                      'bg-[var(--accent-primary)]/20 text-[var(--accent-primary)]'
                     }`}>
                       Comp: {prospect.proComp}
                     </span>
@@ -496,8 +496,9 @@ export default function RookieTalk() {
         </div>
       ) : (
         <div className="space-y-4 mb-8">
-          <h3 className={`text-xl font-bold mb-4 ${textPrimary}`}>
-            ⚠️ Top 10 Concerning Prospects - Proceed with Caution
+          <h3 className={`text-xl font-bold mb-4 flex items-center gap-2 ${textPrimary}`}>
+            <IconWarning size={22} className="flex-shrink-0 text-red-500" />
+            Top 10 Concerning Prospects - Proceed with Caution
           </h3>
           {CONCERNING_PROSPECTS.map((prospect) => (
             <div 
@@ -513,7 +514,7 @@ export default function RookieTalk() {
                     <h4 className={`text-lg font-bold ${textPrimary}`}>
                       {prospect.name}
                     </h4>
-                    <p className={`text-sm ${getPositionColor(prospect.position)}`}>
+                    <p className="text-sm text-red-500">
                       {prospect.position} • {prospect.college}
                     </p>
                     <span className={`inline-block px-2 py-0.5 text-xs rounded-full mt-1 ${getTierColor(prospect.tier)}`}>
@@ -522,8 +523,8 @@ export default function RookieTalk() {
                   </div>
                 </div>
                 <div className="flex-1">
-                  <p className={`text-sm font-semibold text-red-500 mb-2`}>
-                    ⬇️ {prospect.concern}
+                  <p className={`text-sm font-semibold text-red-500 mb-2 flex items-center gap-1`}>
+                    <IconTrendDown size={16} /> {prospect.concern}
                   </p>
                   <p className={`text-sm mb-3 ${textSecondary}`}>
                     {prospect.analysis}
@@ -534,10 +535,10 @@ export default function RookieTalk() {
                     }`}>
                       Round {prospect.round}
                     </span>
-                    <span className={`px-2 py-1 text-xs rounded-full ${
+                    <span className={`px-2 py-1 text-xs rounded-full inline-flex items-center gap-1 ${
                       'bg-red-500/20 text-red-400'
                     }`}>
-                      ⚠️ {prospect.redFlag}
+                      <IconWarning size={12} /> {prospect.redFlag}
                     </span>
                   </div>
                 </div>
@@ -550,8 +551,9 @@ export default function RookieTalk() {
       <Divider />
 
       {/* Dynasty Tiers Section */}
-      <h3 className={`text-xl font-bold mb-4 ${textPrimary}`}>
-        🎯 Dynasty Rookie Tiers by Position
+      <h3 className={`text-xl font-bold mb-4 flex items-center gap-2 ${textPrimary}`}>
+        <IconTarget size={22} className="flex-shrink-0 text-[var(--accent-primary)]" />
+        Dynasty Rookie Tiers by Position
       </h3>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
         {Object.entries(DYNASTY_TIERS).map(([position, tiers]) => (
@@ -578,8 +580,9 @@ export default function RookieTalk() {
       <Divider />
 
       {/* Landing Spot Grades */}
-      <h3 className={`text-xl font-bold mb-4 ${textPrimary}`}>
-        🎰 Best Landing Spots for Rookies
+      <h3 className={`text-xl font-bold mb-4 flex items-center gap-2 ${textPrimary}`}>
+        <IconTarget size={22} className="flex-shrink-0 text-[var(--accent-primary)]" />
+        Best Landing Spots for Rookies
       </h3>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-3 mb-8">
         {LANDING_SPOT_GRADES.map((spot) => (
@@ -608,8 +611,9 @@ export default function RookieTalk() {
       <Divider />
 
       {/* Full First Round Mock Draft */}
-      <h3 className={`text-xl font-bold mb-2 ${textPrimary}`}>
-        📋 Complete 2026 NFL First Round Mock Draft
+      <h3 className={`text-xl font-bold mb-2 flex items-center gap-2 ${textPrimary}`}>
+        <IconList size={22} className="flex-shrink-0" />
+        Complete 2026 NFL First Round Mock Draft
       </h3>
       <p className={`text-sm mb-4 ${textSecondary}`}>
         Fantasy-relevant positions highlighted. As projected by <strong>Tankathon.com</strong>.
@@ -623,13 +627,13 @@ export default function RookieTalk() {
               key={pick.pick}
               className={`p-2 rounded-lg border flex items-center gap-2 ${
                 isFantasyRelevant
-                  ? 'bg-blue-500/20 border-blue-500/50'
+                  ? 'bg-[var(--accent-primary)]/20 border-[var(--accent-primary)]/50'
                   : `${cardBg} ${cardBorder}`
               }`}
             >
               <div className={`w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold ${
                 isFantasyRelevant
-                  ? 'bg-blue-600 text-white'
+                  ? 'bg-[var(--accent-primary)] text-white'
                   : 'bg-[var(--bg-hover)] text-[var(--text-secondary)]'
               }`}>
                 {pick.pick}
@@ -650,25 +654,26 @@ export default function RookieTalk() {
       <Divider />
 
       {/* Sleeper Alert Section */}
-      <h3 className={`text-xl font-bold mb-4 ${textPrimary}`}>
-        😴 Sleeper Alert - Late-Round Values
+      <h3 className={`text-xl font-bold mb-4 flex items-center gap-2 ${textPrimary}`}>
+        <IconSleep size={22} className="flex-shrink-0" />
+        Sleeper Alert - Late-Round Values
       </h3>
       <div className={`p-5 rounded-xl border ${cardBg} ${cardBorder} mb-8`}>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <div>
-            <h4 className={`font-bold text-green-500 mb-2`}>🌟 Emmett Johnson (RB, Nebraska)</h4>
+            <h4 className={`font-bold text-green-500 mb-2 flex items-center gap-1`}><IconStar size={16} /> Emmett Johnson (RB, Nebraska)</h4>
             <p className={`text-sm ${textSecondary}`}>
               Round 4 projection but has 1,451 rushing yards + 370 receiving yards. If he lands in Kansas City, could be a league-winner.
             </p>
           </div>
           <div>
-            <h4 className={`font-bold text-blue-500 mb-2`}>🌟 Elijah Sarratt (WR, Indiana)</h4>
+            <h4 className={`font-bold text-[var(--accent-primary)] mb-2 flex items-center gap-1`}><IconStar size={16} /> Elijah Sarratt (WR, Indiana)</h4>
             <p className={`text-sm ${textSecondary}`}>
               Benefited from Mendoza&apos;s breakout with 65 catches and 15 TDs. Could be this year&apos;s Nico Collins-style value.
             </p>
           </div>
           <div>
-            <h4 className={`font-bold text-orange-500 mb-2`}>🌟 Eli Stowers (TE, Vanderbilt)</h4>
+            <h4 className={`font-bold text-orange-500 mb-2 flex items-center gap-1`}><IconStar size={16} /> Eli Stowers (TE, Vanderbilt)</h4>
             <p className={`text-sm ${textSecondary}`}>
               62 catches for 769 yards in a weak Vandy offense. Day 2-3 TEs with his production often outperform their draft capital.
             </p>

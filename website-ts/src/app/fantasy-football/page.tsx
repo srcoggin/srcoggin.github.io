@@ -1,12 +1,12 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import ThemeToggle from '@/components/ThemeToggle'
 import Tabs from '@/components/Tabs'
 import FantasyHome from '@/components/tabs/FantasyHome'
 import FantasyRadar from '@/components/tabs/FantasyRadar'
 import DeepDive from '@/components/tabs/DeepDive'
 import RookieTalk from '@/components/tabs/RookieTalk'
+import { IconHome, IconRookie, IconRadar, IconDeepDive } from '@/components/Icons'
 import { loadAllData } from '@/utils/dataLoader'
 import { PlayerData } from '@/types'
 
@@ -37,10 +37,7 @@ export default function FantasyFootball() {
 
   if (loading) {
     return (
-      <div className="p-4 sm:p-6 lg:p-8 max-w-7xl mx-auto w-full min-w-0 box-border">
-        <div className="flex justify-end mb-4">
-          <ThemeToggle />
-        </div>
+      <div className="content-width py-6 sm:py-8 flex-1">
         <div className="flex items-center justify-center h-64">
           <div className="text-xl text-[var(--text-secondary)]">
             Loading data...
@@ -52,12 +49,9 @@ export default function FantasyFootball() {
 
   if (error) {
     return (
-      <div className="p-4 sm:p-6 lg:p-8 max-w-7xl mx-auto w-full min-w-0 box-border">
-        <div className="flex justify-end mb-4">
-          <ThemeToggle />
-        </div>
+      <div className="content-width py-6 sm:py-8 flex-1">
         <div className="flex items-center justify-center h-64">
-          <div className="text-xl text-red-500">{error}</div>
+          <div className="text-xl text-[var(--accent-red)]">{error}</div>
         </div>
       </div>
     )
@@ -66,36 +60,35 @@ export default function FantasyFootball() {
   const tabs = [
     {
       id: 'home',
-      label: '🏠 Fantasy Home',
+      label: <><IconHome size={18} className="flex-shrink-0" /> Fantasy Home</>,
       content: <FantasyHome data={data} />,
     },
     {
       id: 'rookie-talk',
-      label: '🌟 Rookie Talk',
+      label: <><IconRookie size={18} className="flex-shrink-0" /> Rookie Talk</>,
       content: <RookieTalk />,
     },
     {
       id: 'radar',
-      label: '📊 Fantasy Radar',
+      label: <><IconRadar size={18} className="flex-shrink-0" /> Fantasy Radar</>,
       content: <FantasyRadar data={data} />,
     },
     {
       id: 'deep-dive',
-      label: '🔎 Deep Dive Tool',
+      label: <><IconDeepDive size={18} className="flex-shrink-0" /> Deep Dive Tool</>,
       content: <DeepDive data={data} />,
     },
   ]
 
   return (
-    <div className="p-4 sm:p-6 lg:p-8 max-w-7xl mx-auto w-full min-w-0 box-border">
-      {/* Theme Toggle - Top Right */}
-      <div className="flex justify-end mb-4">
-        <ThemeToggle />
-      </div>
-
-      <h1 className="text-xl sm:text-2xl md:text-3xl font-bold mb-4 sm:mb-6 break-words text-[var(--text-primary)]">
-        🏈 Fantasy Football Hub
+    <div className="content-width py-6 sm:py-8 flex-1" id="tabs">
+      <p className="section-label">Tools</p>
+      <h1 className="page-title break-words">
+        Fantasy Football Hub
       </h1>
+      <p className="text-sm text-[var(--text-secondary)] mb-6">
+        Player grades, draft prospects, and fantasy analysis. Pick a tab below.
+      </p>
 
       <Tabs tabs={tabs} defaultTab="home" />
     </div>

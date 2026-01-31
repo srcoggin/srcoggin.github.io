@@ -3,20 +3,24 @@
 @tailwind utilities;
 
 /* ========== ROOT VARIABLES ========== */
+/* Sports/editorial accent (ESPN/PFF-inspired) for nav, tabs, CTAs */
 :root {
-  /* Dark theme (default) */
-  --bg-primary: #0e1117;
-  --bg-secondary: #1a1d24;
-  --bg-card: #21262d;
-  --bg-hover: #30363d;
-  --border-color: #30363d;
-  --text-primary: #f0f6fc;
-  --text-secondary: #8b949e;
-  --text-muted: #6e7681;
+  /* Dark theme (default) – ESPN/PFF-style dark with red accent */
+  --bg-primary: #0f1419;
+  --bg-secondary: #1a1f26;
+  --bg-card: #252b33;
+  --bg-hover: #2d3540;
+  --border-color: #384250;
+  --text-primary: #e7e9ea;
+  --text-secondary: #8b98a5;
+  --text-muted: #6e7b88;
+  --accent-primary: #e31937;
+  --accent-primary-hover: #ff2d4d;
   --accent-blue: #58a6ff;
   --accent-green: #3fb950;
   --accent-red: #f85149;
   --accent-yellow: #d29922;
+  --header-bg: #0a0d10;
   --info-bg: rgba(88, 166, 255, 0.1);
   --success-bg: rgba(63, 185, 80, 0.1);
   --warning-bg: rgba(210, 153, 34, 0.1);
@@ -26,17 +30,20 @@
 [data-theme="light"],
 .light {
   --bg-primary: #ffffff;
-  --bg-secondary: #f6f8fa;
-  --bg-card: #f6f8fa;
-  --bg-hover: #eaeef2;
-  --border-color: #d0d7de;
-  --text-primary: #1f2328;
-  --text-secondary: #57606a;
-  --text-muted: #6e7781;
+  --bg-secondary: #f5f6f7;
+  --bg-card: #ffffff;
+  --bg-hover: #e8e8e8;
+  --border-color: #dadce0;
+  --text-primary: #1a1a1a;
+  --text-secondary: #5f6368;
+  --text-muted: #80868b;
+  --accent-primary: #c41030;
+  --accent-primary-hover: #a00d28;
   --accent-blue: #0969da;
   --accent-green: #1a7f37;
   --accent-red: #cf222e;
   --accent-yellow: #9a6700;
+  --header-bg: #1a1a1a;
   --info-bg: rgba(9, 105, 218, 0.08);
   --success-bg: rgba(26, 127, 55, 0.08);
   --warning-bg: rgba(154, 103, 0, 0.08);
@@ -53,17 +60,20 @@
   --text-primary: #e6f2ff;
   --text-secondary: #7eb8da;
   --text-muted: #5a9fc9;
+  --accent-primary: #4fc3f7;
+  --accent-primary-hover: #81d4fa;
   --accent-blue: #4fc3f7;
   --accent-green: #26a69a;
   --accent-red: #ef5350;
   --accent-yellow: #ffca28;
+  --header-bg: #061018;
   --info-bg: rgba(79, 195, 247, 0.12);
   --success-bg: rgba(38, 166, 154, 0.12);
   --warning-bg: rgba(255, 202, 40, 0.12);
   --error-bg: rgba(239, 83, 80, 0.12);
 }
 
-/* Amber – warm sepia */
+/* Amber – warm sepia (PFF-style orange accent) */
 [data-theme="amber"] {
   --bg-primary: #1c1917;
   --bg-secondary: #292524;
@@ -73,10 +83,13 @@
   --text-primary: #fef3c7;
   --text-secondary: #d6d3d1;
   --text-muted: #a8a29e;
+  --accent-primary: #f59e0b;
+  --accent-primary-hover: #fbbf24;
   --accent-blue: #f59e0b;
   --accent-green: #84cc16;
   --accent-red: #f87171;
   --accent-yellow: #fbbf24;
+  --header-bg: #0f0d0b;
   --info-bg: rgba(245, 158, 11, 0.12);
   --success-bg: rgba(132, 204, 22, 0.12);
   --warning-bg: rgba(251, 191, 36, 0.12);
@@ -93,14 +106,48 @@
   --text-primary: #dcfce7;
   --text-secondary: #86efac;
   --text-muted: #4ade80;
+  --accent-primary: #22c55e;
+  --accent-primary-hover: #4ade80;
   --accent-blue: #22c55e;
   --accent-green: #16a34a;
   --accent-red: #f87171;
   --accent-yellow: #a3e635;
+  --header-bg: #051405;
   --info-bg: rgba(34, 197, 94, 0.12);
   --success-bg: rgba(22, 163, 74, 0.12);
   --warning-bg: rgba(163, 230, 53, 0.12);
   --error-bg: rgba(248, 113, 113, 0.12);
+}
+
+/* ========== PARC: SPACING SCALE (Proximity & Repetition) ========== */
+:root {
+  --space-1: 0.25rem;   /* 4px */
+  --space-2: 0.5rem;    /* 8px */
+  --space-3: 0.75rem;   /* 12px */
+  --space-4: 1rem;      /* 16px */
+  --space-5: 1.25rem;   /* 20px */
+  --space-6: 1.5rem;    /* 24px */
+  --space-8: 2rem;      /* 32px */
+  --space-10: 2.5rem;   /* 40px */
+  --space-12: 3rem;     /* 48px */
+  --content-max: 80rem; /* 1280px - max-w-7xl */
+  --content-pad: 1rem;
+  --content-pad-sm: 1.5rem;
+  --content-pad-lg: 2rem;
+}
+
+@media (min-width: 640px) {
+  :root {
+    --content-pad: 1.5rem;
+    --content-pad-lg: 2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  :root {
+    --content-pad: 2rem;
+    --content-pad-lg: 2.5rem;
+  }
 }
 
 /* ========== BASE STYLES ========== */
@@ -149,11 +196,12 @@ th, td {
 
 th {
   background-color: var(--bg-card);
-  font-weight: 600;
+  font-weight: 700;
   text-transform: uppercase;
-  font-size: 0.75rem;
-  letter-spacing: 0.05em;
+  font-size: 0.6875rem;
+  letter-spacing: 0.08em;
   color: var(--text-secondary);
+  /* PARC: Contrast – header clearly distinct from body */
 }
 
 tr:hover td {
@@ -172,8 +220,8 @@ select {
 }
 
 select:focus {
-  border-color: var(--accent-blue);
-  box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.2);
+  border-color: var(--accent-primary);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent-primary) 25%, transparent);
 }
 
 select option {
@@ -195,12 +243,12 @@ input[type="checkbox"] {
   border: 2px solid var(--border-color);
   background-color: var(--bg-card);
   cursor: pointer;
-  accent-color: var(--accent-blue);
+  accent-color: var(--accent-primary);
 }
 
 input[type="checkbox"]:checked {
-  background-color: var(--accent-blue);
-  border-color: var(--accent-blue);
+  background-color: var(--accent-primary);
+  border-color: var(--accent-primary);
 }
 
 /* ========== BUTTONS ========== */
@@ -209,7 +257,7 @@ input[type="checkbox"]:checked {
 }
 
 .btn-primary {
-  background-color: var(--accent-blue);
+  background-color: var(--accent-primary);
   color: white;
 }
 
@@ -262,8 +310,89 @@ input[type="checkbox"]:checked {
 .card {
   background-color: var(--bg-card);
   border: 1px solid var(--border-color);
-  border-radius: 0.75rem;
-  padding: 1.5rem;
+  border-radius: 0.5rem;
+  padding: var(--space-6);
+}
+
+/* ========== PARC: TYPE HIERARCHY (Contrast & Repetition) ========== */
+/* Section labels – ESPN/PFF “TOP HEADLINES” / “WHAT'S HOT” style */
+.section-label {
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  margin-bottom: var(--space-3);
+  display: block;
+}
+
+/* Page title – clear contrast from body */
+.page-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: var(--space-4);
+}
+
+@media (min-width: 640px) {
+  .page-title {
+    font-size: 1.5rem;
+    margin-bottom: var(--space-6);
+  }
+}
+
+@media (min-width: 768px) {
+  .page-title {
+    font-size: 1.875rem;
+  }
+}
+
+/* Section heading – grouped with content (proximity) */
+.section-heading {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: var(--space-4);
+}
+
+@media (min-width: 640px) {
+  .section-heading {
+    font-size: 1.25rem;
+  }
+}
+
+/* ========== PARC: CONTENT WIDTH (Alignment & Repetition) ========== */
+.content-width {
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+  max-width: var(--content-max);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--content-pad);
+  padding-right: var(--content-pad);
+}
+
+@media (min-width: 640px) {
+  .content-width {
+    padding-left: var(--content-pad-sm);
+    padding-right: var(--content-pad-sm);
+  }
+}
+
+@media (min-width: 1024px) {
+  .content-width {
+    padding-left: var(--content-pad-lg);
+    padding-right: var(--content-pad-lg);
+  }
+}
+
+/* ========== CARDS (Repetition – ESPN/PFF tiles) ========== */
+.content-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+  padding: var(--space-5);
 }
 
 /* ========== UTILITY CLASSES ========== */
