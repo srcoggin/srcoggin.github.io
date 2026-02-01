@@ -1,6 +1,6 @@
 # GreenEighteen Sports (GES)
 
-![GreenEighteen Sports](https://srcoggin.github.io/Logo.png)
+![GreenEighteen Sports](https://greeneighteensports.com/Logo.png)
 
 **Real-time NFL coverage**
 
@@ -13,7 +13,7 @@ GreenEighteen Sports (GES) is a modern NFL news aggregator and analytics platfor
 ## 🚀 Key Features
 
 * **News Wire:** Real time news curation powered by **Gemini AI**, filtering through the noise to deliver what matters.
-* **Multi-Source Aggregation:** Pulls the latest headlines from trusted sources including:
+* **Multi-Source Aggregation:** Pulls and filters the latest headlines from trusted sources including:
     * ESPN NFL
     * Yahoo Sports
     * CBS Sports
