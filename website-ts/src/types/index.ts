@@ -12,7 +12,7 @@ export interface PlayerWeekStats {
   team: string
   recent_team?: string
   opponent_team: string
-  
+
   // Passing stats
   completions?: number
   attempts?: number
@@ -20,20 +20,20 @@ export interface PlayerWeekStats {
   passing_tds: number
   passing_interceptions: number
   passing_epa: number
-  
+
   // Rushing stats
   carries?: number
   rushing_yards: number
   rushing_tds: number
   rushing_epa: number
-  
+
   // Receiving stats
   receptions: number
   targets: number
   receiving_yards: number
   receiving_tds: number
   receiving_epa: number | null
-  
+
   // Kicker stats
   fg_made: number
   fg_att: number
@@ -41,11 +41,11 @@ export interface PlayerWeekStats {
   pat_made?: number
   pat_att?: number
   pat_pct?: number | null
-  
+
   // Fantasy points
   fantasy_points?: number
   fantasy_points_ppr?: number
-  
+
   // Bio data
   height?: number
   weight?: number
@@ -160,4 +160,33 @@ export interface PlayerProfilesData {
   season: number
   total_players: number
   profiles: Record<string, PlayerProfile>
+}
+
+// News Types
+export type ArticleCategory =
+  | 'trades'
+  | 'coaching'
+  | 'injuries'
+  | 'free-agency'
+  | 'draft'
+  | 'superbowl'
+  | 'player-news'
+  | 'team-news'
+  | 'general'
+
+export interface Article {
+  id: string
+  title: string
+  slug: string
+  date: string
+  category: ArticleCategory
+  sources: string[]
+  hash: string
+  aiGenerated?: boolean
+}
+
+export interface ArticlesIndex {
+  lastUpdated: string
+  count: number
+  articles: Article[]
 }
