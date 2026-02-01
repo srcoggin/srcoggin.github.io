@@ -43,8 +43,8 @@ export default function Sidebar({ collapsed, onToggle }: SidebarProps) {
     return (
       <aside
         className={`
-          flex-shrink-0 w-14 min-h-screen border-r flex flex-col items-center pt-4 transition-all duration-300 z-30
-          fixed md:sticky md:top-0 md:h-screen inset-y-0 left-0
+          flex-shrink-0 w-14 h-screen border-r flex flex-col items-center pt-4 transition-all duration-300 z-30
+          sticky top-0 left-0
           ${asideClass}
         `}
       >
@@ -62,8 +62,8 @@ export default function Sidebar({ collapsed, onToggle }: SidebarProps) {
       />
       <aside
         className={`
-          w-64 min-h-screen border-r flex flex-col flex-shrink-0 transition-all duration-300 z-30
-          fixed md:sticky md:top-0 md:h-screen inset-y-0 left-0
+          w-64 h-screen border-r flex flex-col flex-shrink-0 transition-all duration-300 z-30
+          fixed top-0 left-0 md:sticky
           ${asideClass}
         `}
       >
