@@ -1,5 +1,5 @@
 {
-  "name": "the-expert-football",
+  "name": "greeneighteen-sports",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "scrape-news": "npx tsx scripts/nfl-scraper/run.ts"
+    "scrape-news": "npx tsx scripts/nfl-scraper/runAll.ts",
+    "sync-articles": "npx tsx scripts/sync_articles.ts",
+    "cleanup-articles": "npx tsx scripts/cleanup_articles.ts",
+    "format-articles": "npx tsx scripts/format_articles.ts"
   },
   "dependencies": {
     "clsx": "^2.1.0",

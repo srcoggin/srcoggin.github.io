@@ -14,8 +14,11 @@
   --text-primary: #e7e9ea;
   --text-secondary: #8b98a5;
   --text-muted: #6e7b88;
-  --accent-primary: #e31937;
-  --accent-primary-hover: #ff2d4d;
+  /* Switched to Green Theme as requested */
+  --accent-primary: #22c55e;
+  /* Tailwind Green 500 */
+  --accent-primary-hover: #4ade80;
+  /* Tailwind Green 400 */
   --accent-blue: #58a6ff;
   --accent-green: #3fb950;
   --accent-red: #f85149;
@@ -121,16 +124,26 @@
 
 /* ========== PARC: SPACING SCALE (Proximity & Repetition) ========== */
 :root {
-  --space-1: 0.25rem;   /* 4px */
-  --space-2: 0.5rem;    /* 8px */
-  --space-3: 0.75rem;   /* 12px */
-  --space-4: 1rem;      /* 16px */
-  --space-5: 1.25rem;   /* 20px */
-  --space-6: 1.5rem;    /* 24px */
-  --space-8: 2rem;      /* 32px */
-  --space-10: 2.5rem;   /* 40px */
-  --space-12: 3rem;     /* 48px */
-  --content-max: 80rem; /* 1280px - max-w-7xl */
+  --space-1: 0.25rem;
+  /* 4px */
+  --space-2: 0.5rem;
+  /* 8px */
+  --space-3: 0.75rem;
+  /* 12px */
+  --space-4: 1rem;
+  /* 16px */
+  --space-5: 1.25rem;
+  /* 20px */
+  --space-6: 1.5rem;
+  /* 24px */
+  --space-8: 2rem;
+  /* 32px */
+  --space-10: 2.5rem;
+  /* 40px */
+  --space-12: 3rem;
+  /* 48px */
+  --content-max: 80rem;
+  /* 1280px - max-w-7xl */
   --content-pad: 1rem;
   --content-pad-sm: 1.5rem;
   --content-pad-lg: 2rem;
@@ -188,7 +201,8 @@ table {
   width: 100%;
 }
 
-th, td {
+th,
+td {
   padding: 0.75rem 1rem;
   text-align: left;
   border-bottom: 1px solid var(--border-color);
@@ -417,6 +431,7 @@ input[type="checkbox"]:checked {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
@@ -429,12 +444,12 @@ input[type="checkbox"]:checked {
 /* ========== PREMIUM SHADOW SYSTEM ========== */
 .shadow-soft {
   box-shadow: 0 2px 8px -2px rgba(0, 0, 0, 0.15),
-              0 4px 16px -4px rgba(0, 0, 0, 0.1);
+    0 4px 16px -4px rgba(0, 0, 0, 0.1);
 }
 
 .shadow-elevated {
   box-shadow: 0 4px 12px -2px rgba(0, 0, 0, 0.2),
-              0 8px 24px -4px rgba(0, 0, 0, 0.15);
+    0 8px 24px -4px rgba(0, 0, 0, 0.15);
 }
 
 /* ========== GLASSMORPHISM EFFECT ========== */
@@ -460,12 +475,13 @@ select:focus-visible {
 
 /* ========== MOBILE TOUCH TARGETS ========== */
 @media (max-width: 640px) {
+
   button,
   [role="button"],
   a {
     min-height: 44px;
   }
-  
+
   /* Larger tap targets for mobile */
   input[type="checkbox"] {
     width: 1.25rem;
@@ -478,18 +494,17 @@ select:focus-visible {
   0% {
     background-position: -200% 0;
   }
+
   100% {
     background-position: 200% 0;
   }
 }
 
 .skeleton {
-  background: linear-gradient(
-    90deg,
-    var(--bg-card) 25%,
-    var(--bg-hover) 50%,
-    var(--bg-card) 75%
-  );
+  background: linear-gradient(90deg,
+      var(--bg-card) 25%,
+      var(--bg-hover) 50%,
+      var(--bg-card) 75%);
   background-size: 200% 100%;
   animation: shimmer 1.5s ease-in-out infinite;
   border-radius: 0.25rem;
@@ -497,9 +512,12 @@ select:focus-visible {
 
 /* ========== PULSE ANIMATION ========== */
 @keyframes pulse {
-  0%, 100% {
+
+  0%,
+  100% {
     opacity: 1;
   }
+
   50% {
     opacity: 0.5;
   }
@@ -515,6 +533,7 @@ select:focus-visible {
     opacity: 0;
     transform: translateY(8px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
@@ -591,7 +610,7 @@ select:focus-visible {
   .page-title {
     font-size: 1.25rem !important;
   }
-  
+
   .section-heading {
     font-size: 1rem !important;
   }

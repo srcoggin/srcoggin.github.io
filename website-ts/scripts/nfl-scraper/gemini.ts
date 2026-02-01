@@ -1,5 +1,6 @@
 // NFL News Scraper - Gemini AI Integration
 // Uses Google's Gemini API for enhanced article generation
+// Tries multiple models in order until one succeeds
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY
 
@@ -11,6 +12,7 @@ interface GeminiResponse {
     }>
     error?: {
         message: string
+        code?: number
     }
 }
 
@@ -19,12 +21,18 @@ export function isGeminiAvailable(): boolean {
     return !!GEMINI_API_KEY
 }
 
-// List of models to try in order
+// List of text-out models to try in order based on user's available models
+// When one model hits rate limits, we'll try the next
 const GEMINI_MODELS = [
-    'gemini-2.5-flash',
-    'gemini-2.5-pro',
+    // Primary text-out models (user has access to these)
+    'gemini-2.5-flash',       // Main model, 5 RPM limit
+    'gemini-2.5-flash-lite',  // Lite version, 10 RPM limit
+    'gemini-3-flash',         // Gemini 3, 5 RPM limit
+
+    // Fallback to older models if available
     'gemini-2.0-flash',
-    'gemini-2.0-flash-001'
+    'gemini-1.5-flash',
+    'gemini-1.5-pro',
 ]
 
 // Generate an enhanced article using Gemini
@@ -34,7 +42,7 @@ export async function generateWithGemini(
     category: string
 ): Promise<string | null> {
     if (!GEMINI_API_KEY) {
-        console.log('  ℹ️ Gemini API key not set, using template-based generation')
+        console.log('  ℹ️ Gemini API key not set')
         return null
     }
 
@@ -106,8 +114,18 @@ Write the full article now:`
             )
 
             if (!response.ok) {
-                // If 404, it means model not found/available, try next one
+                // 404 = model not found/available, try next
                 if (response.status === 404) {
+                    continue
+                }
+                // 429 = rate limited, try next model
+                if (response.status === 429) {
+                    console.log(`  ⏳ Rate limited on ${model}, trying next...`)
+                    continue
+                }
+                // 401/403 = auth error, try next (might be model-specific)
+                if (response.status === 401 || response.status === 403) {
+                    console.log(`  🔑 Auth issue on ${model}, trying next...`)
                     continue
                 }
                 const errorText = await response.text()
@@ -118,6 +136,11 @@ Write the full article now:`
             const data: GeminiResponse = await response.json()
 
             if (data.error) {
+                // Check for rate limit in error message
+                if (data.error.code === 429 || data.error.message?.includes('quota') || data.error.message?.includes('rate')) {
+                    console.log(`  ⏳ Rate limited on ${model}, trying next...`)
+                    continue
+                }
                 console.warn(`  ⚠️ Gemini error (${model}): ${data.error.message}`)
                 continue
             }
@@ -134,6 +157,6 @@ Write the full article now:`
     }
 
     // If we get here, all models failed
-    console.warn('  ⚠️ All Gemini models failed, falling back to template')
+    console.warn('  ❌ All Gemini models failed - will queue for manual generation')
     return null
 }

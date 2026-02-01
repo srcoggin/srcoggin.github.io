@@ -32,7 +32,6 @@ export default function NewsFeed() {
         { name: 'Yahoo Sports', url: 'https://sports.yahoo.com/nfl' },
         { name: 'CBS Sports', url: 'https://cbssports.com/nfl' },
         { name: 'Pro Football Talk', url: 'https://profootballtalk.nbcsports.com' },
-        { name: 'Gemini AI', url: 'https://deepmind.google/technologies/gemini/' },
     ]
 
     const renderTabContent = (tabKey: string) => {
@@ -108,22 +107,32 @@ export default function NewsFeed() {
         {
             id: 'players',
             label: <><IconPlayer size={18} className="flex-shrink-0" /> Players</>,
-            content: renderTabContent('players')
+            content: renderTabContent('players'),
+            description: 'Player trades, contracts, injuries, and performance updates from around the league.'
         },
         {
             id: 'teams',
             label: <><IconTeam size={18} className="flex-shrink-0" /> Teams</>,
-            content: renderTabContent('teams')
+            content: renderTabContent('teams'),
+            description: 'Franchise updates, coaching changes, front office moves, and organizational news.'
         },
         {
             id: 'rookie',
             label: <><IconRookie size={18} className="flex-shrink-0" /> Rookies</>,
-            content: renderTabContent('draft')
+            content: renderTabContent('draft'),
+            description: 'Draft prospects, combine results, mock drafts, and rookie storylines heading into the season.'
+        },
+        {
+            id: 'general',
+            label: <><IconHome size={18} className="flex-shrink-0" /> General</>,
+            content: renderTabContent('general'),
+            description: 'Super Bowl coverage, league news, and stories that span across the NFL.'
         },
         {
             id: 'expert',
-            label: <><IconRaven size={18} className="flex-shrink-0 text-purple-400" /> The Expert</>,
-            content: renderTabContent('expert')
+            label: <><IconRaven size={18} className="flex-shrink-0 text-purple-400" /> GES&apos;s News</>,
+            content: renderTabContent('expert'),
+            description: 'Exclusive Baltimore Ravens coverage and analysis from a die-hard fan perspective.'
         }
     ]
 
@@ -133,7 +142,16 @@ export default function NewsFeed() {
             <main className="content-width py-6 sm:py-8 flex-1">
                 <p className="section-label">LIVE FEED</p>
                 <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-2">
-                    <h1 className="page-title break-words">NFL News Wire</h1>
+                    <div>
+                        <h1 className="page-title mb-0 break-words flex items-center gap-3 flex-wrap">
+                            NFL News Wire
+                            {!loading && (
+                                <span className="bg-[var(--bg-secondary)] text-[var(--text-secondary)] text-sm font-semibold px-2 py-1 rounded-md border border-[var(--border-color)] align-middle ml-1">
+                                    {articles.length} Articles
+                                </span>
+                            )}
+                        </h1>
+                    </div>
 
                     {/* Source Attribution (Fantasy Hub style) */}
                     <div className="text-right hidden md:block">
@@ -152,7 +170,7 @@ export default function NewsFeed() {
                 </div>
 
                 <p className="text-sm text-[var(--text-secondary)] mb-6 max-w-2xl">
-                    Real-time NFL coverage powered by AI. Curated summaries from top sources, filtered for what matters.
+                    Real-time NFL coverage. Curated summaries from top sources, filtered for what matters.
                 </p>
 
                 <Tabs tabs={tabs} defaultTab="hub" />

@@ -10,10 +10,11 @@ const sourceSans = Source_Sans_3({
 })
 
 export const metadata: Metadata = {
-  title: 'The Expert Football',
+  title: 'GreenEighteen Sports',
   description: 'Your Hub for Advanced Sports Analytics',
   icons: {
-    icon: '/favicon.ico',
+    icon: '/Logo.png',
+    apple: '/Logo.png',
   },
 }
 

@@ -46,6 +46,12 @@ export function useNews() {
                 return articles.filter(a =>
                     ['draft'].includes(a.category)
                 )
+            case 'general':
+                // General tab - articles that don't fit other specific categories
+                return articles.filter(a =>
+                    ['general', 'superbowl'].includes(a.category) ||
+                    !['injuries', 'trades', 'free-agency', 'player-news', 'team-news', 'coaching', 'draft'].includes(a.category)
+                )
             case 'expert':
                 // "The Expert" tab - Baltimore Ravens news
                 // Check tags, title, or category
@@ -55,9 +61,7 @@ export function useNews() {
                 })
             case 'hub':
             default:
-                // News Hub shows everything (or maybe filtered?)
-                // User said "News Hub" is the home page.
-                // It should likely show mix of important news.
+                // News Hub shows everything
                 return articles
         }
     }

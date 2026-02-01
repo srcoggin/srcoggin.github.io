@@ -128,7 +128,7 @@ export default function ArticleViewer({ slug }: ArticleViewerProps) {
                     </header>
 
                     {/* Article Body */}
-                    <div className="prose prose-invert prose-lg max-w-none 
+                    <div className="prose prose-invert md:prose-lg max-w-none 
                         prose-headings:text-[var(--text-primary)] 
                         prose-p:text-[var(--text-secondary)] prose-p:leading-relaxed
                         prose-a:text-[var(--accent-primary)] prose-a:no-underline hover:prose-a:underline

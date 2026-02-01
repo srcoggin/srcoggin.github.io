@@ -6,6 +6,7 @@ interface Tab {
   id: string
   label: ReactNode
   content: ReactNode
+  description?: string  // Optional description for the tab
 }
 
 interface TabsProps {
@@ -15,7 +16,9 @@ interface TabsProps {
 
 export default function Tabs({ tabs, defaultTab }: TabsProps) {
   const [activeTab, setActiveTab] = useState(defaultTab || tabs[0]?.id)
-  const activeContent = tabs.find(t => t.id === activeTab)?.content
+  const activeTabData = tabs.find(t => t.id === activeTab)
+  const activeContent = activeTabData?.content
+  const activeDescription = activeTabData?.description
 
   return (
     <div className="min-w-0 w-full">
@@ -40,9 +43,20 @@ export default function Tabs({ tabs, defaultTab }: TabsProps) {
           </button>
         ))}
       </div>
-      <div className="pt-4 sm:pt-6 min-w-0">
+
+      {/* Tab description (if provided) */}
+      {activeDescription && (
+        <div className="mt-4 px-1">
+          <p className="text-sm text-[var(--text-secondary)] italic border-l-2 border-[var(--accent-primary)]/50 pl-3">
+            {activeDescription}
+          </p>
+        </div>
+      )}
+
+      <div className={`${activeDescription ? 'pt-4' : 'pt-4 sm:pt-6'} min-w-0`}>
         {activeContent}
       </div>
     </div>
   )
 }
+

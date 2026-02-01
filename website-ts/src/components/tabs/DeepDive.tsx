@@ -13,6 +13,7 @@ import Autocomplete from '@/components/Autocomplete'
 import { PlayerData, PlayerMetrics, PlayerProfile } from '@/types'
 import { getPlayerMetrics, getUniquePlayers, UniquePlayer } from '@/utils/calculations'
 import { IconSearch, IconDocument, IconBook, IconCircleGreen, IconCircleRed } from '@/components/Icons'
+import TeamName from '@/components/TeamName'
 import {
   getAvailableSeasons,
   getAvailablePositions,
@@ -489,7 +490,7 @@ export default function DeepDive({ data }: DeepDiveProps) {
                     )}
                   </h2>
                   <p className={textSecondary}>
-                    <strong>{safeGet(playerBioRow.recent_team, '-')}</strong>
+                    <TeamName team={playerBioRow.recent_team} />
                     {' | #'}
                     {safeGet(playerBioRow.jersey_number, '-')}
                     {' | '}
