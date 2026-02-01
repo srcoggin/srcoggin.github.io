@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { IconHome, IconAnalytics } from '@/components/Icons'
+import { IconHome, IconAnalytics, IconDocument } from '@/components/Icons'
 
 interface SidebarProps {
   collapsed: boolean
@@ -15,6 +15,7 @@ export default function Sidebar({ collapsed, onToggle }: SidebarProps) {
   const navItems = [
     { name: 'Home', path: '/', icon: <IconHome size={20} className="flex-shrink-0" /> },
     { name: 'Fantasy Football', path: '/fantasy-football', icon: <IconAnalytics size={20} className="flex-shrink-0" /> },
+    { name: 'News', path: '/news', icon: <IconDocument size={20} className="flex-shrink-0" /> },
   ]
 
   const toggleButton = (

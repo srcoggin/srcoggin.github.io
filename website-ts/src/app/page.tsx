@@ -36,30 +36,14 @@ export default function Home() {
           </InfoBox>
 
           <ul className="space-y-2.5 mb-6 text-sm sm:text-base break-words text-[var(--text-primary)] list-disc list-inside">
-            <li><strong>New:</strong> Rookie Talk tab with top 10 best/worst 2026 dynasty prospects.</li>
-            <li><strong>New:</strong> 2026 NFL Draft prospects section with top fantasy picks.</li>
-            <li><strong>Improved:</strong> Faster data loading — all seasons load in parallel.</li>
-            <li><strong>Added:</strong> Deep Dive tool with player search, stats, and EPA analysis.</li>
+            <li><strong>New:</strong> <strong>AI News Feed</strong> with deduplicated stories and auto-generated summaries.</li>
+            <li><strong>New:</strong> &quot;The Expert&quot; tab - Exclusive Baltimore Ravens coverage.</li>
+            <li><strong>New:</strong> 2026 NFL Draft & Dynasty Rookie rankings.</li>
+            <li><strong>Improved:</strong> Sidebar navigation with direct access to News & Tools.</li>
             <li><strong>Updated:</strong> 2025 season data now fully available.</li>
           </ul>
 
-          <div className="content-card border-l-4 border-l-[var(--accent-primary)] p-4">
-            <h3 className="text-base font-bold mb-2 text-[var(--text-primary)] flex items-center gap-2">
-              <IconAnalytics size={20} className="flex-shrink-0 text-[var(--accent-primary)]" />
-              Ready to analyze?
-            </h3>
-            <p className="text-sm text-[var(--text-secondary)] mb-4 break-words flex items-center gap-2">
-              <IconSidebarNav size={16} className="flex-shrink-0 opacity-70" />
-              Use <strong>Fantasy Football</strong> in the sidebar for all tools.
-            </p>
-            <Link
-              href="/fantasy-football"
-              className="inline-flex items-center gap-2 px-4 py-2.5 rounded-lg font-medium text-white bg-[var(--accent-primary)] hover:opacity-90 transition-opacity"
-            >
-              <IconAnalytics size={18} />
-              Go to Fantasy Football
-            </Link>
-          </div>
+
         </section>
 
         {/* Right: About */}

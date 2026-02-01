@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, ReactNode } from 'react'
+import { IconChevronDown } from '@/components/Icons'
 
 interface ExpanderProps {
   title: ReactNode
@@ -19,9 +20,10 @@ export default function Expander({ title, children, defaultExpanded = false, cla
         className="w-full px-4 py-3 flex justify-between items-center cursor-pointer transition-colors hover:bg-[var(--bg-hover)] text-[var(--text-primary)]"
       >
         <span className="font-medium flex items-center gap-2">{title}</span>
-        <span className={`text-sm transition-transform duration-200 ${isExpanded ? 'rotate-180' : 'rotate-0'}`}>
-          ▼
-        </span>
+        <IconChevronDown
+          size={18}
+          className={`flex-shrink-0 transition-transform duration-200 ${isExpanded ? 'rotate-180' : ''}`}
+        />
       </button>
       {isExpanded && (
         <div className="px-4 pb-4 pt-2">

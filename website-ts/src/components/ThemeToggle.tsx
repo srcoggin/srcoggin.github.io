@@ -1,101 +1,97 @@
 'use client'
 
-import { useState, useRef, useEffect } from 'react'
-import { useTheme } from '@/contexts/ThemeContext'
-import { THEMES, type Theme } from '@/utils/themeColors'
+import { useState, useEffect } from 'react'
+import { IconPalette, IconChevronDown } from '@/components/Icons'
+
+type ThemeName = 'dark' | 'light' | 'ocean' | 'amber' | 'forest'
+
+interface ThemeOption {
+    name: ThemeName
+    label: string
+    preview: string // CSS color for preview dot
+}
+
+const themes: ThemeOption[] = [
+    { name: 'dark', label: 'Dark', preview: '#0f1419' },
+    { name: 'light', label: 'Light', preview: '#ffffff' },
+    { name: 'ocean', label: 'Ocean', preview: '#0c1929' },
+    { name: 'amber', label: 'Amber', preview: '#1c1917' },
+    { name: 'forest', label: 'Forest', preview: '#0d1f0d' },
+]
 
 export default function ThemeToggle() {
-  const { theme, setTheme, mounted } = useTheme()
-  const [open, setOpen] = useState(false)
-  const menuRef = useRef<HTMLDivElement>(null)
+    const [currentTheme, setCurrentTheme] = useState<ThemeName>('dark')
+    const [isOpen, setIsOpen] = useState(false)
 
-  useEffect(() => {
-    function handleClickOutside(e: MouseEvent) {
-      if (menuRef.current && !menuRef.current.contains(e.target as Node)) {
-        setOpen(false)
-      }
+    // Load theme from localStorage on mount
+    useEffect(() => {
+        const saved = localStorage.getItem('theme') as ThemeName | null
+        if (saved && themes.find((t) => t.name === saved)) {
+            setCurrentTheme(saved)
+            document.documentElement.setAttribute('data-theme', saved)
+        }
+    }, [])
+
+    const handleThemeChange = (theme: ThemeName) => {
+        setCurrentTheme(theme)
+        document.documentElement.setAttribute('data-theme', theme)
+        localStorage.setItem('theme', theme)
+        setIsOpen(false)
     }
-    if (open) document.addEventListener('click', handleClickOutside)
-    return () => document.removeEventListener('click', handleClickOutside)
-  }, [open])
 
-  if (!mounted) {
+    const currentLabel = themes.find((t) => t.name === currentTheme)?.label || 'Dark'
+
     return (
-      <div className="w-10 h-10 rounded-lg bg-[var(--bg-hover)] animate-pulse" />
-    )
-  }
-
-  const current = THEMES.find((t) => t.id === theme) ?? THEMES[0]
-
-  return (
-    <div className="relative" ref={menuRef}>
-      <button
-        type="button"
-        onClick={() => setOpen((o) => !o)}
-        className="
-          flex items-center gap-2 px-3 py-2 rounded-lg
-          bg-[var(--bg-secondary)] border border-[var(--border-color)]
-          text-[var(--text-primary)] hover:bg-[var(--bg-hover)]
-          transition-colors duration-200
-        "
-        title="Theme"
-        aria-label="Choose theme"
-        aria-expanded={open}
-        aria-haspopup="listbox"
-      >
-        <span className="text-lg" aria-hidden>{current.icon}</span>
-        <span className="text-sm font-medium hidden sm:inline">Theme</span>
-        <svg
-          className={`w-4 h-4 transition-transform ${open ? 'rotate-180' : ''}`}
-          fill="none"
-          stroke="currentColor"
-          viewBox="0 0 24 24"
-          aria-hidden
-        >
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-        </svg>
-      </button>
-
-      {open && (
-        <div
-          role="listbox"
-          aria-label="Theme options"
-          className="
-            absolute right-0 top-full mt-2 py-2 min-w-[160px] rounded-xl
-            bg-[var(--bg-card)] border border-[var(--border-color)]
-            shadow-lg z-50
-          "
-        >
-          {THEMES.map((t) => (
+        <div className="relative">
             <button
-              key={t.id}
-              type="button"
-              role="option"
-              aria-selected={theme === t.id}
-              onClick={() => {
-                setTheme(t.id as Theme)
-                setOpen(false)
-              }}
-              className={`
-                w-full flex items-center gap-3 px-4 py-2.5 text-left
-                transition-colors
-                ${theme === t.id
-                  ? 'bg-[var(--accent-primary)]/15 text-[var(--accent-primary)]'
-                  : 'text-[var(--text-primary)] hover:bg-[var(--bg-hover)]'
-                }
-              `}
+                type="button"
+                onClick={() => setIsOpen(!isOpen)}
+                className="flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium transition-all duration-200 bg-[var(--bg-card)] border border-[var(--border-color)] text-[var(--text-primary)] hover:bg-[var(--bg-hover)]"
+                aria-label="Toggle theme"
+                aria-expanded={isOpen}
             >
-              <span
-                className="w-6 h-6 rounded-full border-2 border-[var(--border-color)] flex-shrink-0"
-                style={{ backgroundColor: t.swatch }}
-                aria-hidden
-              />
-              <span className="font-medium">{t.label}</span>
-              <span className="text-lg ml-auto" aria-hidden>{t.icon}</span>
+                <IconPalette size={18} className="flex-shrink-0" />
+                <span className="hidden sm:inline">{currentLabel}</span>
+                <IconChevronDown
+                    size={16}
+                    className={`flex-shrink-0 transition-transform duration-200 ${isOpen ? 'rotate-180' : ''}`}
+                />
             </button>
-          ))}
+
+            {isOpen && (
+                <>
+                    {/* Backdrop */}
+                    <div
+                        className="fixed inset-0 z-40"
+                        onClick={() => setIsOpen(false)}
+                        aria-hidden="true"
+                    />
+
+                    {/* Dropdown */}
+                    <div className="absolute right-0 mt-2 w-40 rounded-lg border border-[var(--border-color)] bg-[var(--bg-card)] shadow-lg z-50 overflow-hidden">
+                        {themes.map((theme) => (
+                            <button
+                                key={theme.name}
+                                type="button"
+                                onClick={() => handleThemeChange(theme.name)}
+                                className={`
+                  w-full flex items-center gap-3 px-3 py-2.5 text-left text-sm transition-colors duration-150
+                  ${currentTheme === theme.name
+                                        ? 'bg-[var(--accent-primary)]/10 text-[var(--accent-primary)]'
+                                        : 'text-[var(--text-primary)] hover:bg-[var(--bg-hover)]'
+                                    }
+                `}
+                            >
+                                <span
+                                    className="w-4 h-4 rounded-full border border-[var(--border-color)] flex-shrink-0"
+                                    style={{ backgroundColor: theme.preview }}
+                                />
+                                <span className="font-medium">{theme.label}</span>
+                            </button>
+                        ))}
+                    </div>
+                </>
+            )}
         </div>
-      )}
-    </div>
-  )
+    )
 }

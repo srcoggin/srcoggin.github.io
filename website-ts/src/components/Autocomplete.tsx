@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
+import { IconChevronDown } from '@/components/Icons'
 
 interface Option {
   value: string
@@ -15,19 +16,19 @@ interface AutocompleteProps {
   className?: string
 }
 
-export default function Autocomplete({ 
-  options, 
-  value, 
-  onChange, 
+export default function Autocomplete({
+  options,
+  value,
+  onChange,
   placeholder = 'Search...',
-  className = '' 
+  className = ''
 }: AutocompleteProps) {
   const [inputValue, setInputValue] = useState('')
   const [isOpen, setIsOpen] = useState(false)
   const [highlightedIndex, setHighlightedIndex] = useState(0)
   const inputRef = useRef<HTMLInputElement>(null)
   const listRef = useRef<HTMLUListElement>(null)
-  
+
   // Track the display value before clearing on focus (for restoring if user cancels)
   const previousLabelRef = useRef<string>('')
   // Track if we just made a selection (to prevent blur from overwriting)
@@ -39,9 +40,9 @@ export default function Autocomplete({
   // Filter options based on input
   const filteredOptions = inputValue.trim() === ''
     ? options
-    : options.filter(o => 
-        o.label.toLowerCase().includes(inputValue.toLowerCase())
-      )
+    : options.filter(o =>
+      o.label.toLowerCase().includes(inputValue.toLowerCase())
+    )
 
   // Update input value when selection changes externally
   useEffect(() => {
@@ -114,7 +115,7 @@ export default function Autocomplete({
     switch (e.key) {
       case 'ArrowDown':
         e.preventDefault()
-        setHighlightedIndex(prev => 
+        setHighlightedIndex(prev =>
           prev < filteredOptions.length - 1 ? prev + 1 : prev
         )
         break
@@ -150,7 +151,7 @@ export default function Autocomplete({
       />
 
       <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-[var(--text-secondary)]">
-        ▼
+        <IconChevronDown size={16} />
       </div>
 
       {isOpen && filteredOptions.length > 0 && (

@@ -5,7 +5,7 @@ import YearSelector from '@/components/YearSelector'
 import Divider from '@/components/Divider'
 import DataTable from '@/components/DataTable'
 import InfoBox from '@/components/InfoBox'
-import { IconStar, IconWarning, IconTrendUp } from '@/components/Icons'
+import { IconStar, IconWarning, IconTrendUp, IconFire, IconCrystalBall } from '@/components/Icons'
 import { PlayerData, BoomBustStats } from '@/types'
 import { calculateBoomBust } from '@/utils/calculations'
 import { getAvailableSeasons } from '@/utils/dataLoader'
@@ -19,7 +19,7 @@ const ROOKIES_2025 = new Set([
   // QBs
   'Cam Ward', 'Jaxson Dart', 'Shedeur Sanders', 'Quinn Ewers', 'Carson Beck',
   // RBs
-  'Ashton Jeanty', 'Omarion Hampton', 'Kaleb Johnson', 'TreVeyon Henderson', 
+  'Ashton Jeanty', 'Omarion Hampton', 'Kaleb Johnson', 'TreVeyon Henderson',
   'Cam Skattebo', 'Quinshon Judkins', 'Bhayshul Tuten', 'Kyle Monangai',
   // WRs
   'Tetairoa McMillan', 'Luther Burden III', 'Emeka Egbuka', 'Jayden Higgins',
@@ -207,14 +207,14 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
   // Filter data by year and position
   const filteredData = useMemo(() => {
     let filtered = data.filter(d => d.season === selectedYear)
-    
+
     if (selectedPosition === 'ALL POSITIONS') {
       const targetPositions = ['QB', 'WR', 'RB', 'TE', 'FB']
       filtered = filtered.filter(d => targetPositions.includes(d.position))
     } else {
       filtered = filtered.filter(d => d.position === selectedPosition)
     }
-    
+
     return filtered
   }, [data, selectedYear, selectedPosition])
 
@@ -248,48 +248,48 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
   }
 
   const boomColumns = [
-    { 
-      key: 'player_display_name', 
+    {
+      key: 'player_display_name',
       header: 'Name',
       format: (v: string) => formatNameWithRookie(v),
     },
     { key: 'position', header: 'Position' },
-    { 
-      key: 'boomWeeks', 
+    {
+      key: 'boomWeeks',
       header: 'Boom Weeks',
       format: (v: number) => v.toFixed(0),
     },
-    { 
-      key: 'maxPoints', 
+    {
+      key: 'maxPoints',
       header: 'High Score',
       format: (v: number) => v.toFixed(1),
     },
-    { 
-      key: 'realAvgEpa', 
+    {
+      key: 'realAvgEpa',
       header: 'EPA',
       format: (v: number) => v.toFixed(2),
     },
   ]
 
   const bustColumns = [
-    { 
-      key: 'player_display_name', 
+    {
+      key: 'player_display_name',
       header: 'Name',
       format: (v: string) => formatNameWithRookie(v),
     },
     { key: 'position', header: 'Position' },
-    { 
-      key: 'bustWeeks', 
+    {
+      key: 'bustWeeks',
       header: 'Bust Weeks',
       format: (v: number) => v.toFixed(0),
     },
-    { 
-      key: 'avgPoints', 
+    {
+      key: 'avgPoints',
       header: 'Avg Score',
       format: (v: number) => v.toFixed(1),
     },
-    { 
-      key: 'realAvgEpa', 
+    {
+      key: 'realAvgEpa',
       header: 'EPA',
       format: (v: number) => v.toFixed(2),
     },
@@ -309,7 +309,7 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
   if (filteredData.length === 0) {
     return (
       <div>
-        <YearSelector 
+        <YearSelector
           years={availableYears}
           selectedYear={selectedYear}
           onChange={setSelectedYear}
@@ -324,7 +324,7 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
 
   return (
     <div className="min-w-0 w-full">
-      <YearSelector 
+      <YearSelector
         years={availableYears}
         selectedYear={selectedYear}
         onChange={setSelectedYear}
@@ -332,10 +332,11 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
       />
 
       <h2 className={`
-        text-xl sm:text-2xl font-bold mb-2 break-words
+        text-xl sm:text-2xl font-bold mb-2 break-words flex items-center gap-2
         text-[var(--text-primary)]
       `}>
-        🔥 The Boom/Bust Watch ({selectedYear})
+        <IconFire size={22} className="flex-shrink-0 text-[var(--accent-primary)]" />
+        The Boom/Bust Watch ({selectedYear})
       </h2>
       <p className={`
         text-xs sm:text-sm mb-4 break-words
@@ -377,7 +378,7 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
             Boom Squad (&gt;25 pts)
           </h3>
           {boomData.length > 0 ? (
-            <DataTable 
+            <DataTable
               data={boomData}
               columns={boomColumns}
               showGradient="green"
@@ -399,7 +400,7 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
             <IconWarning size={22} className="flex-shrink-0" /> Bust Watch (&lt;8 pts)
           </h3>
           {bustData.length > 0 ? (
-            <DataTable 
+            <DataTable
               data={bustData}
               columns={bustColumns}
               showGradient="red"
@@ -421,10 +422,11 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
 
       {/* 2026 Outlook Section */}
       <h2 className={`
-        text-2xl font-bold mb-2
+        text-2xl font-bold mb-2 flex items-center gap-2
         text-[var(--text-primary)]
       `}>
-        🔮 2026 Season Outlook - Breakouts & Busts
+        <IconCrystalBall size={22} className="flex-shrink-0 text-[var(--accent-primary)]" />
+        2026 Season Outlook - Breakouts & Busts
       </h2>
       <p className={`
         text-sm mb-4
@@ -434,7 +436,7 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
       </p>
 
       <InfoBox type="info" className="mb-6">
-        <strong>Sources:</strong> Projections compiled from PFF (Dalton Wasserman, Jan 27, 2026), 
+        <strong>Sources:</strong> Projections compiled from PFF (Dalton Wasserman, Jan 27, 2026),
         FantasyPros (Jan 2026), and SI Fantasy. Individual sources noted per player.
       </InfoBox>
 
@@ -442,17 +444,18 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
         {/* Breakout Candidates */}
         <div>
           <h3 className={`
-            text-xl font-bold mb-4
+            text-xl font-bold mb-4 flex items-center gap-2
             text-[var(--accent-green)]
           `}>
-            📈 2026 Breakout Candidates
+            <IconTrendUp size={20} className="flex-shrink-0" />
+            2026 Breakout Candidates
           </h3>
           <p className={`text-sm mb-4 text-[var(--text-secondary)]`}>
             Players poised for a big jump in fantasy value next season.
           </p>
           <div className="space-y-3">
             {BREAKOUT_CANDIDATES.map((player) => (
-              <div 
+              <div
                 key={player.name}
                 className="p-3 rounded-lg border bg-[var(--bg-secondary)] border-[var(--border-color)]"
               >
@@ -500,7 +503,7 @@ export default function FantasyRadar({ data }: FantasyRadarProps) {
           </p>
           <div className="space-y-3">
             {REGRESSION_CANDIDATES.map((player) => (
-              <div 
+              <div
                 key={player.name}
                 className="p-3 rounded-lg border bg-[var(--bg-secondary)] border-[var(--border-color)]"
               >
