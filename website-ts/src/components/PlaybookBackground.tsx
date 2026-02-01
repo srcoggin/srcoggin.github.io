@@ -11,17 +11,36 @@ interface Route {
     delay: string
     duration: string
     type: number
-    slotIndex: number // 0-14
+    slotIndex: number
     endX: number
     endY: number
     angle: number
 }
 
-const SLOT_COUNT = 15
-const SLOT_WIDTH = 100 / SLOT_COUNT
+const DESKTOP_SLOT_COUNT = 15
+const MOBILE_SLOT_COUNT = 5
+const MOBILE_ACTIVE_MIN = 2
+const MOBILE_ACTIVE_MAX = 4
+const DESKTOP_ACTIVE_MIN = 10
+const DESKTOP_ACTIVE_MAX = 13
 
 export default function PlaybookBackground() {
     const [routes, setRoutes] = useState<Route[]>([])
+    const [isMobile, setIsMobile] = useState(false)
+    const [hasMeasured, setHasMeasured] = useState(false)
+
+    // Detect mobile viewport (after mount to avoid hydration mismatch)
+    useEffect(() => {
+        const check = () => {
+            if (typeof window !== 'undefined') {
+                setIsMobile(window.innerWidth < 768)
+                setHasMeasured(true)
+            }
+        }
+        check()
+        window.addEventListener('resize', check)
+        return () => window.removeEventListener('resize', check)
+    }, [])
 
     // --- HELPERS ---
     const random = useCallback((min: number, max: number) => Math.random() * (max - min) + min, [])
@@ -30,11 +49,12 @@ export default function PlaybookBackground() {
     const safeY = useCallback((val: number) => Math.min(Math.max(val, 2), 95), [])
 
     // --- CREATE ROUTE ---
-    const createRoute = useCallback((slotIndex: number, neighbors: (number | undefined)[], initialDelay: boolean = false): Route => {
+    const createRoute = useCallback((slotIndex: number, neighbors: (number | undefined)[], initialDelay: boolean, slotCount: number): Route => {
+        const slotWidth = 100 / slotCount
         // Calculate Base X for this slot
-        const slotBase = (slotIndex * SLOT_WIDTH) + (SLOT_WIDTH / 2)
+        const slotBase = (slotIndex * slotWidth) + (slotWidth / 2)
         // Jitter: Reduced to prevent overlap (+/- 35% of slot width)
-        const jitter = random(-SLOT_WIDTH * 0.35, SLOT_WIDTH * 0.35)
+        const jitter = random(-slotWidth * 0.35, slotWidth * 0.35)
         const startX = safeX(slotBase + jitter)
 
         const isLeft = startX < 50
@@ -140,45 +160,45 @@ export default function PlaybookBackground() {
 
     // --- INITIAL MOUNT ---
     useEffect(() => {
-        // Pick random slots to activate (10-13 active out of 15) -> High density
-        const allSlots = Array.from({ length: SLOT_COUNT }, (_, i) => i)
-        // Shuffle
+        if (!hasMeasured) return
+        const slotCount = isMobile ? MOBILE_SLOT_COUNT : DESKTOP_SLOT_COUNT
+        const activeMin = isMobile ? MOBILE_ACTIVE_MIN : DESKTOP_ACTIVE_MIN
+        const activeMax = isMobile ? MOBILE_ACTIVE_MAX : DESKTOP_ACTIVE_MAX
+
+        const allSlots = Array.from({ length: slotCount }, (_, i) => i)
         for (let i = allSlots.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
             [allSlots[i], allSlots[j]] = [allSlots[j], allSlots[i]];
         }
 
-        const activeCount = Math.floor(Math.random() * 4) + 10 // 10-13
-        const chosenSlots = allSlots.slice(0, activeCount).sort((a, b) => a - b) // Sort to easily check neighbors
+        const activeCount = Math.min(
+            Math.floor(Math.random() * (activeMax - activeMin + 1)) + activeMin,
+            slotCount
+        )
+        const chosenSlots = allSlots.slice(0, activeCount).sort((a, b) => a - b)
 
         const initialRoutes: Route[] = []
-        chosenSlots.forEach((slot, i) => {
-            // Find neighbor type if exists (look at previous created one if it's adjacent)
-            // This is "start up" logic, imperfect neighbor check is fine
-            initialRoutes.push(createRoute(slot, [], true))
+        chosenSlots.forEach((slot) => {
+            initialRoutes.push(createRoute(slot, [], true, slotCount))
         })
 
         setRoutes(initialRoutes)
-    }, [createRoute])
+    }, [createRoute, isMobile, hasMeasured])
 
     // --- REGENERATE ---
+    const slotCount = isMobile ? MOBILE_SLOT_COUNT : DESKTOP_SLOT_COUNT
     const handleAnimationEnd = (endedRouteId: number) => {
         setRoutes(prev => {
-            // Find the route that ended
             const targetIndex = prev.findIndex(r => r.id === endedRouteId)
             if (targetIndex === -1) return prev
 
             const oldRoute = prev[targetIndex]
-
-            // Look for neighbors in current state
-            // Neighbors are routes with slotIndex +/- 1
             const neighbors = prev
                 .filter(r => Math.abs(r.slotIndex - oldRoute.slotIndex) <= 1 && r.id !== endedRouteId)
                 .map(r => r.type)
 
-            const newRoute = createRoute(oldRoute.slotIndex, neighbors, false)
+            const newRoute = createRoute(oldRoute.slotIndex, neighbors, false, slotCount)
 
-            // Replace in array
             const newRoutes = [...prev]
             newRoutes[targetIndex] = newRoute
             return newRoutes
@@ -187,9 +207,11 @@ export default function PlaybookBackground() {
 
     if (routes.length === 0) return null
 
+    // Hide runners on mobile - they stretch badly on tall narrow viewports
+    if (isMobile) return null
+
     return (
         <div className="absolute inset-0 z-0 overflow-hidden pointer-events-none opacity-40">
-            {/* Opacity upped to 40% for better trail visibility */}
             <svg
                 className="w-full h-full"
                 viewBox="0 0 100 100"

@@ -10,7 +10,7 @@ import { IconLiveUpdates, IconLaunch, IconAnalytics, IconSidebarNav, IconDevProf
 
 export default function Home() {
   return (
-    <div className="relative flex-1 flex flex-col min-h-0">
+    <div className="relative flex-1 flex flex-col min-h-0 min-w-0 overflow-x-hidden">
       {/* Animated Background */}
       <PlaybookBackground />
 
@@ -73,7 +73,7 @@ export default function Home() {
 
             <div className="content-card p-5">
               <p className="mb-4 text-sm sm:text-base break-words text-[var(--text-primary)]">
-                Hey! I&apos;m a small-time coder and a{' '}
+                Hey! I&apos;m a small-time content creator and a{' '}
                 <strong className="text-purple-500">massive Baltimore Ravens fan</strong>.
                 I built this site because my buddies and I needed an easier way to access NFL stats
                 and fantasy football data in a format that actually made sense to us.
