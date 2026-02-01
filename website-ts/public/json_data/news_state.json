@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-02-01T16:46:16.303Z",
+  "lastRun": "2026-02-01T22:38:29.416Z",
   "processedHashes": [
     "eb991cda28ba1b88",
     "de58cc7438e2c136",
@@ -26,7 +26,10 @@
     "d4b86f2343158aa0",
     "5f4c4aabe8d6c536",
     "dd0010a303abdb05",
-    "276435fa2b6c9c3b"
+    "276435fa2b6c9c3b",
+    "ce8a61ae08c25aac",
+    "64dfa3ec5c1225a7",
+    "44f7ca0255ccf923"
   ],
   "articles": [
     {
@@ -370,6 +373,48 @@
       "hash": "276435fa2b6c9c3b",
       "aiGenerated": true,
       "summary": "No summary available."
+    },
+    {
+      "id": "ml4bncvwcmixeu",
+      "title": "Cardinals to hire former Rams offensive coordinator Mike LaFleur as their new coach",
+      "slug": "cardinals-to-hire-former-rams-offensive-coordinator-mike-laf",
+      "date": "2026-02-01",
+      "category": "coaching",
+      "sources": [
+        "ESPN NFL",
+        "Yahoo Sports NFL",
+        "CBS Sports NFL"
+      ],
+      "hash": "ce8a61ae08c25aac",
+      "aiGenerated": true,
+      "summary": "The Arizona Cardinals have reportedly finalized a deal to hire Mike LaFleur as their new head coach, bringing the NFL’s protracted coaching carousel to a close. Sources close to the team, as initially..."
+    },
+    {
+      "id": "ml4bnf4fvfxar7",
+      "title": "Early thoughts on Las Vegas Raiders planning to hire Klint Kubiak as head coach",
+      "slug": "early-thoughts-on-las-vegas-raiders-planning-to-hire-klint-k",
+      "date": "2026-02-01",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "64dfa3ec5c1225a7",
+      "aiGenerated": true,
+      "summary": "The Las Vegas Raiders are reportedly on the verge of appointing their next head coach, with multiple outlets indicating that Seattle Seahawks offensive coordinator Klint Kubiak is the expected choice ..."
+    },
+    {
+      "id": "ml4bnibekug0cz",
+      "title": "Dolphins to hire Packers linebackers coach as new defensive coordinator",
+      "slug": "dolphins-to-hire-packers-linebackers-coach-as-new-defensive",
+      "date": "2026-02-01",
+      "category": "coaching",
+      "sources": [
+        "ESPN NFL",
+        "Yahoo Sports NFL"
+      ],
+      "hash": "44f7ca0255ccf923",
+      "aiGenerated": true,
+      "summary": "The Miami Dolphins have finalized their defensive leadership, bringing aboard Sean Duggan as the team's new defensive coordinator under head coach Jeff Hafley, sources confirmed to ESPN. Duggan, who m..."
     }
   ]
 }
