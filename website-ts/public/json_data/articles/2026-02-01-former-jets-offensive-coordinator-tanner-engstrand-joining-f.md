@@ -5,22 +5,29 @@ category: coaching
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"
-    url: "https://sports.yahoo.com/articles/former-jets-offensive-coordinator-tanner-011544170.html"
+    url: "https://sports.yahoo.com/articles/falcons-hire-tanner-engstrand-passing-142421705.html"
+  - name: "Pro Football Talk"
+    url: "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-to-hire-tanner-engstrand-as-passing-game-coordinator"
 tags: ["coaching", "jets", "falcons"]
 ---
 
-# Former Jets offensive coordinator Tanner Engstrand joining Falcons staff: report
+The Atlanta Falcons are continuing to build out their new coaching staff, reportedly hiring Tanner Engstrand as their passing game coordinator. The move brings an experienced offensive mind to Atlanta, marking one of the key early appointments for the Falcons' offensive strategy under their new regime.
 
-**Category:** Coaching News
+Engstrand joins the Falcons just days after parting ways with the New York Jets, where he served as offensive coordinator. His swift transition to a prominent role in Atlanta underscores his value and the demand for coaches with a recent track record in coordinating NFL offenses. While the specific details of his responsibilities within the Falcons' offensive structure are yet to be fully outlined, the title of passing game coordinator typically indicates a significant influence over quarterback development, route concepts, and overall aerial attack strategy.
 
-Former New York Jets offensive coordinator Tanner Engstrand is swiftly finding a new home in the NFL coaching ranks, reportedly joining the Atlanta Falcons' staff just days after parting ways with the Jets. The move signals another step in the Falcons' ongoing process of assembling their new coaching contingent under head coach Raheem Morris and offensive coordinator Zac Robinson.
+The addition of Engstrand is a crucial step for the Falcons as they assemble a new offensive staff tasked with revitalizing a unit that has often struggled for consistency in recent seasons. A passing game coordinator plays a vital role in modern NFL offenses, focusing on maximizing quarterback performance, developing receivers, and designing schemes that exploit defensive weaknesses through the air. Engstrand’s experience as an offensive coordinator with the Jets suggests he brings a comprehensive understanding of offensive play-calling and game planning, which will be invaluable to the Falcons.
 
-Engstrand's departure from the Jets earlier in the week marked a quick turnaround for the coach, who had served as a key figure on their offensive staff. While the exact circumstances of his exit from New York were not detailed, coaching changes often follow periods of team evaluation and strategic shifts. The Jets' offense has faced considerable scrutiny in recent seasons, experiencing various challenges that led to a desire for new perspectives and approaches. Engstrand's background as an offensive coordinator, even if his tenure in that specific role with the Jets was brief or recent, adds an experienced mind to the Falcons' burgeoning offensive brain trust.
+His immediate past role with the Jets provides him with recent experience in a high-pressure environment, working with various personnel. This background will allow him to hit the ground running in Atlanta, contributing to the development of a cohesive and effective offensive system. The Falcons' pursuit of Engstrand highlights their commitment to investing in specialized coaching talent to improve their passing game, a critical component for sustained success in today's NFL.
 
-For the Atlanta Falcons, the addition of Engstrand comes as the team embarks on a new era. Head coach Raheem Morris, in his second stint leading an NFL team, has prioritized building a robust and innovative offensive scheme. With Zac Robinson, a protégé of Sean McVay, taking the reins as offensive coordinator, the Falcons are aiming to revitalize an offense that has often underperformed despite possessing high-end talent like running back Bijan Robinson and tight end Kyle Pitts. Engstrand's experience, particularly with offensive game planning and player development, could be a valuable asset as Robinson crafts his system.
+As the Falcons continue to finalize their full coaching staff, Engstrand's hiring signals a clear intent to prioritize the passing game. Fans will be watching closely to see how his expertise integrates into the broader offensive philosophy being established and how it translates into improved performance on the field as the team looks to forge a new identity heading into the upcoming season. The focus now shifts to how Engstrand will work with the new offensive coordinator and head coach to shape Atlanta's aerial attack.
 
-The specific role Engstrand will assume with the Falcons remains undisclosed, but his background suggests he will contribute significantly to the offensive side of the ball. In the NFL, the offseason is a critical period for coaches to mesh, develop a shared philosophy, and lay the groundwork for a cohesive unit. Bringing
+## Sources
+
+This story is being reported by 2 sources:
+
+- **Yahoo Sports NFL**: [Falcons to hire Tanner Engstrand as passing game coordinator](https://sports.yahoo.com/articles/falcons-hire-tanner-engstrand-passing-142421705.html)
+- **Pro Football Talk**: [Falcons to hire Tanner Engstrand as passing game coordinator](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-to-hire-tanner-engstrand-as-passing-game-coordinator)
 
 ---
 
-*This article was generated using AI based on reporting from Yahoo Sports NFL.*
+*AI-generated summary based on reporting from Yahoo Sports NFL, Pro Football Talk.*

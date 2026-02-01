@@ -79,3 +79,10 @@ export const CATEGORY_LIMITS: Record<string, number> = {
 
 // Default limit for categories not specified
 export const DEFAULT_CATEGORY_LIMIT = 15
+
+// Archive settings
+export const OLD_ARTICLES_DIR = 'c:/Users/Will/Documents/GitHub/Website/Old Article Markdowns'
+export const ARCHIVE_AGE_DAYS = 14
+
+// UnGenerated queue - articles that failed AI generation go here for manual processing
+export const UNGENERATED_DIR = 'c:/Users/Will/Documents/GitHub/Website/Articles/UnGenerated Articles'

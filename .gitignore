@@ -2,3 +2,5 @@
 *.parquet
 /scripts
 *.pyc
+/Articles
+/Old_Article_Markdowns

@@ -9,10 +9,6 @@ sources:
 tags: ["free-agency", "bengals"]
 ---
 
-# Pair of Bengals among top 50 NFL Free Agents
-
-**Category:** Free Agency
-
 As the NFL’s free agency period rapidly approaches, the market for top-tier talent is heating up, with defensive end Trey Hendrickson emerging as a premier name expected to command significant attention and a substantial contract. Yahoo Sports NFL has identified Hendrickson as one of the league's top 50 free agents, signaling a lucrative payday for the former Cincinnati Bengals pass rusher.
 
 Hendrickson, who has established himself as a disruptive force off the edge, is set to be one of the most coveted defensive players available. His inclusion among the top 50 free agents underscores his value in a league increasingly dominated by the need to pressure opposing quarterbacks. The Yahoo Sports NFL report explicitly states that Hendrickson "will be cashing in during Free Agency," a strong indication of the high demand and financial commitment he is projected to receive from interested teams.
@@ -25,4 +21,4 @@ As the official start of free agency draws near, all eyes will be on Trey Hendri
 
 ---
 
-*This article was generated using AI based on reporting from Yahoo Sports NFL.*
+*AI-generated summary based on reporting from Yahoo Sports NFL.*

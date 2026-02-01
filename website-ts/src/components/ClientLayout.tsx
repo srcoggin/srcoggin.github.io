@@ -67,28 +67,21 @@ export default function ClientLayout({ children }: ClientLayoutProps) {
                                 className="flex items-center gap-2 hover:opacity-80 transition-opacity"
                             >
                                 {/* Logo */}
-                                <div className="relative w-8 h-8 rounded-lg overflow-hidden bg-[var(--accent-primary)] flex items-center justify-center">
+                                <div className="relative w-8 h-8 flex items-center justify-center">
                                     <Image
                                         src="/Logo.png"
                                         alt="Logo"
                                         width={32}
                                         height={32}
-                                        className="object-contain"
-                                        priority
-                                        unoptimized
-                                        onError={(e) => {
-                                            // Fallback to icon if logo fails to load
-                                            (e.target as HTMLImageElement).style.display = 'none'
-                                        }}
+                                        className="w-8 h-8 object-contain"
                                     />
-                                    <IconFootball size={18} className="absolute text-white opacity-0" />
                                 </div>
 
                                 <span className="text-lg font-bold text-[var(--text-primary)] hidden sm:inline">
-                                    The Expert Football
+                                    GreenEighteen Sports
                                 </span>
                                 <span className="text-lg font-bold text-[var(--text-primary)] sm:hidden">
-                                    TEF
+                                    G18
                                 </span>
                             </Link>
                         </div>

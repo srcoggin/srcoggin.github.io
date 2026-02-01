@@ -1,12 +1,16 @@
+// NFL News Cleanup Script
+// Removes any non-AI-generated articles from the articles folder and updates indexes
+
 import fs from 'fs'
 import path from 'path'
-import { ArticlesIndex, Article } from '../src/types' // Assuming types are accessible here or duplicate if needed
+import { fileURLToPath } from 'url'
 
-// We need to define the type locally if we can't import easily from src in this script context
-// or just use 'any' for simplicity in a cleanup script, but strict typing is better.
-// Let's rely on JSON structure.
+// Get proper base directory (website-ts root)
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
+const WEBSITE_ROOT = path.resolve(__dirname, '..')
 
-interface LocalArticle {
+interface ArticleMetadata {
     id: string
     title: string
     slug: string
@@ -18,68 +22,136 @@ interface LocalArticle {
     summary?: string
 }
 
-interface LocalArticlesIndex {
-    articles: LocalArticle[]
+interface ArticlesIndex {
+    articles: ArticleMetadata[]
     lastUpdated: string
+    count: number
 }
 
-const INDEX_PATH = path.join(process.cwd(), 'public', 'json_data', 'articles_index.json')
-const ARTICLES_DIR = path.join(process.cwd(), 'public', 'json_data', 'articles')
+interface NewsState {
+    lastRun: string
+    processedHashes: string[]
+    articles: ArticleMetadata[]
+}
+
+const INDEX_PATH = path.join(WEBSITE_ROOT, 'public', 'json_data', 'articles_index.json')
+const STATE_PATH = path.join(WEBSITE_ROOT, 'public', 'json_data', 'news_state.json')
+const ARTICLES_DIR = path.join(WEBSITE_ROOT, 'public', 'json_data', 'articles')
 
 function cleanupArticles() {
-    console.log('Starting article cleanup...')
+    console.log('\n🧹 NFL News Cleanup - Remove Non-AI Articles')
+    console.log('='.repeat(50))
+    console.log(`📂 Working directory: ${WEBSITE_ROOT}`)
+    console.log(`📁 Articles folder: ${ARTICLES_DIR}`)
 
-    if (!fs.existsSync(INDEX_PATH)) {
-        console.error('Articles index not found!')
+    // Check if articles folder exists
+    if (!fs.existsSync(ARTICLES_DIR)) {
+        console.log('\n⚠️ Articles folder does not exist. Nothing to clean.')
         return
     }
 
-    const indexContent = fs.readFileSync(INDEX_PATH, 'utf-8')
-    const indexData: LocalArticlesIndex = JSON.parse(indexContent)
-
-    const initialCount = indexData.articles.length
-    const aiArticles: LocalArticle[] = []
-    const articlesToRemove: LocalArticle[] = []
-
-    // Filter articles
-    indexData.articles.forEach(article => {
-        if (article.aiGenerated) {
-            aiArticles.push(article)
-        } else {
-            articlesToRemove.push(article)
-        }
-    })
-
-    console.log(`Found ${articlesToRemove.length} non-AI articles to remove.`)
-    console.log(`Keeping ${aiArticles.length} AI-generated articles.`)
-
-    // Delete files
-    let deletedCount = 0
-    articlesToRemove.forEach(article => {
-        const filename = `${article.date}-${article.slug}.md`
-        const filePath = path.join(ARTICLES_DIR, filename)
-
+    // Load index
+    let indexData: ArticlesIndex | null = null
+    if (fs.existsSync(INDEX_PATH)) {
         try {
-            if (fs.existsSync(filePath)) {
-                fs.unlinkSync(filePath)
-                deletedCount++
-                // console.log(`Deleted: ${filename}`) 
-            } else {
-                console.warn(`File not found (skip delete): ${filename}`)
-            }
-        } catch (err) {
-            console.error(`Failed to delete ${filename}:`, err)
+            indexData = JSON.parse(fs.readFileSync(INDEX_PATH, 'utf-8'))
+            console.log(`\n📋 Loaded index: ${indexData?.articles.length || 0} articles`)
+        } catch (e) {
+            console.error('⚠️ Could not parse index file')
         }
-    })
+    } else {
+        console.log('\n⚠️ No index file found')
+    }
 
-    console.log(`Successfully deleted ${deletedCount} markdown files.`)
+    // Load state
+    let stateData: NewsState | null = null
+    if (fs.existsSync(STATE_PATH)) {
+        try {
+            stateData = JSON.parse(fs.readFileSync(STATE_PATH, 'utf-8'))
+            console.log(`📋 Loaded state: ${stateData?.articles.length || 0} articles`)
+        } catch (e) {
+            console.error('⚠️ Could not parse state file')
+        }
+    } else {
+        console.log('⚠️ No state file found')
+    }
 
-    // Update Index
-    indexData.articles = aiArticles
-    fs.writeFileSync(INDEX_PATH, JSON.stringify(indexData, null, 2))
-    console.log('Updated articles_index.json')
+    // Get all markdown files in articles folder
+    const allFiles = fs.readdirSync(ARTICLES_DIR).filter(f => f.endsWith('.md'))
+    console.log(`\n📄 Found ${allFiles.length} markdown files in articles folder`)
 
-    console.log('Cleanup complete! 🧹')
+    // Track deletions
+    let deletedCount = 0
+    const keptFiles: string[] = []
+    const deletedFiles: string[] = []
+
+    // Check each file - read frontmatter to determine if AI generated
+    for (const filename of allFiles) {
+        const filepath = path.join(ARTICLES_DIR, filename)
+        const content = fs.readFileSync(filepath, 'utf-8')
+
+        // Check for aiGenerated: true in frontmatter
+        const aiGeneratedMatch = content.match(/^---[\s\S]*?aiGenerated:\s*(true|false)[\s\S]*?---/m)
+        const isAiGenerated = aiGeneratedMatch && aiGeneratedMatch[1] === 'true'
+
+        if (!isAiGenerated) {
+            // Delete non-AI article
+            try {
+                fs.unlinkSync(filepath)
+                deletedFiles.push(filename)
+                deletedCount++
+                console.log(`  🗑️ Deleted: ${filename}`)
+            } catch (err) {
+                console.error(`  ⚠️ Failed to delete ${filename}:`, err)
+            }
+        } else {
+            keptFiles.push(filename)
+        }
+    }
+
+    console.log(`\n✓ Deleted ${deletedCount} non-AI articles`)
+    console.log(`✓ Kept ${keptFiles.length} AI-generated articles`)
+
+    // Update index to only include kept files
+    if (indexData) {
+        const deletedFilenames = new Set(deletedFiles)
+        const originalCount = indexData.articles.length
+
+        indexData.articles = indexData.articles.filter(article => {
+            const filename = `${article.date}-${article.slug}.md`
+            return !deletedFilenames.has(filename)
+        })
+        indexData.count = indexData.articles.length
+        indexData.lastUpdated = new Date().toISOString()
+
+        fs.writeFileSync(INDEX_PATH, JSON.stringify(indexData, null, 2))
+        console.log(`\n📋 Updated index: ${originalCount} → ${indexData.articles.length} articles`)
+    }
+
+    // Update state to only include kept files
+    if (stateData) {
+        const deletedFilenames = new Set(deletedFiles)
+        const hashesToRemove = new Set<string>()
+
+        stateData.articles = stateData.articles.filter(article => {
+            const filename = `${article.date}-${article.slug}.md`
+            if (deletedFilenames.has(filename)) {
+                hashesToRemove.add(article.hash)
+                return false
+            }
+            return true
+        })
+
+        stateData.processedHashes = stateData.processedHashes.filter(h => !hashesToRemove.has(h))
+        stateData.lastRun = new Date().toISOString()
+
+        fs.writeFileSync(STATE_PATH, JSON.stringify(stateData, null, 2))
+        console.log(`📋 Updated state: removed ${hashesToRemove.size} hash entries`)
+    }
+
+    console.log('\n' + '='.repeat(50))
+    console.log('✅ Cleanup complete!')
+    console.log('='.repeat(50) + '\n')
 }
 
 cleanupArticles()

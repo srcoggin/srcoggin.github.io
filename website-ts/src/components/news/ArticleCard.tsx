@@ -38,12 +38,13 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
             className={`
                 group block relative overflow-hidden rounded-xl border border-[var(--border-color)] bg-[var(--bg-secondary)] 
                 transition-all duration-300 hover:border-[var(--accent-primary)] hover:shadow-lg hover:shadow-[var(--accent-primary)]/10
+                active:scale-[0.98] touch-manipulation
                 ${featured ? 'col-span-full md:col-span-2 lg:col-span-3' : 'col-span-1'}
             `}
         >
-            <div className={`p-5 ${featured ? 'md:p-8 flex flex-col justify-center h-full' : ''}`}>
-                <div className="flex items-center gap-3 mb-3">
-                    <span className={`px-2.5 py-0.5 text-xs font-semibold rounded-full ${categoryColor}`}>
+            <div className={`p-4 sm:p-5 ${featured ? 'md:p-8 flex flex-col justify-center h-full' : ''}`}>
+                <div className="flex flex-wrap items-center gap-2 sm:gap-3 mb-2 sm:mb-3">
+                    <span className={`px-2 py-0.5 text-xs font-semibold rounded-full ${categoryColor}`}>
                         {categoryLabel}
                     </span>
                     <span className="text-xs text-[var(--text-secondary)]">
@@ -59,7 +60,7 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
                 </div>
 
                 <h3 className={`
-                    font-bold text-[var(--text-primary)] mb-3 group-hover:text-[var(--accent-primary)] transition-colors
+                    font-bold text-[var(--text-primary)] mb-3 group-hover:text-[var(--accent-primary)] transition-colors line-clamp-3
                     ${featured ? 'text-2xl md:text-4xl leading-tight' : 'text-lg leading-snug'}
                 `}>
                     {article.title}
