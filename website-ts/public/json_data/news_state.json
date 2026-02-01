@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-02-01T09:06:52.136Z",
+  "lastRun": "2026-02-01T12:56:17.732Z",
   "processedHashes": [
     "71ba700e64c0a484",
     "82fc6cff22832080",
@@ -74,7 +74,13 @@
     "56cf644c84852dae",
     "859ba47b0fbdb5d6",
     "884936d8482bdedd",
-    "bf944bb019a51cfb"
+    "bf944bb019a51cfb",
+    "e049bb24fad7a7e9",
+    "453659574e73b26b",
+    "4ef84669ce857d8f",
+    "1c2c327908e35b39",
+    "c571a62d6d62cd6e",
+    "a4e0424e597e030c"
   ],
   "articles": [
     {
@@ -896,6 +902,84 @@
         "Pro Football Talk"
       ],
       "hash": "bf944bb019a51cfb"
+    },
+    {
+      "id": "ml3qvgvjby13xk",
+      "title": "Pair of Bengals among top 50 NFL Free Agents",
+      "slug": "pair-of-bengals-among-top-50-nfl-free-agents",
+      "date": "2026-02-01",
+      "category": "free-agency",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "e049bb24fad7a7e9",
+      "aiGenerated": true,
+      "summary": "As the NFL’s free agency period rapidly approaches, the market for top-tier talent is heating up, with defensive end Trey Hendrickson emerging as a premier name expected to command significant attenti..."
+    },
+    {
+      "id": "ml3qvh43g29b1d",
+      "title": "New York Jets Flight Connections 02/01/26",
+      "slug": "new-york-jets-flight-connections-020126",
+      "date": "2026-02-01",
+      "category": "trades",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "453659574e73b26b",
+      "aiGenerated": false,
+      "summary": "Happy Sunday, Jets fans! Below are your daily Jets links. Michael Nania – NY Jets lose coveted DC candidate to AFC East rivals Robby Sabo – NY Jets want to trade to No. 1 for Fernando Mendoza? Be care..."
+    },
+    {
+      "id": "ml3qvhef039pt5",
+      "title": "Cleveland Browns news (2/1): Pondering a day without football",
+      "slug": "cleveland-browns-news-21-pondering-a-day-without-football",
+      "date": "2026-02-01",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "4ef84669ce857d8f",
+      "aiGenerated": false,
+      "summary": "The latest Cleveland Browns news and notes from around the NFL in the Sunday Dawg Chow."
+    },
+    {
+      "id": "ml3qvhngprm32n",
+      "title": "What we know and still don’t know about the Broncos (this week)",
+      "slug": "what-we-know-and-still-dont-know-about-the-broncos-this-week",
+      "date": "2026-02-01",
+      "category": "injuries",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "1c2c327908e35b39",
+      "aiGenerated": false,
+      "summary": "The Broncos were a freak injury away from potentially being a Super Bowl team. While there will be a sense of what could have been, the foundation is set."
+    },
+    {
+      "id": "ml3qvhyt3aun1x",
+      "title": "Golden Nuggets: One more week of this for 49ers fans",
+      "slug": "golden-nuggets-one-more-week-of-this-for-49ers-fans",
+      "date": "2026-02-01",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "c571a62d6d62cd6e",
+      "aiGenerated": false,
+      "summary": "Your daily San Francisco 49ers news for Sunday, February 1st, 2026"
+    },
+    {
+      "id": "ml3qvi9tw5a1vq",
+      "title": "NFL-ESPN megadeal closes after receiving governmental approval",
+      "slug": "nfl-espn-megadeal-closes-after-receiving-governmental-approv",
+      "date": "2026-02-01",
+      "category": "trades",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "a4e0424e597e030c",
+      "aiGenerated": false,
+      "summary": "It's a touchdown for the NFL and ESPN, and it came just as the frenzy of Super Bowl LX in San Francisco is set to begin this week."
     }
   ]
 }
