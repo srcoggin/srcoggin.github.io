@@ -1,7 +1,7 @@
 ---
 title: "The Seahawks have a short-yardage threat: AJ Barne..."
 date: 2026-02-02
-category: general
+category: injuries
 aiGenerated: true
 sources:
   - name: "ESPN NFL"

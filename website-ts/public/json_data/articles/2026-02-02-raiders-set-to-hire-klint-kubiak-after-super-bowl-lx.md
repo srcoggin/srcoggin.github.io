@@ -1,7 +1,7 @@
 ---
 title: "Raiders set to hire Klint Kubiak after Super Bowl LX"
 date: 2026-02-02
-category: coaching
+category: superbowl
 aiGenerated: true
 sources:
   - name: "Pro Football Talk"

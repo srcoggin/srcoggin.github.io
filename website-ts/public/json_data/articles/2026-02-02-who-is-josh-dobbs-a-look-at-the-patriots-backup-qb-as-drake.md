@@ -1,7 +1,7 @@
 ---
 title: "Who is Josh Dobbs: A look at the Patriots backup QB as Drake Maye deals with shoulder injury before Super Bowl"
 date: 2026-02-02
-category: trades
+category: injuries
 aiGenerated: true
 sources:
   - name: "CBS Sports NFL"

@@ -1,7 +1,7 @@
 ---
 title: "On Monday, Roger Goodell could get another awkward question about hiring practices"
 date: 2026-02-02
-category: general
+category: coaching
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

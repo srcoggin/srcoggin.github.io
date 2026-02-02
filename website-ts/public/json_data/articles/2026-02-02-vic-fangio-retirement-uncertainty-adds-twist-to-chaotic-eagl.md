@@ -1,7 +1,7 @@
 ---
 title: "Vic Fangio retirement uncertainty adds twist to chaotic Eagles offseason"
 date: 2026-02-02
-category: player-news
+category: coaching
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

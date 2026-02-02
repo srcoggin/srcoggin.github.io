@@ -1,7 +1,7 @@
 ---
 title: "ESPN closes deal for NFL Network, RedZone rights"
 date: 2026-02-01
-category: general
+category: trades
 aiGenerated: true
 sources:
   - name: "ESPN NFL"

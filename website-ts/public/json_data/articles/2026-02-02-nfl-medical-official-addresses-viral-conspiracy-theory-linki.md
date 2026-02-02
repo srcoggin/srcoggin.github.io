@@ -1,7 +1,7 @@
 ---
 title: "NFL medical official addresses viral conspiracy theory linking 49ers injuries to electrical substation"
 date: 2026-02-02
-category: general
+category: injuries
 aiGenerated: true
 sources:
   - name: "CBS Sports NFL"

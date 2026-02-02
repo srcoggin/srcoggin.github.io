@@ -1,7 +1,7 @@
 ---
 title: "What led the Vikings to fire GM Kwesi Adofo-Mensah..."
 date: 2026-02-01
-category: coaching
+category: team-news
 aiGenerated: true
 sources:
   - name: "ESPN NFL"

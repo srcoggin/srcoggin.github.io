@@ -183,6 +183,7 @@ export interface Article {
   sources: string[]
   hash: string
   aiGenerated?: boolean
+  summary?: string
 }
 
 export interface ArticlesIndex {

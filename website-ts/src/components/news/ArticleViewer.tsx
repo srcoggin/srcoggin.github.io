@@ -129,12 +129,14 @@ export default function ArticleViewer({ slug }: ArticleViewerProps) {
 
                     {/* Article Body */}
                     <div className="prose prose-invert md:prose-lg max-w-none 
-                        prose-headings:text-[var(--text-primary)] 
-                        prose-p:text-[var(--text-secondary)] prose-p:leading-relaxed
+                        prose-headings:text-[var(--text-primary)] prose-headings:mb-4 prose-headings:mt-8
+                        prose-p:text-[var(--text-secondary)] prose-p:leading-relaxed prose-p:mb-6
                         prose-a:text-[var(--accent-primary)] prose-a:no-underline hover:prose-a:underline
                         prose-strong:text-[var(--text-primary)]
-                        prose-li:text-[var(--text-secondary)]
-                        prose-blockquote:border-l-4 prose-blockquote:border-[var(--accent-primary)] prose-blockquote:bg-[var(--bg-secondary)] prose-blockquote:py-2 prose-blockquote:px-4 prose-blockquote:rounded-r
+                        prose-li:text-[var(--text-secondary)] prose-li:mb-2
+                        prose-ul:my-6 prose-ol:my-6
+                        prose-blockquote:border-l-4 prose-blockquote:border-[var(--accent-primary)] prose-blockquote:bg-[var(--bg-secondary)] prose-blockquote:py-2 prose-blockquote:px-4 prose-blockquote:rounded-r prose-blockquote:my-6
+                        prose-hr:border-[var(--border-color)] prose-hr:my-8
                     ">
                         <ReactMarkdown>{content}</ReactMarkdown>
                     </div>

@@ -1,7 +1,7 @@
 ---
 title: "Drake Maye injury: Patriots QB, dealing with shoulder issue, misses practice due to illness, per Mike Vrabel"
 date: 2026-02-02
-category: trades
+category: injuries
 aiGenerated: true
 sources:
   - name: "CBS Sports NFL"

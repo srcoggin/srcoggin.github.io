@@ -66,7 +66,7 @@ export default function NewsFeed() {
 
         // Layout: Featured Article (first one) + Grid of others
         const featuredArticle = tabArticles[0]
-        const otherArticles = tabArticles.slice(1, 6) // Next 5 articles as requested
+        const otherArticles = tabArticles.slice(1) // Show all articles after featured
 
         return (
             <div className="space-y-8 animate-in fade-in duration-500">

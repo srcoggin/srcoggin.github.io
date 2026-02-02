@@ -1,7 +1,7 @@
 ---
 title: "Sam Darnold has fresh perspective on Jets, Panthers failure after Seahawks success"
 date: 2026-02-02
-category: general
+category: injuries
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

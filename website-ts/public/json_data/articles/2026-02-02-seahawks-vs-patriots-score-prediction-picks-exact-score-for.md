@@ -1,7 +1,7 @@
 ---
 title: "Seahawks vs. Patriots score prediction, picks: Exact score for Big Game pays 150-1 on best NFL betting apps"
 date: 2026-02-02
-category: draft
+category: free-agency
 aiGenerated: true
 sources:
   - name: "CBS Sports NFL"

@@ -1,7 +1,7 @@
 ---
 title: "Eagles News: Reed Blankenship to the Cowboys?"
 date: 2026-02-02
-category: general
+category: injuries
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

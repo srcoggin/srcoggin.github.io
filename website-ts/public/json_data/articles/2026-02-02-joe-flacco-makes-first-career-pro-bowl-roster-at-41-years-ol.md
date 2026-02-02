@@ -1,7 +1,7 @@
 ---
 title: "Joe Flacco makes first career Pro Bowl roster at 41 years old after starting 13 games for Browns and Bengals"
 date: 2026-02-02
-category: general
+category: player-news
 aiGenerated: true
 sources:
   - name: "CBS Sports NFL"

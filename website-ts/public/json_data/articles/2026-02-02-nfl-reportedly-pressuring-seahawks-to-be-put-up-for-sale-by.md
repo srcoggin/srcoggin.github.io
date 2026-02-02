@@ -1,7 +1,7 @@
 ---
 title: "NFL reportedly pressuring Seahawks to be put up for sale by Paul Allen estate"
 date: 2026-02-02
-category: player-news
+category: team-news
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

@@ -66,28 +66,15 @@ export default function ArticleCard({ article, featured = false }: ArticleCardPr
                     {article.title}
                 </h3>
 
-                {/* Blurb/Summary (simulated from title/category because we don't have summary in index yet, wait, summary IS NOT in Article interface I defined) */}
-                {/* Wait, I defined Article interface without summary. Let's rely on title for now or fetch summary later. 
-                    Actually, for 'featured', a blurb is nice. 
-                    User asked for "brief blurb".
-                    The index.json DOES NOT have summary.
-                    I should add summary to index?
-                    Or just generate it from title or ...
-                    
-                    Actually, run.ts:
-                    summary: mainContent.substring(0, 200)...
-                    Wait, run.ts DOES define summary in ProcessedArticle, but updateIndex uses ArticleMetadata.
-                    types.ts: ArticleMetadata DOES NOT have summary.
-                    
-                    So I can't show summary unless I update index again.
-                    I will just omit summary for now or fake it?
-                    The user specifically asked for "brief blurb".
-                    
-                    Okay, let's update types.ts and use the 'summary' field if I can get it.
-                    I need to verify if run.ts pushes summary to metadata.
-                    
-                    Let's check run.ts again.
-                */}
+                {/* Summary/Blurb */}
+                {article.summary && (
+                    <p className={`
+                        text-[var(--text-secondary)] leading-relaxed
+                        ${featured ? 'text-base md:text-lg line-clamp-3 mb-4' : 'text-sm line-clamp-2'}
+                    `}>
+                        {article.summary}
+                    </p>
+                )}
             </div>
         </Link>
     )

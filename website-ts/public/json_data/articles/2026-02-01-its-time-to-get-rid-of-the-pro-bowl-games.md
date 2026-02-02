@@ -1,7 +1,7 @@
 ---
 title: "It's time to get rid of the Pro Bowl Games"
 date: 2026-02-01
-category: general
+category: player-news
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

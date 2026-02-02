@@ -1,7 +1,7 @@
 ---
 title: "Report: Government approves ESPN, NFL Media merger"
 date: 2026-02-01
-category: general
+category: trades
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

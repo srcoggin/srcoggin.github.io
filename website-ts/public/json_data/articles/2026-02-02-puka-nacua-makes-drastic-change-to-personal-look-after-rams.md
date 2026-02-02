@@ -1,7 +1,7 @@
 ---
 title: "Puka Nacua makes drastic change to personal look after Rams’ crushing playoff exit"
 date: 2026-02-02
-category: general
+category: free-agency
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

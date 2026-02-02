@@ -1,7 +1,7 @@
 ---
 title: "2026 Super Bowl SGP, props, Seahawks vs. Patriots same-game parlay: Get an epic $15,000 return on a $10 bet"
 date: 2026-02-02
-category: draft
+category: superbowl
 aiGenerated: true
 sources:
   - name: "CBS Sports NFL"

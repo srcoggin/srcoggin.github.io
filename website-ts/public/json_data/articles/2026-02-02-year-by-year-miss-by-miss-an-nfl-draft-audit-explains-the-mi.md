@@ -1,5 +1,5 @@
 ---
-title: "Year by year, miss by miss: An NFL draft audit explains the Minnesota Vikings&#039; surprise GM firing"
+title: "Year by year, miss by miss: An NFL draft audit explains the Minnesota Vikings' surprise GM firing"
 date: 2026-02-02
 category: draft
 aiGenerated: true

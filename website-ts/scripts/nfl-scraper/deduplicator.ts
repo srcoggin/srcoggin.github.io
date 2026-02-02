@@ -170,9 +170,27 @@ export function extractSources(group: ArticleGroup): ArticleSource[] {
     return sources
 }
 
+// Decode common HTML entities
+export function decodeHTMLEntities(text: string): string {
+    return text
+        .replace(/&amp;#039;/g, "'")
+        .replace(/&#039;/g, "'")
+        .replace(/&amp;#34;/g, '"')
+        .replace(/&#34;/g, '"')
+        .replace(/&quot;/g, '"')
+        .replace(/&amp;/g, '&')
+        .replace(/&lt;/g, '<')
+        .replace(/&gt;/g, '>')
+        .replace(/&nbsp;/g, ' ')
+        .replace(/&apos;/g, "'")
+}
+
 // Generate a URL-friendly slug from title
 export function generateSlug(title: string): string {
-    return title
+    // First decode HTML entities
+    const decoded = decodeHTMLEntities(title)
+
+    return decoded
         .toLowerCase()
         .replace(/[^\w\s-]/g, '')
         .replace(/\s+/g, '-')

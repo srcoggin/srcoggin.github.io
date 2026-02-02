@@ -1,5 +1,5 @@
 ---
-title: "Wilson&#039;s 2026 NFL mock draft 6.0: Senior Bowl standouts Caleb Banks, Lee Hunter change Round 1 conversation"
+title: "Wilson's 2026 NFL mock draft 6.0: Senior Bowl standouts Caleb Banks, Lee Hunter change Round 1 conversation"
 date: 2026-02-02
 category: draft
 aiGenerated: true

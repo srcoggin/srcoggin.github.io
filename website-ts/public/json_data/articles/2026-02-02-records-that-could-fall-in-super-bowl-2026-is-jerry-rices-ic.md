@@ -1,5 +1,5 @@
 ---
-title: "Records that could fall in Super Bowl 2026: Is Jerry Rice&#039;s iconic mark about to fall?"
+title: "Records that could fall in Super Bowl 2026: Is Jerry Rice's iconic mark about to fall?"
 date: 2026-02-02
 category: superbowl
 aiGenerated: true

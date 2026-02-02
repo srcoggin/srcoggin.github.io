@@ -1,7 +1,7 @@
 ---
 title: "Browns schedule rumor: France’s first game, in Paris, could include Shedeur Sanders"
 date: 2026-02-02
-category: general
+category: free-agency
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

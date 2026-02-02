@@ -1,7 +1,7 @@
 ---
 title: "Jordon Hudson planning ‘huge bash’ for Bill Belichick on same day as Hall of Fame ceremony after his snub"
 date: 2026-02-01
-category: general
+category: superbowl
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

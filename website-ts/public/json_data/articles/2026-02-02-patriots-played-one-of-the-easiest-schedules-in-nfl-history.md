@@ -1,5 +1,5 @@
 ---
-title: "Patriots played one of the easiest schedules in NFL history: Why it won&#039;t discount a Super Bowl title"
+title: "Patriots played one of the easiest schedules in NFL history: Why it won't discount a Super Bowl title"
 date: 2026-02-02
 category: superbowl
 aiGenerated: true

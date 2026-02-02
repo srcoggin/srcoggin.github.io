@@ -1,7 +1,7 @@
 ---
 title: "Patriots vs. Seahawks prediction, odds, date, time: 2026 Super Bowl picks from 10,000 model simulations"
 date: 2026-02-02
-category: draft
+category: superbowl
 aiGenerated: true
 sources:
   - name: "CBS Sports NFL"

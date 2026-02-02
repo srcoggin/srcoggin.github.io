@@ -1,7 +1,7 @@
 ---
 title: "Report: Government approves ESPN, NFL Media merger"
 date: 2026-02-02
-category: general
+category: trades
 aiGenerated: true
 sources:
   - name: "Pro Football Talk"
