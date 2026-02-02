@@ -1,0 +1,40 @@
+---
+title: "Raiders aim to hire Klint Kubiak: Seahawks OC expected to head to Las Vegas, per reports"
+date: 2026-02-02
+category: coaching
+aiGenerated: true
+sources:
+  - name: "CBS Sports NFL"
+    url: "https://www.cbssports.com/nfl/news/raiders-coach-klint-kubiak-seahawks-super-bowl/"
+tags: ["coaching", "raiders", "seahawks"]
+---
+
+The Las Vegas Raiders are aiming to make a significant swing at the top of the organization, with reports indicating the franchise plans to hire Seattle Seahawks offensive coordinator Klint Kubiak as its next head coach. According to CBS Sports NFL, Kubiak is expected to head to Las Vegas, positioning the 38-year-old for his first head-coaching job and signaling the Raiders’ intent to build around a younger offensive-minded leader.
+
+The move, as reported, would bring Kubiak from Seattle to a Raiders team looking for direction and stability on the sideline. Kubiak’s anticipated hire stands out not only because it would be his first opportunity to run an NFL team, but also because it would place one of the league’s younger coordinators in charge of a high-profile franchise that has cycled through leadership changes in recent years. For Raiders fans, it represents a potentially defining organizational decision — the kind that can reshape roster-building priorities, quarterback development and weekly identity.
+
+Kubiak’s current role as the Seahawks’ offensive coordinator places the Raiders’ pursuit in a familiar modern trend: franchises searching for head coaches with offensive backgrounds who can elevate scoring and accelerate quarterback progress. Las Vegas has been searching for consistency and a clearer vision, and the reported plan to turn to Kubiak suggests the Raiders are prioritizing scheme, structure and offensive continuity as the foundation of their next phase.
+
+At 38, Kubiak would arrive in Las Vegas as a first-time head coach at an age when teams increasingly are willing to bet on emerging coordinators rather than retreads. That youth can carry appeal — energy, adaptability and a longer runway — but it also comes with the challenge of stepping immediately into one of the sport’s most scrutinized jobs. In Las Vegas, every decision will be magnified, from staff hires to play-calling delegation to the way the roster is shaped in the months ahead.
+
+For the Raiders, the stakes are obvious. The head coach will be tasked with giving the franchise a coherent identity and turning weekly flashes into sustained results. If Kubiak is ultimately hired, the next immediate questions will follow quickly: who joins his staff, how the offensive system is installed, and how the organization aligns its personnel decisions with the vision that led it to target him in the first place. The coming days, and the accompanying details of how Las Vegas plans to support a first-time head coach, will be the next developments to watch.The Las Vegas Raiders are aiming to make a significant swing at the top of the organization, with reports indicating the franchise plans to hire Seattle Seahawks offensive coordinator Klint Kubiak as its next head coach. According to CBS Sports NFL, Kubiak is expected to head to Las Vegas, positioning the 38-year-old for his first head-coaching job and signaling the Raiders’ intent to build around a younger offensive-minded leader.
+
+The move, as reported, would bring Kubiak from Seattle to a Raiders team looking for direction and stability on the sideline. Kubiak’s anticipated hire stands out not only because it would be his first opportunity to run an NFL team, but also because it would place one of the league’s younger coordinators in charge of a high-profile franchise that has cycled through leadership changes in recent years. For Raiders fans, it represents a potentially defining organizational decision — the kind that can reshape roster-building priorities, quarterback development and weekly identity.
+
+Kubiak’s current role as the Seahawks’ offensive coordinator places the Raiders’ pursuit in a familiar modern trend: franchises searching for head coaches with offensive backgrounds who can elevate scoring and accelerate quarterback progress. Las Vegas has been searching for consistency and a clearer vision, and the reported plan to turn to Kubiak suggests the Raiders are prioritizing scheme, structure and offensive continuity as the foundation of their next phase.
+
+At 38, Kubiak would arrive in Las Vegas as a first-time head coach at an age when teams increasingly are willing to bet on emerging coordinators rather than retreads. That youth can carry appeal — energy, adaptability and a longer runway — but it also comes with the challenge of stepping immediately into one of the sport’s most scrutinized jobs. In Las Vegas, every decision will be magnified, from staff hires to play-calling delegation to the way the roster is shaped in the months ahead.
+
+For the Raiders, the stakes are obvious. The head coach will be tasked with giving the franchise a coherent identity and turning weekly flashes into sustained results. If Kubiak is ultimately hired, the next immediate questions will follow quickly: who joins his staff, how the offensive system is installed, and how the organization aligns its personnel decisions with the vision that led it to target him in the first place. The coming days, and the accompanying details of how Las Vegas plans to support a first-time head coach, will be the next developments to watch.The Las Vegas Raiders are aiming to make a significant swing at the top of the organization, with reports indicating the franchise plans to hire Seattle Seahawks offensive coordinator Klint Kubiak as its next head coach. According to CBS Sports NFL, Kubiak is expected to head to Las Vegas, positioning the 38-year-old for his first head-coaching job and signaling the Raiders’ intent to build around a younger offensive-minded leader.
+
+The move, as reported, would bring Kubiak from Seattle to a Raiders team looking for direction and stability on the sideline. Kubiak’s anticipated hire stands out not only because it would be his first opportunity to run an NFL team, but also because it would place one of the league’s younger coordinators in charge of a high-profile franchise that has cycled through leadership changes in recent years. For Raiders fans, it represents a potentially defining organizational decision — the kind that can reshape roster-building priorities, quarterback development and weekly identity.
+
+Kubiak’s current role as the Seahawks’ offensive coordinator places the Raiders’ pursuit in a familiar modern trend: franchises searching for head coaches with offensive backgrounds who can elevate scoring and accelerate quarterback progress. Las Vegas has been searching for consistency and a clearer vision, and the reported plan to turn to Kubiak suggests the Raiders are prioritizing scheme, structure and offensive continuity as the foundation of their next phase.
+
+At 38, Kubiak would arrive in Las Vegas as a first-time head coach at an age when teams increasingly are willing to bet on emerging coordinators rather than retreads. That youth can carry appeal — energy, adaptability and a longer runway — but it also comes with the challenge of stepping immediately into one of the sport’s most scrutinized jobs. In Las Vegas, every decision will be magnified, from staff hires to play-calling delegation to the way the roster is shaped in the months ahead.
+
+For the Raiders, the stakes are obvious. The head coach will be tasked with giving the franchise a coherent identity and turning weekly flashes into sustained results. If Kubiak is ultimately hired, the next immediate questions will follow quickly: who joins his staff, how the offensive system is installed, and how the organization aligns its personnel decisions with the vision that led it to target him in the first place. The coming days, and the accompanying details of how Las Vegas plans to support a first-time head coach, will be the next developments to watch.
+
+---
+
+*AI-generated summary based on reporting from CBS Sports NFL.*

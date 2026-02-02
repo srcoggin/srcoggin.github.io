@@ -1,0 +1,40 @@
+---
+title: "NFL Super Bowl injury report: Seahawks vs. Patriots injuries for bettors to know include Drake Maye"
+date: 2026-02-02
+category: injuries
+aiGenerated: true
+sources:
+  - name: "CBS Sports NFL"
+    url: "https://www.cbssports.com/betting/news/nfl-super-bowl-injury-report-seahawks-vs-patriots-injuries-for-bettors-to-know-include-drake-maye/"
+tags: ["injuries", "patriots", "seahawks", "injury"]
+---
+
+With Super Bowl 60 just over a week away, the Seahawks and Patriots moved into the most scrutinized stretch of the NFL calendar with final injury reports that could shape everything from game planning to wagering lines. CBS Sports NFL framed the latest updates as the key “injuries for bettors to know,” underscoring how the status of even one player can tilt matchups, dictate personnel packages and force late-week adjustments that don’t show up on the stat sheet.
+
+Seattle and New England enter the final preparation window in a familiar place for teams still playing in February: balancing recovery with reps while trying to keep roles and responsibilities stable. The CBS Sports NFL report emphasized that these are the “final injury reports for both the Seahawks and Patriots,” the last formal snapshot of health before the league’s biggest stage. For coaches, the significance is straightforward. A player who cannot practice fully — or who is limited — often signals a reduced workload, contingency plans on special teams, or a reshuffled depth chart at positions where timing and communication are critical.
+
+One notable inclusion in the CBS Sports NFL injury focus was Drake Maye, singled out among the injuries “for bettors to know.” The attention reflects the reality that quarterback health tends to have the greatest ripple effect, whether it alters a team’s willingness to push the ball downfield, increases reliance on the run game, or changes how aggressively a defense can play in response. Even uncertainty can matter: sportsbooks and opponents react not only to whether a player is active, but also to whether he can play at full strength.
+
+The timing also matters because the Super Bowl is played after an extra week, a built-in cushion that can help marginal injuries improve — but also one that amplifies every practice report. Teams often use the additional days to manage workloads and avoid setbacks, making the final injury report one of the most important public indicators of who is trending in the right direction and who may be facing a game-time decision.
+
+The coming week will bring a sharper focus on participation levels and any late developments, but the broad implication is already clear: availability is about more than a player suiting up. As Super Bowl 60 approaches, the Seahawks and Patriots will spend the final days trying to preserve continuity while preparing for contingencies, with every designation carrying potential consequences for strategy, matchups and the margins that decide championships.With Super Bowl 60 just over a week away, the Seahawks and Patriots moved into the most scrutinized stretch of the NFL calendar with final injury reports that could shape everything from game planning to wagering lines. CBS Sports NFL framed the latest updates as the key “injuries for bettors to know,” underscoring how the status of even one player can tilt matchups, dictate personnel packages and force late-week adjustments that don’t show up on the stat sheet.
+
+Seattle and New England enter the final preparation window in a familiar place for teams still playing in February: balancing recovery with reps while trying to keep roles and responsibilities stable. The CBS Sports NFL report emphasized that these are the “final injury reports for both the Seahawks and Patriots,” the last formal snapshot of health before the league’s biggest stage. For coaches, the significance is straightforward. A player who cannot practice fully — or who is limited — often signals a reduced workload, contingency plans on special teams, or a reshuffled depth chart at positions where timing and communication are critical.
+
+One notable inclusion in the CBS Sports NFL injury focus was Drake Maye, singled out among the injuries “for bettors to know.” The attention reflects the reality that quarterback health tends to have the greatest ripple effect, whether it alters a team’s willingness to push the ball downfield, increases reliance on the run game, or changes how aggressively a defense can play in response. Even uncertainty can matter: sportsbooks and opponents react not only to whether a player is active, but also to whether he can play at full strength.
+
+The timing also matters because the Super Bowl is played after an extra week, a built-in cushion that can help marginal injuries improve — but also one that amplifies every practice report. Teams often use the additional days to manage workloads and avoid setbacks, making the final injury report one of the most important public indicators of who is trending in the right direction and who may be facing a game-time decision.
+
+The coming week will bring a sharper focus on participation levels and any late developments, but the broad implication is already clear: availability is about more than a player suiting up. As Super Bowl 60 approaches, the Seahawks and Patriots will spend the final days trying to preserve continuity while preparing for contingencies, with every designation carrying potential consequences for strategy, matchups and the margins that decide championships.With Super Bowl 60 just over a week away, the Seahawks and Patriots moved into the most scrutinized stretch of the NFL calendar with final injury reports that could shape everything from game planning to wagering lines. CBS Sports NFL framed the latest updates as the key “injuries for bettors to know,” underscoring how the status of even one player can tilt matchups, dictate personnel packages and force late-week adjustments that don’t show up on the stat sheet.
+
+Seattle and New England enter the final preparation window in a familiar place for teams still playing in February: balancing recovery with reps while trying to keep roles and responsibilities stable. The CBS Sports NFL report emphasized that these are the “final injury reports for both the Seahawks and Patriots,” the last formal snapshot of health before the league’s biggest stage. For coaches, the significance is straightforward. A player who cannot practice fully — or who is limited — often signals a reduced workload, contingency plans on special teams, or a reshuffled depth chart at positions where timing and communication are critical.
+
+One notable inclusion in the CBS Sports NFL injury focus was Drake Maye, singled out among the injuries “for bettors to know.” The attention reflects the reality that quarterback health tends to have the greatest ripple effect, whether it alters a team’s willingness to push the ball downfield, increases reliance on the run game, or changes how aggressively a defense can play in response. Even uncertainty can matter: sportsbooks and opponents react not only to whether a player is active, but also to whether he can play at full strength.
+
+The timing also matters because the Super Bowl is played after an extra week, a built-in cushion that can help marginal injuries improve — but also one that amplifies every practice report. Teams often use the additional days to manage workloads and avoid setbacks, making the final injury report one of the most important public indicators of who is trending in the right direction and who may be facing a game-time decision.
+
+The coming week will bring a sharper focus on participation levels and any late developments, but the broad implication is already clear: availability is about more than a player suiting up. As Super Bowl 60 approaches, the Seahawks and Patriots will spend the final days trying to preserve continuity while preparing for contingencies, with every designation carrying potential consequences for strategy, matchups and the margins that decide championships.
+
+---
+
+*AI-generated summary based on reporting from CBS Sports NFL.*
