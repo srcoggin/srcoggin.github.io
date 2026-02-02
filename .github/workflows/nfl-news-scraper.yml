@@ -35,10 +35,7 @@ jobs:
       - name: Run NFL News Scraper
         working-directory: website-ts
         env:
-          APP_ID: ${{ secrets.APP_ID }}
-          APP_PRIVATE_KEY: ${{ secrets.APP_PRIVATE_KEY }}
-          APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          OPENAI_REFRESH_TOKEN: ${{ secrets.OPENAI_REFRESH_TOKEN }}
         run: npx tsx scripts/nfl-scraper/runAll.ts
       
       - name: Check for changes

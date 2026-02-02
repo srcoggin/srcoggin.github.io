@@ -26,7 +26,7 @@ import {
     ARCHIVE_AGE_DAYS,
     UNGENERATED_DIR
 } from './config'
-import { generateWithCopilot, isCopilotAvailable } from './copilot'
+import { generateWithChatGPT, isChatGPTAvailable } from './chatgpt'
 
 // Get proper base directory (website-ts root)
 const __filename = fileURLToPath(import.meta.url)
@@ -99,7 +99,7 @@ async function processPendingQueue(state: NewsState): Promise<{ processedCount: 
             }
 
             // Try to generate with AI
-            const aiContent = await generateWithCopilot(
+            const aiContent = await generateWithChatGPT(
                 data.title,
                 data.sources,
                 CATEGORY_NAMES[data.category]
@@ -300,7 +300,7 @@ async function processGroupWithAI(group: ArticleGroup): Promise<ProcessedArticle
     const tags = extractTags(group.keywords, group.category)
     const hash = generateHash(title, group.primary.description)
 
-    // Prepare source data for Copilot
+    // Prepare source data for ChatGPT
     const sourceData = [
         {
             name: group.primary.source,
@@ -316,8 +316,8 @@ async function processGroupWithAI(group: ArticleGroup): Promise<ProcessedArticle
         }))
     ]
 
-    // Call Copilot
-    const aiContent = await generateWithCopilot(
+    // Call ChatGPT
+    const aiContent = await generateWithChatGPT(
         title,
         sourceData,
         CATEGORY_NAMES[group.category]
@@ -527,11 +527,11 @@ async function main(): Promise<void> {
     console.log(`📅 ${new Date().toLocaleString()}`)
     console.log(`📂 Working directory: ${WEBSITE_ROOT}`)
 
-    // Check for Copilot API
-    if (!isCopilotAvailable()) {
-        console.warn('\n⚠️ Copilot App credentials not set - will queue all articles for manual generation')
+    // Check for ChatGPT OAuth
+    if (!isChatGPTAvailable()) {
+        console.warn('\n⚠️ OPENAI_REFRESH_TOKEN not set - will queue all articles for manual generation')
     } else {
-        console.log('🤖 Copilot AI: Enabled')
+        console.log('🤖 ChatGPT OAuth: Enabled')
     }
 
     try {
