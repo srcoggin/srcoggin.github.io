@@ -213,6 +213,7 @@ Write the full article now:`
             stream: false,
             store: false,
             include: ['reasoning.encrypted_content'],
+            instructions: 'You are a senior NFL beat reporter writing for a professional sports news website. Write in third-person AP style, using only the provided sources.',
             input: [
                 {
                     type: 'message',
