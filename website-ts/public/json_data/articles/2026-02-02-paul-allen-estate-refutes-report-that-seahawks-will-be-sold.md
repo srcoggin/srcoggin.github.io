@@ -1,5 +1,5 @@
 ---
-title: "Paul Allen Estate refutes report that Seahawks will be sold after Super Bowl: &#039;The team is not for sale&#039;"
+title: "Paul Allen Estate refutes report that Seahawks will be sold after Super Bowl: 'The team is not for sale'"
 date: 2026-02-02
 category: superbowl
 aiGenerated: true

@@ -1,7 +1,7 @@
 ---
 title: "Broncos OL Quinn Meinerz withdraws from Pro Bowl Games for personal reasons"
 date: 2026-02-02
-category: general
+category: player-news
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

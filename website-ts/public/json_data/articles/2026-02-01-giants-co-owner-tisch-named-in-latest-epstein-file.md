@@ -1,7 +1,7 @@
 ---
 title: "Giants co-owner Tisch named in latest Epstein file..."
 date: 2026-02-01
-category: general
+category: draft
 aiGenerated: true
 sources:
   - name: "ESPN NFL"

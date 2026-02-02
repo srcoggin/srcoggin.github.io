@@ -1,7 +1,7 @@
 ---
 title: "Vikings fire GM Adofo-Mensah after 4 seasons"
 date: 2026-02-01
-category: coaching
+category: team-news
 aiGenerated: true
 sources:
   - name: "ESPN NFL"

@@ -1,7 +1,7 @@
 ---
 title: "Super Bowl Prop Bets: Odds and Expert Picks for Super Bowl LX"
 date: 2026-02-02
-category: draft
+category: superbowl
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

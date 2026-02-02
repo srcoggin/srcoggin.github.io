@@ -1,7 +1,7 @@
 ---
 title: "NFL insists Seahawks weren't fined for ownership issues"
 date: 2026-02-02
-category: player-news
+category: team-news
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

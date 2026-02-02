@@ -1,7 +1,7 @@
 ---
-title: "Second Hall of Fame voter explains Bill Belichick snub: &#039;I voted for Robert Kraft, not against Belichick&#039;"
+title: "Second Hall of Fame voter explains Bill Belichick snub: 'I voted for Robert Kraft, not against Belichick'"
 date: 2026-02-02
-category: general
+category: team-news
 aiGenerated: true
 sources:
   - name: "CBS Sports NFL"

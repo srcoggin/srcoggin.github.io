@@ -1,7 +1,7 @@
 ---
 title: "Super Bowl 2026 Props Guide: Patriots vs. Seahawks odds, picks, trends and everything to know before you bet"
 date: 2026-02-02
-category: draft
+category: superbowl
 aiGenerated: true
 sources:
   - name: "CBS Sports NFL"

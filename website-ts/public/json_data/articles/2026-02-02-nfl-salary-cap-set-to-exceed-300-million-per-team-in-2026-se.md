@@ -1,7 +1,7 @@
 ---
 title: "NFL salary cap set to exceed $300 million per team in 2026 season as sharp upward trend continues"
 date: 2026-02-02
-category: general
+category: trades
 aiGenerated: true
 sources:
   - name: "CBS Sports NFL"

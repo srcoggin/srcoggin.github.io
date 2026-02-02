@@ -1,7 +1,7 @@
 ---
 title: "Sources: Seahawks to go up for sale after SB LX"
 date: 2026-02-01
-category: team-news
+category: superbowl
 aiGenerated: true
 sources:
   - name: "ESPN NFL"

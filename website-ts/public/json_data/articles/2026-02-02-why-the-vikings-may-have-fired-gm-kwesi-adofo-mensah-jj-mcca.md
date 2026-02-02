@@ -1,7 +1,7 @@
 ---
 title: "Why the Vikings may have fired GM Kwesi Adofo-Mensah: J.J. McCarthy gamble, draft misses and cap trouble"
 date: 2026-02-02
-category: coaching
+category: draft
 aiGenerated: true
 sources:
   - name: "CBS Sports NFL"

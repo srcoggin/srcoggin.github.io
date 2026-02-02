@@ -1,7 +1,7 @@
 ---
 title: "NFL, State Department launch partnership tied to international growth"
 date: 2026-02-02
-category: general
+category: trades
 aiGenerated: true
 sources:
   - name: "Pro Football Talk"

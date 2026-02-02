@@ -1,5 +1,5 @@
 ---
-title: "J.J. McCarthy&#039;s future as Vikings QB is far from guaranteed after Minnesota fires GM who picked him"
+title: "J.J. McCarthy's future as Vikings QB is far from guaranteed after Minnesota fires GM who picked him"
 date: 2026-02-02
 category: draft
 aiGenerated: true

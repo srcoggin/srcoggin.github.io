@@ -1,5 +1,5 @@
 ---
-title: "NFL insider notebook: Jim Schwartz&#039;s future, Raiders and Cardinals coaching updates"
+title: "NFL insider notebook: Jim Schwartz's future, Raiders and Cardinals coaching updates"
 date: 2026-02-02
 category: coaching
 aiGenerated: true

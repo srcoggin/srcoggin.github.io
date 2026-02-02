@@ -12,7 +12,7 @@ import * as fs from 'fs'
 import * as path from 'path'
 import { fileURLToPath } from 'url'
 import { fetchAllFeeds, filterByAge } from './fetchRSS'
-import { groupRelatedArticles, generateHash, ArticleGroup, generateSlug, extractSources, extractTags } from './deduplicator'
+import { groupRelatedArticles, generateHash, ArticleGroup, generateSlug, extractSources, extractTags, decodeHTMLEntities } from './deduplicator'
 import { generateFilename } from './articleGenerator'
 import { NewsState, ArticleMetadata, ProcessedArticle, ArticleCategory, ArticleSource } from './types'
 import {
@@ -207,7 +207,8 @@ function generateTitle(group: ArticleGroup): string {
             bestTitle = related.title
         }
     }
-    return bestTitle
+    // Decode HTML entities in title
+    return decodeHTMLEntities(bestTitle)
 }
 
 function generateMarkdownContent(

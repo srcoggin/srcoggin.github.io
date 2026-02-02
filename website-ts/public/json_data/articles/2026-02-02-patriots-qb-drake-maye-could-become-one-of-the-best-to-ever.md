@@ -1,5 +1,5 @@
 ---
-title: "Patriots QB Drake Maye could become &#039;one of the best to ever play,&#039; ex-UNC coach Mack Brown believes"
+title: "Patriots QB Drake Maye could become 'one of the best to ever play,' ex-UNC coach Mack Brown believes"
 date: 2026-02-02
 category: coaching
 aiGenerated: true

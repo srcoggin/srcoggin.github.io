@@ -1,7 +1,7 @@
 ---
-title: "Justin Jefferson: &#039;I definitely feel like we would have done better&#039; if Vikings kept Sam Darnold"
+title: "Justin Jefferson: 'I definitely feel like we would have done better' if Vikings kept Sam Darnold"
 date: 2026-02-02
-category: general
+category: injuries
 aiGenerated: true
 sources:
   - name: "CBS Sports NFL"

@@ -1,7 +1,7 @@
 ---
 title: "Bengals QB Joe Burrow earns third Pro Bowl nod as late addition to AFC roster"
 date: 2026-02-02
-category: general
+category: player-news
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

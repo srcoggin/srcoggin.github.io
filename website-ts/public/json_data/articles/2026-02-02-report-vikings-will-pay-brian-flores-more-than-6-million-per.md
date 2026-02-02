@@ -1,7 +1,7 @@
 ---
 title: "Report: Vikings will pay Brian Flores more than $6 million per year"
 date: 2026-02-02
-category: general
+category: coaching
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

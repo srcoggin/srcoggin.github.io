@@ -1,7 +1,7 @@
 ---
 title: "2025-26 NFL Defensive Player of the Year Award Odds: Garrett Makes History"
 date: 2026-02-02
-category: general
+category: player-news
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"

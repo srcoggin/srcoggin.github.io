@@ -10,7 +10,9 @@
     "scrape-news": "npx tsx scripts/nfl-scraper/runAll.ts",
     "sync-articles": "npx tsx scripts/sync_articles.ts",
     "cleanup-articles": "npx tsx scripts/cleanup_articles.ts",
-    "format-articles": "npx tsx scripts/format_articles.ts"
+    "format-articles": "npx tsx scripts/format_articles.ts",
+    "fix-articles": "npx tsx scripts/fix-article-entities.ts",
+    "recategorize-articles": "npx tsx scripts/recategorize-articles.ts"
   },
   "dependencies": {
     "clsx": "^2.1.0",

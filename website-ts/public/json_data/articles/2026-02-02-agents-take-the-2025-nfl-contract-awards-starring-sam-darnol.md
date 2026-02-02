@@ -1,5 +1,5 @@
 ---
-title: "Agent&#039;s Take: The 2025 NFL contract awards, starring Sam Darnold and other veteran acquisitions"
+title: "Agent's Take: The 2025 NFL contract awards, starring Sam Darnold and other veteran acquisitions"
 date: 2026-02-02
 category: trades
 aiGenerated: true

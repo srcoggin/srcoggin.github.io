@@ -1,7 +1,7 @@
 ---
-title: "Inside the 3 traits that make the Seattle Seahawks&#039; Jaxon Smith-Njigba a nightmare for defenses"
+title: "Inside the 3 traits that make the Seattle Seahawks' Jaxon Smith-Njigba a nightmare for defenses"
 date: 2026-02-02
-category: general
+category: coaching
 aiGenerated: true
 sources:
   - name: "CBS Sports NFL"

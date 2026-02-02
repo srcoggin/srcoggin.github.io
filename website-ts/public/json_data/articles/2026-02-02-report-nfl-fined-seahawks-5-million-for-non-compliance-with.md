@@ -1,7 +1,7 @@
 ---
 title: "Report: NFL fined Seahawks $5 million for non-compliance with ownership requirements"
 date: 2026-02-02
-category: player-news
+category: team-news
 aiGenerated: true
 sources:
   - name: "Pro Football Talk"

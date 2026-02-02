@@ -1,7 +1,7 @@
 ---
 title: "Matt LaFleur contract: Packers officially sign coach to multi-year extension, keeping him in Green Bay"
 date: 2026-02-02
-category: free-agency
+category: trades
 aiGenerated: true
 sources:
   - name: "CBS Sports NFL"

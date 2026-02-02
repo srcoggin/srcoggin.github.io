@@ -1,7 +1,7 @@
 ---
 title: "Five teams with contract extension dilemmas: What ..."
 date: 2026-02-02
-category: free-agency
+category: trades
 aiGenerated: true
 sources:
   - name: "ESPN NFL"

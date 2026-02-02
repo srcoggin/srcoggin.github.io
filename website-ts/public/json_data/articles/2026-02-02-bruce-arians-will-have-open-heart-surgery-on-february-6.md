@@ -1,7 +1,7 @@
 ---
 title: "Bruce Arians will have open heart surgery on February 6"
 date: 2026-02-02
-category: coaching
+category: team-news
 aiGenerated: true
 sources:
   - name: "Pro Football Talk"

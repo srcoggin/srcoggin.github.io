@@ -1,7 +1,7 @@
 ---
 title: "Wetzel: How the odd Belichick HOF snub could get m..."
 date: 2026-02-02
-category: general
+category: team-news
 aiGenerated: true
 sources:
   - name: "ESPN NFL"

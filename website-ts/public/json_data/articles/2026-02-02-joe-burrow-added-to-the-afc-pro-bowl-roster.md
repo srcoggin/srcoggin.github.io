@@ -1,7 +1,7 @@
 ---
 title: "Joe Burrow added to the AFC Pro Bowl roster"
 date: 2026-02-02
-category: general
+category: player-news
 aiGenerated: true
 sources:
   - name: "Yahoo Sports NFL"
