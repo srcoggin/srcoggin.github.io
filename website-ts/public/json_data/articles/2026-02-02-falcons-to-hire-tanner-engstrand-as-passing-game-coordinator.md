@@ -1,0 +1,40 @@
+---
+title: "Falcons to hire Tanner Engstrand as passing game coordinator"
+date: 2026-02-02
+category: coaching
+aiGenerated: true
+sources:
+  - name: "Pro Football Talk"
+    url: "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-to-hire-tanner-engstrand-as-passing-game-coordinator"
+tags: ["coaching", "jets", "falcons"]
+---
+
+The Atlanta Falcons are reshaping the framework of their offense with a move that signals an emphasis on structure and quarterback development, hiring former New York Jets offensive coordinator Tanner Engstrand as passing game coordinator, according to Pro Football Talk. For a franchise that has spent recent seasons searching for consistency through the air, the decision adds a coach with recent coordinator experience to an offensive staff that will be tasked with getting more out of Atlanta’s passing attack.
+
+Engstrand, who most recently served as the Jets’ offensive coordinator, quickly found a new landing spot after his stint in New York. The Falcons’ hire places him in a role centered on designing and installing the passing game, coordinating weekly plans, and working closely with the quarterback and receivers on timing, spacing and route concepts. While the title does not carry the full authority of a coordinator position, it is typically one of the most influential jobs in an offensive room, often bridging the head coach’s vision with the day-to-day mechanics of game planning.
+
+The move also underscores how NFL staffs are increasingly built: not simply around one playcaller, but around a web of specialists who handle distinct segments of the offense. A passing game coordinator is often charged with scouting opponent coverages, tailoring route combinations to protect the quarterback, and ensuring the passing plan marries with protections and run-game looks. For Atlanta, which is continuing to build its identity on offense, those details matter — particularly in a league where efficiency through the air can dictate everything from scoring output to late-game success.
+
+Engstrand arrives with a recent résumé that includes coordinating an NFL offense, a credential that can be valuable in a supporting role. Atlanta’s decision to add him suggests the organization wants additional experience in the offensive meeting room and more defined oversight of the passing operation. It is also a reminder of how quickly coaching careers can pivot from one year to the next, especially for assistants who have held prominent titles.
+
+The next major storyline will be how Engstrand’s influence shows up once Atlanta’s offseason program turns toward installation and, eventually, training camp. How the Falcons’ passing game evolves — from weekly structure to in-game adjustments — will be a key marker of whether this hire translates into meaningful on-field progress as Atlanta continues to push for a more reliable, modern attack.The Atlanta Falcons are reshaping the framework of their offense with a move that signals an emphasis on structure and quarterback development, hiring former New York Jets offensive coordinator Tanner Engstrand as passing game coordinator, according to Pro Football Talk. For a franchise that has spent recent seasons searching for consistency through the air, the decision adds a coach with recent coordinator experience to an offensive staff that will be tasked with getting more out of Atlanta’s passing attack.
+
+Engstrand, who most recently served as the Jets’ offensive coordinator, quickly found a new landing spot after his stint in New York. The Falcons’ hire places him in a role centered on designing and installing the passing game, coordinating weekly plans, and working closely with the quarterback and receivers on timing, spacing and route concepts. While the title does not carry the full authority of a coordinator position, it is typically one of the most influential jobs in an offensive room, often bridging the head coach’s vision with the day-to-day mechanics of game planning.
+
+The move also underscores how NFL staffs are increasingly built: not simply around one playcaller, but around a web of specialists who handle distinct segments of the offense. A passing game coordinator is often charged with scouting opponent coverages, tailoring route combinations to protect the quarterback, and ensuring the passing plan marries with protections and run-game looks. For Atlanta, which is continuing to build its identity on offense, those details matter — particularly in a league where efficiency through the air can dictate everything from scoring output to late-game success.
+
+Engstrand arrives with a recent résumé that includes coordinating an NFL offense, a credential that can be valuable in a supporting role. Atlanta’s decision to add him suggests the organization wants additional experience in the offensive meeting room and more defined oversight of the passing operation. It is also a reminder of how quickly coaching careers can pivot from one year to the next, especially for assistants who have held prominent titles.
+
+The next major storyline will be how Engstrand’s influence shows up once Atlanta’s offseason program turns toward installation and, eventually, training camp. How the Falcons’ passing game evolves — from weekly structure to in-game adjustments — will be a key marker of whether this hire translates into meaningful on-field progress as Atlanta continues to push for a more reliable, modern attack.The Atlanta Falcons are reshaping the framework of their offense with a move that signals an emphasis on structure and quarterback development, hiring former New York Jets offensive coordinator Tanner Engstrand as passing game coordinator, according to Pro Football Talk. For a franchise that has spent recent seasons searching for consistency through the air, the decision adds a coach with recent coordinator experience to an offensive staff that will be tasked with getting more out of Atlanta’s passing attack.
+
+Engstrand, who most recently served as the Jets’ offensive coordinator, quickly found a new landing spot after his stint in New York. The Falcons’ hire places him in a role centered on designing and installing the passing game, coordinating weekly plans, and working closely with the quarterback and receivers on timing, spacing and route concepts. While the title does not carry the full authority of a coordinator position, it is typically one of the most influential jobs in an offensive room, often bridging the head coach’s vision with the day-to-day mechanics of game planning.
+
+The move also underscores how NFL staffs are increasingly built: not simply around one playcaller, but around a web of specialists who handle distinct segments of the offense. A passing game coordinator is often charged with scouting opponent coverages, tailoring route combinations to protect the quarterback, and ensuring the passing plan marries with protections and run-game looks. For Atlanta, which is continuing to build its identity on offense, those details matter — particularly in a league where efficiency through the air can dictate everything from scoring output to late-game success.
+
+Engstrand arrives with a recent résumé that includes coordinating an NFL offense, a credential that can be valuable in a supporting role. Atlanta’s decision to add him suggests the organization wants additional experience in the offensive meeting room and more defined oversight of the passing operation. It is also a reminder of how quickly coaching careers can pivot from one year to the next, especially for assistants who have held prominent titles.
+
+The next major storyline will be how Engstrand’s influence shows up once Atlanta’s offseason program turns toward installation and, eventually, training camp. How the Falcons’ passing game evolves — from weekly structure to in-game adjustments — will be a key marker of whether this hire translates into meaningful on-field progress as Atlanta continues to push for a more reliable, modern attack.
+
+---
+
+*AI-generated summary based on reporting from Pro Football Talk.*

@@ -1,0 +1,40 @@
+---
+title: "Our favorite 60 stats entering Super Bowl 60: How Philip Rivers, Cam Little and others blew up 2025 NFL season"
+date: 2026-02-02
+category: superbowl
+aiGenerated: true
+sources:
+  - name: "CBS Sports NFL"
+    url: "https://www.cbssports.com/nfl/news/our-favorite-60-stats-entering-super-bowl-60-how-philip-rivers-cam-little-and-others-blew-up-2025-nfl-season/"
+tags: ["superbowl"]
+---
+
+Super Bowl 60 is still weeks away, but the league’s biggest stage is already being framed by a season’s worth of numbers that turned the 2025 campaign into a statistical outlier — and a reminder of how quickly NFL history can be rewritten. CBS Sports NFL rolled out what it called “our favorite 60 stats entering Super Bowl 60,” a sprawling set of data points meant to capture the scale of what unfolded across the regular season and into the playoffs, from unexpected individual breakouts to the kind of single-year oddities that tend to define an era in hindsight.
+
+The CBS Sports compilation leaned into the breadth of 2025’s storylines, spotlighting the way familiar names and surprising contributors reshaped the year’s narrative. Among the examples cited were Philip Rivers and Cam Little, part of a larger group the outlet said “blew up” the season in ways that were difficult to forecast when training camps opened. CBS Sports framed the package as a guide for what to watch as the sport pivots from a long regular season to the singular pressure of the Super Bowl, a game that often hinges on a handful of high-leverage snaps but is invariably influenced by months of trends.
+
+The outlet emphasized the sheer volume of eye-popping figures surrounding Super Bowl 60, presenting them as both entertainment and context — the kind of statistical backdrop that can shape expectations and sharpen debates about sustainability. “Get ready to take some Tylenol because your head is about to explode from all of these insane stats,” CBS Sports wrote, underscoring the theme of the project: the 2025 season produced numbers that read more like anomalies than norms.
+
+That matters in February because the Super Bowl is not just a championship; it is also the league’s annual verdict on what works. If the 2025 season created new benchmarks — whether in scoring, special teams swings, or the impact of individual players singled out by CBS Sports — those patterns become the starting point for how opponents game-plan and how front offices build. The same stats that entertain in late January can hint at the strategic stress points that decide the season’s final game.
+
+As Super Bowl 60 approaches, the numbers will keep coming, and the context around them will get louder. The question for fans and teams alike is which of 2025’s extremes were one-off quirks and which are signals of a shifting league — the kind of shift that shows up not just in highlight reels, but on the final scoreboard when the season ends.Super Bowl 60 is still weeks away, but the league’s biggest stage is already being framed by a season’s worth of numbers that turned the 2025 campaign into a statistical outlier — and a reminder of how quickly NFL history can be rewritten. CBS Sports NFL rolled out what it called “our favorite 60 stats entering Super Bowl 60,” a sprawling set of data points meant to capture the scale of what unfolded across the regular season and into the playoffs, from unexpected individual breakouts to the kind of single-year oddities that tend to define an era in hindsight.
+
+The CBS Sports compilation leaned into the breadth of 2025’s storylines, spotlighting the way familiar names and surprising contributors reshaped the year’s narrative. Among the examples cited were Philip Rivers and Cam Little, part of a larger group the outlet said “blew up” the season in ways that were difficult to forecast when training camps opened. CBS Sports framed the package as a guide for what to watch as the sport pivots from a long regular season to the singular pressure of the Super Bowl, a game that often hinges on a handful of high-leverage snaps but is invariably influenced by months of trends.
+
+The outlet emphasized the sheer volume of eye-popping figures surrounding Super Bowl 60, presenting them as both entertainment and context — the kind of statistical backdrop that can shape expectations and sharpen debates about sustainability. “Get ready to take some Tylenol because your head is about to explode from all of these insane stats,” CBS Sports wrote, underscoring the theme of the project: the 2025 season produced numbers that read more like anomalies than norms.
+
+That matters in February because the Super Bowl is not just a championship; it is also the league’s annual verdict on what works. If the 2025 season created new benchmarks — whether in scoring, special teams swings, or the impact of individual players singled out by CBS Sports — those patterns become the starting point for how opponents game-plan and how front offices build. The same stats that entertain in late January can hint at the strategic stress points that decide the season’s final game.
+
+As Super Bowl 60 approaches, the numbers will keep coming, and the context around them will get louder. The question for fans and teams alike is which of 2025’s extremes were one-off quirks and which are signals of a shifting league — the kind of shift that shows up not just in highlight reels, but on the final scoreboard when the season ends.Super Bowl 60 is still weeks away, but the league’s biggest stage is already being framed by a season’s worth of numbers that turned the 2025 campaign into a statistical outlier — and a reminder of how quickly NFL history can be rewritten. CBS Sports NFL rolled out what it called “our favorite 60 stats entering Super Bowl 60,” a sprawling set of data points meant to capture the scale of what unfolded across the regular season and into the playoffs, from unexpected individual breakouts to the kind of single-year oddities that tend to define an era in hindsight.
+
+The CBS Sports compilation leaned into the breadth of 2025’s storylines, spotlighting the way familiar names and surprising contributors reshaped the year’s narrative. Among the examples cited were Philip Rivers and Cam Little, part of a larger group the outlet said “blew up” the season in ways that were difficult to forecast when training camps opened. CBS Sports framed the package as a guide for what to watch as the sport pivots from a long regular season to the singular pressure of the Super Bowl, a game that often hinges on a handful of high-leverage snaps but is invariably influenced by months of trends.
+
+The outlet emphasized the sheer volume of eye-popping figures surrounding Super Bowl 60, presenting them as both entertainment and context — the kind of statistical backdrop that can shape expectations and sharpen debates about sustainability. “Get ready to take some Tylenol because your head is about to explode from all of these insane stats,” CBS Sports wrote, underscoring the theme of the project: the 2025 season produced numbers that read more like anomalies than norms.
+
+That matters in February because the Super Bowl is not just a championship; it is also the league’s annual verdict on what works. If the 2025 season created new benchmarks — whether in scoring, special teams swings, or the impact of individual players singled out by CBS Sports — those patterns become the starting point for how opponents game-plan and how front offices build. The same stats that entertain in late January can hint at the strategic stress points that decide the season’s final game.
+
+As Super Bowl 60 approaches, the numbers will keep coming, and the context around them will get louder. The question for fans and teams alike is which of 2025’s extremes were one-off quirks and which are signals of a shifting league — the kind of shift that shows up not just in highlight reels, but on the final scoreboard when the season ends.
+
+---
+
+*AI-generated summary based on reporting from CBS Sports NFL.*
