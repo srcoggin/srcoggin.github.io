@@ -148,6 +148,46 @@ function extractResponseText(response: CodexResponse): string | null {
     return null
 }
 
+function extractTextFromEvent(event: Record<string, unknown>): string | null {
+    const eventType = event.type
+    if (eventType === 'response.output_text.delta' && typeof event.delta === 'string') {
+        return event.delta
+    }
+    if (eventType === 'response.output_text.done' && typeof event.text === 'string') {
+        return event.text
+    }
+    if (eventType === 'response.completed' && typeof event.response === 'object' && event.response) {
+        return extractResponseText(event.response as CodexResponse)
+    }
+    return null
+}
+
+function extractTextFromSse(body: string): string | null {
+    const lines = body.split('\n')
+    let output = ''
+
+    for (const line of lines) {
+        if (!line.startsWith('data:')) {
+            continue
+        }
+        const data = line.slice(5).trim()
+        if (!data || data === '[DONE]') {
+            continue
+        }
+        try {
+            const payload = JSON.parse(data) as Record<string, unknown>
+            const chunk = extractTextFromEvent(payload)
+            if (chunk) {
+                output += chunk
+            }
+        } catch {
+            continue
+        }
+    }
+
+    return output.trim() ? output : null
+}
+
 export async function generateWithChatGPT(
     title: string,
     sources: Array<{ name: string; title: string; description: string; url: string }>,
@@ -210,7 +250,7 @@ Write the full article now:`
         },
         body: JSON.stringify({
             model: MODEL_NAME,
-            stream: false,
+            stream: true,
             store: false,
             include: ['reasoning.encrypted_content'],
             instructions: 'You are a senior NFL beat reporter writing for a professional sports news website. Write in third-person AP style, using only the provided sources.',
@@ -239,13 +279,8 @@ Write the full article now:`
         return null
     }
 
-    const data = await response.json() as CodexResponse
-    if (data.error?.message) {
-        console.warn(`  ⚠️ ChatGPT error: ${data.error.message}`)
-        return null
-    }
-
-    const generatedText = extractResponseText(data)
+    const responseBody = await response.text()
+    const generatedText = extractTextFromSse(responseBody)
     if (!generatedText) {
         console.warn('  ⚠️ ChatGPT response missing text')
         return null
