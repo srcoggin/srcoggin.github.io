@@ -1,6 +1,6 @@
 # GreenEighteen Sports (GES)
 
-![GreenEighteen Sports](https://greeneighteensports.com/Logo.png)
+![GreenEighteen Sports](https://greeneighteensports.com/Logo-github.png)
 
 **Real-time NFL coverage**
 
