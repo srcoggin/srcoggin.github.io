@@ -35,7 +35,10 @@ jobs:
       - name: Run NFL News Scraper
         working-directory: website-ts
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          APP_ID: ${{ secrets.APP_ID }}
+          APP_PRIVATE_KEY: ${{ secrets.APP_PRIVATE_KEY }}
+          APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: npx tsx scripts/nfl-scraper/runAll.ts
       
       - name: Check for changes

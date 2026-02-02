@@ -26,7 +26,7 @@ import {
     ARCHIVE_AGE_DAYS,
     UNGENERATED_DIR
 } from './config'
-import { generateWithGemini, isGeminiAvailable } from './gemini'
+import { generateWithCopilot, isCopilotAvailable } from './copilot'
 
 // Get proper base directory (website-ts root)
 const __filename = fileURLToPath(import.meta.url)
@@ -99,7 +99,7 @@ async function processPendingQueue(state: NewsState): Promise<{ processedCount: 
             }
 
             // Try to generate with AI
-            const aiContent = await generateWithGemini(
+            const aiContent = await generateWithCopilot(
                 data.title,
                 data.sources,
                 CATEGORY_NAMES[data.category]
@@ -300,7 +300,7 @@ async function processGroupWithAI(group: ArticleGroup): Promise<ProcessedArticle
     const tags = extractTags(group.keywords, group.category)
     const hash = generateHash(title, group.primary.description)
 
-    // Prepare source data for Gemini
+    // Prepare source data for Copilot
     const sourceData = [
         {
             name: group.primary.source,
@@ -316,8 +316,8 @@ async function processGroupWithAI(group: ArticleGroup): Promise<ProcessedArticle
         }))
     ]
 
-    // Call Gemini
-    const aiContent = await generateWithGemini(
+    // Call Copilot
+    const aiContent = await generateWithCopilot(
         title,
         sourceData,
         CATEGORY_NAMES[group.category]
@@ -527,11 +527,11 @@ async function main(): Promise<void> {
     console.log(`📅 ${new Date().toLocaleString()}`)
     console.log(`📂 Working directory: ${WEBSITE_ROOT}`)
 
-    // Check for Gemini API
-    if (!isGeminiAvailable()) {
-        console.warn('\n⚠️ GEMINI_API_KEY not set - will queue all articles for manual generation')
+    // Check for Copilot API
+    if (!isCopilotAvailable()) {
+        console.warn('\n⚠️ Copilot App credentials not set - will queue all articles for manual generation')
     } else {
-        console.log('🤖 Gemini AI: Enabled')
+        console.log('🤖 Copilot AI: Enabled')
     }
 
     try {
