@@ -272,7 +272,12 @@ Write the full article now:`
         return primaryResult.text.trim()
     }
 
-    if (primaryResult.status !== 401 && primaryResult.status !== 403) {
+    const appTokenRejected =
+        primaryResult.status === 401 ||
+        primaryResult.status === 403 ||
+        (primaryResult.status === 400 && (primaryResult.text || '').includes('Server-To-Server Tokens are not supported'))
+
+    if (!appTokenRejected) {
         if (primaryResult.status === 429) {
             console.log('  ⏳ Copilot rate limited, will queue for manual generation')
         } else {
