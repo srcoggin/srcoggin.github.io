@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-02-01T22:38:29.416Z",
+  "lastRun": "2026-02-02T02:31:29.313Z",
   "processedHashes": [
     "eb991cda28ba1b88",
     "de58cc7438e2c136",
@@ -29,7 +29,9 @@
     "276435fa2b6c9c3b",
     "ce8a61ae08c25aac",
     "64dfa3ec5c1225a7",
-    "44f7ca0255ccf923"
+    "44f7ca0255ccf923",
+    "f0986fd9dead5039",
+    "bd08f165a650b62c"
   ],
   "articles": [
     {
@@ -415,6 +417,32 @@
       "hash": "44f7ca0255ccf923",
       "aiGenerated": true,
       "summary": "The Miami Dolphins have finalized their defensive leadership, bringing aboard Sean Duggan as the team's new defensive coordinator under head coach Jeff Hafley, sources confirmed to ESPN. Duggan, who m..."
+    },
+    {
+      "id": "ml4jyo5dlbjd8l",
+      "title": "2025-26 NFL Defensive Player of the Year Award Odds: Garrett Makes History",
+      "slug": "2025-26-nfl-defensive-player-of-the-year-award-odds-garrett",
+      "date": "2026-02-02",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "f0986fd9dead5039",
+      "aiGenerated": true,
+      "summary": "The NFL landscape is already buzzing with anticipation for the 2025-26 season, particularly concerning individual accolades, as early betting odds for the Defensive Player of the Year award have surfa..."
+    },
+    {
+      "id": "ml4jyrh60qnw6b",
+      "title": "2026 Super Bowl SGP, props, Seahawks vs. Patriots same-game parlay: Get an epic $15,000 return on a $10 bet",
+      "slug": "2026-super-bowl-sgp-props-seahawks-vs-patriots-same-game-par",
+      "date": "2026-02-02",
+      "category": "draft",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "bd08f165a650b62c",
+      "aiGenerated": true,
+      "summary": "A tantalizing prospect has emerged for NFL enthusiasts and bettors alike, as SportsLine's predictive model has crafted a four-leg same-game parlay for Super Bowl LX featuring the Seattle Seahawks and ..."
     }
   ]
 }
