@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-02-03T04:40:28.734Z",
+  "lastRun": "2026-02-03T06:57:04.234Z",
   "processedHashes": [
     "2924e1c0e852b376",
     "2a27f9fd398b14dc",
@@ -289,7 +289,8 @@
     "2c63ab87ad10d03a",
     "2623196b6a2f0b69",
     "12f2abdfb3c82e71",
-    "1526752f3998a87f"
+    "1526752f3998a87f",
+    "af287c3e585737bd"
   ],
   "articles": [
     {
@@ -4081,6 +4082,19 @@
       "hash": "1526752f3998a87f",
       "aiGenerated": true,
       "summary": "The New York Giants found themselves pulled into a widening off-field controversy after newly surfaced materials tied co-owner Steve Tisch to documents connected to financier Jeffrey Epstein, a develo..."
+    },
+    {
+      "id": "ml68x8tl7qv36u",
+      "title": "Sean McVay, GM Les Snead sign multi-year extensions with Rams",
+      "slug": "sean-mcvay-gm-les-snead-sign-multi-year-extensions-with-rams",
+      "date": "2026-02-03",
+      "category": "free-agency",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "af287c3e585737bd",
+      "aiGenerated": true,
+      "summary": "Sean McVay and general manager Les Snead are not going anywhere, a stabilizing bit of news for the Los Angeles Rams at a time of year when franchises across the NFL are reshaping their leadership and ..."
     }
   ]
 }
