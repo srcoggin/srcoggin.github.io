@@ -1,6 +1,14 @@
 // NFL News Scraper - ChatGPT OAuth (Codex backend) Integration
 
+import * as fs from 'fs'
+import * as path from 'path'
+import { fileURLToPath } from 'url'
+
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
+
 const OPENAI_REFRESH_TOKEN = process.env.OPENAI_REFRESH_TOKEN
+const TOKEN_FILE = path.join(__dirname, '.chatgpt-token.json')
 
 const CLIENT_ID = 'app_EMoamEEZ73f0CkXaXp7hrann'
 const TOKEN_URL = 'https://auth.openai.com/oauth/token'
@@ -35,8 +43,34 @@ interface CodexResponse {
 
 let cachedToken: TokenCache | null = null
 
+// Load refresh token from file or environment variable
+function loadRefreshToken(): string | null {
+    // Try to load from file first (persisted token)
+    if (fs.existsSync(TOKEN_FILE)) {
+        try {
+            const data = JSON.parse(fs.readFileSync(TOKEN_FILE, 'utf-8'))
+            if (data.refreshToken && typeof data.refreshToken === 'string') {
+                return data.refreshToken
+            }
+        } catch (error) {
+            console.warn('  ⚠️ Failed to read token file, using environment variable')
+        }
+    }
+    // Fall back to environment variable
+    return OPENAI_REFRESH_TOKEN || null
+}
+
+// Save refresh token to file for reuse
+function saveRefreshToken(refreshToken: string): void {
+    try {
+        fs.writeFileSync(TOKEN_FILE, JSON.stringify({ refreshToken }, null, 2))
+    } catch (error) {
+        console.warn('  ⚠️ Failed to save refresh token to file:', error)
+    }
+}
+
 export function isChatGPTAvailable(): boolean {
-    return !!OPENAI_REFRESH_TOKEN
+    return !!loadRefreshToken()
 }
 
 function base64UrlDecode(value: string): string {
@@ -93,6 +127,10 @@ async function refreshAccessToken(refreshToken: string): Promise<TokenCache | nu
         return null
     }
 
+    // CRITICAL: Save the new refresh token immediately
+    // OpenAI invalidates the old refresh token when issuing a new one
+    saveRefreshToken(data.refresh_token)
+
     return {
         accessToken: data.access_token,
         refreshToken: data.refresh_token,
@@ -101,7 +139,7 @@ async function refreshAccessToken(refreshToken: string): Promise<TokenCache | nu
 }
 
 async function getAccessToken(): Promise<{ token: string; accountId: string } | null> {
-    const refreshToken = cachedToken?.refreshToken || OPENAI_REFRESH_TOKEN
+    const refreshToken = cachedToken?.refreshToken || loadRefreshToken()
     if (!refreshToken) {
         return null
     }
@@ -193,8 +231,8 @@ export async function generateWithChatGPT(
     sources: Array<{ name: string; title: string; description: string; url: string }>,
     category: string
 ): Promise<string | null> {
-    if (!OPENAI_REFRESH_TOKEN) {
-        console.log('  ℹ️ OPENAI_REFRESH_TOKEN not set')
+    if (!isChatGPTAvailable()) {
+        console.log('  ℹ️ ChatGPT token not available (check .chatgpt-token.json or OPENAI_REFRESH_TOKEN)')
         return null
     }
 
