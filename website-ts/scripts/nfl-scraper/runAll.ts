@@ -91,9 +91,27 @@ async function processPendingQueue(state: NewsState): Promise<{ processedCount: 
         try {
             const data: UnGeneratedArticle = JSON.parse(fs.readFileSync(filepath, 'utf-8'))
 
-            // Skip if already processed
+            // Check 1: Hash match (exact duplicate content)
             if (processedHashes.has(data.hash)) {
-                console.log(`  ⏭️ Already processed: ${data.title.substring(0, 40)}...`)
+                console.log(`  ⏭️ Already processed (hash match): ${data.title.substring(0, 40)}...`)
+                fs.unlinkSync(filepath)
+                continue
+            }
+
+            // Check 2: Slug match (file already exists)
+            // This prevents re-generating an article that was already saved but maybe hash didn't sync 
+            const slug = generateSlug(data.title)
+            const date = getDateString()
+            // Check for any file ending with this slug, regardless of date prefix
+            const articlesDir = resolvePath(ARTICLES_DIR)
+            const existingFiles = fs.readdirSync(articlesDir)
+            const exists = existingFiles.some(f => f.includes(slug))
+
+            if (exists) {
+                console.log(`  ⏭️ Already processed (file exists): ${data.title.substring(0, 40)}...`)
+                // Add to processed hashes to prevent future attempts in this run
+                processedHashes.add(data.hash)
+                state.processedHashes.push(data.hash)
                 fs.unlinkSync(filepath)
                 continue
             }
