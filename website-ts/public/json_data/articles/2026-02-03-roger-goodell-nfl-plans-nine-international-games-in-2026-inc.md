@@ -1,0 +1,46 @@
+---
+title: "Roger Goodell: NFL plans nine international games in 2026, including Mexico City"
+date: 2026-02-03
+category: general
+aiGenerated: true
+sources:
+  - name: "Pro Football Talk"
+    url: "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-nfl-plans-nine-international-games-in-2026-including-mexico-city"
+tags: ["general"]
+---
+
+The NFL’s push to become a year-round global brand is poised to take another major step in 2026, with Commissioner Roger Goodell saying the league is planning nine international regular-season games — a slate that would include a return to Mexico City. The move underscores how aggressively the NFL is leaning into overseas markets as a core part of its business and fan-growth strategy, not a novelty add-on, and it signals that international games could soon feel as routine on the calendar as prime-time matchups in the United States.
+
+Goodell’s comments, reported by Pro Football Talk, reflect a league that has steadily increased its footprint beyond U.S. borders and now appears committed to doing more than simply sprinkling a few games abroad each season. While the NFL has staged regular-season games internationally for years, the scale of what’s being discussed for 2026 — nine games — points to an expansion that would affect scheduling, travel planning and competitive considerations across the league.
+
+Mexico City’s inclusion is particularly notable, given the market’s history and importance to the NFL’s broader international ambitions. The league has long viewed Mexico as one of its strongest fan bases outside the United States, and playing there offers a high-profile platform to reach a large and engaged audience while also delivering a signature event to a region that has embraced the sport. A game in Mexico City would also extend the league’s international reach beyond the familiar Europe-centric focus and reinforce the idea that the NFL’s overseas strategy is multi-continent in scope.
+
+For fans, the significance is twofold. First, more international games mean more opportunities to see teams in new environments and time slots that reshape the rhythm of a typical NFL weekend. Second, it indicates the league is investing in a future in which international markets are central to how it presents — and sells — the product. That growth can influence everything from media rights and sponsorship to how franchises market themselves and build fan bases outside their home regions.
+
+For teams, a nine-game international slate would amplify the logistical demands that come with overseas travel, including recovery time, practice schedules and competitive balance questions that often follow long-distance trips. With more games moved abroad, clubs could increasingly have to account for international travel as a standard part of season planning rather than a rare, once-in-a-while assignment.
+
+The NFL still has time to shape the specifics of its 2026 schedule, including which teams would be selected and how the league would manage the competitive and operational ripple effects. What bears watching is whether the league continues to accelerate toward an even larger international package — and how quickly Mexico City and other global stops become annual fixtures rather than special occasions.The NFL’s push to become a year-round global brand is poised to take another major step in 2026, with Commissioner Roger Goodell saying the league is planning nine international regular-season games — a slate that would include a return to Mexico City. The move underscores how aggressively the NFL is leaning into overseas markets as a core part of its business and fan-growth strategy, not a novelty add-on, and it signals that international games could soon feel as routine on the calendar as prime-time matchups in the United States.
+
+Goodell’s comments, reported by Pro Football Talk, reflect a league that has steadily increased its footprint beyond U.S. borders and now appears committed to doing more than simply sprinkling a few games abroad each season. While the NFL has staged regular-season games internationally for years, the scale of what’s being discussed for 2026 — nine games — points to an expansion that would affect scheduling, travel planning and competitive considerations across the league.
+
+Mexico City’s inclusion is particularly notable, given the market’s history and importance to the NFL’s broader international ambitions. The league has long viewed Mexico as one of its strongest fan bases outside the United States, and playing there offers a high-profile platform to reach a large and engaged audience while also delivering a signature event to a region that has embraced the sport. A game in Mexico City would also extend the league’s international reach beyond the familiar Europe-centric focus and reinforce the idea that the NFL’s overseas strategy is multi-continent in scope.
+
+For fans, the significance is twofold. First, more international games mean more opportunities to see teams in new environments and time slots that reshape the rhythm of a typical NFL weekend. Second, it indicates the league is investing in a future in which international markets are central to how it presents — and sells — the product. That growth can influence everything from media rights and sponsorship to how franchises market themselves and build fan bases outside their home regions.
+
+For teams, a nine-game international slate would amplify the logistical demands that come with overseas travel, including recovery time, practice schedules and competitive balance questions that often follow long-distance trips. With more games moved abroad, clubs could increasingly have to account for international travel as a standard part of season planning rather than a rare, once-in-a-while assignment.
+
+The NFL still has time to shape the specifics of its 2026 schedule, including which teams would be selected and how the league would manage the competitive and operational ripple effects. What bears watching is whether the league continues to accelerate toward an even larger international package — and how quickly Mexico City and other global stops become annual fixtures rather than special occasions.The NFL’s push to become a year-round global brand is poised to take another major step in 2026, with Commissioner Roger Goodell saying the league is planning nine international regular-season games — a slate that would include a return to Mexico City. The move underscores how aggressively the NFL is leaning into overseas markets as a core part of its business and fan-growth strategy, not a novelty add-on, and it signals that international games could soon feel as routine on the calendar as prime-time matchups in the United States.
+
+Goodell’s comments, reported by Pro Football Talk, reflect a league that has steadily increased its footprint beyond U.S. borders and now appears committed to doing more than simply sprinkling a few games abroad each season. While the NFL has staged regular-season games internationally for years, the scale of what’s being discussed for 2026 — nine games — points to an expansion that would affect scheduling, travel planning and competitive considerations across the league.
+
+Mexico City’s inclusion is particularly notable, given the market’s history and importance to the NFL’s broader international ambitions. The league has long viewed Mexico as one of its strongest fan bases outside the United States, and playing there offers a high-profile platform to reach a large and engaged audience while also delivering a signature event to a region that has embraced the sport. A game in Mexico City would also extend the league’s international reach beyond the familiar Europe-centric focus and reinforce the idea that the NFL’s overseas strategy is multi-continent in scope.
+
+For fans, the significance is twofold. First, more international games mean more opportunities to see teams in new environments and time slots that reshape the rhythm of a typical NFL weekend. Second, it indicates the league is investing in a future in which international markets are central to how it presents — and sells — the product. That growth can influence everything from media rights and sponsorship to how franchises market themselves and build fan bases outside their home regions.
+
+For teams, a nine-game international slate would amplify the logistical demands that come with overseas travel, including recovery time, practice schedules and competitive balance questions that often follow long-distance trips. With more games moved abroad, clubs could increasingly have to account for international travel as a standard part of season planning rather than a rare, once-in-a-while assignment.
+
+The NFL still has time to shape the specifics of its 2026 schedule, including which teams would be selected and how the league would manage the competitive and operational ripple effects. What bears watching is whether the league continues to accelerate toward an even larger international package — and how quickly Mexico City and other global stops become annual fixtures rather than special occasions.
+
+---
+
+*AI-generated summary based on reporting from Pro Football Talk.*

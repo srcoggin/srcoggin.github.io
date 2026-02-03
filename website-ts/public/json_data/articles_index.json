@@ -1,7 +1,1841 @@
 {
-  "lastUpdated": "2026-02-03T03:32:55.330Z",
-  "count": 149,
+  "lastUpdated": "2026-02-03T04:40:28.736Z",
+  "count": 289,
   "articles": [
+    {
+      "id": "ml62xlu4t48px1",
+      "title": "Bengals News (2/2): Adapting to increased salary cap",
+      "slug": "bengals-news-22-adapting-to-increased-salary-cap",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "a327b8e04d449029",
+      "aiGenerated": true,
+      "summary": "The Cincinnati Bengals are facing a problem most NFL teams would welcome: more room to spend. With the league’s salary cap rising again, Cincinnati is preparing to navigate what Yahoo Sports NFL descr..."
+    },
+    {
+      "id": "ml62xu7i2zo1sy",
+      "title": "Chiefs News 2/2: Jeremiyah Love would fill Chiefs’ biggest need",
+      "slug": "chiefs-news-22-jeremiyah-love-would-fill-chiefs-biggest-need",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "5382bdd22cff8c4e",
+      "aiGenerated": true,
+      "summary": "The Kansas City Chiefs’ daily offseason drumbeat took an early turn toward the draft Sunday, with Yahoo Sports’ NFL coverage highlighting Notre Dame running back Jeremiyah Love as a prospect who “woul..."
+    },
+    {
+      "id": "ml62y4va1oy6ux",
+      "title": "Comeback Player of the Year? How Christian McCaffr...",
+      "slug": "comeback-player-of-the-year-how-christian-mccaffr",
+      "date": "2026-02-03",
+      "category": "injuries",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "13bfe2ef450cbc51",
+      "aiGenerated": true,
+      "summary": "Christian McCaffrey’s season was supposed to be defined by what the San Francisco 49ers didn’t have — their centerpiece back slowed again by injuries after a difficult 2024. Instead, it turned into a ..."
+    },
+    {
+      "id": "ml62ygxlfl6466",
+      "title": "Commanders’ Daron Payne listed as potential trade target for Bengals",
+      "slug": "commanders-daron-payne-listed-as-potential-trade-target-for",
+      "date": "2026-02-03",
+      "category": "trades",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "16a60f576453b6e4",
+      "aiGenerated": true,
+      "summary": "The Washington Commanders’ standout defensive tackle Daron Payne has emerged as a potential trade target for the Cincinnati Bengals, a development that underscores the urgency Cincinnati faces as it t..."
+    },
+    {
+      "id": "ml62yp45b39quy",
+      "title": "Cowboys news: Increased salary cap bodes well for Dallas’ priorities this offseason",
+      "slug": "cowboys-news-increased-salary-cap-bodes-well-for-dallas-prio",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "1c5fb56ca709a10d",
+      "aiGenerated": true,
+      "summary": "The NFL’s rising salary cap is poised to shape the Dallas Cowboys’ offseason in a meaningful way, giving the franchise more flexibility as it approaches a slate of high-stakes roster decisions. Accord..."
+    },
+    {
+      "id": "ml62z0stsmioq1",
+      "title": "Drake Maye injury, Bill Belichick cloud and Cardi B among storylines that hang over Super Bowl 2026 week",
+      "slug": "drake-maye-injury-bill-belichick-cloud-and-cardi-b-among-sto",
+      "date": "2026-02-03",
+      "category": "injuries",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "bff0ba2548e75a7d",
+      "aiGenerated": true,
+      "summary": "Super Bowl week rarely lacks for theater, but the run-up to Super Bowl 2026 has arrived with a particularly crowded docket of questions and curiosities hovering over the New England Patriots and Seatt..."
+    },
+    {
+      "id": "ml62z9twtestjm",
+      "title": "Golden Nuggets: Welcome to the 49ers, Raheem!",
+      "slug": "golden-nuggets-welcome-to-the-49ers-raheem",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "87039f1f9e49545d",
+      "aiGenerated": true,
+      "summary": "The San Francisco 49ers signaled an early offseason focus on reshaping their backfield Monday, with Yahoo Sports NFL’s “Golden Nuggets” noting, “Welcome to the 49ers, Raheem!” — a development that imm..."
+    },
+    {
+      "id": "ml62zjhuj7m9o7",
+      "title": "Grading the Dolphins tight ends – The Splash Zone 2/2/26",
+      "slug": "grading-the-dolphins-tight-ends-the-splash-zone-2226",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "405caac493639306",
+      "aiGenerated": true,
+      "summary": "Miami’s tight end room has become a telling subplot in the Dolphins’ broader roster conversation, and it is drawing fresh scrutiny as the club’s daily news cycle turns toward position-by-position eval..."
+    },
+    {
+      "id": "ml62zur8sebc9c",
+      "title": "Know your American football? Take on our NFL MVP quiz",
+      "slug": "know-your-american-football-take-on-our-nfl-mvp-quiz",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "aba0f819bb8581e4",
+      "aiGenerated": true,
+      "summary": "With the NFL’s annual MVP debate already part of the league’s year-round ecosystem, Yahoo Sports is leaning into the enduring pull of the award with a new interactive challenge aimed at testing fans’ ..."
+    },
+    {
+      "id": "ml6305h5jlae3j",
+      "title": "New York Jets News: Greg Roman, Darrell Bevell Among Finalists For Jets’ OC Job",
+      "slug": "new-york-jets-news-greg-roman-darrell-bevell-among-finalists",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "09b292f64628c734",
+      "aiGenerated": true,
+      "summary": "The New York Jets’ search for an offensive coordinator has narrowed, with Greg Roman and Darrell Bevell among the finalists for the job, according to a roundup from Yahoo Sports NFL. The decision carr..."
+    },
+    {
+      "id": "ml630f5upctsar",
+      "title": "NY Giants news, 2/2: John Harbaugh, Steve Tisch, Brian Daboll, more",
+      "slug": "ny-giants-news-22-john-harbaugh-steve-tisch-brian-daboll-mor",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "997cf2962719a9f6",
+      "aiGenerated": true,
+      "summary": "The New York Giants’ offseason remained defined Monday by more questions than answers, a familiar theme for a franchise coming off another turbulent year and staring at yet another reset. A roundup of..."
+    },
+    {
+      "id": "ml630p3x3ckyaf",
+      "title": "Patriots have roster decisions to make ahead of Super Bowl",
+      "slug": "patriots-have-roster-decisions-to-make-ahead-of-super-bowl",
+      "date": "2026-02-03",
+      "category": "injuries",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "7845a1aa292935a6",
+      "aiGenerated": true,
+      "summary": "The New England Patriots arrived at Super Bowl week with their roster still in flux, facing consequential decisions that could shape how they attack the game and how they manage the final days of prep..."
+    },
+    {
+      "id": "ml630yqkuwlxmk",
+      "title": "Report: NFL's first game in France will be Browns-Saints in Paris on October 25",
+      "slug": "report-nfls-first-game-in-france-will-be-browns-saints-in-pa",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL",
+        "Pro Football Talk"
+      ],
+      "hash": "a124207980095d6f",
+      "aiGenerated": true,
+      "summary": "The NFL is set to break new ground in 2026, with the league’s first regular-season game in France expected to feature the Cleveland Browns and New Orleans Saints in Paris on Oct. 25, according to repo..."
+    },
+    {
+      "id": "ml63175tjj6vq9",
+      "title": "The Healthy Season That Wasn’t: The Truth About Jacksonville’s 2025 Injury Luck",
+      "slug": "the-healthy-season-that-wasnt-the-truth-about-jacksonvilles",
+      "date": "2026-02-03",
+      "category": "injuries",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "261ac9bae064a3ec",
+      "aiGenerated": true,
+      "summary": "Jacksonville’s 2025-26 season became a case study in how “healthy” can still mean hurt, a reality that shaped the Jaguars’ week-to-week decisions and ultimately colored how the franchise will evaluate..."
+    },
+    {
+      "id": "ml631jh8vogcz0",
+      "title": "Top 5 defensive plays from the Broncos 2025 season",
+      "slug": "top-5-defensive-plays-from-the-broncos-2025-season",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "a8f48c67c3bcc61c",
+      "aiGenerated": true,
+      "summary": "The Denver Broncos’ 2025 season produced enough defensive highlights to make narrowing them down an exercise in restraint, a reflection of a unit that repeatedly swung games with timely, momentum-flip..."
+    },
+    {
+      "id": "ml631u8x55ft4f",
+      "title": "Wetzel: NFL should look into Giants co-owner Steve...",
+      "slug": "wetzel-nfl-should-look-into-giants-co-owner-steve",
+      "date": "2026-02-03",
+      "category": "team-news",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "8fe4e4ddbd17bbd1",
+      "aiGenerated": true,
+      "summary": "The NFL’s ownership ranks are again in the spotlight, this time around New York Giants co-owner Steve Tisch, after an ESPN NFL column by Dan Wetzel raised questions about whether the league should mor..."
+    },
+    {
+      "id": "ml6324y840tg96",
+      "title": "Which NFL team should you support?",
+      "slug": "which-nfl-team-should-you-support",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "2247712b33404b87",
+      "aiGenerated": true,
+      "summary": "With the NFL’s reach continuing to stretch well beyond the United States, a new data-driven guide is aiming to answer a deceptively simple question for newcomers and longtime neutrals alike: Which tea..."
+    },
+    {
+      "id": "ml632ezl752iz4",
+      "title": "Will free agency or the draft be more important for the Lions?",
+      "slug": "will-free-agency-or-the-draft-be-more-important-for-the-lion",
+      "date": "2026-02-03",
+      "category": "free-agency",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "81062d3123c1d5c9",
+      "aiGenerated": true,
+      "summary": "The Detroit Lions are staring at an offseason that could determine whether last season’s momentum becomes a sustained run — and the central question is where the biggest gains will come from. As Yahoo..."
+    },
+    {
+      "id": "ml632non3pcyry",
+      "title": "👀 Unique tales: 59 Super Bowl rings, 59 stories",
+      "slug": "-unique-tales-59-super-bowl-rings-59-stories",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "155e4bec981e71b3",
+      "aiGenerated": true,
+      "summary": "As Super Bowl LX approaches, the NFL’s most recognizable piece of hardware is being framed less as jewelry and more as a time capsule. ESPN NFL this week highlighted “59 Super Bowl rings, 59 stories,”..."
+    },
+    {
+      "id": "ml632wspd56lcv",
+      "title": "2026 Bears mock offseason: Free agency and draft moves after playoffs",
+      "slug": "2026-bears-mock-offseason-free-agency-and-draft-moves-after",
+      "date": "2026-02-03",
+      "category": "free-agency",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "05be644dd3faf74c",
+      "aiGenerated": true,
+      "summary": "The Chicago Bears’ path from playoff participant to legitimate contender is already being debated in early looks at the 2026 offseason, with a new mock blueprint underscoring how quickly the roster-bu..."
+    },
+    {
+      "id": "ml6338rl9vc1lq",
+      "title": "2026 NFL playoff schedule and bracket: Dates, times, TV, streaming for Super Bowl",
+      "slug": "2026-nfl-playoff-schedule-and-bracket-dates-times-tv-streami",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "1e8023592818aa01",
+      "aiGenerated": true,
+      "summary": "The NFL’s road to the Super Bowl is officially mapped out, with CBS Sports publishing the full 2026 playoff schedule and bracket — including dates, times and how to watch every postseason game. For fa..."
+    },
+    {
+      "id": "ml633jbz9he7ht",
+      "title": "2026 Super Bowl cheat sheet: Everything to know for Patriots vs. Seahawks championship game in Santa Clara",
+      "slug": "2026-super-bowl-cheat-sheet-everything-to-know-for-patriots",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "1f28aca83f6f88c8",
+      "aiGenerated": true,
+      "summary": "Super Bowl 60 is set to deliver a marquee matchup with a familiar postseason weight: the New England Patriots and Seattle Seahawks will meet for the NFL championship in Santa Clara, a pairing that CBS..."
+    },
+    {
+      "id": "ml633qtv3r9rr6",
+      "title": "2026 Super Bowl performers: Bad Bunny headlines halftime show, Charlie Puth to perform national anthem",
+      "slug": "2026-super-bowl-performers-bad-bunny-headlines-halftime-show",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "4a126b90f6f99511",
+      "aiGenerated": true,
+      "summary": "Bad Bunny will headline the halftime show at the 2026 Super Bowl, giving the NFL one of the biggest global music stars on the sport’s largest stage and underscoring the league’s continued push to make..."
+    },
+    {
+      "id": "ml6340d1m0qcpo",
+      "title": "5 biggest Patriots questions heading into Super Bowl week",
+      "slug": "5-biggest-patriots-questions-heading-into-super-bowl-week",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "781b22ca37c00ee8",
+      "aiGenerated": true,
+      "summary": "Super Bowl week arrives with the New England Patriots staring at an opponent built to test every layer of their identity. The Patriots are set to face the Seattle Seahawks in Super Bowl 60, a matchup ..."
+    },
+    {
+      "id": "ml634ah674rag9",
+      "title": "Arizona Cardinals add offensive linemen in first Lance Zierlein 2026 NFL Mock Draft",
+      "slug": "arizona-cardinals-add-offensive-linemen-in-first-lance-zierl",
+      "date": "2026-02-03",
+      "category": "draft",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "f256d68ce4b80d67",
+      "aiGenerated": true,
+      "summary": "The Arizona Cardinals are not waiting for the 2026 NFL draft to arrive before telegraphing what could become their biggest priority: getting bigger and better up front. In Lance Zierlein’s first 2026 ..."
+    },
+    {
+      "id": "ml634lyatv4x1x",
+      "title": "As another NFL coaching cycle lacks minority hires, Roger Goodell defends recent absence of diversity program",
+      "slug": "as-another-nfl-coaching-cycle-lacks-minority-hires-roger-goo",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "49870fd36cc95218",
+      "aiGenerated": true,
+      "summary": "NFL Commissioner Roger Goodell defended the league’s efforts to improve diversity in coaching and front-office hiring even as another offseason cycle neared its end without a meaningful increase in mi..."
+    },
+    {
+      "id": "ml634vxx0r58gg",
+      "title": "Best Seahawks vs Patriots Same Game Parlay for Super Bowl LX",
+      "slug": "best-seahawks-vs-patriots-same-game-parlay-for-super-bowl-lx",
+      "date": "2026-02-03",
+      "category": "draft",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "6c4701ecf878ff35",
+      "aiGenerated": true,
+      "summary": "With Super Bowl LX setting up a Seahawks-Patriots matchup, the betting market has already turned part of the week’s conversation away from legacy and toward value — and one unlikely name is being push..."
+    },
+    {
+      "id": "ml6354s8mc5p4f",
+      "title": "Bills GM Brandon Beane offers profane three-word response to Joe Brady pushback",
+      "slug": "bills-gm-brandon-beane-offers-profane-three-word-response-to",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "9c5c5fe77d68449c",
+      "aiGenerated": true,
+      "summary": "Buffalo’s front office is signaling it will not be swayed by second-guessing as the Bills move forward with a major leadership decision on the offensive side of the ball. General manager Brandon Beane..."
+    },
+    {
+      "id": "ml635dwkzp17g7",
+      "title": "Bills hire Drew Terrell as wide receivers coach",
+      "slug": "bills-hire-drew-terrell-as-wide-receivers-coach",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL",
+        "Pro Football Talk"
+      ],
+      "hash": "57b10783c9ae487f",
+      "aiGenerated": true,
+      "summary": "The Buffalo Bills have filled a key spot on their offensive staff, hiring Drew Terrell as wide receivers coach in a move that further rounds out head coach Joe Brady’s group as the team looks ahead to..."
+    },
+    {
+      "id": "ml635nun9styrw",
+      "title": "Brandon Beane on reaction to Bills' coaching change: \"F—- the outside\"",
+      "slug": "brandon-beane-on-reaction-to-bills-coaching-change-f-the-out",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "f610c5b74fcbccad",
+      "aiGenerated": true,
+      "summary": "Buffalo Bills general manager Brandon Beane is not pretending the team’s latest coaching change has been embraced outside the building, and he is not particularly concerned about it, either. In remark..."
+    },
+    {
+      "id": "ml635xdyql6w5p",
+      "title": "Broncos fill OC vacancy by promoting asst. Webb",
+      "slug": "broncos-fill-oc-vacancy-by-promoting-asst-webb",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "b29a88c3976cb228",
+      "aiGenerated": true,
+      "summary": "The Denver Broncos moved quickly to stabilize one of the most important positions on Sean Payton’s staff, reaching agreement with assistant coach Davis Webb to become the team’s offensive coordinator,..."
+    },
+    {
+      "id": "ml6365rqy9zoyw",
+      "title": "Broncos promote Davis Webb to offensive coordinator and Logan Kilgore to QB coach",
+      "slug": "broncos-promote-davis-webb-to-offensive-coordinator-and-loga",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "8b008b7954f3a89a",
+      "aiGenerated": true,
+      "summary": "The Denver Broncos turned to continuity on offense by promoting Davis Webb to offensive coordinator and elevating Logan Kilgore to quarterbacks coach, a pair of moves that signal the franchise’s inten..."
+    },
+    {
+      "id": "ml636euy9z03rr",
+      "title": "Broncos promote Davis Webb to offensive coordinator, Logan Kilgore to quarterbacks coach",
+      "slug": "broncos-promote-davis-webb-to-offensive-coordinator-logan-ki",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "efd63bccf21de7a8",
+      "aiGenerated": true,
+      "summary": "The Broncos kept a rising coaching candidate in-house, promoting Davis Webb to offensive coordinator in a move that signals both continuity and urgency for a franchise searching for stability on that ..."
+    },
+    {
+      "id": "ml636pgbfpmcr6",
+      "title": "Browns to hire Travis Switzer as offensive coordinator",
+      "slug": "browns-to-hire-travis-switzer-as-offensive-coordinator",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "4ac002c2846f94f6",
+      "aiGenerated": true,
+      "summary": "The Cleveland Browns are set to fill one of the most consequential spots on Kevin Stefanski’s staff, moving to hire Travis Switzer as offensive coordinator, according to Pro Football Talk. The decisio..."
+    },
+    {
+      "id": "ml637217hk15ix",
+      "title": "Buffalo Bills hire new WR coach",
+      "slug": "buffalo-bills-hire-new-wr-coach",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "ab7f20600679075d",
+      "aiGenerated": true,
+      "summary": "The Buffalo Bills continued to reshape their offensive staff by hiring Drew Terrell as their new wide receivers coach, a move that signals a clear emphasis on tightening the details of one of the leag..."
+    },
+    {
+      "id": "ml637e0mj6z9qu",
+      "title": "Buffalo Bills hiring Bobby April III as OLB coach",
+      "slug": "buffalo-bills-hiring-bobby-april-iii-as-olb-coach",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "744513744c5a06d4",
+      "aiGenerated": true,
+      "summary": "The Buffalo Bills are continuing to reshape the defensive side of their coaching staff, hiring Bobby April III to coach outside linebackers in a move that signals both continuity and fresh planning un..."
+    },
+    {
+      "id": "ml637n2ky9cam6",
+      "title": "Chiefs sign Jake Haener",
+      "slug": "chiefs-sign-jake-haener",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "8c2b6cdf755a6f0f",
+      "aiGenerated": true,
+      "summary": "The Kansas City Chiefs added another arm to their offseason quarterback room, signing Jake Haener in a move that underscores how aggressively the franchise continues to build depth behind star Patrick..."
+    },
+    {
+      "id": "ml637vg1e74aji",
+      "title": "Chiefs sign QB Jake Haener with Patrick Mahomes’ injury return unclear",
+      "slug": "chiefs-sign-qb-jake-haener-with-patrick-mahomes-injury-retur",
+      "date": "2026-02-03",
+      "category": "injuries",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "32546ceb24e2f7f9",
+      "aiGenerated": true,
+      "summary": "The Kansas City Chiefs moved to shore up their quarterback room, signing Jake Haener as uncertainty continues to hang over Patrick Mahomes’ return from injury heading into the 2026 season.\n\nYahoo Spor..."
+    },
+    {
+      "id": "ml6384z6tloy0a",
+      "title": "Chiefs sign quarterback Jake Haener to a reserve/future contract",
+      "slug": "chiefs-sign-quarterback-jake-haener-to-a-reservefuture-contr",
+      "date": "2026-02-03",
+      "category": "free-agency",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "f63e698dad98885f",
+      "aiGenerated": true,
+      "summary": "The Kansas City Chiefs took an early step toward reshaping their offseason quarterback room by signing Jake Haener to a reserve/future contract, a move that underscores how unsettled the depth chart b..."
+    },
+    {
+      "id": "ml638jjehp8h0v",
+      "title": "Comeback Player of the Year? How Christian McCaffrey bounced back in most impressive year yet",
+      "slug": "comeback-player-of-the-year-how-christian-mccaffrey-bounced",
+      "date": "2026-02-03",
+      "category": "injuries",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "396074f419a07479",
+      "aiGenerated": true,
+      "summary": "Christian McCaffrey spent the better part of 2024 fighting his own body, and the San Francisco 49ers spent much of it wondering whether their offensive engine could ever truly fire on all cylinders ag..."
+    },
+    {
+      "id": "ml638sjni952li",
+      "title": "Cowboys 2026 offseason preview: Offensive tackles",
+      "slug": "cowboys-2026-offseason-preview-offensive-tackles",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "fa6136f1ea41e9b9",
+      "aiGenerated": true,
+      "summary": "The Dallas Cowboys’ 2026 offseason is shaping up to be defined not just by star power, but by a position group that can dictate everything from the run game to the quarterback’s health: offensive tack..."
+    },
+    {
+      "id": "ml6393u9yym65o",
+      "title": "Daily Prowl: Titans hire former Jaguars coach Gus Bradley as DC",
+      "slug": "daily-prowl-titans-hire-former-jaguars-coach-gus-bradley-as",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "c3c5db7c3e7244f9",
+      "aiGenerated": true,
+      "summary": "The Tennessee Titans are turning to a familiar name to reshape their defense, hiring former Jacksonville Jaguars head coach Gus Bradley as defensive coordinator, according to a Yahoo Sports NFL report..."
+    },
+    {
+      "id": "ml639eqexptyes",
+      "title": "Denzel Ward on Jim Schwartz: Hopefully we're still keeping him",
+      "slug": "denzel-ward-on-jim-schwartz-hopefully-were-still-keeping-him",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "fdee1bda8c420f34",
+      "aiGenerated": true,
+      "summary": "Cleveland Browns cornerback Denzel Ward offered a pointed reminder this week of just how unsettled the coaching carousel can be in January, even for units that performed well. With defensive coordinat..."
+    },
+    {
+      "id": "ml639pxm6vt7gp",
+      "title": "Does NFL have a Pro Bowl quarterback problem? Even Jets' Justin Fields reportedly declined an invite",
+      "slug": "does-nfl-have-a-pro-bowl-quarterback-problem-even-jets-justi",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "7dddb78da51bbe46",
+      "aiGenerated": true,
+      "summary": "The NFL’s long-running effort to keep the Pro Bowl relevant is facing renewed scrutiny after another quarterback reportedly chose to sit out, even with the league’s marquee position at the center of t..."
+    },
+    {
+      "id": "ml63a0bid5xwvk",
+      "title": "Drake Maye: I'll be just fine for Sunday",
+      "slug": "drake-maye-ill-be-just-fine-for-sunday",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "4e0f588bfd3b90ab",
+      "aiGenerated": true,
+      "summary": "Patriots quarterback Drake Maye sought to quiet one of the lingering questions around New England’s biggest week of the season, saying he expects to be ready to play Sunday after his health became a f..."
+    },
+    {
+      "id": "ml63abh5fw9pq3",
+      "title": "Earthquake hits Super Bowl week in San Francisco: Bay Area jolted by 4.2-magnitude quake on Monday",
+      "slug": "earthquake-hits-super-bowl-week-in-san-francisco-bay-area-jo",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "79e3ae1f8f893567",
+      "aiGenerated": true,
+      "summary": "Super Bowl week in the San Francisco Bay Area began with an unexpected jolt Monday, when a 4.2-magnitude earthquake struck during the buildup to the NFL’s biggest game, briefly adding a real-world tre..."
+    },
+    {
+      "id": "ml63alja72larn",
+      "title": "Exhausted by the Patriots being back in the Super Bowl? Here's the coping guide for you",
+      "slug": "exhausted-by-the-patriots-being-back-in-the-super-bowl-heres",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "10dd4aa17ab17e11",
+      "aiGenerated": true,
+      "summary": "New England is headed back to the Super Bowl in 2026, and the reaction around the league has been as loud as the accomplishment itself. The Patriots’ latest run — framed by CBS Sports NFL as a “wild l..."
+    },
+    {
+      "id": "ml63axjeax9k9b",
+      "title": "Five teams with contract extension dilemmas: What will the Rams, Lions, Falcons, Texans and Cowboys do?",
+      "slug": "five-teams-with-contract-extension-dilemmas-what-will-the-ra",
+      "date": "2026-02-03",
+      "category": "free-agency",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "b3e6a2ceba0f042c",
+      "aiGenerated": true,
+      "summary": "With the NFL calendar tilting from roster building to roster retention, a handful of contenders and rising teams are staring at the same high-stakes question: how to keep cornerstone talent without le..."
+    },
+    {
+      "id": "ml63b6mg5e1awc",
+      "title": "From seeing ghosts to the Super Bowl: Why the Jets' former GM believed in Sam Darnold",
+      "slug": "from-seeing-ghosts-to-the-super-bowl-why-the-jets-former-gm",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "236244d49111cb19",
+      "aiGenerated": true,
+      "summary": "Sam Darnold’s path from a nationally televised low point to the sport’s biggest stage is being framed by those who knew him best as less a surprise than a long-delayed payoff. As Darnold prepares for ..."
+    },
+    {
+      "id": "ml63bgmyvp71mj",
+      "title": "Full list of every Super Bowl halftime performer in history: Bad Bunny to headline 2026 show at Super Bowl LX",
+      "slug": "full-list-of-every-super-bowl-halftime-performer-in-history",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "9a0ec6661f37bb46",
+      "aiGenerated": true,
+      "summary": "Bad Bunny will headline the Super Bowl LX halftime show in 2026, adding one of the world’s biggest music stars to the NFL’s most-watched annual stage and extending the event’s long-running tradition o..."
+    },
+    {
+      "id": "ml63bqu1kd97w1",
+      "title": "George Pickens wants to remain in Dallas but says his value has increased",
+      "slug": "george-pickens-wants-to-remain-in-dallas-but-says-his-value",
+      "date": "2026-02-03",
+      "category": "draft",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "80735d06655e8778",
+      "aiGenerated": true,
+      "summary": "George Pickens’ offseason message is clear: He wants to stay in Dallas, but he also believes the price of doing so has gone up.\n\nAccording to Pro Football Talk, the Cowboys want to keep Pickens, and t..."
+    },
+    {
+      "id": "ml63c0t78sf1s1",
+      "title": "Giants lose OC candidate as Davis Webb takes Broncos promotion",
+      "slug": "giants-lose-oc-candidate-as-davis-webb-takes-broncos-promoti",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "a724f0fbc83133c0",
+      "aiGenerated": true,
+      "summary": "The New York Giants’ search for an offensive coordinator has hit an early snag, with one of their reported candidates coming off the board. Davis Webb, a former Giants quarterback who had emerged as a..."
+    },
+    {
+      "id": "ml63cd2no3w814",
+      "title": "Goodell: Belichick will eventually be Hall of Famer",
+      "slug": "goodell-belichick-will-eventually-be-hall-of-famer",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "c86e8ce876c43a23",
+      "aiGenerated": true,
+      "summary": "NFL commissioner Roger Goodell stepped into the conversation Monday surrounding Bill Belichick’s legacy, saying the longtime coach “will eventually be inducted” into the Pro Football Hall of Fame whil..."
+    },
+    {
+      "id": "ml63cogkuykdnf",
+      "title": "Goodell: Report of $5M fine for Seahawks untrue",
+      "slug": "goodell-report-of-5m-fine-for-seahawks-untrue",
+      "date": "2026-02-03",
+      "category": "player-news",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "1fb74f6b67b52b8f",
+      "aiGenerated": true,
+      "summary": "NFL Commissioner Roger Goodell pushed back Sunday against a report that the Seattle Seahawks had been hit with a $5 million fine, calling the claim untrue and casting doubt on a narrative that had qui..."
+    },
+    {
+      "id": "ml63d0ihwrlql0",
+      "title": "Grading NFL coordinator hires: 49ers ace Robert Saleh replacement as Ravens, Bills land top DC candidates",
+      "slug": "grading-nfl-coordinator-hires-49ers-ace-robert-saleh-replace",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "28a3f1ed2fb81871",
+      "aiGenerated": true,
+      "summary": "The NFL’s annual coordinator carousel has begun to shape how contenders and rebuilding teams alike will look in 2024, with several high-profile defensive jobs turning over and immediate ripple effects..."
+    },
+    {
+      "id": "ml63dc6nonnu1h",
+      "title": "Grading the Mike LaFleur hire, plus what's next for the Cardinals",
+      "slug": "grading-the-mike-lafleur-hire-plus-whats-next-for-the-cardin",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "27cab5dc4163d4cf",
+      "aiGenerated": true,
+      "summary": "The Arizona Cardinals are betting their next offensive step can come from one of the NFL’s most fertile coaching pipelines, hiring Mike LaFleur with the expectation that a system rooted in the Sean Mc..."
+    },
+    {
+      "id": "ml63dlvqpt4sxg",
+      "title": "Gus Bradley gets a DC job with Robert Saleh",
+      "slug": "gus-bradley-gets-a-dc-job-with-robert-saleh",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "314530bbb296ad53",
+      "aiGenerated": true,
+      "summary": "Gus Bradley is headed for a new defensive coordinator job under Robert Saleh, and the move adds to a growing list of departures from the San Francisco 49ers’ defensive staff. The change matters not on..."
+    },
+    {
+      "id": "ml63dw23mpva8w",
+      "title": "Hispanic icons who owned Super Bowl halftime before Bad Bunny",
+      "slug": "hispanic-icons-who-owned-super-bowl-halftime-before-bad-bunn",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "712b71c258604c35",
+      "aiGenerated": true,
+      "summary": "As the NFL’s biggest stage continues to evolve beyond football, ESPN’s latest look at Super Bowl halftime history underscores a through line that predates any current pop-culture buzz: Hispanic artist..."
+    },
+    {
+      "id": "ml63e5vok2vg5w",
+      "title": "How serious is Drake Maye's injury + Did Sam Darnold's success contribute to Vikings GM firing?",
+      "slug": "how-serious-is-drake-mayes-injury-did-sam-darnolds-success-c",
+      "date": "2026-02-03",
+      "category": "injuries",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "428b360285cb05af",
+      "aiGenerated": true,
+      "summary": "The New England Patriots’ preparations for their Super Bowl LX matchup with the Seattle Seahawks took an immediate hit this week as reports surfaced that quarterback Drake Maye missed practice, a deve..."
+    },
+    {
+      "id": "ml63ehv35g78ee",
+      "title": "How to watch the 2026 NFL Pro Bowl Games: TV channel, streaming info, start time and more",
+      "slug": "how-to-watch-the-2026-nfl-pro-bowl-games-tv-channel-streamin",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "b022b4cb2a50aeab",
+      "aiGenerated": true,
+      "summary": "The NFL’s annual all-star showcase shifts into prime time this week as the 2026 NFL Pro Bowl Games arrive Tuesday, offering fans a final, low-contact NFL event before the league turns fully to the off..."
+    },
+    {
+      "id": "ml63esakrz8hlb",
+      "title": "Jared Goff calls OC Drew Petzing a \"home run hire\"",
+      "slug": "jared-goff-calls-oc-drew-petzing-a-home-run-hire",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "99bed6dbca2d307d",
+      "aiGenerated": true,
+      "summary": "Jared Goff is treating Detroit’s latest offensive-coordinator change as a sign of confidence rather than instability, calling the hiring of Drew Petzing a “home run” as the Lions prepare for their thi..."
+    },
+    {
+      "id": "ml63f2box29b1k",
+      "title": "Jets complete second interviews with Darrell Bevell, Greg Roman for OC job",
+      "slug": "jets-complete-second-interviews-with-darrell-bevell-greg-rom",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL",
+        "Pro Football Talk"
+      ],
+      "hash": "a72b4d0594fcfacf",
+      "aiGenerated": true,
+      "summary": "The New York Jets took a notable step in their search for an offensive coordinator Monday night, completing in-person, second-round interviews with Darrell Bevell and Greg Roman, the team announced. T..."
+    },
+    {
+      "id": "ml63fbro2c21bd",
+      "title": "Klint Kubiak says he's just focused on the Super Bowl, won't discuss coaching Raiders",
+      "slug": "klint-kubiak-says-hes-just-focused-on-the-super-bowl-wont-di",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "938a112c50be937f",
+      "aiGenerated": true,
+      "summary": "Klint Kubiak did little to cool the leaguewide expectation that he will be the Raiders’ next head coach, but he also did not offer anything that could be construed as confirmation as he prepared for t..."
+    },
+    {
+      "id": "ml63fkq243yj21",
+      "title": "Landing spots for NFL's top 50 free agents: George Pickens stays put, other top weapons find new homes",
+      "slug": "landing-spots-for-nfls-top-50-free-agents-george-pickens-sta",
+      "date": "2026-02-03",
+      "category": "free-agency",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "0ea48d920d025d53",
+      "aiGenerated": true,
+      "summary": "With the NFL’s free agency board beginning to take shape, one clear takeaway from CBS Sports’ latest look at landing spots for the league’s top 50 free agents is how quickly roster-building priorities..."
+    },
+    {
+      "id": "ml63fw42e0x7bt",
+      "title": "Latest Super Bowl Odds: Seahawks vs Patriots Follows Big Game Betting Patterns",
+      "slug": "latest-super-bowl-odds-seahawks-vs-patriots-follows-big-game",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "0b3d1541f458f966",
+      "aiGenerated": true,
+      "summary": "The early Super Bowl betting market is already settling into familiar grooves, with the latest odds for Seattle vs. New England reflecting the same push-and-pull that has defined Big Game wagering for..."
+    },
+    {
+      "id": "ml63g71ftzm0y7",
+      "title": "LIVE from Super Bowl LX: Lesson teams can learn from Seahawks, Patriots + Mock Draft 1.0",
+      "slug": "live-from-super-bowl-lx-lesson-teams-can-learn-from-seahawks",
+      "date": "2026-02-03",
+      "category": "draft",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "1ac4ff7850a1a23c",
+      "aiGenerated": true,
+      "summary": "Super Bowl week in San Francisco is typically dominated by matchup talk and legacy debates, but a draft-centric message cut through the noise in a Yahoo Sports NFL live show: the next wave of contende..."
+    },
+    {
+      "id": "ml63gk2te86kmx",
+      "title": "Longest Super Bowl droughts: Cowboys' absence in NFL's big game reaches 30 years; Lions seek first appearance",
+      "slug": "longest-super-bowl-droughts-cowboys-absence-in-nfls-big-game",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "7365946304a349b7",
+      "aiGenerated": true,
+      "summary": "Thirty years is a long time to wait for another shot at the sport’s biggest stage, but that is exactly where the Dallas Cowboys now stand as the NFL turns its attention toward another postseason march..."
+    },
+    {
+      "id": "ml63gvdlfjh0rr",
+      "title": "Mariners acquire Brendan Donovan from Cardinals in three-team trade",
+      "slug": "mariners-acquire-brendan-donovan-from-cardinals-in-three-tea",
+      "date": "2026-02-03",
+      "category": "trades",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "d0beaa0981b3292e",
+      "aiGenerated": true,
+      "summary": "The Seattle Mariners’ long pursuit of St. Louis Cardinals utilityman Brendan Donovan finally reached the finish line Monday, a reminder of how aggressively teams can target specific roster fits and ho..."
+    },
+    {
+      "id": "ml63h92cqre4k5",
+      "title": "Matt LaFleur: I'm confident Jonathan Gannon will be an outstanding addition",
+      "slug": "matt-lafleur-im-confident-jonathan-gannon-will-be-an-outstan",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "aa9e608974014e28",
+      "aiGenerated": true,
+      "summary": "The Green Bay Packers made a notable defensive pivot Monday, hiring former Arizona Cardinals head coach Jonathan Gannon as their defensive coordinator, a move that puts a recent head coach in charge o..."
+    },
+    {
+      "id": "ml63hk3lw2de7w",
+      "title": "Matt Miller has Steelers selecting defensive back in mock draft",
+      "slug": "matt-miller-has-steelers-selecting-defensive-back-in-mock-dr",
+      "date": "2026-02-03",
+      "category": "draft",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "a063cd39eb62809c",
+      "aiGenerated": true,
+      "summary": "Matt Miller’s latest mock draft has the Pittsburgh Steelers addressing the secondary with their first-round pick, a projection that lands with extra resonance this year because it would unfold on the ..."
+    },
+    {
+      "id": "ml63ht8rguxq7n",
+      "title": "Maye (shoulder) 'turned a corner,' threw normally",
+      "slug": "maye-shoulder-turned-a-corner-threw-normally",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "de0308da21a3f2c7",
+      "aiGenerated": true,
+      "summary": "Patriots quarterback Drake Maye offered New England its clearest sign yet that its Super Bowl plans remain intact, saying his right throwing shoulder has “turned a corner” and that he was able to thro..."
+    },
+    {
+      "id": "ml63i2nzz0dney",
+      "title": "Mike Vrabel not concerned that Patriots are the underdogs: \"Somebody has to\"",
+      "slug": "mike-vrabel-not-concerned-that-patriots-are-the-underdogs-so",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "Yahoo Sports NFL",
+        "Pro Football Talk"
+      ],
+      "hash": "ff285a2edf202d8f",
+      "aiGenerated": true,
+      "summary": "Mike Vrabel has heard the chatter that the New England Patriots are headed into Super Bowl LX as the underdog, and he is not treating it as a storyline that will move the needle inside the locker room..."
+    },
+    {
+      "id": "ml63ibfp5j0jmy",
+      "title": "NFL announces return to Mexico with International Series Game in Mexico City for next three seasons",
+      "slug": "nfl-announces-return-to-mexico-with-international-series-gam",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "48cb11bfdf7583f9",
+      "aiGenerated": true,
+      "summary": "The NFL is headed back to Mexico City, restoring one of the league’s most prominent international stages after a four-year absence and signaling a renewed push to expand its footprint beyond the Unite..."
+    },
+    {
+      "id": "ml63ikgvakdqqb",
+      "title": "NFL breaks silence on Giants owner Steve Tisch’s emails with Jeffrey Epstein",
+      "slug": "nfl-breaks-silence-on-giants-owner-steve-tischs-emails-with",
+      "date": "2026-02-03",
+      "category": "team-news",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "6909ca9727bba22c",
+      "aiGenerated": true,
+      "summary": "The NFL will conduct its own investigation into New York Giants co-owner Steve Tisch after reports detailed sexually charged correspondence between Tisch and convicted sex offender Jeffrey Epstein, a ..."
+    },
+    {
+      "id": "ml63iu2rv8tm4h",
+      "title": "NFL says it 'will look into' emails between Giants' Steve Tisch, Jeffrey Epstein",
+      "slug": "nfl-says-it-will-look-into-emails-between-giants-steve-tisch",
+      "date": "2026-02-03",
+      "category": "team-news",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "e535b35c55605858",
+      "aiGenerated": true,
+      "summary": "The NFL said it “will look into” reported emails between New York Giants co-owner Steve Tisch and Jeffrey Epstein, a development that adds an unwelcome off-field storyline for one of the league’s flag..."
+    },
+    {
+      "id": "ml63j50dxsf7rb",
+      "title": "NFL to look into Tisch's Epstein files connection",
+      "slug": "nfl-to-look-into-tischs-epstein-files-connection",
+      "date": "2026-02-03",
+      "category": "free-agency",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "c2348cf240adbe80",
+      "aiGenerated": true,
+      "summary": "The NFL said Monday it will look into newly released Justice Department emails that show convicted sex offender Jeffrey Epstein connected New York Giants co-owner Steve Tisch with numerous women, plac..."
+    },
+    {
+      "id": "ml63jexz7nxqkb",
+      "title": "NFL to reevaluate Rooney Rule: 'More work to do'",
+      "slug": "nfl-to-reevaluate-rooney-rule-more-work-to-do",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "1310dcad7b7c9c8a",
+      "aiGenerated": true,
+      "summary": "NFL commissioner Roger Goodell said Monday the league will take a closer look at the Rooney Rule and “all that it encompasses,” a public acknowledgment that the NFL’s flagship diversity-hiring initiat..."
+    },
+    {
+      "id": "ml63jormvyc843",
+      "title": "NFL to return to Mexico City with game in 2026",
+      "slug": "nfl-to-return-to-mexico-city-with-game-in-2026",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "3f86fc831c3044e0",
+      "aiGenerated": true,
+      "summary": "The NFL is heading back to Mexico City in 2026, a significant step in the league’s long-running push to grow its international footprint and deepen ties with one of its most passionate fan bases outsi..."
+    },
+    {
+      "id": "ml63jynrzmeer3",
+      "title": "NFL will have at least eight overseas games in 2026, its most ever",
+      "slug": "nfl-will-have-at-least-eight-overseas-games-in-2026-its-most",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "180cda15ec696fb1",
+      "aiGenerated": true,
+      "summary": "The NFL’s push to become a year-round global brand will reach a new high point in 2026, when the league plans to stage at least eight regular-season games overseas — the most international games it ha..."
+    },
+    {
+      "id": "ml63kakhpc5jur",
+      "title": "NFL will investigate Steve Tisch regarding Jeffrey Epstein emails",
+      "slug": "nfl-will-investigate-steve-tisch-regarding-jeffrey-epstein-e",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL",
+        "Pro Football Talk"
+      ],
+      "hash": "fecd0e4e6ab2f61c",
+      "aiGenerated": true,
+      "summary": "The NFL said it will investigate New York Giants co-owner Steve Tisch after emails linking Tisch to convicted sex offender Jeffrey Epstein surfaced publicly, a development that adds an off-field cloud..."
+    },
+    {
+      "id": "ml63kl63ir91ld",
+      "title": "Packers GM Brian Gutekunst to hold press conference on Wednesday",
+      "slug": "packers-gm-brian-gutekunst-to-hold-press-conference-on-wedne",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "fdbc032904479767",
+      "aiGenerated": true,
+      "summary": "Green Bay Packers general manager Brian Gutekunst is scheduled to face reporters Wednesday, a notable moment for a franchise that rarely leaves its biggest questions unanswered for long. Gutekunst’s a..."
+    },
+    {
+      "id": "ml63kw0jxnysqm",
+      "title": "Patriots' Drake Maye shares best advice Tom Brady has given him",
+      "slug": "patriots-drake-maye-shares-best-advice-tom-brady-has-given-h",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "be620a4c4487b53e",
+      "aiGenerated": true,
+      "summary": "New England Patriots quarterback Drake Maye stepped into Super Bowl week with a reminder of how long the franchise’s shadow can stretch — and how valuable a few words from its most decorated icon can ..."
+    },
+    {
+      "id": "ml63l6gy4gld1a",
+      "title": "Projecting Rounds 1-2 of the NFL draft: Landing spots for 11 Senior Bowl standouts -- but just two QBs?",
+      "slug": "projecting-rounds-1-2-of-the-nfl-draft-landing-spots-for-11",
+      "date": "2026-02-03",
+      "category": "draft",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "44b18c423e5670f2",
+      "aiGenerated": true,
+      "summary": "Matt Miller’s latest two-round NFL mock draft for ESPN underscores a familiar league reality: The Senior Bowl can move prospects up boards in a hurry, but it does not automatically create a quarterbac..."
+    },
+    {
+      "id": "ml63lh6lh9c2xj",
+      "title": "Question of the Day: Do you like the Bears playing International Games?",
+      "slug": "question-of-the-day-do-you-like-the-bears-playing-internatio",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "45d06d2e8ad2db13",
+      "aiGenerated": true,
+      "summary": "The Chicago Bears’ season is not just being judged on wins and losses anymore — it is increasingly being framed by how, and where, the franchise presents itself. That dynamic was underscored in a Yaho..."
+    },
+    {
+      "id": "ml63lubo45hjsy",
+      "title": "Ranking best Super Bowl halftime performances of all-time: A look at the most iconic and memorable moments",
+      "slug": "ranking-best-super-bowl-halftime-performances-of-all-time-a",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "99ece9be03db231b",
+      "aiGenerated": true,
+      "summary": "Super Bowl Sunday is built to crown an NFL champion, but the league’s biggest stage has long belonged to more than football. CBS Sports NFL this week revisited the most iconic and memorable halftime p..."
+    },
+    {
+      "id": "ml63m4qrbj5jhf",
+      "title": "Ranking every Super Bowl 2026 starter, plus grading NFL coaching hires and 2026 mock draft",
+      "slug": "ranking-every-super-bowl-2026-starter-plus-grading-nfl-coach",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "6f4008a72c22ff76",
+      "aiGenerated": true,
+      "summary": "CBS Sports’ NFL notebook for Feb. 2 cast a wide net across the league’s biggest forward-looking story lines, offering a snapshot of how the sport is being shaped as much by decisions on the sideline a..."
+    },
+    {
+      "id": "ml63mfb2tssg90",
+      "title": "Ranking NFL head coaching hires of the past five offseasons: Barnwell's 1-37 list",
+      "slug": "ranking-nfl-head-coaching-hires-of-the-past-five-offseasons",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "6f0151c9039ab1d8",
+      "aiGenerated": true,
+      "summary": "The NFL’s relentless coaching carousel has delivered five offseasons of head-coach hires since 2021, and the league’s competitive balance — from rapid turnarounds to prolonged rebuilds — can often be ..."
+    },
+    {
+      "id": "ml63mr638t0oqu",
+      "title": "Ranking the best cornerbacks available in NFL free agency",
+      "slug": "ranking-the-best-cornerbacks-available-in-nfl-free-agency",
+      "date": "2026-02-03",
+      "category": "free-agency",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "4b0fa33bc03f4b90",
+      "aiGenerated": true,
+      "summary": "NFL teams hunting for help on the back end of their defenses are preparing for one of the most consequential position markets of the coming offseason: cornerback. When the new league year begins and f..."
+    },
+    {
+      "id": "ml63n2mdcmvf8p",
+      "title": "Ranking the top 50 NFL free agents for 2026: Early look at the stars who could hit the market in March",
+      "slug": "ranking-the-top-50-nfl-free-agents-for-2026-early-look-at-th",
+      "date": "2026-02-03",
+      "category": "free-agency",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "f44113bcf8f6907f",
+      "aiGenerated": true,
+      "summary": "With a full season still to play before contracts start expiring, the NFL’s next big roster shake-up is already coming into focus. CBS Sports NFL published an early ranking of the top 50 projected fre..."
+    },
+    {
+      "id": "ml63nad86soeiq",
+      "title": "Ravens announce Declan Doyle as offensive coordinator, hire several other assistants",
+      "slug": "ravens-announce-declan-doyle-as-offensive-coordinator-hire-s",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "b047a0fe2b3fe1ce",
+      "aiGenerated": true,
+      "summary": "The Baltimore Ravens took a significant step toward shaping their offensive identity for the coming season, confirming Monday that Declan Doyle will serve as the team’s offensive coordinator. The move..."
+    },
+    {
+      "id": "ml63njeykkupbl",
+      "title": "Ravens hire Dolphins defensive coordinator Anthony Weaver for same position, confirm Declan Doyle as offensive coordinator",
+      "slug": "ravens-hire-dolphins-defensive-coordinator-anthony-weaver-fo",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "64fafa7d7f27758f",
+      "aiGenerated": true,
+      "summary": "The Baltimore Ravens are reshaping the top of John Harbaugh’s staff with a move that blends familiarity and fresh responsibility, hiring Anthony Weaver away from Miami to run the defense and confirmin..."
+    },
+    {
+      "id": "ml63nszk0srbkh",
+      "title": "Ravens set to hire Anthony Weaver as defensive coordinator",
+      "slug": "ravens-set-to-hire-anthony-weaver-as-defensive-coordinator",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "fa9786f7c5b07d97",
+      "aiGenerated": true,
+      "summary": "The Baltimore Ravens are set to bring Anthony Weaver back to the organization, with Pro Football Talk reporting the club is hiring him as its defensive coordinator — a significant move for a franchise..."
+    },
+    {
+      "id": "ml63o202049uyr",
+      "title": "Report: Justin Fields declined Pro Bowl invitation",
+      "slug": "report-justin-fields-declined-pro-bowl-invitation",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL",
+        "Pro Football Talk"
+      ],
+      "hash": "c57218d003d0d7e3",
+      "aiGenerated": true,
+      "summary": "Justin Fields’ reported decision to decline a Pro Bowl invitation delivered an unusually sharp snapshot of the NFL’s ongoing struggle to make its all-star showcase matter, even as the league continues..."
+    },
+    {
+      "id": "ml63ocsvgonn35",
+      "title": "Report: Steelers to hire former Bengals DL as coach",
+      "slug": "report-steelers-to-hire-former-bengals-dl-as-coach",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "2dd5b3fe3512b55e",
+      "aiGenerated": true,
+      "summary": "The Pittsburgh Steelers are set to add another familiar NFL name to Mike Tomlin’s staff, with Yahoo Sports reporting the team plans to hire a former Cincinnati Bengals defensive lineman as a coach. Ev..."
+    },
+    {
+      "id": "ml63om6fbn3quf",
+      "title": "Roger Goodell: 18-game season is not a given",
+      "slug": "roger-goodell-18-game-season-is-not-a-given",
+      "date": "2026-02-03",
+      "category": "team-news",
+      "sources": [
+        "Yahoo Sports NFL",
+        "Pro Football Talk"
+      ],
+      "hash": "2bf47dca088cb537",
+      "aiGenerated": true,
+      "summary": "NFL Commissioner Roger Goodell pushed back Monday on the notion that an 18-game regular season is inevitable, offering a more cautious public posture than a prominent owner who recently suggested the ..."
+    },
+    {
+      "id": "ml63ovvmskrzdo",
+      "title": "Roger Goodell: Bill Belichick is a Hall of Famer",
+      "slug": "roger-goodell-bill-belichick-is-a-hall-of-famer",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL",
+        "Pro Football Talk"
+      ],
+      "hash": "308c5f9cb3e9f26d",
+      "aiGenerated": true,
+      "summary": "NFL Commissioner Roger Goodell offered a sweeping endorsement of Bill Belichick’s legacy even as the longtime coach is expected to miss out on immediate enshrinement in Canton, a notable twist for one..."
+    },
+    {
+      "id": "ml63p5fx7kjeig",
+      "title": "Roger Goodell: More changes could come to kickoffs, punts",
+      "slug": "roger-goodell-more-changes-could-come-to-kickoffs-punts",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL",
+        "Pro Football Talk"
+      ],
+      "hash": "df1a3a507a32ebd5",
+      "aiGenerated": true,
+      "summary": "NFL commissioner Roger Goodell indicated the league’s recent overhaul of kickoffs may not be the last major adjustment to special teams, saying additional changes could be coming not only to kickoffs ..."
+    },
+    {
+      "id": "ml63pg7edn78iz",
+      "title": "Roger Goodell: NFL plans nine international games in 2026, including Mexico City",
+      "slug": "roger-goodell-nfl-plans-nine-international-games-in-2026-inc",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "40951e34ba781fdc",
+      "aiGenerated": true,
+      "summary": "The NFL’s push to become a year-round global brand is poised to take another major step in 2026, with Commissioner Roger Goodell saying the league is planning nine international regular-season games —..."
+    },
+    {
+      "id": "ml63pp01zmohnu",
+      "title": "Roger Goodell on Steve Tisch's emails with Jeffrey Epstein: \"Let's get the facts first\"",
+      "slug": "roger-goodell-on-steve-tischs-emails-with-jeffrey-epstein-le",
+      "date": "2026-02-03",
+      "category": "trades",
+      "sources": [
+        "Yahoo Sports NFL",
+        "Pro Football Talk"
+      ],
+      "hash": "903b387535798eae",
+      "aiGenerated": true,
+      "summary": "NFL Commissioner Roger Goodell said the league needs more information before drawing conclusions about New York Giants co-owner Steve Tisch after reports surfaced that Tisch exchanged multiple emails ..."
+    },
+    {
+      "id": "ml63pydcpk4ilt",
+      "title": "Roger Goodell: Seahawks weren't fined, will be sold",
+      "slug": "roger-goodell-seahawks-werent-fined-will-be-sold",
+      "date": "2026-02-03",
+      "category": "player-news",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "f927971f72f15f55",
+      "aiGenerated": true,
+      "summary": "NFL Commissioner Roger Goodell moved to tamp down speculation surrounding the Seattle Seahawks’ ownership situation during his Super Bowl press conference, addressing reports that the franchise will b..."
+    },
+    {
+      "id": "ml63q93z1kyc3q",
+      "title": "Roger Goodell suggests replay officials should be able to drop flags to correct \"obvious errors\"",
+      "slug": "roger-goodell-suggests-replay-officials-should-be-able-to-dr",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "a804711aa2f10b8b",
+      "aiGenerated": true,
+      "summary": "NFL Commissioner Roger Goodell is signaling a potentially significant shift in how games are officiated, suggesting that replay officials — the personnel stationed off the field with access to video —..."
+    },
+    {
+      "id": "ml63qi43uqimb0",
+      "title": "Saints to host NFL game in Paris: 2026 schedule will feature NFL's first international game ever in France",
+      "slug": "saints-to-host-nfl-game-in-paris-2026-schedule-will-feature",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "76afba0521a6e9fb",
+      "aiGenerated": true,
+      "summary": "The NFL will play its first regular-season game in France in 2026, with the New Orleans Saints set to serve as the designated host in Paris, a landmark step in the league’s expanding international foo..."
+    },
+    {
+      "id": "ml63qrzxstu5gj",
+      "title": "Seahawks vs. Patriots odds: How to bet Super Bowl 60, what to know about betting each team",
+      "slug": "seahawks-vs-patriots-odds-how-to-bet-super-bowl-60-what-to-k",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "7497c56e435427df",
+      "aiGenerated": true,
+      "summary": "Super Bowl 60 is already shaping up as much a wagering puzzle as a football matchup, with the Seattle Seahawks and New England Patriots set to meet in a championship game that will draw massive bettin..."
+    },
+    {
+      "id": "ml63r1nj9ek5y6",
+      "title": "Seahawks vs. Patriots picks, best bets: NFL experts reveal exact 2026 Big Game score predictions",
+      "slug": "seahawks-vs-patriots-picks-best-bets-nfl-experts-reveal-exac",
+      "date": "2026-02-03",
+      "category": "draft",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "34b12e648518b84d",
+      "aiGenerated": true,
+      "summary": "With the 2026 Big Game matchup set between the New England Patriots and Seattle Seahawks, a new round of score-specific predictions has already begun shaping the conversation for bettors and fans alik..."
+    },
+    {
+      "id": "ml63rc0vp9ip48",
+      "title": "Seahawks vs Patriots Predictions, Picks & Best Bets for Super Bowl 60",
+      "slug": "seahawks-vs-patriots-predictions-picks-best-bets-for-super-b",
+      "date": "2026-02-03",
+      "category": "draft",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "5b797d9f0df31543",
+      "aiGenerated": true,
+      "summary": "The first betting markets and prediction models for Super Bowl 60 are already drilling down to a familiar postseason truth: the team that can dictate terms on the ground often dictates the game. Ahead..."
+    },
+    {
+      "id": "ml63rlgy3k6e54",
+      "title": "Sean McVay, GM Les Snead sign multi-year extensions with Rams",
+      "slug": "sean-mcvay-gm-les-snead-sign-multi-year-extensions-with-rams",
+      "date": "2026-02-03",
+      "category": "free-agency",
+      "sources": [
+        "ESPN NFL",
+        "CBS Sports NFL"
+      ],
+      "hash": "1e599d4705c8d7d7",
+      "aiGenerated": true,
+      "summary": "The Los Angeles Rams moved to secure their leadership at the top of the organization, signing head coach Sean McVay and general manager Les Snead to multiyear contract extensions, a decision that sign..."
+    },
+    {
+      "id": "ml63rvgjgzqxrv",
+      "title": "Sean McVay is \"absolutely\" expecting Davante Adams to be back in 2026",
+      "slug": "sean-mcvay-is-absolutely-expecting-davante-adams-to-be-back",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "9b49cc91ed0f312c",
+      "aiGenerated": true,
+      "summary": "Sean McVay delivered a clear message about one of the biggest questions hovering over his roster beyond this season, saying he is “absolutely” expecting Davante Adams to be back in 2026. The comment, ..."
+    },
+    {
+      "id": "ml63s40wb39d8w",
+      "title": "Sean McVay \"keeping my fingers crossed\" Matthew Stafford will return in 2026",
+      "slug": "sean-mcvay-keeping-my-fingers-crossed-matthew-stafford-will",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "b5adb6f41f2bd0ef",
+      "aiGenerated": true,
+      "summary": "Sean McVay left the Rams’ season-ending NFC Championship Game loss with his focus already shifting to the biggest question facing the franchise’s immediate future: whether Matthew Stafford will be bac..."
+    },
+    {
+      "id": "ml63scex483k5p",
+      "title": "Sean McVay says 'fingers crossed' Matthew Stafford returns to Rams in 2026",
+      "slug": "sean-mcvay-says-fingers-crossed-matthew-stafford-returns-to",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "0af055fd3cee3d46",
+      "aiGenerated": true,
+      "summary": "Rams coach Sean McVay is publicly keeping the door open for Matthew Stafford’s return — and doing it in a way that underscores just how consequential the quarterback’s decision could be for Los Angele..."
+    },
+    {
+      "id": "ml63slk268pqda",
+      "title": "Sean McVay: We've got great candidates in-house for next offensive coordinator",
+      "slug": "sean-mcvay-weve-got-great-candidates-in-house-for-next-offen",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "45b62898b707e30b",
+      "aiGenerated": true,
+      "summary": "The Los Angeles Rams are entering another offseason of change on Sean McVay’s staff, this time with the added sting of losing a key assistant to a division rival. After the Arizona Cardinals hired Ram..."
+    },
+    {
+      "id": "ml63swttjfy4h6",
+      "title": "Sources: Browns hiring Ravens' Switzer to be OC",
+      "slug": "sources-browns-hiring-ravens-switzer-to-be-oc",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "51515c641136a2fa",
+      "aiGenerated": true,
+      "summary": "The Cleveland Browns are turning to Baltimore for a key piece of their offensive staff, hiring Ravens run game coordinator Travis Switzer as offensive coordinator, league sources told ESPN’s Adam Sche..."
+    },
+    {
+      "id": "ml63t5dmz0p32j",
+      "title": "Steelers hire Jahri Evans as assistant OL coach, add four other assistants",
+      "slug": "steelers-hire-jahri-evans-as-assistant-ol-coach-add-four-oth",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "dfd240bf049ce932",
+      "aiGenerated": true,
+      "summary": "The Pittsburgh Steelers added a notable name — and a timely one — to their coaching staff, hiring former All-Pro guard Jahri Evans as assistant offensive line coach as part of a broader wave of assist..."
+    },
+    {
+      "id": "ml63tf3zsfn6u1",
+      "title": "Steelers hire three assistants, including defensive pass game coordinator Jason Simmons",
+      "slug": "steelers-hire-three-assistants-including-defensive-pass-game",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Pro Football Talk"
+      ],
+      "hash": "2f8d651a0cc453d7",
+      "aiGenerated": true,
+      "summary": "The Pittsburgh Steelers continued to build out their coaching staff, adding three assistants while also moving forward with their search for an offensive coordinator. The additions, highlighted by the..."
+    },
+    {
+      "id": "ml63tqgmkwbwu1",
+      "title": "Steelers interview Saints assistant for pass game coordinator",
+      "slug": "steelers-interview-saints-assistant-for-pass-game-coordinato",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "eceee84809ac1c33",
+      "aiGenerated": true,
+      "summary": "The Pittsburgh Steelers’ offseason coaching search widened again with an interview that signals the franchise’s continuing push to modernize its passing game. According to Yahoo Sports NFL, the Steele..."
+    },
+    {
+      "id": "ml63u0aav7n5ri",
+      "title": "Super Bowl 2026: Drake Maye says his shoulder is doing well: 'I'll be just fine'",
+      "slug": "super-bowl-2026-drake-maye-says-his-shoulder-is-doing-well-i",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "29bfd346e008caa4",
+      "aiGenerated": true,
+      "summary": "Drake Maye’s status had become one of the central questions hanging over Super Bowl week after the New England quarterback left the AFC championship game with a shoulder injury. On the eve of the spor..."
+    },
+    {
+      "id": "ml63ub0u52x52d",
+      "title": "Super Bowl 2026 ticket prices are dropping. What do they cost now?",
+      "slug": "super-bowl-2026-ticket-prices-are-dropping-what-do-they-cost",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "fd0b3864d0d7ae27",
+      "aiGenerated": true,
+      "summary": "Super Bowl tickets have long been the ultimate luxury item on the NFL calendar, but the early resale market for Super Bowl 2026 is showing an unusual trend: Prices are dropping. That shift is signific..."
+    },
+    {
+      "id": "ml63ul348w5q52",
+      "title": "Super Bowl 2026: Who is performing Lift Every Voice and Sing ahead of Seahawks vs. Patriots in Super Bowl LX",
+      "slug": "super-bowl-2026-who-is-performing-lift-every-voice-and-sing",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL",
+        "CBS Sports NFL"
+      ],
+      "hash": "33f1b12c168ac606",
+      "aiGenerated": true,
+      "summary": "Super Bowl LX between the New England Patriots and Seattle Seahawks is getting its pregame soundtrack into focus, with CBS Sports detailing the musical lineup for two of the ceremony’s signature perfo..."
+    },
+    {
+      "id": "ml63uvt8nx74rx",
+      "title": "Super Bowl 2026: Who is performing the national anthem ahead of Seahawks vs. Patriots in Super Bowl LX?",
+      "slug": "super-bowl-2026-who-is-performing-the-national-anthem-ahead",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "2f34a25e8b1146fb",
+      "aiGenerated": true,
+      "summary": "With Super Bowl LX set to bring the Seattle Seahawks and New England Patriots together on the sport’s biggest stage, the league’s pregame spotlight is also coming into focus. CBS Sports NFL previewed ..."
+    },
+    {
+      "id": "ml63v55e7r6ft6",
+      "title": "Super Bowl 60: Can the Patriots protect Drake Maye well enough to beat Sam Darnold and Seattle?",
+      "slug": "super-bowl-60-can-the-patriots-protect-drake-maye-well-enoug",
+      "date": "2026-02-03",
+      "category": "draft",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "9b406d7849c731ad",
+      "aiGenerated": true,
+      "summary": "Super Bowl LX may still be months away, but an early matchup lens is already narrowing to one essential question: Can New England keep rookie quarterback Drake Maye upright long enough to outduel Seat..."
+    },
+    {
+      "id": "ml63vfezn64s4c",
+      "title": "Super Bowl 60 picks, best bets: Las Vegas oddsmakers pick the Seahawks-Patriots winner",
+      "slug": "super-bowl-60-picks-best-bets-las-vegas-oddsmakers-pick-the",
+      "date": "2026-02-03",
+      "category": "draft",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "18672668b827c256",
+      "aiGenerated": true,
+      "summary": "Las Vegas oddsmakers are siding with the Seattle Seahawks to win and cover against the New England Patriots in Super Bowl 60, a notable early signal from the betting market that could shape how fans a..."
+    },
+    {
+      "id": "ml63vo2va48re2",
+      "title": "Super Bowl 60 Predictions, Free Picks, and Expert Best Bets",
+      "slug": "super-bowl-60-predictions-free-picks-and-expert-best-bets",
+      "date": "2026-02-03",
+      "category": "draft",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "e4f85cd3e543e20c",
+      "aiGenerated": true,
+      "summary": "With the NFL calendar turning quickly from the Super Bowl to draft season, betting markets are already shaping how fans and analysts frame the league’s next big moment — even as front offices prepare ..."
+    },
+    {
+      "id": "ml63vxqgef4jq5",
+      "title": "Super Bowl commercials 2026: Sabrina Carpenter, Emma Stone, Peyton Manning headline celebrities in teasers",
+      "slug": "super-bowl-commercials-2026-sabrina-carpenter-emma-stone-pey",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "7f52c89ff7534f9c",
+      "aiGenerated": true,
+      "summary": "Super Bowl 60 is still months away, but the marketing arms race around the NFL’s biggest stage is already taking shape, with early commercial teasers pointing to another celebrity-heavy lineup that wi..."
+    },
+    {
+      "id": "ml63w7pyvka0oi",
+      "title": "Super Bowl LX betting buzz: Who's the favorite to be the fastest ball carrier?",
+      "slug": "super-bowl-lx-betting-buzz-whos-the-favorite-to-be-the-faste",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "ade8e021b26bd27c",
+      "aiGenerated": true,
+      "summary": "Super Bowl LX week has brought its usual swirl of media nights and matchup breakdowns, but one of the clearest early signals of public sentiment has come from the betting counter. After a week of wage..."
+    },
+    {
+      "id": "ml63wjanzh9bp9",
+      "title": "Super Bowl LX Patriots-Seahawks media day: Top quotes, moments, highlights",
+      "slug": "super-bowl-lx-patriots-seahawks-media-day-top-quotes-moments",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "c53609a3e02c8d0c",
+      "aiGenerated": true,
+      "summary": "The Super Bowl LX buildup shifted into full spotlight mode Monday as the Seattle Seahawks and New England Patriots kicked off the week’s public festivities with media day, giving the first extended lo..."
+    },
+    {
+      "id": "ml63wuiczg4b45",
+      "title": "Super Bowl LX Prop Bet Extravaganza",
+      "slug": "super-bowl-lx-prop-bet-extravaganza",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "484dc7ef9cc67db0",
+      "aiGenerated": true,
+      "summary": "With less than a week until Super Bowl LX kicks off, the game’s biggest annual sideshow has already gone live: the prop-bet carnival that now rivals the point spread for attention in the final days be..."
+    },
+    {
+      "id": "ml63x6uixrz20e",
+      "title": "Super Bowl LX: Roger Goodell addresses Steve Tisch's ties to Jeffrey Epstein, Bill Belichick's HOF snub, more",
+      "slug": "super-bowl-lx-roger-goodell-addresses-steve-tischs-ties-to-j",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "a196db15825dee76",
+      "aiGenerated": true,
+      "summary": "NFL Commissioner Roger Goodell used his annual Super Bowl week press conference to address a slate of off-field and football matters that continue to reverberate around the league, ranging from New Yo..."
+    },
+    {
+      "id": "ml63xii3bu5olg",
+      "title": "Super Bowl Player Props: Our Best Seahawks vs Patriots Prop Picks and Odds for Drake Maye, Sam Darnold & More",
+      "slug": "super-bowl-player-props-our-best-seahawks-vs-patriots-prop-p",
+      "date": "2026-02-03",
+      "category": "draft",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "3c5cb3668ef7fec4",
+      "aiGenerated": true,
+      "summary": "Sportsbooks have begun hanging “Super Bowl 60” player proposition markets for a matchup that would have sounded like fiction a year ago: the Seattle Seahawks vs. the New England Patriots. The early bo..."
+    },
+    {
+      "id": "ml63xre9s3e5nr",
+      "title": "Super Bowl Spread, Total Holding Steady Despite Heavy Action on Seahawks, Over",
+      "slug": "super-bowl-spread-total-holding-steady-despite-heavy-action",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "63e3b5184be32476",
+      "aiGenerated": true,
+      "summary": "Oddsmakers have barely blinked even as bettors have poured in on the Seattle Seahawks and the over, a sign the Super Bowl betting market has settled into a rare holding pattern with kickoff nearing. T..."
+    },
+    {
+      "id": "ml63y0n0e812xz",
+      "title": "Super Bowl trivia: Questions for all 59 NFL championship games that will stump even the savviest football fans",
+      "slug": "super-bowl-trivia-questions-for-all-59-nfl-championship-game",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "169b17ffe3fe0499",
+      "aiGenerated": true,
+      "summary": "With the Super Bowl’s stage set once again as the NFL’s biggest annual crossroads of history, hype and hard outcomes, CBS Sports is leaning into the league’s long memory by rolling out a sprawling set..."
+    },
+    {
+      "id": "ml63y9iglgnr8x",
+      "title": "Tennessee Titans to hire Gus Bradley as defensive coordinator",
+      "slug": "tennessee-titans-to-hire-gus-bradley-as-defensive-coordinato",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "3e40af43e7eae8b4",
+      "aiGenerated": true,
+      "summary": "The Tennessee Titans are expected to hire Gus Bradley as their next defensive coordinator, a move that reshapes the club’s coaching staff and clarifies one of the more closely watched coordinator mark..."
+    },
+    {
+      "id": "ml63yhqx3yih3b",
+      "title": "The NFL will play 9 international games in 2026",
+      "slug": "the-nfl-will-play-9-international-games-in-2026",
+      "date": "2026-02-03",
+      "category": "general",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "2e0d325a427180c6",
+      "aiGenerated": true,
+      "summary": "The NFL’s push to become a year-round global property took another measurable step with plans to stage nine international games in 2026, a significant expansion that signals both demand abroad and the..."
+    },
+    {
+      "id": "ml63ypzbiaqpb1",
+      "title": "Titans to hire Gus Bradley as defensive coordinator",
+      "slug": "titans-to-hire-gus-bradley-as-defensive-coordinator",
+      "date": "2026-02-03",
+      "category": "coaching",
+      "sources": [
+        "Yahoo Sports NFL",
+        "Yahoo Sports NFL",
+        "Pro Football Talk"
+      ],
+      "hash": "66ea56096f9e489b",
+      "aiGenerated": true,
+      "summary": "The Tennessee Titans are moving quickly to reshape their coaching staff, hiring veteran Gus Bradley as defensive coordinator in a move that underscores the franchise’s emphasis on experience and conti..."
+    },
+    {
+      "id": "ml63yzo9j6ebe3",
+      "title": "What did he say? Why millions are riding on the words of the Super Bowl announcers",
+      "slug": "what-did-he-say-why-millions-are-riding-on-the-words-of-the",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "9e4e76ee903d7673",
+      "aiGenerated": true,
+      "summary": "This Super Bowl, millions of dollars will hinge not only on who makes the biggest plays on the field, but on what gets said in the booth. ESPN NFL reported that for the championship game, “millions of..."
+    },
+    {
+      "id": "ml63z8ns1229nc",
+      "title": "When is 2026 Super Bowl: A look at when the NFL championship will be played between Seahawks and Patriots",
+      "slug": "when-is-2026-super-bowl-a-look-at-when-the-nfl-championship",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "1ecd3e428ea4321f",
+      "aiGenerated": true,
+      "summary": "Super Bowl plans for the 2025 season now have a date, a venue and, at least in one early projection, a matchup that would carry plenty of NFL history with it.\n\nCBS Sports reported that Super Bowl LX i..."
+    },
+    {
+      "id": "ml63zhr0p7nm6z",
+      "title": "Where is Super Bowl 2026: Location of championship game, along with history of venue",
+      "slug": "where-is-super-bowl-2026-location-of-championship-game-along",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "c8b4277047190009",
+      "aiGenerated": true,
+      "summary": "Super Bowl 60 already has an address, and with it comes the next major waypoint on the NFL calendar: the league’s championship game in 2026 is headed to Levi’s Stadium in Santa Clara, Calif., home of ..."
+    },
+    {
+      "id": "ml63zqp9wnckba",
+      "title": "Who is Cardi B? A look at the newest Pats fan as she gets ready to root for Stefon Diggs and New England",
+      "slug": "who-is-cardi-b-a-look-at-the-newest-pats-fan-as-she-gets-rea",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "e23fc4a11f0dc820",
+      "aiGenerated": true,
+      "summary": "Cardi B’s celebrity reach has rarely needed an assist, but with Super Bowl 60 approaching, the rapper’s newest stage is coming from an unexpected place: Patriots fandom. CBS Sports reported that Cardi..."
+    },
+    {
+      "id": "ml6402x6uhwscl",
+      "title": "Why is it called the Super Bowl? How name of NFL's biggest game was birthed by child's toy, Lamar Hunt's wit",
+      "slug": "why-is-it-called-the-super-bowl-how-name-of-nfls-biggest-gam",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "2c63ab87ad10d03a",
+      "aiGenerated": true,
+      "summary": "The NFL’s championship game has become an American institution, a single Sunday that now carries its own cultural calendar. Yet one of the sport’s most recognizable brands — “Super Bowl” — was not bor..."
+    },
+    {
+      "id": "ml640dikcic4r2",
+      "title": "Will There Be a Safety at Super Bowl 60?",
+      "slug": "will-there-be-a-safety-at-super-bowl-60",
+      "date": "2026-02-03",
+      "category": "superbowl",
+      "sources": [
+        "Yahoo Sports NFL"
+      ],
+      "hash": "2623196b6a2f0b69",
+      "aiGenerated": true,
+      "summary": "With Super Bowl 60 set for Sunday, Feb. 8, 2026, the usual matchup debates are sharing space with a quieter, numbers-driven question that can swing both betting markets and game strategy: Will there b..."
+    },
+    {
+      "id": "ml640swirs3ixc",
+      "title": "Our updated NFL free agent 1-50 ranking",
+      "slug": "our-updated-nfl-free-agent-1-50-ranking",
+      "date": "2026-02-03",
+      "category": "free-agency",
+      "sources": [
+        "ESPN NFL"
+      ],
+      "hash": "12f2abdfb3c82e71",
+      "aiGenerated": true,
+      "summary": "NFL free agency is still months away, but the league’s next spending spree is already coming into focus with an updated top-50 ranking from ESPN that frames the stakes for teams and players alike. The..."
+    },
+    {
+      "id": "ml641bpcykq460",
+      "title": "Steve Tisch in Jeffrey Epstein files: Emails show sex offender scouted women for New York Giants co-owner",
+      "slug": "steve-tisch-in-jeffrey-epstein-files-emails-show-sex-offende",
+      "date": "2026-02-03",
+      "category": "team-news",
+      "sources": [
+        "CBS Sports NFL"
+      ],
+      "hash": "1526752f3998a87f",
+      "aiGenerated": true,
+      "summary": "The New York Giants found themselves pulled into a widening off-field controversy after newly surfaced materials tied co-owner Steve Tisch to documents connected to financier Jeffrey Epstein, a develo..."
+    },
     {
       "id": "ml4vmftaldnwei",
       "title": "💰 Super Bowl betting: Mattress Mack wages $2M",
