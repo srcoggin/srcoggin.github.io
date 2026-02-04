@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rhamondre Stevenson: Drake Maye made a great jump this year in his leadership",
-      "description": "Patriots quarterback Drake Maye improved significantly as a passer in his second season, but Patriots running back Rhamondre Stevenson has seen improvement elsewhere as well.",
-      "url": "https://sports.yahoo.com/articles/rhamondre-stevenson-drake-maye-made-002227506.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rhamondre Stevenson: Drake Maye made a great jump this year in his leadership",
       "description": "Patriots quarterback Drake Maye improved significantly as a passer in his second season, but Patriots running back Rhamondre Stevenson has seen improvement elsewhere as well.",
@@ -40,5 +34,5 @@
     "well"
   ],
   "hash": "efcaaaaa94d1d9df",
-  "queuedAt": "2026-02-04T06:57:07.095Z"
+  "queuedAt": "2026-02-04T13:06:41.989Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike LaFleur won't address Arizona's QB situation but has \"a lot of respect\" for Kyler Murray",
-      "description": "It is expected that Kyler Murray has played his final game in Arizona.",
-      "url": "https://sports.yahoo.com/articles/mike-lafleur-wont-address-arizonas-222709219.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike LaFleur won't address Arizona's QB situation but has \"a lot of respect\" for Kyler Murray",
       "description": "It is expected that Kyler Murray has played his final game in Arizona.",
@@ -34,5 +28,5 @@
     "arizona"
   ],
   "hash": "721eb37d7e3f6615",
-  "queuedAt": "2026-02-04T06:57:07.221Z"
+  "queuedAt": "2026-02-04T13:06:42.412Z"
 }
