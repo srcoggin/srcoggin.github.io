@@ -14,6 +14,7 @@ jobs:
     
     permissions:
       contents: write  # Required to push changes
+      actions: write   # Required to update secrets
     
     steps:
       - name: Checkout repository
@@ -31,12 +32,52 @@ jobs:
       - name: Install dependencies
         working-directory: website-ts
         run: npm ci
+
+      - name: Install secret tooling
+        run: npm install --no-save --prefix /tmp/gh-secrets tweetsodium
       
       - name: Run NFL News Scraper
+        id: run-scraper
         working-directory: website-ts
         env:
           OPENAI_REFRESH_TOKEN: ${{ secrets.OPENAI_REFRESH_TOKEN }}
         run: npx tsx scripts/nfl-scraper/runAll.ts
+
+      - name: Update OPENAI_REFRESH_TOKEN secret
+        if: ${{ steps.run-scraper.outputs.openai_refresh_token != '' }}
+        uses: actions/github-script@v7
+        env:
+          NODE_PATH: /tmp/gh-secrets/node_modules
+        with:
+          script: |
+            const core = require('@actions/core')
+            const sodium = require('tweetsodium')
+
+            const newToken = `${{ steps.run-scraper.outputs.openai_refresh_token }}`
+            if (!newToken) {
+              core.info('No refresh token update emitted.')
+              return
+            }
+
+            const { data: publicKey } = await github.rest.actions.getRepoPublicKey({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+            })
+
+            const messageBytes = Buffer.from(newToken)
+            const keyBytes = Buffer.from(publicKey.key, 'base64')
+            const encryptedBytes = sodium.seal(messageBytes, keyBytes)
+            const encryptedValue = Buffer.from(encryptedBytes).toString('base64')
+
+            await github.rest.actions.createOrUpdateRepoSecret({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              secret_name: 'OPENAI_REFRESH_TOKEN',
+              encrypted_value: encryptedValue,
+              key_id: publicKey.key_id,
+            })
+
+            core.info('OPENAI_REFRESH_TOKEN secret updated.')
       
       - name: Check for changes
         id: git-check

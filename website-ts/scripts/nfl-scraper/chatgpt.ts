@@ -1,14 +1,8 @@
 // NFL News Scraper - ChatGPT OAuth (Codex backend) Integration
 
-import * as fs from 'fs'
-import * as path from 'path'
-import { fileURLToPath } from 'url'
-
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
-
 const OPENAI_REFRESH_TOKEN = process.env.OPENAI_REFRESH_TOKEN
-const TOKEN_FILE = path.join(__dirname, '.chatgpt-token.json')
+const GITHUB_OUTPUT = process.env.GITHUB_OUTPUT
+const IS_GITHUB_ACTIONS = process.env.GITHUB_ACTIONS === 'true'
 
 const CLIENT_ID = 'app_EMoamEEZ73f0CkXaXp7hrann'
 const TOKEN_URL = 'https://auth.openai.com/oauth/token'
@@ -43,30 +37,9 @@ interface CodexResponse {
 
 let cachedToken: TokenCache | null = null
 
-// Load refresh token from file or environment variable
+// Load refresh token from environment variable
 function loadRefreshToken(): string | null {
-    // Try to load from file first (persisted token)
-    if (fs.existsSync(TOKEN_FILE)) {
-        try {
-            const data = JSON.parse(fs.readFileSync(TOKEN_FILE, 'utf-8'))
-            if (data.refreshToken && typeof data.refreshToken === 'string') {
-                return data.refreshToken
-            }
-        } catch (error) {
-            console.warn('  ⚠️ Failed to read token file, using environment variable')
-        }
-    }
-    // Fall back to environment variable
     return OPENAI_REFRESH_TOKEN || null
-}
-
-// Save refresh token to file for reuse
-function saveRefreshToken(refreshToken: string): void {
-    try {
-        fs.writeFileSync(TOKEN_FILE, JSON.stringify({ refreshToken }, null, 2))
-    } catch (error) {
-        console.warn('  ⚠️ Failed to save refresh token to file:', error)
-    }
 }
 
 export function isChatGPTAvailable(): boolean {
@@ -127,14 +100,33 @@ async function refreshAccessToken(refreshToken: string): Promise<TokenCache | nu
         return null
     }
 
-    // CRITICAL: Save the new refresh token immediately
-    // OpenAI invalidates the old refresh token when issuing a new one
-    saveRefreshToken(data.refresh_token)
+    // CRITICAL: OpenAI invalidates the old refresh token when issuing a new one
+    emitRefreshTokenUpdate(data.refresh_token)
 
     return {
         accessToken: data.access_token,
         refreshToken: data.refresh_token,
         expiresAt: Date.now() + data.expires_in * 1000,
+    }
+}
+
+function emitRefreshTokenUpdate(newRefreshToken: string): void {
+    if (!IS_GITHUB_ACTIONS) {
+        return
+    }
+    if (!GITHUB_OUTPUT) {
+        console.warn('  ⚠️ GITHUB_OUTPUT not set; cannot emit refresh token')
+        return
+    }
+    if (OPENAI_REFRESH_TOKEN === newRefreshToken) {
+        return
+    }
+
+    try {
+        process.stdout.write(`::add-mask::${newRefreshToken}\n`)
+        require('fs').appendFileSync(GITHUB_OUTPUT, `openai_refresh_token=${newRefreshToken}\n`)
+    } catch {
+        console.warn('  ⚠️ Failed to emit refresh token update')
     }
 }
 
@@ -232,7 +224,7 @@ export async function generateWithChatGPT(
     category: string
 ): Promise<string | null> {
     if (!isChatGPTAvailable()) {
-        console.log('  ℹ️ ChatGPT token not available (check .chatgpt-token.json or OPENAI_REFRESH_TOKEN)')
+        console.log('  ℹ️ ChatGPT token not available (check OPENAI_REFRESH_TOKEN)')
         return null
     }
 
