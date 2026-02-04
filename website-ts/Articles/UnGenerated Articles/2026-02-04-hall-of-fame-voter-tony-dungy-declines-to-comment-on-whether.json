@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Hall of Fame voter Tony Dungy declines to comment on whether he voted for Bill Belichick",
-      "description": "The Bill Belichick snub has sparked an effort to determine which of the 50 Hall of Fame voters failed to put him on their ballot.",
-      "url": "https://sports.yahoo.com/articles/hall-fame-voter-tony-dungy-013407179.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Hall of Fame voter Tony Dungy declines to comment on whether he voted for Bill Belichick",
       "description": "The Bill Belichick snub has sparked an effort to determine which of the 50 Hall of Fame voters failed to put him on their ballot.",
@@ -40,5 +34,5 @@
     "ballot"
   ],
   "hash": "b87ab08c690e974e",
-  "queuedAt": "2026-02-04T13:06:33.262Z"
+  "queuedAt": "2026-02-04T18:56:22.037Z"
 }

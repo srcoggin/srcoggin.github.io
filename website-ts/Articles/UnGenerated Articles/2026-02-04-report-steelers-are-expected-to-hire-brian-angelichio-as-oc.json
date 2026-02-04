@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Steelers are expected to hire Brian Angelichio as OC",
-      "description": "Brian Angelichio is close to an agreement with the Steelers to become their offensive coordinator, Mark Kaboly of The Pat McAfee Show reports.",
-      "url": "https://sports.yahoo.com/articles/report-steelers-expected-hire-brian-044028948.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Steelers are expected to hire Brian Angelichio as OC",
       "description": "Brian Angelichio is close to an agreement with the Steelers to become their offensive coordinator, Mark Kaboly of The Pat McAfee Show reports.",
@@ -36,5 +30,5 @@
     "reports"
   ],
   "hash": "91b5ee7e076e5d2d",
-  "queuedAt": "2026-02-04T13:06:32.003Z"
+  "queuedAt": "2026-02-04T18:56:10.806Z"
 }
