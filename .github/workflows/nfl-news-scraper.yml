@@ -50,7 +50,6 @@ jobs:
           NODE_PATH: /tmp/gh-secrets/node_modules
         with:
           script: |
-            const core = require('@actions/core')
             const sodium = require('tweetsodium')
 
             const newToken = `${{ steps.run-scraper.outputs.openai_refresh_token }}`
