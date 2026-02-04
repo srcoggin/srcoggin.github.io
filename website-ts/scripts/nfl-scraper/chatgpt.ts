@@ -9,9 +9,6 @@ const __dirname = path.dirname(__filename)
 
 const OPENAI_REFRESH_TOKEN = process.env.OPENAI_REFRESH_TOKEN
 const TOKEN_FILE = path.join(__dirname, '.chatgpt-token.json')
-const OPENAI_REFRESH_TOKEN = process.env.OPENAI_REFRESH_TOKEN
-const GITHUB_OUTPUT = process.env.GITHUB_OUTPUT
-const IS_GITHUB_ACTIONS = process.env.GITHUB_ACTIONS === 'true'
 
 const CLIENT_ID = 'app_EMoamEEZ73f0CkXaXp7hrann'
 const TOKEN_URL = 'https://auth.openai.com/oauth/token'
