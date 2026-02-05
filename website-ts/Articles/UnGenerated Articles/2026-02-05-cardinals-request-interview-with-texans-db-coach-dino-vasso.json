@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals request interview with Texans DB coach Dino Vasso for defensive coordinator",
-      "description": "Texans defensive backs coach Dino Vasso is a candidate to become the defensive coordinator in Arizona.",
-      "url": "https://sports.yahoo.com/articles/cardinals-request-interview-texans-db-222244353.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals request interview with Texans DB coach Dino Vasso for defensive coordinator",
       "description": "Texans defensive backs coach Dino Vasso is a candidate to become the defensive coordinator in Arizona.",
@@ -31,5 +25,5 @@
     "arizona"
   ],
   "hash": "92f79c5c9983ce09",
-  "queuedAt": "2026-02-05T07:04:03.482Z"
+  "queuedAt": "2026-02-05T13:09:31.649Z"
 }

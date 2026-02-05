@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Les Snead: If Matthew Stafford returns, let's make the most of the time we have with him",
-      "description": "The Rams were a game away from making it to Super Bowl LX, falling to the Seahawks in the NFC Championship Game.",
-      "url": "https://sports.yahoo.com/articles/les-snead-matthew-stafford-returns-230828301.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Les Snead: If Matthew Stafford returns, let's make the most of the time we have with him",
       "description": "The Rams were a game away from making it to Super Bowl LX, falling to the Seahawks in the NFC Championship Game.",
@@ -36,5 +30,5 @@
     "championship"
   ],
   "hash": "5617227af3e4884c",
-  "queuedAt": "2026-02-05T07:04:03.226Z"
+  "queuedAt": "2026-02-05T13:09:31.404Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Glazer: Maxx Crosby is done with the Raiders",
-      "description": "Crosby has told the team he wants out.",
-      "url": "https://sports.yahoo.com/articles/glazer-maxx-crosby-done-raiders-003528979.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Glazer: Maxx Crosby is done with the Raiders",
       "description": "Crosby has told the team he wants out.",
@@ -26,5 +20,5 @@
     "out"
   ],
   "hash": "c19ea837f01779f3",
-  "queuedAt": "2026-02-05T07:04:03.045Z"
+  "queuedAt": "2026-02-05T13:09:31.218Z"
 }
