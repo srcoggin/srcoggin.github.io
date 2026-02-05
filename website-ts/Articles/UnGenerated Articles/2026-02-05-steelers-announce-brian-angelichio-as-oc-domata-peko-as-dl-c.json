@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers announce Brian Angelichio as OC, Domata Peko as DL coach",
-      "description": "The Steelers announced the addition of five assistant coaches to Mike McCarthy's staff on Wednesday afternoon.",
-      "url": "https://sports.yahoo.com/articles/steelers-announce-brian-angelichio-oc-220319788.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers announce Brian Angelichio as OC, Domata Peko as DL coach",
       "description": "The Steelers announced the addition of five assistant coaches to Mike McCarthy's staff on Wednesday afternoon.",
@@ -35,5 +29,5 @@
     "afternoon"
   ],
   "hash": "c27ea75c55ce1a15",
-  "queuedAt": "2026-02-05T02:24:24.278Z"
+  "queuedAt": "2026-02-05T07:04:02.265Z"
 }
