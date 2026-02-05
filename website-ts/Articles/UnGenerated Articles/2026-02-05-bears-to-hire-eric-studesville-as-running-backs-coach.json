@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears to hire Eric Studesville as running backs coach",
-      "description": "The Bears are bringing back a familiar face as their running backs coach.",
-      "url": "https://sports.yahoo.com/articles/bears-hire-eric-studesville-running-025059304.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears to hire Eric Studesville as running backs coach",
       "description": "The Bears are bringing back a familiar face as their running backs coach.",
@@ -30,5 +24,5 @@
     "their"
   ],
   "hash": "74e8c807e9ca98fb",
-  "queuedAt": "2026-02-05T13:09:24.672Z"
+  "queuedAt": "2026-02-05T18:55:27.015Z"
 }

@@ -1,0 +1,76 @@
+{
+  "title": "Silver and Black Survey: Predict the Super Bowl LX winner",
+  "category": "superbowl",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Silver and Black Survey: Predict the Super Bowl LX winner",
+      "description": "Raiders fans get a chance to vote for who they think will win Super Bowl LX between the Patriots and Seahawks",
+      "url": "https://sports.yahoo.com/articles/silver-black-survey-predict-super-183907489.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Niners Nation Survey: Predict the Super Bowl LX winner",
+      "description": "49ers fans get a chance to vote for who they think will win Super Bowl LX between the Patriots and Seahawks",
+      "url": "https://sports.yahoo.com/articles/niners-nation-survey-predict-super-183545480.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Mile High Survey: Predict the Super Bowl LX winner",
+      "description": "Broncos fans get a chance to vote for who they think will win Super Bowl LX between the Patriots and Seahawks",
+      "url": "https://sports.yahoo.com/articles/mile-high-survey-predict-super-183231040.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Bucs Nation Survey: Predict the Super Bowl LX winner",
+      "description": "Buccaneers fans get a chance to vote for who they think will win Super Bowl LX between the Patriots and Seahawks",
+      "url": "https://sports.yahoo.com/articles/bucs-nation-survey-predict-super-181548110.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "BTSC Survey: Predict the Super Bowl LX winner",
+      "description": "Steelers fans get a chance to vote for who they think will win Super Bowl LX between the Patriots and Seahawks",
+      "url": "https://sports.yahoo.com/articles/btsc-survey-predict-super-bowl-180805466.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "ACME Survey: Predict the Super Bowl LX winner",
+      "description": "Packers fans get a chance to vote for who they think will win Super Bowl LX between the Patriots and Seahawks",
+      "url": "https://sports.yahoo.com/articles/acme-survey-predict-super-bowl-180319262.html"
+    }
+  ],
+  "keywords": [
+    "silver",
+    "black",
+    "survey",
+    "predict",
+    "super",
+    "bowl",
+    "winner",
+    "raiders",
+    "fans",
+    "get",
+    "chance",
+    "vote",
+    "who",
+    "they",
+    "think",
+    "win",
+    "patriots",
+    "seahawks",
+    "niners",
+    "nation",
+    "49ers",
+    "mile",
+    "high",
+    "broncos",
+    "bucs",
+    "buccaneers",
+    "btsc",
+    "steelers",
+    "acme",
+    "packers"
+  ],
+  "hash": "a9fe1696203e5dae",
+  "queuedAt": "2026-02-05T18:55:14.935Z"
+}

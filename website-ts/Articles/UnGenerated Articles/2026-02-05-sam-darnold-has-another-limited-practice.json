@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sam Darnold has another limited practice",
-      "description": "The Seahawks quarterback has not had a full practice since injuring his left oblique on Jan. 15.",
-      "url": "https://sports.yahoo.com/articles/sam-darnold-another-limited-practice-014133542.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sam Darnold has another limited practice",
       "description": "The Seahawks quarterback has not had a full practice since injuring his left oblique on Jan. 15.",
@@ -32,5 +26,5 @@
     "jan"
   ],
   "hash": "0826bf2577c2e7bb",
-  "queuedAt": "2026-02-05T13:09:24.742Z"
+  "queuedAt": "2026-02-05T18:55:27.124Z"
 }

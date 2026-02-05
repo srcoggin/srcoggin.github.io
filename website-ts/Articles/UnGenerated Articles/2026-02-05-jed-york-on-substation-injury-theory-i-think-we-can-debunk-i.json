@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jed York on substation injury theory: \"I think we can debunk it\"",
-      "description": "The 49ers have a perception problem when it comes to the possibility that their uptick in injuries has been caused by the proximity of the team's practice facility to an electrical substation.",
-      "url": "https://sports.yahoo.com/articles/jed-york-substation-injury-theory-051601407.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jed York on substation injury theory: \"I think we can debunk it\"",
       "description": "The 49ers have a perception problem when it comes to the possibility that their uptick in injuries has been caused by the proximity of the team's practice facility to an electrical substation.",
@@ -40,5 +34,5 @@
     "electrical"
   ],
   "hash": "b106b7977d63d9da",
-  "queuedAt": "2026-02-05T13:09:24.457Z"
+  "queuedAt": "2026-02-05T18:55:26.617Z"
 }
