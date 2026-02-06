@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Walter Payton Man of the Year: Bobby Wagner",
-      "description": "The Commanders linebacker was a finalist for the NFL's highest honor for the fourth time.",
-      "url": "https://sports.yahoo.com/articles/walter-payton-man-bobby-wagner-040712520.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Walter Payton Man of the Year: Bobby Wagner",
       "description": "The Commanders linebacker was a finalist for the NFL's highest honor for the fourth time.",
@@ -31,5 +25,5 @@
     "time"
   ],
   "hash": "b0c1520df6d48a21",
-  "queuedAt": "2026-02-06T13:06:53.068Z"
+  "queuedAt": "2026-02-06T18:56:55.050Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Matthew Stafford says he'll be back in 2026 for 18th season",
-      "description": "Earlier this week, Rams head coach Sean McVay and Rams General Manager Les Snead each said that the organization would give quarterback Matthew Stafford time to decide if he would like to return for an 18th season.",
-      "url": "https://sports.yahoo.com/articles/matthew-stafford-says-hell-back-043949094.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Matthew Stafford says he'll be back in 2026 for 18th season",
       "description": "Earlier this week, Rams head coach Sean McVay and Rams General Manager Les Snead each said that the organization would give quarterback Matthew Stafford time to decide if he would like to return for an 18th season.",
@@ -45,5 +39,5 @@
     "return"
   ],
   "hash": "8d9fcf5ee69ca0c7",
-  "queuedAt": "2026-02-06T13:06:53.012Z"
+  "queuedAt": "2026-02-06T18:56:54.891Z"
 }

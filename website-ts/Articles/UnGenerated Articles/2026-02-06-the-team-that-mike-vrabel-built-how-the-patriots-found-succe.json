@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "The team that Mike Vrabel built: How the Patriots found success so fast",
-      "description": "There were five key points over the last year that set New England on track to face the Seahawks on Sunday.",
+      "description": "There were five key points over the past year that set New England on track to face the Seahawks on Sunday.",
       "url": "https://www.espn.com/nfl/story/_/id/47844139/how-new-england-patriots-super-bowl-seattle-seahawks-mike-vrabel-robert-kraft-drake-maye"
     }
   ],
@@ -22,7 +22,7 @@
     "key",
     "points",
     "over",
-    "last",
+    "past",
     "set",
     "new",
     "england",
@@ -31,6 +31,6 @@
     "seahawks",
     "sunday"
   ],
-  "hash": "592650aa460d799c",
-  "queuedAt": "2026-02-06T13:06:53.959Z"
+  "hash": "a2411131cbfd9c2d",
+  "queuedAt": "2026-02-06T18:56:49.269Z"
 }

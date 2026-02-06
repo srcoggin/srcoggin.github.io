@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jon Gruden contends the damages in his lawsuit against the NFL \"total well over\" $150 million",
-      "description": "New court filing sheds considerable light on Gruden's four-year-old civil action.",
-      "url": "https://sports.yahoo.com/articles/jon-gruden-contends-damages-lawsuit-061207407.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jon Gruden contends the damages in his lawsuit against the NFL \"total well over\" $150 million",
       "description": "New court filing sheds considerable light on Gruden's four-year-old civil action.",
@@ -40,5 +34,5 @@
     "action"
   ],
   "hash": "17b581d8373eebec",
-  "queuedAt": "2026-02-06T13:06:52.901Z"
+  "queuedAt": "2026-02-06T18:56:54.669Z"
 }
