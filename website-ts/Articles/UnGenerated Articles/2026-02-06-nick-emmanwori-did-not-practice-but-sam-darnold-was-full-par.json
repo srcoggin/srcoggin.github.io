@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nick Emmanwori did not practice, but Sam Darnold was full participant",
-      "description": "Emmanwori injured his ankle in Wednesday's practice, while Darnold hurt his oblique Jan. 15.",
-      "url": "https://sports.yahoo.com/articles/nick-emmanwori-did-not-practice-010932419.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nick Emmanwori did not practice, but Sam Darnold was full participant",
       "description": "Emmanwori injured his ankle in Wednesday's practice, while Darnold hurt his oblique Jan. 15.",
@@ -33,5 +27,5 @@
     "jan"
   ],
   "hash": "784f598535e4bf31",
-  "queuedAt": "2026-02-06T02:24:47.680Z"
+  "queuedAt": "2026-02-06T07:00:13.483Z"
 }

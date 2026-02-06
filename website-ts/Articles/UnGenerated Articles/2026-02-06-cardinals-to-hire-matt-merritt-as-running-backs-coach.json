@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals to hire Matt Merritt as running backs coach",
-      "description": "Cardinals head coach Mike LaFleur has filled another spot on his coaching staff.",
-      "url": "https://sports.yahoo.com/articles/cardinals-hire-matt-merritt-running-224339345.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals to hire Matt Merritt as running backs coach",
       "description": "Cardinals head coach Mike LaFleur has filled another spot on his coaching staff.",
@@ -34,5 +28,5 @@
     "staff"
   ],
   "hash": "e2f7f0ac584a80ed",
-  "queuedAt": "2026-02-06T02:24:47.837Z"
+  "queuedAt": "2026-02-06T07:00:13.702Z"
 }

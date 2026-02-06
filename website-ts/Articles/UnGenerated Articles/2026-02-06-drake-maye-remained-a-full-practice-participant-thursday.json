@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Drake Maye remained a full practice participant Thursday",
-      "description": "Patriots quarterback Drake Maye remained a full participant in Thursday's practice.",
-      "url": "https://sports.yahoo.com/articles/drake-maye-remained-full-practice-020248953.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Drake Maye remained a full practice participant Thursday",
       "description": "Patriots quarterback Drake Maye remained a full participant in Thursday's practice.",
@@ -28,5 +22,5 @@
     "thursdays"
   ],
   "hash": "911af6fb11a3071b",
-  "queuedAt": "2026-02-06T02:24:47.546Z"
+  "queuedAt": "2026-02-06T07:00:13.371Z"
 }

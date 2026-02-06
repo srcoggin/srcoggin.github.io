@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Fred Warner on new DC Raheem Morris: Have to welcome changes or get left behind",
-      "description": "49ers linebacker Fred Warner tried to make it back from his Week 6 ankle injury before the end of the 49ers' season, but ran out of time when the team lost to the Seahawks in the divisional round.",
-      "url": "https://sports.yahoo.com/articles/fred-warner-dc-raheem-morris-235049263.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Fred Warner on new DC Raheem Morris: Have to welcome changes or get left behind",
       "description": "49ers linebacker Fred Warner tried to make it back from his Week 6 ankle injury before the end of the 49ers' season, but ran out of time when the team lost to the Seahawks in the divisional round.",
@@ -44,5 +38,5 @@
     "round"
   ],
   "hash": "fc9f3780485fa176",
-  "queuedAt": "2026-02-06T02:24:47.762Z"
+  "queuedAt": "2026-02-06T07:00:13.653Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Christian McCaffrey on 49ers-Rams in Melbourne: Australia might be too far",
-      "description": "The NFL announced today that the 49ers and Rams will play in Melbourne, Australia, during the 2026 season, and 49ers running back Christian McCaffrey isn't sure that's such a good idea.",
-      "url": "https://sports.yahoo.com/articles/christian-mccaffrey-49ers-rams-melbourne-014615462.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Christian McCaffrey on 49ers-Rams in Melbourne: Australia might be too far",
       "description": "The NFL announced today that the 49ers and Rams will play in Melbourne, Australia, during the 2026 season, and 49ers running back Christian McCaffrey isn't sure that's such a good idea.",
@@ -38,5 +32,5 @@
     "idea"
   ],
   "hash": "9bf7bfa7d5ed46e3",
-  "queuedAt": "2026-02-06T02:24:46.606Z"
+  "queuedAt": "2026-02-06T07:00:07.633Z"
 }
