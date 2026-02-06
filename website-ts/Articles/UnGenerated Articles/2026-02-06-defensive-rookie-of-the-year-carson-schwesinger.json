@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Defensive Rookie of the Year: Carson Schwesinger",
-      "description": "The Browns linebacker led all NFL rookies in total tackles and tackles for loss.",
-      "url": "https://sports.yahoo.com/articles/defensive-rookie-carson-schwesinger-033335480.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Defensive Rookie of the Year: Carson Schwesinger",
       "description": "The Browns linebacker led all NFL rookies in total tackles and tackles for loss.",
@@ -29,5 +23,5 @@
     "loss"
   ],
   "hash": "c2686ccfa2916d41",
-  "queuedAt": "2026-02-06T07:00:08.247Z"
+  "queuedAt": "2026-02-06T13:06:58.828Z"
 }

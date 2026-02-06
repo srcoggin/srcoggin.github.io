@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Offensive Player of the Year: Jaxon Smith-Njigba",
-      "description": "The Seahawks wide receiver led the NFL with 1,793 receiving yards, the eighth-highest single-season total in NFL history.",
-      "url": "https://sports.yahoo.com/articles/offensive-player-jaxon-smith-njigba-034021672.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Offensive Player of the Year: Jaxon Smith-Njigba",
       "description": "The Seahawks wide receiver led the NFL with 1,793 receiving yards, the eighth-highest single-season total in NFL history.",
@@ -32,5 +26,5 @@
     "history"
   ],
   "hash": "550d24eeace8e653",
-  "queuedAt": "2026-02-06T07:00:08.200Z"
+  "queuedAt": "2026-02-06T13:06:58.775Z"
 }

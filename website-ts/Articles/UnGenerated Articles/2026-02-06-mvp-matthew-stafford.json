@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "MVP: Matthew Stafford",
-      "description": "The Rams quarterback won the award for the first time in his 17-year career.",
-      "url": "https://sports.yahoo.com/articles/mvp-matthew-stafford-034741592.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "MVP: Matthew Stafford",
       "description": "The Rams quarterback won the award for the first time in his 17-year career.",
@@ -30,5 +24,5 @@
     "career"
   ],
   "hash": "8f3f2188884aa914",
-  "queuedAt": "2026-02-06T07:00:08.123Z"
+  "queuedAt": "2026-02-06T13:06:58.728Z"
 }
