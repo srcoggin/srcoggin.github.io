@@ -1,0 +1,42 @@
+{
+  "title": "Battle Red Survey: Predict the Super Bowl LX winner",
+  "category": "superbowl",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Stampede Survey: Predict the Super Bowl LX winner",
+      "description": "Colts fans get a chance to vote for who they think will win Super Bowl LX between the Patriots and Seahawks",
+      "url": "https://sports.yahoo.com/articles/stampede-survey-predict-super-bowl-212342452.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Battle Red Survey: Predict the Super Bowl LX winner",
+      "description": "Texans fans get a chance to vote for who they think will win Super Bowl LX between the Patriots and Seahawks",
+      "url": "https://sports.yahoo.com/articles/battle-red-survey-predict-super-212119862.html"
+    }
+  ],
+  "keywords": [
+    "stampede",
+    "survey",
+    "predict",
+    "super",
+    "bowl",
+    "winner",
+    "colts",
+    "fans",
+    "get",
+    "chance",
+    "vote",
+    "who",
+    "they",
+    "think",
+    "win",
+    "patriots",
+    "seahawks",
+    "battle",
+    "red",
+    "texans"
+  ],
+  "hash": "9b021bd71de12e63",
+  "queuedAt": "2026-02-06T02:24:47.996Z"
+}
