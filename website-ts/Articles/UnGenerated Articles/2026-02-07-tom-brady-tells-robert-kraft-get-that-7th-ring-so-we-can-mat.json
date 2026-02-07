@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tom Brady tells Robert Kraft, \"Get that 7th ring so we can match\"",
-      "description": "Brady may be reconsidering his stance that he has no dog in the fight of who wins between the Patriots and Seahawks.",
-      "url": "https://sports.yahoo.com/articles/tom-brady-tells-robert-kraft-120240146.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tom Brady tells Robert Kraft, \"Get that 7th ring so we can match\"",
       "description": "Brady may be reconsidering his stance that he has no dog in the fight of who wins between the Patriots and Seahawks.",
@@ -37,5 +31,5 @@
     "seahawks"
   ],
   "hash": "59f65d5076e4cc7e",
-  "queuedAt": "2026-02-07T12:57:21.794Z"
+  "queuedAt": "2026-02-07T18:40:59.115Z"
 }

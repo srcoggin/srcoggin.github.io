@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Adam Gase could join the Chargers as an offensive assistant",
-      "description": "The Chargers could hire Adam Gase in an offensive assistant coach role, Matt Zenitz of CBS Sports reports.",
-      "url": "https://sports.yahoo.com/articles/report-adam-gase-could-join-035337754.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Adam Gase could join the Chargers as an offensive assistant",
       "description": "The Chargers could hire Adam Gase in an offensive assistant coach role, Matt Zenitz of CBS Sports reports.",
@@ -33,5 +27,5 @@
     "reports"
   ],
   "hash": "ae6f2ee5f5854091",
-  "queuedAt": "2026-02-07T12:57:19.782Z"
+  "queuedAt": "2026-02-07T18:40:52.698Z"
 }
