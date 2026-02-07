@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jerry Jones: I'm looking forward to working out a deal with George Pickens",
-      "description": "The wide receiver is scheduled for free agency in March, and the Cowboys are expected to use the franchise tag on him.",
-      "url": "https://sports.yahoo.com/articles/jerry-jones-im-looking-forward-224415434.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jerry Jones: I'm looking forward to working out a deal with George Pickens",
       "description": "The wide receiver is scheduled for free agency in March, and the Cowboys are expected to use the franchise tag on him.",
@@ -39,5 +33,5 @@
     "him"
   ],
   "hash": "97344d51d6ea823a",
-  "queuedAt": "2026-02-07T06:48:53.699Z"
+  "queuedAt": "2026-02-07T12:57:31.191Z"
 }

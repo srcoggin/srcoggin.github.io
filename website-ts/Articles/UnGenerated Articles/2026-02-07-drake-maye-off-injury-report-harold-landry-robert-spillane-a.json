@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Drake Maye off injury report; Harold Landry, Robert Spillane are questionable for Super Bowl LX",
-      "description": "Maye had full participation in all three practices this week after hurting his right shoulder in the AFC Championship Game.",
-      "url": "https://sports.yahoo.com/articles/drake-maye-off-injury-report-231613207.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Drake Maye off injury report; Harold Landry, Robert Spillane are questionable for Super Bowl LX",
       "description": "Maye had full participation in all three practices this week after hurting his right shoulder in the AFC Championship Game.",
@@ -41,5 +35,5 @@
     "championship"
   ],
   "hash": "4368497d1504f8d3",
-  "queuedAt": "2026-02-07T06:48:51.645Z"
+  "queuedAt": "2026-02-07T12:57:21.265Z"
 }

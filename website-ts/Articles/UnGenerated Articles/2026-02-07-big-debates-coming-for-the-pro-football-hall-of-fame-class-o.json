@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Big debates coming for the Pro Football Hall of Fame Class of 2027",
-      "description": "The stunning exclusion of Bill Belichick from the Pro Football Hall of Fame Class of 2026 overshadowed the players who were selected.",
-      "url": "https://sports.yahoo.com/articles/big-debates-coming-pro-football-225035858.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Big debates coming for the Pro Football Hall of Fame Class of 2027",
       "description": "The stunning exclusion of Bill Belichick from the Pro Football Hall of Fame Class of 2026 overshadowed the players who were selected.",
@@ -35,5 +29,5 @@
     "selected"
   ],
   "hash": "d2d869cc99c87bbc",
-  "queuedAt": "2026-02-07T06:48:53.610Z"
+  "queuedAt": "2026-02-07T12:57:32.059Z"
 }

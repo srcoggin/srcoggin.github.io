@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sam Darnold, Nick Emmanwori have no injury designations for Super Bowl LX",
-      "description": "Fullback Robbie Ouzts is the only Seahawk listed as questionable for Sunday.",
-      "url": "https://sports.yahoo.com/articles/sam-darnold-nick-emmanwori-no-232350191.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sam Darnold, Nick Emmanwori have no injury designations for Super Bowl LX",
       "description": "Fullback Robbie Ouzts is the only Seahawk listed as questionable for Sunday.",
@@ -33,5 +27,5 @@
     "sunday"
   ],
   "hash": "876e2f5019a90268",
-  "queuedAt": "2026-02-07T06:48:53.522Z"
+  "queuedAt": "2026-02-07T12:57:31.944Z"
 }

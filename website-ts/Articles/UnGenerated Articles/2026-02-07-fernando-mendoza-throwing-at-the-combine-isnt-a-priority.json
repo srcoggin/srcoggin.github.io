@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Fernando Mendoza: Throwing at the Combine isn't a priority",
-      "description": "Fernando Mendoza threw plenty of passes in the state of Indiana during the 2025 season, but it doesn't sound like the quarterback will be throwing any in Indianapolis during the Scouting Combine.",
-      "url": "https://sports.yahoo.com/articles/fernando-mendoza-throwing-combine-isnt-220114958.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Fernando Mendoza: Throwing at the Combine isn't a priority",
       "description": "Fernando Mendoza threw plenty of passes in the state of Indiana during the 2025 season, but it doesn't sound like the quarterback will be throwing any in Indianapolis during the Scouting Combine.",
@@ -37,5 +31,5 @@
     "scouting"
   ],
   "hash": "5bbd9b1143e21e00",
-  "queuedAt": "2026-02-07T06:48:53.797Z"
+  "queuedAt": "2026-02-07T12:57:32.164Z"
 }
