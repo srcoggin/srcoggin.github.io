@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots elevate D’Ernest Johnson and Leonard Taylor to Super Bowl roster",
-      "description": "The last roster transaction before Super Bowl LX is official, as the Patriots have elevated two practice squad players to the active roster.",
-      "url": "https://sports.yahoo.com/articles/patriots-elevate-d-ernest-johnson-220033672.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots elevate D’Ernest Johnson and Leonard Taylor to Super Bowl roster",
       "description": "The last roster transaction before Super Bowl LX is official, as the Patriots have elevated two practice squad players to the active roster.",
@@ -36,5 +30,5 @@
     "active"
   ],
   "hash": "155025156e431203",
-  "queuedAt": "2026-02-08T06:56:28.102Z"
+  "queuedAt": "2026-02-08T12:57:48.748Z"
 }

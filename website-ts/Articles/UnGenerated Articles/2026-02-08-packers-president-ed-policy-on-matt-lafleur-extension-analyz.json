@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers president Ed Policy on Matt LaFleur extension: Analyze body of work over \"emotional chaos\"",
-      "description": "Packers president Ed Policy made a big decision to kick off the team's offseason when he reached agreement with head coach Matt LaFleur on a contract extension.",
-      "url": "https://sports.yahoo.com/articles/packers-president-ed-policy-matt-201354790.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers president Ed Policy on Matt LaFleur extension: Analyze body of work over \"emotional chaos\"",
       "description": "Packers president Ed Policy made a big decision to kick off the team's offseason when he reached agreement with head coach Matt LaFleur on a contract extension.",
@@ -42,5 +36,5 @@
     "contract"
   ],
   "hash": "de503b0757bf2e73",
-  "queuedAt": "2026-02-08T06:56:29.823Z"
+  "queuedAt": "2026-02-08T12:57:54.235Z"
 }
