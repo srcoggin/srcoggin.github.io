@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Devon Witherspoon's blitzes threw off Drake Maye, Patriots",
-      "description": "Uchenna Nwosu's 45-yard return for a touchdown in the fourth quarter to seal the Seahawks' victory initially was ruled a strip-sack by cornerback Devon Witherspoon.",
-      "url": "https://sports.yahoo.com/articles/devon-witherspoons-blitzes-threw-off-064139717.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Devon Witherspoon's blitzes threw off Drake Maye, Patriots",
       "description": "Uchenna Nwosu's 45-yard return for a touchdown in the fourth quarter to seal the Seahawks' victory initially was ruled a strip-sack by cornerback Devon Witherspoon.",
@@ -41,5 +35,5 @@
     "witherspoon"
   ],
   "hash": "b73d7a448e0b8ba3",
-  "queuedAt": "2026-02-09T07:11:54.840Z"
+  "queuedAt": "2026-02-09T13:29:42.438Z"
 }

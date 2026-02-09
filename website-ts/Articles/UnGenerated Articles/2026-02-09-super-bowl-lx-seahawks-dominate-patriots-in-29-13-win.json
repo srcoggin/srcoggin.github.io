@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Did you enjoy the Super Bowl?",
-      "description": "Seahawks dominate to win their second NFL championship",
-      "url": "https://sports.yahoo.com/articles/did-enjoy-super-bowl-040127972.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Super Bowl LX: Seahawks dominate Patriots in 29-13 win",
       "description": "The Seahawks defense overwhelmed the Patriots for Seattle's second NFL championship.",
@@ -16,22 +10,19 @@
     }
   ],
   "keywords": [
-    "you",
-    "enjoy",
     "super",
     "bowl",
     "seahawks",
     "dominate",
-    "win",
-    "their",
-    "second",
-    "championship",
     "patriots",
     "2913",
+    "win",
     "defense",
     "overwhelmed",
-    "seattles"
+    "seattles",
+    "second",
+    "championship"
   ],
-  "hash": "7c6f4fbefa55ddae",
-  "queuedAt": "2026-02-09T07:11:55.753Z"
+  "hash": "6dc7658cf53581d1",
+  "queuedAt": "2026-02-09T13:29:43.469Z"
 }

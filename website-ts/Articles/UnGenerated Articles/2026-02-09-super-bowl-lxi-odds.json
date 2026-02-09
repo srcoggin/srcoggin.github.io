@@ -1,0 +1,24 @@
+{
+  "title": "Super Bowl LXI odds",
+  "category": "superbowl",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Super Bowl LXI odds",
+      "description": "Carolina is once again an afterthought in the NFC South and the NFL",
+      "url": "https://sports.yahoo.com/articles/super-bowl-lxi-odds-122301772.html"
+    }
+  ],
+  "keywords": [
+    "super",
+    "bowl",
+    "lxi",
+    "odds",
+    "carolina",
+    "afterthought",
+    "nfc",
+    "south"
+  ],
+  "hash": "c5ff8b48160cdb01",
+  "queuedAt": "2026-02-09T13:29:37.210Z"
+}

@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sam Darnold: As long as you believe in yourself, anything is possible",
-      "description": "Seahawks quarterback Sam Darnold is a Super Bowl champion.",
-      "url": "https://sports.yahoo.com/articles/sam-darnold-long-believe-yourself-034352671.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sam Darnold: As long as you believe in yourself, anything is possible",
       "description": "Seahawks quarterback Sam Darnold is a Super Bowl champion.",
@@ -31,5 +25,5 @@
     "champion"
   ],
   "hash": "dfdf2fb608cc0020",
-  "queuedAt": "2026-02-09T07:11:55.866Z"
+  "queuedAt": "2026-02-09T13:29:43.328Z"
 }

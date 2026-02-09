@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kenneth Walker III calls MVP award a \"surreal moment\"",
-      "description": "Kenneth Walker's future is uncertain now, with the running back scheduled for free agency in a month.",
-      "url": "https://sports.yahoo.com/articles/kenneth-walker-iii-calls-mvp-060554798.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kenneth Walker III calls MVP award a \"surreal moment\"",
       "description": "Kenneth Walker's future is uncertain now, with the running back scheduled for free agency in a month.",
@@ -36,5 +30,5 @@
     "month"
   ],
   "hash": "a9409e32a39db9f1",
-  "queuedAt": "2026-02-09T07:11:55.194Z"
+  "queuedAt": "2026-02-09T13:29:42.736Z"
 }

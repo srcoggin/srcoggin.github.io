@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaxon Smith-Njigba: We all felt this was meant to be",
-      "description": "The Seahawks were the best team throughout the 2025 season and illustrated that once again with a dominant 29-13 victory over the Patriots in Super Bowl LX.",
-      "url": "https://sports.yahoo.com/articles/jaxon-smith-njigba-felt-meant-062848397.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaxon Smith-Njigba: We all felt this was meant to be",
       "description": "The Seahawks were the best team throughout the 2025 season and illustrated that once again with a dominant 29-13 victory over the Patriots in Super Bowl LX.",
@@ -36,5 +30,5 @@
     "bowl"
   ],
   "hash": "9ec6a659e9cb4bb9",
-  "queuedAt": "2026-02-09T07:11:54.950Z"
+  "queuedAt": "2026-02-09T13:29:42.587Z"
 }
