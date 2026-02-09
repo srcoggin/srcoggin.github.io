@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks punt on second possession of third quarter, still up 12-0",
-      "description": "The Seahawks still haven't found the end zone, but they still hold a 12-0 lead over the Patriots.",
-      "url": "https://sports.yahoo.com/articles/seahawks-punt-second-possession-third-020915476.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks punt on second possession of third quarter, still up 12-0",
       "description": "The Seahawks still haven't found the end zone, but they still hold a 12-0 lead over the Patriots.",
@@ -35,5 +29,5 @@
     "patriots"
   ],
   "hash": "d5e9d3f8107a5cb7",
-  "queuedAt": "2026-02-09T02:32:47.441Z"
+  "queuedAt": "2026-02-09T07:12:07.437Z"
 }
