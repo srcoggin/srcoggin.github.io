@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers say Keion White underwent successful surgery after gunshot wound to ankle",
-      "description": "49ers did not put a timetable on White's return.",
-      "url": "https://sports.yahoo.com/articles/49ers-keion-white-underwent-successful-044938339.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers say Keion White underwent successful surgery after gunshot wound to ankle",
       "description": "49ers did not put a timetable on White's return.",
@@ -32,5 +26,5 @@
     "return"
   ],
   "hash": "1d213b49399e057a",
-  "queuedAt": "2026-02-10T13:22:40.923Z"
+  "queuedAt": "2026-02-10T19:11:48.924Z"
 }
