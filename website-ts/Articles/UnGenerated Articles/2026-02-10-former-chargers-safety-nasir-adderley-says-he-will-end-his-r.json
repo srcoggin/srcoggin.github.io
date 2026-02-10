@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Former Chargers safety Nasir Adderley says he will end his retirement, return to NFL",
-      "description": "Three years ago, Chargers safety Nasir Adderley made the surprising decision to retire at the age of 25.",
-      "url": "https://sports.yahoo.com/articles/former-chargers-safety-nasir-adderley-224108757.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Former Chargers safety Nasir Adderley says he will end his retirement, return to NFL",
       "description": "Three years ago, Chargers safety Nasir Adderley made the surprising decision to retire at the age of 25.",
@@ -36,5 +30,5 @@
     "age"
   ],
   "hash": "73caaeae0e69130d",
-  "queuedAt": "2026-02-10T07:11:32.385Z"
+  "queuedAt": "2026-02-10T13:22:48.551Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Replay review of Zach Charbonnet two-point conversion proved to be the call of the year",
-      "description": "Charbonnet's two-point conversion was the difference between the Seahawks being the No. 1 seed and a wild card.",
-      "url": "https://sports.yahoo.com/articles/replay-review-zach-charbonnet-two-001503400.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Replay review of Zach Charbonnet two-point conversion proved to be the call of the year",
       "description": "Charbonnet's two-point conversion was the difference between the Seahawks being the No. 1 seed and a wild card.",
@@ -32,5 +26,5 @@
     "card"
   ],
   "hash": "907e0785574ec0e6",
-  "queuedAt": "2026-02-10T07:11:32.303Z"
+  "queuedAt": "2026-02-10T13:22:48.424Z"
 }

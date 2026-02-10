@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Devon Witherspoon: Patriots' offensive linemen had a tell, Seahawks knew what was coming",
-      "description": "Witherspoon says Seattle had a defensive game plan that was ready for New England's offense.",
-      "url": "https://sports.yahoo.com/articles/devon-witherspoon-patriots-offensive-linemen-220428433.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Devon Witherspoon: Patriots' offensive linemen had a tell, Seahawks knew what was coming",
       "description": "Witherspoon says Seattle had a defensive game plan that was ready for New England's offense.",
@@ -37,5 +31,5 @@
     "offense"
   ],
   "hash": "11fd7aaf7e2797d5",
-  "queuedAt": "2026-02-10T07:11:32.466Z"
+  "queuedAt": "2026-02-10T13:22:48.619Z"
 }

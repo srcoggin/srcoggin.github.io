@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers DL Keion White was shot in the ankle early Monday",
-      "description": "The 49ers announced that White is currently in surgery.",
-      "url": "https://sports.yahoo.com/articles/49ers-dl-keion-white-shot-010832527.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers DL Keion White was shot in the ankle early Monday",
       "description": "The 49ers announced that White is currently in surgery.",
@@ -29,5 +23,5 @@
     "surgery"
   ],
   "hash": "18d0e513cc1f39bb",
-  "queuedAt": "2026-02-10T07:11:30.779Z"
+  "queuedAt": "2026-02-10T13:22:40.473Z"
 }
