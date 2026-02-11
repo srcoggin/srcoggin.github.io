@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Macdonald: Seahawks fans made Super Bowl like a home game, Patriots used silent count",
-      "description": "\"Their offense was on silent cadence the whole game, which gives us an advantage on defense,\" Macdonald said.",
-      "url": "https://sports.yahoo.com/articles/mike-macdonald-seahawks-fans-made-100756529.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Macdonald: Seahawks fans made Super Bowl like a home game, Patriots used silent count",
       "description": "\"Their offense was on silent cadence the whole game, which gives us an advantage on defense,\" Macdonald said.",
@@ -40,5 +34,5 @@
     "said"
   ],
   "hash": "9f5f52cd07c0b857",
-  "queuedAt": "2026-02-11T13:19:57.159Z"
+  "queuedAt": "2026-02-11T19:12:15.492Z"
 }

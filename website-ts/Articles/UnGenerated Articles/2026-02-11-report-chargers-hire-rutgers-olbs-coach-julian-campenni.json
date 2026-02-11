@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Chargers hire Rutgers OLBs coach Julian Campenni",
-      "description": "The Chargers are hiring Rutgers outside linebackers coach Julian Campenni as assistant defensive line coach, Matt Zenitz of CBS Sports.",
-      "url": "https://sports.yahoo.com/articles/report-chargers-hire-rutgers-olbs-011621835.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Chargers hire Rutgers OLBs coach Julian Campenni",
       "description": "The Chargers are hiring Rutgers outside linebackers coach Julian Campenni as assistant defensive line coach, Matt Zenitz of CBS Sports.",
@@ -36,5 +30,5 @@
     "sports"
   ],
   "hash": "4c858537761fe9db",
-  "queuedAt": "2026-02-11T13:19:56.352Z"
+  "queuedAt": "2026-02-11T19:12:01.144Z"
 }
