@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Klint Kubiak: A lot of tape to watch to determine who first pick will be",
-      "description": "The Raiders introduced Klint Kubiak as their head coach at a press conference on Thursday and one of the first questions he fielded had to do with the first overall pick in this year's draft.",
-      "url": "https://sports.yahoo.com/articles/klint-kubiak-lot-tape-watch-202410939.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Klint Kubiak: A lot of tape to watch to determine who first pick will be",
       "description": "The Raiders introduced Klint Kubiak as their head coach at a press conference on Thursday and one of the first questions he fielded had to do with the first overall pick in this year's draft.",
@@ -42,5 +36,5 @@
     "draft"
   ],
   "hash": "353070226b7fb7fa",
-  "queuedAt": "2026-02-11T07:09:26.884Z"
+  "queuedAt": "2026-02-11T13:20:03.388Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears didn't get picks for Ian Cunningham hire because Matt Ryan is Falcons' \"primary football executive\"",
-      "description": "Ryan said last week that Cunningham will run free agency and the draft.",
-      "url": "https://sports.yahoo.com/articles/bears-didnt-picks-ian-cunningham-212952125.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears didn't get picks for Ian Cunningham hire because Matt Ryan is Falcons' \"primary football executive\"",
       "description": "Ryan said last week that Cunningham will run free agency and the draft.",
@@ -37,5 +31,5 @@
     "draft"
   ],
   "hash": "47f5016d062b87ee",
-  "queuedAt": "2026-02-11T07:09:26.631Z"
+  "queuedAt": "2026-02-11T13:20:03.720Z"
 }

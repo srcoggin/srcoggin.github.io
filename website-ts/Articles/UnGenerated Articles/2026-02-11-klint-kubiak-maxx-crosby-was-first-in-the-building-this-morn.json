@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Klint Kubiak: Maxx Crosby was first in the building this morning, that fired me up",
-      "description": "Perhaps Maxx Crosby isn't actually done with the Raiders?",
-      "url": "https://sports.yahoo.com/articles/klint-kubiak-maxx-crosby-first-200824345.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Klint Kubiak: Maxx Crosby was first in the building this morning, that fired me up",
       "description": "Perhaps Maxx Crosby isn't actually done with the Raiders?",
@@ -33,5 +27,5 @@
     "raiders"
   ],
   "hash": "eb12e8c29c4a6542",
-  "queuedAt": "2026-02-11T07:09:27.020Z"
+  "queuedAt": "2026-02-11T13:20:03.830Z"
 }

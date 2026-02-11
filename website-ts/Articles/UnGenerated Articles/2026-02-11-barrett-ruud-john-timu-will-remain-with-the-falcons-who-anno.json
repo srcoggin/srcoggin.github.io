@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Barrett Ruud, John Timu will remain with the Falcons, who announce two other hires",
-      "description": "The Falcons announced several coaching moves on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/barrett-ruud-john-timu-remain-220206593.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Barrett Ruud, John Timu will remain with the Falcons, who announce two other hires",
       "description": "The Falcons announced several coaching moves on Tuesday.",
@@ -33,5 +27,5 @@
     "tuesday"
   ],
   "hash": "c9da666c4b692777",
-  "queuedAt": "2026-02-11T07:09:25.171Z"
+  "queuedAt": "2026-02-11T13:19:56.941Z"
 }

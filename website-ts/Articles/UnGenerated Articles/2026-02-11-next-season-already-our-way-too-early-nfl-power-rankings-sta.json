@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "Next season already? Our way-too-early NFL Power Rankings stack all 32 teams for 2026",
-      "description": "After the conclusion of the 2025 season, how do all 32 teams stack up for 2026? Here are our early rankings for next season.",
+      "description": "After the conclusion of the 2025 season, how do all 32 teams stack up for 2026?",
       "url": "https://www.espn.com/nfl/story/_/id/47807175/nfl-way-too-early-power-rankings-poll-2026-offseason-three-words"
     }
   ],
@@ -20,9 +20,8 @@
     "teams",
     "2026",
     "conclusion",
-    "2025",
-    "early"
+    "2025"
   ],
-  "hash": "88e0048e61137084",
-  "queuedAt": "2026-02-11T07:09:28.553Z"
+  "hash": "9fc63e70294b8b60",
+  "queuedAt": "2026-02-11T13:19:58.060Z"
 }

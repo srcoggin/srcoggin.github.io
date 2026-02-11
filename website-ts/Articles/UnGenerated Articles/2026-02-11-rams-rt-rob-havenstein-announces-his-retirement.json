@@ -3,18 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams RT Rob Havenstein announces his retirement",
-      "description": "Rob Havenstein is calling it a career.",
-      "url": "https://sports.yahoo.com/articles/rams-rt-rob-havenstein-announces-215600324.html"
-    },
-    {
-      "name": "Yahoo Sports NFL",
-      "title": "Rob Havenstein announces retirement",
-      "description": "Rams right tackle Havenstein announced retirement",
-      "url": "https://sports.yahoo.com/articles/rob-havenstein-announces-retirement-212123516.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams RT Rob Havenstein announces his retirement",
       "description": "Rob Havenstein is calling it a career.",
@@ -29,11 +17,8 @@
     "his",
     "retirement",
     "calling",
-    "career",
-    "right",
-    "tackle",
-    "announced"
+    "career"
   ],
   "hash": "ab43b0035a41978b",
-  "queuedAt": "2026-02-11T07:09:24.721Z"
+  "queuedAt": "2026-02-11T13:20:03.656Z"
 }
