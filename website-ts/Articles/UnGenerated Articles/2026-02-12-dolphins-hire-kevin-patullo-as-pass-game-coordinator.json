@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dolphins hire Kevin Patullo as pass game coordinator",
-      "description": "Former Eagles offensive coordinator Kevin Patullo has found a new job.",
-      "url": "https://sports.yahoo.com/articles/dolphins-hire-kevin-patullo-pass-221849798.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dolphins hire Kevin Patullo as pass game coordinator",
       "description": "Former Eagles offensive coordinator Kevin Patullo has found a new job.",
@@ -30,5 +24,5 @@
     "job"
   ],
   "hash": "017c8a851567f4f3",
-  "queuedAt": "2026-02-12T07:10:02.039Z"
+  "queuedAt": "2026-02-12T13:19:29.311Z"
 }

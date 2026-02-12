@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jeff Ulbrich: Replacing Kaden Elliss would take more than one player",
-      "description": "The start of the offseason means the start of thoughts about which players will be moving teams as free agents next month.",
-      "url": "https://sports.yahoo.com/articles/jeff-ulbrich-replacing-kaden-elliss-210203293.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jeff Ulbrich: Replacing Kaden Elliss would take more than one player",
       "description": "The start of the offseason means the start of thoughts about which players will be moving teams as free agents next month.",
@@ -38,5 +32,5 @@
     "month"
   ],
   "hash": "d5ea9ffa03248c9e",
-  "queuedAt": "2026-02-12T07:10:02.248Z"
+  "queuedAt": "2026-02-12T13:19:29.747Z"
 }
