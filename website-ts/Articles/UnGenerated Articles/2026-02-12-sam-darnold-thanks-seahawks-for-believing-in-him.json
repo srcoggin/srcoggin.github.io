@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sam Darnold thanks Seahawks for believing in him",
-      "description": "Sam Darnold was a man of the people at Wednesday's championship celebration in Seattle.",
-      "url": "https://sports.yahoo.com/articles/sam-darnold-thanks-seahawks-believing-003332914.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sam Darnold thanks Seahawks for believing in him",
       "description": "Sam Darnold was a man of the people at Wednesday's championship celebration in Seattle.",
@@ -30,5 +24,5 @@
     "seattle"
   ],
   "hash": "47125c514977fc3f",
-  "queuedAt": "2026-02-12T13:19:17.905Z"
+  "queuedAt": "2026-02-12T19:10:02.381Z"
 }

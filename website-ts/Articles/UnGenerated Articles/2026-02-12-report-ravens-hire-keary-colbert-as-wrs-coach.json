@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Ravens hire Keary Colbert as WRs coach",
-      "description": "The Ravens are hiring Keary Colbert as their wide receivers coach, Matt Zenitz of CBS Sports reports.",
-      "url": "https://sports.yahoo.com/articles/report-ravens-hire-keary-colbert-004831736.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Ravens hire Keary Colbert as WRs coach",
       "description": "The Ravens are hiring Keary Colbert as their wide receivers coach, Matt Zenitz of CBS Sports reports.",
@@ -34,5 +28,5 @@
     "reports"
   ],
   "hash": "b2d5264e6523a3cf",
-  "queuedAt": "2026-02-12T13:19:16.258Z"
+  "queuedAt": "2026-02-12T19:09:53.852Z"
 }

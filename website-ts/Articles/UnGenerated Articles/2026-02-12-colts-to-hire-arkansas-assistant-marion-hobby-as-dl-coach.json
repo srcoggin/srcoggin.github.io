@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts to hire Arkansas assistant Marion Hobby as DL coach",
-      "description": "The Colts are hiring Marion Hobby as their defensive line coach, Matt Zenitz of CBS Sports reports.",
-      "url": "https://sports.yahoo.com/articles/colts-hire-arkansas-assistant-marion-031501659.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts to hire Arkansas assistant Marion Hobby as DL coach",
       "description": "The Colts are hiring Marion Hobby as their defensive line coach, Matt Zenitz of CBS Sports reports.",
@@ -34,5 +28,5 @@
     "reports"
   ],
   "hash": "6f739006c9b8436c",
-  "queuedAt": "2026-02-12T13:19:16.029Z"
+  "queuedAt": "2026-02-12T19:09:53.672Z"
 }

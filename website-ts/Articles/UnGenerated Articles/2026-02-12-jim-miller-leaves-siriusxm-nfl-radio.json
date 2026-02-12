@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jim Miller leaves SiriusXM NFL Radio",
-      "description": "Former NFL quarterback Jim Miller's long-time tenure at SiriusXM NFL Radio has ended.",
-      "url": "https://sports.yahoo.com/articles/jim-miller-leaves-siriusxm-nfl-001813454.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jim Miller leaves SiriusXM NFL Radio",
       "description": "Former NFL quarterback Jim Miller's long-time tenure at SiriusXM NFL Radio has ended.",
@@ -29,5 +23,5 @@
     "ended"
   ],
   "hash": "c975324be97f70c3",
-  "queuedAt": "2026-02-12T13:19:18.012Z"
+  "queuedAt": "2026-02-12T19:10:02.826Z"
 }
