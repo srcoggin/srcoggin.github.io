@@ -3,6 +3,12 @@
   "category": "coaching",
   "sources": [
     {
+      "name": "Yahoo Sports NFL",
+      "title": "Cardinals hire Tony Sorrentino as WRs coach",
+      "description": "The Cardinals are hiring Tony Sorrentino as their wide receivers coach, Peter Schrager of ESPN reports.",
+      "url": "https://sports.yahoo.com/articles/cardinals-hire-tony-sorrentino-wrs-022440237.html"
+    },
+    {
       "name": "Pro Football Talk",
       "title": "Cardinals hire Tony Sorrentino as WRs coach",
       "description": "The Cardinals are hiring Tony Sorrentino as their wide receivers coach, Peter Schrager of ESPN reports.",
@@ -26,5 +32,5 @@
     "reports"
   ],
   "hash": "52d841cce647ca1f",
-  "queuedAt": "2026-02-12T02:34:10.513Z"
+  "queuedAt": "2026-02-12T07:10:00.216Z"
 }
