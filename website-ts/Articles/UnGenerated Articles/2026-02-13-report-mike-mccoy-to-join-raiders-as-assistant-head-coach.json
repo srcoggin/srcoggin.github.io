@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Mike McCoy to join Raiders as assistant head coach",
-      "description": "Mike McCoy is headed back to the AFC West.",
-      "url": "https://sports.yahoo.com/articles/report-mike-mccoy-join-raiders-201307765.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Mike McCoy to join Raiders as assistant head coach",
       "description": "Mike McCoy is headed back to the AFC West.",
@@ -30,5 +24,5 @@
     "west"
   ],
   "hash": "73c22a06840b71a4",
-  "queuedAt": "2026-02-13T07:05:34.020Z"
+  "queuedAt": "2026-02-13T13:11:10.411Z"
 }

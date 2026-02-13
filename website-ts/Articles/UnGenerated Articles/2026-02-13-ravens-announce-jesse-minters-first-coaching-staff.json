@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ravens announce Jesse Minter's first coaching staff",
-      "description": "Ravens coach Jesse Minter announced his 2026 coaching staff on Thursday.",
-      "url": "https://sports.yahoo.com/articles/ravens-announce-jesse-minters-first-211553254.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ravens announce Jesse Minter's first coaching staff",
       "description": "Ravens coach Jesse Minter announced his 2026 coaching staff on Thursday.",
@@ -31,5 +25,5 @@
     "thursday"
   ],
   "hash": "b1341cd9288e9a78",
-  "queuedAt": "2026-02-13T07:05:33.931Z"
+  "queuedAt": "2026-02-13T13:11:10.208Z"
 }

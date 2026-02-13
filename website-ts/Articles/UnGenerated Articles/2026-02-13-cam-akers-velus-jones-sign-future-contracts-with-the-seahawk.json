@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cam Akers, Velus Jones sign future contracts with the Seahawks",
-      "description": "The Seahawks signed 15 players to future contracts on Thursday, including two players who took part in their Super Bowl LX win over the Patriots.",
-      "url": "https://sports.yahoo.com/articles/cam-akers-velus-jones-sign-211235286.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cam Akers, Velus Jones sign future contracts with the Seahawks",
       "description": "The Seahawks signed 15 players to future contracts on Thursday, including two players who took part in their Super Bowl LX win over the Patriots.",
@@ -40,5 +34,5 @@
     "patriots"
   ],
   "hash": "035672b907c761a0",
-  "queuedAt": "2026-02-13T07:05:34.949Z"
+  "queuedAt": "2026-02-13T13:11:20.927Z"
 }

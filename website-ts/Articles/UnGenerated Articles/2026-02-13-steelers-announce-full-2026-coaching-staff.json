@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers announce full 2026 coaching staff",
-      "description": "The Steelers made a major change to the franchise when they parted ways with Mike Tomlin and hired Mike McCarthy as their new head coach last month and McCarthy has completed one big step by completing the construction of his first coaching staff in Pittsburgh.",
-      "url": "https://sports.yahoo.com/articles/steelers-announce-full-2026-coaching-200341093.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers announce full 2026 coaching staff",
       "description": "The Steelers made a major change to the franchise when they parted ways with Mike Tomlin and hired Mike McCarthy as their new head coach last month and McCarthy has completed one big step by completing the construction of his first coaching staff in Pittsburgh.",
@@ -50,5 +44,5 @@
     "pittsburgh"
   ],
   "hash": "d30c330bb1bc5f16",
-  "queuedAt": "2026-02-13T07:05:35.001Z"
+  "queuedAt": "2026-02-13T13:11:21.033Z"
 }
