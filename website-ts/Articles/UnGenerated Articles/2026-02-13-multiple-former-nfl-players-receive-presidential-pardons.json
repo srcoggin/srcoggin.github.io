@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Multiple former NFL players receive presidential pardons",
-      "description": "Multiple former NFL players received presidential pardons on Thursday.",
-      "url": "https://sports.yahoo.com/articles/multiple-former-nfl-players-receive-085440236.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Multiple former NFL players receive presidential pardons",
       "description": "Multiple former NFL players received presidential pardons on Thursday.",
@@ -26,5 +20,5 @@
     "thursday"
   ],
   "hash": "6b4be730f862ac1b",
-  "queuedAt": "2026-02-13T13:11:10.819Z"
+  "queuedAt": "2026-02-13T18:59:27.257Z"
 }

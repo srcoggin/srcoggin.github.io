@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Terrell Williams will move to a new role with the Patriots",
-      "description": "The Patriots will be moving Terrell Williams to a new role in 2026.",
-      "url": "https://sports.yahoo.com/articles/terrell-williams-move-role-patriots-220644773.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Terrell Williams will move to a new role with the Patriots",
       "description": "The Patriots will be moving Terrell Williams to a new role in 2026.",
@@ -26,5 +20,5 @@
     "2026"
   ],
   "hash": "85d6319991368f43",
-  "queuedAt": "2026-02-13T13:11:11.024Z"
+  "queuedAt": "2026-02-13T18:59:27.444Z"
 }

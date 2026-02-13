@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kendrick Bourne hopes to remain with 49ers in 2026",
-      "description": "49ers wide receiver Kendrick Bourne signed a one-year contract to return to the team after being cut by the Patriots last year and he'd like his second stint with the team to last a little longer.",
-      "url": "https://sports.yahoo.com/articles/kendrick-bourne-hopes-remain-49ers-120423345.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kendrick Bourne hopes to remain with 49ers in 2026",
       "description": "49ers wide receiver Kendrick Bourne signed a one-year contract to return to the team after being cut by the Patriots last year and he'd like his second stint with the team to last a little longer.",
@@ -40,5 +34,5 @@
     "longer"
   ],
   "hash": "be1cec1cca339acf",
-  "queuedAt": "2026-02-13T13:11:10.718Z"
+  "queuedAt": "2026-02-13T18:59:27.086Z"
 }

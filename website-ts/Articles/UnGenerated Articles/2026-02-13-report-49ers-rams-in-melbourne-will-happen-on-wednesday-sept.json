@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: 49ers-Rams in Melbourne will happen on Wednesday, September 9, or Thursday, September 10",
-      "description": "Now that the 2025 NFL season has ended, attention has turned to the start of the next season.",
-      "url": "https://sports.yahoo.com/articles/report-49ers-rams-melbourne-happen-015423286.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: 49ers-Rams in Melbourne will happen on Wednesday, September 9, or Thursday, September 10",
       "description": "Now that the 2025 NFL season has ended, attention has turned to the start of the next season.",
@@ -33,5 +27,5 @@
     "next"
   ],
   "hash": "15dfeca48dce80ad",
-  "queuedAt": "2026-02-13T13:11:08.742Z"
+  "queuedAt": "2026-02-13T18:59:18.277Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Will the NFL take action against Steve Tisch?",
-      "description": "Nowadays, many approach a particularly troubling P.R. predicament by waiting.",
-      "url": "https://sports.yahoo.com/articles/nfl-action-against-steve-tisch-222511902.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Will the NFL take action against Steve Tisch?",
       "description": "Nowadays, many approach a particularly troubling P.R. predicament by waiting.",
@@ -30,5 +24,5 @@
     "waiting"
   ],
   "hash": "9694aad0506f3fd5",
-  "queuedAt": "2026-02-13T13:11:10.923Z"
+  "queuedAt": "2026-02-13T18:59:26.466Z"
 }

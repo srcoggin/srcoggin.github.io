@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Lions blocked Dolphins' request to interview Bruce Gradkowski",
-      "description": "The Dolphins hired Nathaniel Hackett as their quarterbacks coach, but they had interest in interviewing Bruce Gradkowski for the job before adding Hackett to Jeff Hafley's staff.",
-      "url": "https://sports.yahoo.com/articles/report-lions-blocked-dolphins-request-011424655.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Lions blocked Dolphins' request to interview Bruce Gradkowski",
       "description": "The Dolphins hired Nathaniel Hackett as their quarterbacks coach, but they had interest in interviewing Bruce Gradkowski for the job before adding Hackett to Jeff Hafley's staff.",
@@ -40,5 +34,5 @@
     "staff"
   ],
   "hash": "4833f30750209dfb",
-  "queuedAt": "2026-02-13T13:11:08.850Z"
+  "queuedAt": "2026-02-13T18:59:18.372Z"
 }
