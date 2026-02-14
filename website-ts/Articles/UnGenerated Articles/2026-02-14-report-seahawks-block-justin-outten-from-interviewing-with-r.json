@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Seahawks block Justin Outten from interviewing with Raiders",
-      "description": "New Raiders head coach Klint Kubiak had interest in bringing one of the Seahawks' offensive assistants with him, but Seattle isn't interested in letting it happen.",
-      "url": "https://sports.yahoo.com/articles/report-seahawks-block-justin-outten-201303030.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Seahawks block Justin Outten from interviewing with Raiders",
       "description": "New Raiders head coach Klint Kubiak had interest in bringing one of the Seahawks' offensive assistants with him, but Seattle isn't interested in letting it happen.",
@@ -41,5 +35,5 @@
     "happen"
   ],
   "hash": "1f3fece9ddc2c1a1",
-  "queuedAt": "2026-02-14T13:00:18.600Z"
+  "queuedAt": "2026-02-14T18:43:27.191Z"
 }

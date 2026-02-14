@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Cardinals to hire Matt Schaub as QBs coach",
-      "description": "The Cardinals are hiring former NFL quarterback Matt Schaub as their quarterbacks coach, Matt Zenitz of CBS Sports reports.",
-      "url": "https://sports.yahoo.com/articles/report-cardinals-hire-matt-schaub-202826275.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Cardinals to hire Matt Schaub as QBs coach",
       "description": "The Cardinals are hiring former NFL quarterback Matt Schaub as their quarterbacks coach, Matt Zenitz of CBS Sports reports.",
@@ -34,5 +28,5 @@
     "reports"
   ],
   "hash": "65c2ecc046257a68",
-  "queuedAt": "2026-02-14T13:00:18.501Z"
+  "queuedAt": "2026-02-14T18:43:27.108Z"
 }

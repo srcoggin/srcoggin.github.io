@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Assistant coach Karl Scott will remain with Seahawks",
-      "description": "Seahawks assistant coach Karl Scott interviewed with the Cardinals for their defensive coordinator job this week.",
-      "url": "https://sports.yahoo.com/articles/assistant-coach-karl-scott-remain-203830059.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Assistant coach Karl Scott will remain with Seahawks",
       "description": "Seahawks assistant coach Karl Scott interviewed with the Cardinals for their defensive coordinator job this week.",
@@ -31,5 +25,5 @@
     "this"
   ],
   "hash": "17e2216df988f302",
-  "queuedAt": "2026-02-14T13:00:21.006Z"
+  "queuedAt": "2026-02-14T18:43:34.260Z"
 }

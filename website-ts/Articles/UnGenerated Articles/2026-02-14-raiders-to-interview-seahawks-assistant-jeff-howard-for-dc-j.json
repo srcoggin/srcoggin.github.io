@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders to interview Seahawks assistant Jeff Howard for DC job",
-      "description": "The Raiders will interview Seahawks safeties coach Jeff Howard on Saturday for their defensive coordinator job, Tom Pelissero of NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/raiders-interview-seahawks-assistant-jeff-002216026.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders to interview Seahawks assistant Jeff Howard for DC job",
       "description": "The Raiders will interview Seahawks safeties coach Jeff Howard on Saturday for their defensive coordinator job, Tom Pelissero of NFL Media reports.",
@@ -35,5 +29,5 @@
     "reports"
   ],
   "hash": "ede4b930f71b93b9",
-  "queuedAt": "2026-02-14T13:00:18.096Z"
+  "queuedAt": "2026-02-14T18:43:26.617Z"
 }

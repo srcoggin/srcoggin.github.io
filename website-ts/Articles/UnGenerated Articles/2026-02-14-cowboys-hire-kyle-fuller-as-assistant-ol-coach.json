@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys hire Kyle Fuller as assistant OL coach",
-      "description": "The Cowboys are hiring Kyle Fuller as assistant offensive line coach and quality control coach, Todd Archer of ESPN reports.",
-      "url": "https://sports.yahoo.com/articles/cowboys-hire-kyle-fuller-assistant-223207576.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys hire Kyle Fuller as assistant OL coach",
       "description": "The Cowboys are hiring Kyle Fuller as assistant offensive line coach and quality control coach, Todd Archer of ESPN reports.",
@@ -33,5 +27,5 @@
     "reports"
   ],
   "hash": "5ba8990e85371e76",
-  "queuedAt": "2026-02-14T13:00:18.193Z"
+  "queuedAt": "2026-02-14T18:43:26.704Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "QB coach Ashton Grant will remain with the Patriots",
-      "description": "The Patriots will be holding onto a key member of Mike Vrabel's staff.",
-      "url": "https://sports.yahoo.com/articles/qb-coach-ashton-grant-remain-202410715.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "QB coach Ashton Grant will remain with the Patriots",
       "description": "The Patriots will be holding onto a key member of Mike Vrabel's staff.",
@@ -30,5 +24,5 @@
     "staff"
   ],
   "hash": "48b6a8493b9dca15",
-  "queuedAt": "2026-02-14T13:00:21.105Z"
+  "queuedAt": "2026-02-14T18:43:34.436Z"
 }
