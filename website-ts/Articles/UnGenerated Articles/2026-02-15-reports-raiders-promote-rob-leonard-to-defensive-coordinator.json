@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Reports: Raiders promote Rob Leonard to defensive coordinator",
-      "description": "As the team's defensive line coach, Leonard worked closely with Maxx Crosby the past three seasons.",
-      "url": "https://sports.yahoo.com/articles/reports-raiders-promote-rob-leonard-215050994.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Reports: Raiders promote Rob Leonard to defensive coordinator",
       "description": "As the team's defensive line coach, Leonard worked closely with Maxx Crosby the past three seasons.",
@@ -35,5 +29,5 @@
     "seasons"
   ],
   "hash": "e5fcb727b55fcb70",
-  "queuedAt": "2026-02-15T13:01:05.072Z"
+  "queuedAt": "2026-02-15T18:44:15.408Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eli Manning \"can't imagine a more deserving coach\" for the Hall of Fame than Bill Belichick",
-      "description": "“Bill Belichick not making the Hall of Fame is pretty shocking,” Manning said.",
-      "url": "https://sports.yahoo.com/articles/eli-manning-cant-imagine-more-192754816.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eli Manning \"can't imagine a more deserving coach\" for the Hall of Fame than Bill Belichick",
       "description": "“Bill Belichick not making the Hall of Fame is pretty shocking,” Manning said.",
@@ -32,5 +26,5 @@
     "said"
   ],
   "hash": "e11da733f8c8c1fb",
-  "queuedAt": "2026-02-15T13:01:06.722Z"
+  "queuedAt": "2026-02-15T18:44:21.008Z"
 }

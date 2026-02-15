@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL didn't try to appeal Jon Gruden's victory over arbitration",
-      "description": "Brian Flores isn't the only one responsible for the implosion of the NFL's effort to force all claims against it into arbitration controlled by Commissioner Roger Goodell.",
-      "url": "https://sports.yahoo.com/articles/nfl-didnt-try-appeal-jon-153426182.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL didn't try to appeal Jon Gruden's victory over arbitration",
       "description": "Brian Flores isn't the only one responsible for the implosion of the NFL's effort to force all claims against it into arbitration controlled by Commissioner Roger Goodell.",
@@ -41,5 +35,5 @@
     "goodell"
   ],
   "hash": "6c77560fc0c71e83",
-  "queuedAt": "2026-02-15T13:01:06.789Z"
+  "queuedAt": "2026-02-15T18:44:21.452Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders to retain defensive pass game coordinator Joe Woods",
-      "description": "The Raiders are staying in-house by promoting their defensive line coach/run game coordinator Rob Leonard to defensive coordinator and that won't be the only continuity on Klint Kubiak's coaching staff.",
-      "url": "https://sports.yahoo.com/articles/raiders-retain-defensive-pass-game-232704963.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders to retain defensive pass game coordinator Joe Woods",
       "description": "The Raiders are staying in-house by promoting their defensive line coach/run game coordinator Rob Leonard to defensive coordinator and that won't be the only continuity on Klint Kubiak's coaching staff.",
@@ -40,5 +34,5 @@
     "staff"
   ],
   "hash": "85408aba2b937f0e",
-  "queuedAt": "2026-02-15T13:01:06.648Z"
+  "queuedAt": "2026-02-15T18:44:20.930Z"
 }
