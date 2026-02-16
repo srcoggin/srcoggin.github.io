@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants allow Matt Robinson to join the Raiders staff",
-      "description": "Matt Robinson left the Ravens for the Giants this offseason, following John Harbaugh from Baltimore.",
-      "url": "https://sports.yahoo.com/articles/giants-allow-matt-robinson-join-001827938.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants allow Matt Robinson to join the Raiders staff",
       "description": "Matt Robinson left the Ravens for the Giants this offseason, following John Harbaugh from Baltimore.",
@@ -33,5 +27,5 @@
     "baltimore"
   ],
   "hash": "aaf732f47d70eba4",
-  "queuedAt": "2026-02-16T13:14:39.172Z"
+  "queuedAt": "2026-02-16T18:56:03.862Z"
 }

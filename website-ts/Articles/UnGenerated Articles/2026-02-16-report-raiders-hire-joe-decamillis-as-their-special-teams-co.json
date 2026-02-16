@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Raiders hire Joe DeCamillis as their special teams coordinator",
-      "description": "Joe DeCamillis is returning to the NFL.",
-      "url": "https://sports.yahoo.com/articles/report-raiders-hire-joe-decamillis-012058474.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Raiders hire Joe DeCamillis as their special teams coordinator",
       "description": "Joe DeCamillis is returning to the NFL.",
@@ -28,5 +22,5 @@
     "returning"
   ],
   "hash": "f8000608fdafb461",
-  "queuedAt": "2026-02-16T13:14:37.784Z"
+  "queuedAt": "2026-02-16T18:55:55.638Z"
 }

@@ -3,10 +3,10 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
+      "name": "Pro Football Talk",
       "title": "Seahawks QB coach Andrew Janocko to interview for Raiders offensive coordinator",
       "description": "Seahawks quarterbacks coach Andrew Janocko is a candidate to replace Klint Kubiak in Seattle and he's also a candidate to join Kubiak in Las Vegas.",
-      "url": "https://sports.yahoo.com/articles/seahawks-qb-coach-andrew-janocko-213000447.html"
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-qb-coach-andrew-janocko-to-interview-for-raiders-offensive-coordinator"
     }
   ],
   "keywords": [
@@ -31,5 +31,5 @@
     "vegas"
   ],
   "hash": "07ccea3e9aa4aa6c",
-  "queuedAt": "2026-02-16T13:14:43.338Z"
+  "queuedAt": "2026-02-16T18:56:04.171Z"
 }

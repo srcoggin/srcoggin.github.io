@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders are expected to hire Andrew Janocko as offensive coordinator",
-      "description": "Andrew Janocko went to Las Vegas to interview for the Raiders' offensive coordinator job on Sunday and it looks like he'll be spending a lot more time there in the future.",
-      "url": "https://sports.yahoo.com/articles/raiders-expected-hire-andrew-janocko-220341987.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders are expected to hire Andrew Janocko as offensive coordinator",
       "description": "Andrew Janocko went to Las Vegas to interview for the Raiders' offensive coordinator job on Sunday and it looks like he'll be spending a lot more time there in the future.",
@@ -38,5 +32,5 @@
     "future"
   ],
   "hash": "adfb5a661787c07d",
-  "queuedAt": "2026-02-16T13:14:39.335Z"
+  "queuedAt": "2026-02-16T18:56:04.072Z"
 }
