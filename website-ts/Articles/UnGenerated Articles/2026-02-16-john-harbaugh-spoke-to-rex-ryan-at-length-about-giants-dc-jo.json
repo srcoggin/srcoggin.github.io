@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "John Harbaugh spoke to Rex Ryan \"at length\" about Giants DC job before hiring Dennard Wilson",
-      "description": "The Giants hired Dennard Wilson as their defensive coordinator, but he wasn't the only one of John Harbaugh's former Ravens assistants in the mix for the job.",
-      "url": "https://sports.yahoo.com/articles/john-harbaugh-spoke-rex-ryan-172434391.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "John Harbaugh spoke to Rex Ryan \"at length\" about Giants DC job before hiring Dennard Wilson",
       "description": "The Giants hired Dennard Wilson as their defensive coordinator, but he wasn't the only one of John Harbaugh's former Ravens assistants in the mix for the job.",
@@ -41,5 +35,5 @@
     "mix"
   ],
   "hash": "c52483972f41e2bd",
-  "queuedAt": "2026-02-16T07:11:11.416Z"
+  "queuedAt": "2026-02-16T13:14:44.675Z"
 }
