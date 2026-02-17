@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cooper Kupp's $9 million guarantee vested last week",
-      "description": "Receiver Cooper Kupp has gone from centerpiece of the Rams' offense to slightly more than a role player in Seattle.",
-      "url": "https://sports.yahoo.com/articles/cooper-kupps-9-million-guarantee-124731014.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cooper Kupp's $9 million guarantee vested last week",
       "description": "Receiver Cooper Kupp has gone from centerpiece of the Rams' offense to slightly more than a role player in Seattle.",
@@ -33,5 +27,5 @@
     "seattle"
   ],
   "hash": "235824a4d7a19f23",
-  "queuedAt": "2026-02-17T13:13:53.041Z"
+  "queuedAt": "2026-02-17T19:06:33.882Z"
 }

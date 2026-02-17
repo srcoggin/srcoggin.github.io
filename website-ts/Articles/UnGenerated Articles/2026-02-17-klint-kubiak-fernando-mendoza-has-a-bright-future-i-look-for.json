@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Klint Kubiak: Fernando Mendoza has a bright future, I look forward to getting to know him",
-      "description": "\"My exposure is very limited,\" Kubiak said of how much he's seen of Mendoza.",
-      "url": "https://sports.yahoo.com/articles/klint-kubiak-fernando-mendoza-bright-092924968.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Klint Kubiak: Fernando Mendoza has a bright future, I look forward to getting to know him",
       "description": "\"My exposure is very limited,\" Kubiak said of how much he's seen of Mendoza.",
@@ -35,5 +29,5 @@
     "seen"
   ],
   "hash": "0448560469adcaeb",
-  "queuedAt": "2026-02-17T13:13:53.103Z"
+  "queuedAt": "2026-02-17T19:06:33.996Z"
 }

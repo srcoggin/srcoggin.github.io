@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "David DeCastro defends Ben Roethlisberger after Joey Porter Sr.'s comments",
-      "description": "During Super Bowl week, former Steelers linebacker Joey Porter Sr. had some pointed comments about former Steelers quarterback Ben Roethlisberger.",
-      "url": "https://sports.yahoo.com/articles/david-decastro-defends-ben-roethlisberger-010143447.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "David DeCastro defends Ben Roethlisberger after Joey Porter Sr.'s comments",
       "description": "During Super Bowl week, former Steelers linebacker Joey Porter Sr. had some pointed comments about former Steelers quarterback Ben Roethlisberger.",
@@ -35,5 +29,5 @@
     "quarterback"
   ],
   "hash": "4460f184918706bd",
-  "queuedAt": "2026-02-17T13:13:53.148Z"
+  "queuedAt": "2026-02-17T19:06:33.188Z"
 }
