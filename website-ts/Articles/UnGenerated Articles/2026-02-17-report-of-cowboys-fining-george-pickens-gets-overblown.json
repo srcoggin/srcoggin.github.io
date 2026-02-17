@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report of Cowboys fining George Pickens gets overblown",
-      "description": "With Cowboys receiver George Pickens turning his contract year into a breakout season, his status will become a focal point until it's resolved.",
-      "url": "https://sports.yahoo.com/articles/report-cowboys-fining-george-pickens-172554465.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report of Cowboys fining George Pickens gets overblown",
       "description": "With Cowboys receiver George Pickens turning his contract year into a breakout season, his status will become a focal point until it's resolved.",
@@ -37,5 +31,5 @@
     "resolved"
   ],
   "hash": "055cae3d5e35e26d",
-  "queuedAt": "2026-02-17T02:31:57.698Z"
+  "queuedAt": "2026-02-17T07:06:50.361Z"
 }
