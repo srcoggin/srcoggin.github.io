@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jerry Gray joining the 49ers coaching staff",
-      "description": "The 49ers are hiring veteran defensive backs coach Jerry Gray, Matt Zenitz of CBS Sports reports.",
-      "url": "https://sports.yahoo.com/articles/jerry-gray-joining-49ers-coaching-194039889.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jerry Gray joining the 49ers coaching staff",
       "description": "The 49ers are hiring veteran defensive backs coach Jerry Gray, Matt Zenitz of CBS Sports reports.",
@@ -34,5 +28,5 @@
     "reports"
   ],
   "hash": "e0cdf2b394e02703",
-  "queuedAt": "2026-02-17T07:06:49.788Z"
+  "queuedAt": "2026-02-17T13:13:52.547Z"
 }
