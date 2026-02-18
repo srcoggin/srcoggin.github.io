@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Eagles plan to hire Parks Frazier as QBs coach",
-      "description": "The Eagles are expected to name Parks Frazier as their new quarterbacks coach, Matt Zenitz of CBS Sports reports.",
-      "url": "https://sports.yahoo.com/articles/report-eagles-plan-hire-parks-205549901.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Eagles plan to hire Parks Frazier as QBs coach",
       "description": "The Eagles are expected to name Parks Frazier as their new quarterbacks coach, Matt Zenitz of CBS Sports reports.",
@@ -36,5 +30,5 @@
     "reports"
   ],
   "hash": "f192e0a4bcf837ed",
-  "queuedAt": "2026-02-18T07:08:25.211Z"
+  "queuedAt": "2026-02-18T13:16:11.818Z"
 }

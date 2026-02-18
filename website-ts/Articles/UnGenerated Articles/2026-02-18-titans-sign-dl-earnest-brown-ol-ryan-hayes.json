@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans sign DL Earnest Brown, OL Ryan Hayes",
-      "description": "The Titans added a couple of players to their offseason roster on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/titans-sign-dl-earnest-brown-211631386.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans sign DL Earnest Brown, OL Ryan Hayes",
       "description": "The Titans added a couple of players to their offseason roster on Tuesday.",
@@ -31,5 +25,5 @@
     "tuesday"
   ],
   "hash": "f334874b95e4c12d",
-  "queuedAt": "2026-02-18T07:08:26.176Z"
+  "queuedAt": "2026-02-18T13:16:17.573Z"
 }

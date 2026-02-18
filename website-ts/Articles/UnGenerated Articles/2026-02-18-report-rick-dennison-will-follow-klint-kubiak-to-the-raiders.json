@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Rick Dennison will follow Klint Kubiak to the Raiders",
-      "description": "Seahawks assistant Rick Dennison is following Klint Kubiak to the Raiders, Matt Zenitz of CBS Sports reports.",
-      "url": "https://sports.yahoo.com/articles/report-rick-dennison-klint-kubiak-204010151.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Rick Dennison will follow Klint Kubiak to the Raiders",
       "description": "Seahawks assistant Rick Dennison is following Klint Kubiak to the Raiders, Matt Zenitz of CBS Sports reports.",
@@ -33,5 +27,5 @@
     "reports"
   ],
   "hash": "60090d9e96464605",
-  "queuedAt": "2026-02-18T07:08:25.269Z"
+  "queuedAt": "2026-02-18T13:16:11.887Z"
 }
