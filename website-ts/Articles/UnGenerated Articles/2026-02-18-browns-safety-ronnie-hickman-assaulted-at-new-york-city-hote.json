@@ -3,6 +3,12 @@
   "category": "general",
   "sources": [
     {
+      "name": "ESPN NFL",
+      "title": "Browns' Hickman assaulted at New York hotel",
+      "description": "Browns safety Ronnie Hickman was assaulted in the lobby of a New York City hotel early Monday morning, the team said.",
+      "url": "https://www.espn.com/nfl/story/_/id/47949112/browns-hickman-assaulted-nyc-treated-minor-injuries"
+    },
+    {
       "name": "CBS Sports NFL",
       "title": "Browns safety Ronnie Hickman assaulted at New York City hotel, treated for minor injuries",
       "description": "Hickman just completed his third season with the Browns",
@@ -11,14 +17,19 @@
   ],
   "keywords": [
     "browns",
-    "safety",
-    "ronnie",
     "hickman",
     "assaulted",
     "new",
     "york",
-    "city",
     "hotel",
+    "safety",
+    "ronnie",
+    "lobby",
+    "city",
+    "early",
+    "monday",
+    "morning",
+    "said",
     "treated",
     "minor",
     "injuries",
@@ -26,6 +37,6 @@
     "his",
     "third"
   ],
-  "hash": "89977aec30ab24cb",
-  "queuedAt": "2026-02-18T13:16:16.475Z"
+  "hash": "4a477c75389fa92b",
+  "queuedAt": "2026-02-18T19:06:43.976Z"
 }

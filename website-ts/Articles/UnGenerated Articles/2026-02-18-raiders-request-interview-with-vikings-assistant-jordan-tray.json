@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders request interview with Vikings assistant Jordan Traylor for quarterbacks coach",
-      "description": "If, as expected, the Raiders use the first overall pick in the draft on Indiana quarterback Fernando Mendoza, then the quarterbacks coach will have one of the most important jobs in Las Vegas.",
-      "url": "https://sports.yahoo.com/articles/raiders-request-interview-vikings-assistant-125836001.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders request interview with Vikings assistant Jordan Traylor for quarterbacks coach",
       "description": "If, as expected, the Raiders use the first overall pick in the draft on Indiana quarterback Fernando Mendoza, then the quarterbacks coach will have one of the most important jobs in Las Vegas.",
@@ -42,5 +36,5 @@
     "vegas"
   ],
   "hash": "0b89be1288f04558",
-  "queuedAt": "2026-02-18T13:16:12.232Z"
+  "queuedAt": "2026-02-18T19:06:54.537Z"
 }
