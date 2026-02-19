@@ -67,7 +67,7 @@ function saveRefreshToken(refreshToken: string): void {
         console.log('  🛡️ GitHub Actions detected: Skipping disk write for token (kept securely in memory).')
         return
     }
-
+    
     try {
         fs.writeFileSync(TOKEN_FILE, JSON.stringify({ refreshToken }, null, 2))
     } catch (error) {
