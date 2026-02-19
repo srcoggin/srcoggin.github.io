@@ -34,6 +34,8 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 const WEBSITE_ROOT = path.resolve(__dirname, '../..')
 const repoName = process.env.GITHUB_REPOSITORY;
+const { getLatestRefreshToken } = await import('./chatgpt');
+const newRefreshToken = getLatestRefreshToken();
 
 // Resolve paths relative to website root
 function resolvePath(relativePath: string): string {
@@ -679,22 +681,30 @@ async function main(): Promise<void> {
         process.exit(1)
     }
 
+  // --- UPDATED TOKEN LOGIC ---
     if (repoName && process.env.SECRET_UPDATER) {
-        console.log("Securely updating OpenAI refresh token...");
-        
-        execSync(`gh secret set OPENAI_REFRESH_TOKEN --repo ${repoName}`, {
-            input: process.env.OPENAI_REFRESH_TOKEN, // Pipes the token securely from memory
-            env: { 
-            ...process.env, 
-            GH_TOKEN: process.env.SECRET_UPDATER // Authorizes the CLI using the PAT
-            }
-        });
-        
-        console.log("Token updated successfully.");
-}
-    
-}
+        // You will need to export this getter function from your chatgpt.ts file
+        const { getLatestRefreshToken } = await import('./chatgpt');
+        const newRefreshToken = getLatestRefreshToken();
 
+        // Only update if we actually have a new token that differs from the starting one
+        if (newRefreshToken && newRefreshToken !== process.env.OPENAI_REFRESH_TOKEN) {
+            console.log("Securely updating OpenAI refresh token...");
+            
+            execSync(`gh secret set OPENAI_REFRESH_TOKEN --repo ${repoName}`, {
+                input: newRefreshToken, // Pipes the NEW token securely from memory
+                env: { 
+                    ...process.env, 
+                    GH_TOKEN: process.env.SECRET_UPDATER 
+                }
+            });
+            
+            console.log("Token updated successfully.");
+        } else {
+            console.log("No new refresh token generated this run. Skipping secret update.");
+        }
+    }
+}
 
 
 main()

@@ -60,8 +60,14 @@ function loadRefreshToken(): string | null {
     return OPENAI_REFRESH_TOKEN || null
 }
 
-// Save refresh token to file for reuse
+// Save refresh token to file for reuse (Secured for GitHub Actions)
 function saveRefreshToken(refreshToken: string): void {
+    // Prevent writing to disk in GitHub Actions to avoid 'git add -A' committing the token
+    if (process.env.GITHUB_ACTIONS === 'true') {
+        console.log('  🛡️ GitHub Actions detected: Skipping disk write for token (kept securely in memory).')
+        return
+    }
+
     try {
         fs.writeFileSync(TOKEN_FILE, JSON.stringify({ refreshToken }, null, 2))
     } catch (error) {
@@ -326,4 +332,18 @@ Write the full article now:`
 
     console.log(`  ✨ AI generated using ${MODEL_NAME} (ChatGPT OAuth)`)
     return generatedText.trim()
+}
+
+// ============================================================================
+// Token Export for GitHub Actions CLI Update
+// ============================================================================
+
+export function getLatestRefreshToken(): string | null {
+    // Return the newly generated token if a refresh happened this run
+    if (cachedToken && cachedToken.refreshToken) {
+        return cachedToken.refreshToken
+    }
+    
+    // Otherwise, return the original token we started with
+    return loadRefreshToken()
 }
