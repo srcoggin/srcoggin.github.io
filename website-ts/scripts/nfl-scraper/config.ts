@@ -82,7 +82,7 @@ export const DEFAULT_CATEGORY_LIMIT = 15
 
 // Archive settings
 export const OLD_ARTICLES_DIR = './Old Article Markdowns'
-export const ARCHIVE_AGE_DAYS = 14
+export const ARCHIVE_AGE_DAYS = 3
 
 // UnGenerated queue - articles that failed AI generation go here for manual processing
 export const UNGENERATED_DIR = './Articles/UnGenerated Articles'

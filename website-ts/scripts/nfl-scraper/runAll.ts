@@ -34,8 +34,6 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 const WEBSITE_ROOT = path.resolve(__dirname, '../..')
 const repoName = process.env.GITHUB_REPOSITORY;
-const { getLatestRefreshToken } = await import('./chatgpt');
-const newRefreshToken = getLatestRefreshToken();
 
 // Resolve paths relative to website root
 function resolvePath(relativePath: string): string {
