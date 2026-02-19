@@ -27,11 +27,13 @@ import {
     UNGENERATED_DIR
 } from './config'
 import { generateWithChatGPT, isChatGPTAvailable } from './chatgpt'
+import { execSync } from 'child_process';
 
 // Get proper base directory (website-ts root)
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 const WEBSITE_ROOT = path.resolve(__dirname, '../..')
+const repoName = process.env.GITHUB_REPOSITORY;
 
 // Resolve paths relative to website root
 function resolvePath(relativePath: string): string {
@@ -676,6 +678,23 @@ async function main(): Promise<void> {
         console.error('\n❌ Error running scraper:', error)
         process.exit(1)
     }
+
+    if (repoName && process.env.SECRET_UPDATER) {
+        console.log("Securely updating OpenAI refresh token...");
+        
+        execSync(`gh secret set OPENAI_REFRESH_TOKEN --repo ${repoName}`, {
+            input: process.env.OPENAI_REFRESH_TOKEN, // Pipes the token securely from memory
+            env: { 
+            ...process.env, 
+            GH_TOKEN: process.env.SECRET_UPDATER // Authorizes the CLI using the PAT
+            }
+        });
+        
+        console.log("Token updated successfully.");
 }
+    
+}
+
+
 
 main()

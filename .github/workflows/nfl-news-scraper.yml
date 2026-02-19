@@ -1,43 +1,40 @@
 name: NFL News Scraper
 
 on:
-  # Run on schedule (every 6 hours)
   schedule:
-    - cron: '0 */6 * * *'  # At minute 0 past every 6th hour
-  
-  # Allow manual trigger
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
   scrape-news:
     runs-on: ubuntu-latest
-    
     permissions:
-      contents: write  # Required to push changes
-    
+      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
           cache-dependency-path: website-ts/package-lock.json
-      
+
       - name: Install dependencies
         working-directory: website-ts
         run: npm ci
-      
+
       - name: Run NFL News Scraper
         working-directory: website-ts
         env:
           OPENAI_REFRESH_TOKEN: ${{ secrets.OPENAI_REFRESH_TOKEN }}
+          SECRET_UPDATER: ${{ secrets.SECRET_UPDATER }} # Grant script access to update secrets
         run: npx tsx scripts/nfl-scraper/runAll.ts
-      
+
       - name: Check for changes
         id: git-check
         working-directory: website-ts
@@ -48,7 +45,7 @@ jobs:
           else
             echo "changes=true" >> $GITHUB_OUTPUT
           fi
-      
+
       - name: Commit and push changes
         if: steps.git-check.outputs.changes == 'true'
         working-directory: website-ts
