@@ -14,7 +14,7 @@ const CLIENT_ID = 'app_EMoamEEZ73f0CkXaXp7hrann'
 const TOKEN_URL = 'https://auth.openai.com/oauth/token'
 const CODEX_BASE_URL = 'https://chatgpt.com/backend-api'
 const CODEX_RESPONSES_URL = `${CODEX_BASE_URL}/codex/responses`
-const MODEL_NAME = 'gpt-5.2'
+const MODEL_NAME = 'gpt-5.3'
 
 interface TokenResponse {
     access_token?: string
