@@ -5,8 +5,8 @@ import { useState, ReactNode } from 'react'
 interface Tab {
   id: string
   label: ReactNode
-  content: ReactNode
-  description?: string  // Optional description for the tab
+  content: ReactNode | (() => ReactNode)
+  description?: string
 }
 
 interface TabsProps {
@@ -17,7 +17,8 @@ interface TabsProps {
 export default function Tabs({ tabs, defaultTab }: TabsProps) {
   const [activeTab, setActiveTab] = useState(defaultTab || tabs[0]?.id)
   const activeTabData = tabs.find(t => t.id === activeTab)
-  const activeContent = activeTabData?.content
+  const rawContent = activeTabData?.content
+  const activeContent = typeof rawContent === 'function' ? rawContent() : rawContent
   const activeDescription = activeTabData?.description
 
   return (

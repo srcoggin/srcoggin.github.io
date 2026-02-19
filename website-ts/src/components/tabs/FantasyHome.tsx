@@ -1,29 +1,14 @@
 'use client'
 
-import { useMemo, useState, useEffect } from 'react'
+import { useMemo } from 'react'
 import Metric from '@/components/Metric'
 import Divider from '@/components/Divider'
 import InfoBox from '@/components/InfoBox'
-import { PlayerData } from '@/types'
+import { PlayerData, DraftPick } from '@/types'
+import { useMockDraft } from '@/hooks/useMockDraft'
 
 interface FantasyHomeProps {
   data: PlayerData[]
-}
-
-interface DraftPick {
-  pick: number
-  round: number
-  team: string
-  player_name: string
-  position: string
-  college: string
-  height: string
-  weight: number
-  stats: Record<string, number>
-}
-
-interface MockDraftData {
-  picks: DraftPick[]
 }
 
 // Team name mappings
@@ -90,23 +75,7 @@ const TOP_PROSPECT_BLURBS: Record<string, { description: string; highlights: str
 const FEATURED_PROSPECT_PICKS = [1, 8, 4, 16, 21] // Mendoza, Love, Tate, Lemon, Simpson
 
 export default function FantasyHome({ data }: FantasyHomeProps) {
-  const [mockDraft, setMockDraft] = useState<MockDraftData | null>(null)
-
-  // Load mock draft data
-  useEffect(() => {
-    const loadMockDraft = async () => {
-      try {
-        const response = await fetch('/json_data/mock_draft.json')
-        if (response.ok) {
-          const data = await response.json()
-          setMockDraft(data)
-        }
-      } catch (error) {
-        console.error('Error loading mock draft:', error)
-      }
-    }
-    loadMockDraft()
-  }, [])
+  const mockDraft = useMockDraft()
 
   // Find the latest year
   const latestYear = useMemo(() => {

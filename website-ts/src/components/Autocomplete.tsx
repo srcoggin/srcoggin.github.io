@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useRef, useEffect } from 'react'
+import { useState, useRef, useEffect, useMemo } from 'react'
 import { IconChevronDown } from '@/components/Icons'
 
 interface Option {
@@ -37,12 +37,11 @@ export default function Autocomplete({
   // Find selected option label
   const selectedOption = options.find(o => o.value === value)
 
-  // Filter options based on input
-  const filteredOptions = inputValue.trim() === ''
-    ? options
-    : options.filter(o =>
-      o.label.toLowerCase().includes(inputValue.toLowerCase())
-    )
+  const filteredOptions = useMemo(() => {
+    if (inputValue.trim() === '') return options
+    const query = inputValue.toLowerCase()
+    return options.filter(o => o.label.toLowerCase().includes(query))
+  }, [options, inputValue])
 
   // Update input value when selection changes externally
   useEffect(() => {

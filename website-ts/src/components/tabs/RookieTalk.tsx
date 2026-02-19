@@ -1,26 +1,13 @@
 'use client'
 
-import { useState, useEffect, useMemo } from 'react'
+import { useMemo, useCallback } from 'react'
 import Divider from '@/components/Divider'
 import InfoBox from '@/components/InfoBox'
 import TeamName from '@/components/TeamName'
 import { IconTrendUp, IconTrendDown, IconStar, IconWarning } from '@/components/Icons'
-
-interface DraftPick {
-    pick: number
-    round: number
-    team: string
-    player_name: string
-    position: string
-    college: string
-    height: string
-    weight: number
-    stats: Record<string, number>
-}
-
-interface MockDraftData {
-    picks: DraftPick[]
-}
+import { DraftPick } from '@/types'
+import { useMockDraft } from '@/hooks/useMockDraft'
+import { getPositionBadgeClass } from '@/utils/teamColors'
 
 // Dynasty value tiers and analysis
 const DYNASTY_TOP_10: Record<string, { tier: string; analysis: string; rank: number; position: string; team: string; college: string; pick: string }> = {
@@ -211,40 +198,26 @@ const DYNASTY_WORST_10: Record<string, { concern: string; analysis: string; rank
 }
 
 export default function RookieTalk() {
-    const [mockDraft, setMockDraft] = useState<MockDraftData | null>(null)
+    const mockDraft = useMockDraft()
 
-    // Load mock draft data
-    useEffect(() => {
-        const loadMockDraft = async () => {
-            try {
-                const response = await fetch('/json_data/mock_draft.json')
-                if (response.ok) {
-                    const data = await response.json()
-                    setMockDraft(data)
-                }
-            } catch (error) {
-                console.error('Error loading mock draft:', error)
-            }
-        }
-        loadMockDraft()
-    }, [])
-
-    // Get player info from mock draft if available
-    const getPlayerInfo = (name: string): DraftPick | undefined => {
-        return mockDraft?.picks.find((p) => p.player_name === name)
-    }
+    const getPlayerInfo = useCallback(
+        (name: string): DraftPick | undefined => {
+            return mockDraft?.picks.find((p) => p.player_name === name)
+        },
+        [mockDraft]
+    )
 
     const top10Players = useMemo(() => {
         return Object.entries(DYNASTY_TOP_10)
             .sort((a, b) => a[1].rank - b[1].rank)
             .map(([name, data]) => ({ name, ...data, info: getPlayerInfo(name) }))
-    }, [mockDraft])
+    }, [getPlayerInfo])
 
     const worst10Players = useMemo(() => {
         return Object.entries(DYNASTY_WORST_10)
             .sort((a, b) => a[1].rank - b[1].rank)
             .map(([name, data]) => ({ name, ...data, info: getPlayerInfo(name) }))
-    }, [mockDraft])
+    }, [getPlayerInfo])
 
     const getTierColor = (tier: string) => {
         switch (tier) {
@@ -259,21 +232,6 @@ export default function RookieTalk() {
         }
     }
 
-    const getPositionBadge = (position: string) => {
-        const p = (position ?? '').trim().toUpperCase()
-        switch (p) {
-            case 'QB':
-                return 'bg-red-500/20 text-red-400'
-            case 'RB':
-                return 'bg-green-500/20 text-green-400'
-            case 'WR':
-                return 'bg-blue-500/20 text-blue-400'
-            case 'TE':
-                return 'bg-orange-500/20 text-orange-400'
-            default:
-                return 'bg-gray-500/20 text-gray-400'
-        }
-    }
 
     return (
         <div className="min-w-0 w-full">
@@ -318,7 +276,7 @@ export default function RookieTalk() {
                                                 {player.name}
                                             </span>
                                             <span
-                                                className={`text-xs px-2 py-0.5 rounded-full ${getPositionBadge(
+                                                className={`text-xs px-2 py-0.5 rounded-full ${getPositionBadgeClass(
                                                     player.info?.position || player.position
                                                 )}`}
                                             >
@@ -371,7 +329,7 @@ export default function RookieTalk() {
                                                 {player.name}
                                             </span>
                                             <span
-                                                className={`text-xs px-2 py-0.5 rounded-full ${getPositionBadge(
+                                                className={`text-xs px-2 py-0.5 rounded-full ${getPositionBadgeClass(
                                                     player.info?.position || player.position
                                                 )}`}
                                             >

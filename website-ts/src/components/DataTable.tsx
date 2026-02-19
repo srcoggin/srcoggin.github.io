@@ -25,6 +25,13 @@ interface DataTableProps<T> {
   columnGradients?: Record<string, ColumnGradientDirection>
 }
 
+function getValueRaw<T>(row: T, key: string): any {
+  const keys = key.split('.')
+  let value: any = row
+  for (const k of keys) value = value?.[k]
+  return value
+}
+
 export default function DataTable<T extends Record<string, any>>({
   data,
   columns,
@@ -47,13 +54,6 @@ export default function DataTable<T extends Record<string, any>>({
   const getGradientOpacity = (value: number): number => {
     if (maxVal === minVal) return 0.3
     return 0.1 + ((value - minVal) / (maxVal - minVal)) * 0.4
-  }
-
-  function getValueRaw(row: T, key: string): any {
-    const keys = key.split('.')
-    let value: any = row
-    for (const k of keys) value = value?.[k]
-    return value
   }
 
   const columnMinMax = React.useMemo(() => {
@@ -84,8 +84,6 @@ export default function DataTable<T extends Record<string, any>>({
       boxShadow: `inset 0 0 0 1px rgba(248, 81, 73, ${redOpacity * 0.5})`,
     }
   }
-
-  const getValue = (row: T, key: string): any => getValueRaw(row, key)
 
   return (
     <div
@@ -137,7 +135,7 @@ export default function DataTable<T extends Record<string, any>>({
               >
                 {columns.map(col => {
                   const colKey = String(col.key)
-                  const rawValue = getValue(row, colKey)
+                  const rawValue = getValueRaw(row, colKey)
                   const displayValue = col.format ? col.format(rawValue, row) : rawValue
                   const cellClass = col.cellClass ? col.cellClass(rawValue, row) : ''
                   const isTextOnlyClass = cellClass && !cellClass.includes('bg-')

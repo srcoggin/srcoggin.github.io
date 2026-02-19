@@ -162,6 +162,23 @@ export interface PlayerProfilesData {
   profiles: Record<string, PlayerProfile>
 }
 
+// Mock Draft Types
+export interface DraftPick {
+  pick: number
+  round: number
+  team: string
+  player_name: string
+  position: string
+  college: string
+  height: string
+  weight: number
+  stats: Record<string, number>
+}
+
+export interface MockDraftData {
+  picks: DraftPick[]
+}
+
 // News Types
 export type ArticleCategory =
   | 'trades'

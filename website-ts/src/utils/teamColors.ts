@@ -153,3 +153,13 @@ export function getTeamColorStyle(teamAbbr: string): React.CSSProperties {
     const color = getTeamColor(teamAbbr)
     return color ? { color } : {}
 }
+
+export function getPositionBadgeClass(position: string): string {
+    switch ((position ?? '').trim().toUpperCase()) {
+        case 'QB': return 'bg-red-500/20 text-red-400'
+        case 'RB': return 'bg-green-500/20 text-green-400'
+        case 'WR': return 'bg-blue-500/20 text-blue-400'
+        case 'TE': return 'bg-orange-500/20 text-orange-400'
+        default:   return 'bg-gray-500/20 text-gray-400'
+    }
+}

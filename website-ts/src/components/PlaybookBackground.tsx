@@ -2,7 +2,6 @@
 
 import { useEffect, useState, useCallback } from 'react'
 
-// Unique ID counter
 let routeIdCounter = 0
 
 interface Route {
@@ -21,12 +20,16 @@ const MOBILE_ACTIVE_MAX = 5
 const DESKTOP_ACTIVE_MIN = 12
 const DESKTOP_ACTIVE_MAX = 16
 
+function random(min: number, max: number) { return Math.random() * (max - min) + min }
+function randomInt(min: number, max: number) { return Math.floor(random(min, max)) }
+function safeX(val: number) { return Math.min(Math.max(val, 3), 97) }
+function safeY(val: number) { return Math.min(Math.max(val, 3), 94) }
+
 export default function PlaybookBackground() {
     const [routes, setRoutes] = useState<Route[]>([])
     const [isMobile, setIsMobile] = useState(false)
     const [hasMeasured, setHasMeasured] = useState(false)
 
-    // Detect mobile viewport
     useEffect(() => {
         const check = () => {
             if (typeof window !== 'undefined') {
@@ -39,13 +42,6 @@ export default function PlaybookBackground() {
         return () => window.removeEventListener('resize', check)
     }, [])
 
-    // --- HELPERS ---
-    const random = useCallback((min: number, max: number) => Math.random() * (max - min) + min, [])
-    const randomInt = useCallback((min: number, max: number) => Math.floor(random(min, max)), [random])
-    const safeX = useCallback((val: number) => Math.min(Math.max(val, 3), 97), [])
-    const safeY = useCallback((val: number) => Math.min(Math.max(val, 3), 94), [])
-
-    // --- CREATE ROUTE ---
     const createRoute = useCallback((slotIndex: number, neighbors: (number | undefined)[], initialDelay: boolean, slotCount: number): Route => {
         const slotWidth = 100 / slotCount
         const slotBase = (slotIndex * slotWidth) + (slotWidth / 2)
@@ -146,7 +142,7 @@ export default function PlaybookBackground() {
             type,
             slotIndex
         }
-    }, [random, randomInt, safeX, safeY])
+    }, [])
 
     // --- INITIAL MOUNT ---
     useEffect(() => {

@@ -66,17 +66,17 @@ export default function FantasyFootball() {
     {
       id: 'rookie-talk',
       label: <><IconRookie size={18} className="flex-shrink-0" /> Rookie Talk</>,
-      content: <RookieTalk />,
+      content: () => <RookieTalk />,
     },
     {
       id: 'radar',
       label: <><IconRadar size={18} className="flex-shrink-0" /> Fantasy Radar</>,
-      content: <FantasyRadar data={data} />,
+      content: () => <FantasyRadar data={data} />,
     },
     {
       id: 'deep-dive',
       label: <><IconDeepDive size={18} className="flex-shrink-0" /> Deep Dive Tool</>,
-      content: <DeepDive data={data} />,
+      content: () => <DeepDive data={data} />,
     },
   ]
 
