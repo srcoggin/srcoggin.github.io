@@ -1,0 +1,40 @@
+---
+title: "Chiefs hire Andre Curtis as their safeties coach"
+date: 2026-02-19
+category: coaching
+aiGenerated: true
+sources:
+  - name: "Pro Football Talk"
+    url: "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-hire-andre-curtis-as-their-safeties-coach"
+tags: ["coaching", "chiefs"]
+---
+
+The Kansas City Chiefs continued reshaping their defensive staff by hiring Andre Curtis as safeties coach, adding another piece to a coaching group that will be tasked with sustaining the standard of a perennial contender. Pro Football Talk reported the move as the Chiefs made an additional hire on the defensive side of the ball, a notable development for a team that annually treats continuity and detail work as a competitive advantage.
+
+Curtis’ arrival gives Kansas City a dedicated position coach for a room that sits at the crossroads of modern NFL defense. Safeties are increasingly asked to do everything — rotate late to disguise coverages, fit the run like linebackers, match up with tight ends and slot receivers, and clean up explosive plays that slip through the front seven. For a Chiefs team that expects to play deep into January every season, the margin between a stop and a game-changing completion can come down to communication, alignment and leverage from the back end.
+
+The hire also underscores how the Chiefs, led by coach Andy Reid, value staffing depth on that side of the ball. While offensive continuity has long been a hallmark of Reid-led teams, the organization has emphasized maintaining a strong infrastructure defensively as well, particularly in a league where opponents spend all year studying how to attack Kansas City. Building out the defensive coaching staff is part of ensuring players can develop quickly, adjust week to week and handle the volume of situational football that comes with playing in high-stakes games.
+
+Kansas City’s safeties coach will have a direct impact on game planning and player development, from preparation during the offseason program through the weekly grind of training camp and the regular season. The position group’s responsibilities range from installing coverage checks to coordinating with cornerbacks and linebackers on route distributions and run fits. That work becomes even more critical against the types of offenses the Chiefs often face in the AFC — teams built to stress the middle of the field and punish mistakes with explosive throws.
+
+Curtis joins a franchise that expects coaching hires to translate into results quickly, with the Chiefs consistently positioned among the NFL’s elite in recent seasons. How Kansas City’s secondary evolves under its updated defensive staff will be a major storyline to monitor as the team turns toward offseason practices and ultimately training camp, when roles crystallize and the next version of the defense begins to take shape.The Kansas City Chiefs continued reshaping their defensive staff by hiring Andre Curtis as safeties coach, adding another piece to a coaching group that will be tasked with sustaining the standard of a perennial contender. Pro Football Talk reported the move as the Chiefs made an additional hire on the defensive side of the ball, a notable development for a team that annually treats continuity and detail work as a competitive advantage.
+
+Curtis’ arrival gives Kansas City a dedicated position coach for a room that sits at the crossroads of modern NFL defense. Safeties are increasingly asked to do everything — rotate late to disguise coverages, fit the run like linebackers, match up with tight ends and slot receivers, and clean up explosive plays that slip through the front seven. For a Chiefs team that expects to play deep into January every season, the margin between a stop and a game-changing completion can come down to communication, alignment and leverage from the back end.
+
+The hire also underscores how the Chiefs, led by coach Andy Reid, value staffing depth on that side of the ball. While offensive continuity has long been a hallmark of Reid-led teams, the organization has emphasized maintaining a strong infrastructure defensively as well, particularly in a league where opponents spend all year studying how to attack Kansas City. Building out the defensive coaching staff is part of ensuring players can develop quickly, adjust week to week and handle the volume of situational football that comes with playing in high-stakes games.
+
+Kansas City’s safeties coach will have a direct impact on game planning and player development, from preparation during the offseason program through the weekly grind of training camp and the regular season. The position group’s responsibilities range from installing coverage checks to coordinating with cornerbacks and linebackers on route distributions and run fits. That work becomes even more critical against the types of offenses the Chiefs often face in the AFC — teams built to stress the middle of the field and punish mistakes with explosive throws.
+
+Curtis joins a franchise that expects coaching hires to translate into results quickly, with the Chiefs consistently positioned among the NFL’s elite in recent seasons. How Kansas City’s secondary evolves under its updated defensive staff will be a major storyline to monitor as the team turns toward offseason practices and ultimately training camp, when roles crystallize and the next version of the defense begins to take shape.The Kansas City Chiefs continued reshaping their defensive staff by hiring Andre Curtis as safeties coach, adding another piece to a coaching group that will be tasked with sustaining the standard of a perennial contender. Pro Football Talk reported the move as the Chiefs made an additional hire on the defensive side of the ball, a notable development for a team that annually treats continuity and detail work as a competitive advantage.
+
+Curtis’ arrival gives Kansas City a dedicated position coach for a room that sits at the crossroads of modern NFL defense. Safeties are increasingly asked to do everything — rotate late to disguise coverages, fit the run like linebackers, match up with tight ends and slot receivers, and clean up explosive plays that slip through the front seven. For a Chiefs team that expects to play deep into January every season, the margin between a stop and a game-changing completion can come down to communication, alignment and leverage from the back end.
+
+The hire also underscores how the Chiefs, led by coach Andy Reid, value staffing depth on that side of the ball. While offensive continuity has long been a hallmark of Reid-led teams, the organization has emphasized maintaining a strong infrastructure defensively as well, particularly in a league where opponents spend all year studying how to attack Kansas City. Building out the defensive coaching staff is part of ensuring players can develop quickly, adjust week to week and handle the volume of situational football that comes with playing in high-stakes games.
+
+Kansas City’s safeties coach will have a direct impact on game planning and player development, from preparation during the offseason program through the weekly grind of training camp and the regular season. The position group’s responsibilities range from installing coverage checks to coordinating with cornerbacks and linebackers on route distributions and run fits. That work becomes even more critical against the types of offenses the Chiefs often face in the AFC — teams built to stress the middle of the field and punish mistakes with explosive throws.
+
+Curtis joins a franchise that expects coaching hires to translate into results quickly, with the Chiefs consistently positioned among the NFL’s elite in recent seasons. How Kansas City’s secondary evolves under its updated defensive staff will be a major storyline to monitor as the team turns toward offseason practices and ultimately training camp, when roles crystallize and the next version of the defense begins to take shape.
+
+---
+
+*AI-generated summary based on reporting from Pro Football Talk.*
