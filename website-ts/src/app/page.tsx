@@ -92,6 +92,37 @@ export default function Home() {
 
         <Divider />
 
+        {/* YouTube Channel */}
+        <section className="pb-10 sm:pb-14 text-center">
+          <p className="section-label flex items-center justify-center gap-2 mb-1">
+            <svg width={14} height={14} viewBox="0 0 24 24" fill="currentColor" className="flex-shrink-0 opacity-80">
+              <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+            </svg>
+            YouTube
+          </p>
+          <h2 className="section-heading mb-4">Watch on YouTube</h2>
+
+          <div className="content-card p-6 max-w-lg mx-auto flex flex-col items-center gap-4">
+            <p className="text-sm sm:text-base text-[var(--text-primary)]">
+              Catch NFL breakdowns, fantasy football takes, and professional NFL coverage on my YouTube channel.
+            </p>
+            <a
+              href="https://www.youtube.com/@GreenEighteenSports"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg font-semibold text-white transition-all duration-200 hover:scale-105 hover:shadow-lg"
+              style={{ backgroundColor: '#FF0000' }}
+            >
+              <svg width={20} height={20} viewBox="0 0 24 24" fill="currentColor">
+                <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+              </svg>
+              Subscribe on YouTube
+            </a>
+          </div>
+        </section>
+
+        <Divider />
+
         {/* Navigation Box for new users */}
         <NavigationBox />
       </div>
