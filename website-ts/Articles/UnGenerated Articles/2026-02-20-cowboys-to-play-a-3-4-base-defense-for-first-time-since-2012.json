@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys to play a 3-4 base defense for first time since 2012",
-      "description": "The Cowboys hired Christian Parker from the Eagles to turn around a defense that set the team record for points allowed in 2025.",
-      "url": "https://sports.yahoo.com/articles/cowboys-play-3-4-defense-014927884.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys to play a 3-4 base defense for first time since 2012",
       "description": "The Cowboys hired Christian Parker from the Eagles to turn around a defense that set the team record for points allowed in 2025.",
@@ -38,5 +32,5 @@
     "2025"
   ],
   "hash": "0daf88aa12176f8e",
-  "queuedAt": "2026-02-20T13:05:40.155Z"
+  "queuedAt": "2026-02-20T18:54:29.915Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks OC Brian Fleury wants to maintain as much of Klint Kubiak's offense as possible",
-      "description": "Brian Fleury is getting his first chance to be an NFL offensive coordinator this season, but he isn't planning to make radical changes to the Seahawks offense.",
-      "url": "https://sports.yahoo.com/articles/seahawks-oc-brian-fleury-wants-120023757.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks OC Brian Fleury wants to maintain as much of Klint Kubiak's offense as possible",
       "description": "Brian Fleury is getting his first chance to be an NFL offensive coordinator this season, but he isn't planning to make radical changes to the Seahawks offense.",
@@ -40,5 +34,5 @@
     "changes"
   ],
   "hash": "7975a022d0db48f0",
-  "queuedAt": "2026-02-20T13:05:40.015Z"
+  "queuedAt": "2026-02-20T18:54:29.530Z"
 }

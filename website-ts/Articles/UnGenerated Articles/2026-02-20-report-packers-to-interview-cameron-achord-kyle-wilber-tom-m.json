@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Packers to interview Cameron Achord, Kyle Wilber, Tom McMahon for ST coordinator job",
-      "description": "The Packers got a late start on searching for a special teams coordinator after Rich Bisaccia decided to step down this week.",
-      "url": "https://sports.yahoo.com/articles/report-packers-interview-cameron-achord-235807944.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Packers to interview Cameron Achord, Kyle Wilber, Tom McMahon for ST coordinator job",
       "description": "The Packers got a late start on searching for a special teams coordinator after Rich Bisaccia decided to step down this week.",
@@ -41,5 +35,5 @@
     "this"
   ],
   "hash": "f46b07f02ff99685",
-  "queuedAt": "2026-02-20T13:05:39.048Z"
+  "queuedAt": "2026-02-20T18:54:21.576Z"
 }
