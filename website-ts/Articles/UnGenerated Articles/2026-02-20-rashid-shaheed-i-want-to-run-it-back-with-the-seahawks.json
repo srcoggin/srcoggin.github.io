@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rashid Shaheed: I want to run it back with the Seahawks",
-      "description": "The Seahawks' push to a Super Bowl title was helped by a midseason trade that brought wide receiver Rashid Shaheed to Seattle from New Orleans.",
-      "url": "https://sports.yahoo.com/articles/rashid-shaheed-want-run-back-204229715.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rashid Shaheed: I want to run it back with the Seahawks",
       "description": "The Seahawks' push to a Super Bowl title was helped by a midseason trade that brought wide receiver Rashid Shaheed to Seattle from New Orleans.",
@@ -38,5 +32,5 @@
     "orleans"
   ],
   "hash": "100b0cf92232993a",
-  "queuedAt": "2026-02-20T07:01:56.010Z"
+  "queuedAt": "2026-02-20T13:05:46.175Z"
 }

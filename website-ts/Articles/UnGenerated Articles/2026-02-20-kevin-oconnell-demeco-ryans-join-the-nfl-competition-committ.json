@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kevin O'Connell, DeMeco Ryans join the NFL Competition Committee",
-      "description": "The NFL has added two current head coaches to the league's Competition Committee.",
-      "url": "https://sports.yahoo.com/articles/kevin-oconnell-demeco-ryans-join-201546532.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kevin O'Connell, DeMeco Ryans join the NFL Competition Committee",
       "description": "The NFL has added two current head coaches to the league's Competition Committee.",
@@ -31,5 +25,5 @@
     "leagues"
   ],
   "hash": "a737822585f60e37",
-  "queuedAt": "2026-02-20T07:01:56.127Z"
+  "queuedAt": "2026-02-20T13:05:46.239Z"
 }

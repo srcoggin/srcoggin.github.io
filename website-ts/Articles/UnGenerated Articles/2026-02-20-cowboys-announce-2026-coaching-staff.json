@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys announce 2026 coaching staff",
-      "description": "With the Scouting Combine less than a week ago, the NFL's hiring process is coming to a close.",
-      "url": "https://sports.yahoo.com/articles/cowboys-announce-2026-coaching-staff-212016682.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys announce 2026 coaching staff",
       "description": "With the Scouting Combine less than a week ago, the NFL's hiring process is coming to a close.",
@@ -32,5 +26,5 @@
     "close"
   ],
   "hash": "6f0614be8b31e5ae",
-  "queuedAt": "2026-02-20T07:01:55.914Z"
+  "queuedAt": "2026-02-20T13:05:46.090Z"
 }

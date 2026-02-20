@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Marquise Williams to join Raiders as senior special teams coach",
-      "description": "The Raiders have made another hire for their coaching staff.",
-      "url": "https://sports.yahoo.com/articles/report-marquise-williams-join-raiders-204312439.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Marquise Williams to join Raiders as senior special teams coach",
       "description": "The Raiders have made another hire for their coaching staff.",
@@ -33,5 +27,5 @@
     "staff"
   ],
   "hash": "d0a2fb0147afb551",
-  "queuedAt": "2026-02-20T07:01:54.338Z"
+  "queuedAt": "2026-02-20T13:05:39.787Z"
 }

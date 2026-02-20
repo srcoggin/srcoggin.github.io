@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chargers plan to keep wide receivers coach Sanjay Lal, quarterbacks coach Shane Day",
-      "description": "Chargers head coach Jim Harbaugh is shaking up his offense this offseason, but two important assistant coaches are staying in place.",
-      "url": "https://sports.yahoo.com/articles/chargers-plan-keep-wide-receivers-230556452.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chargers plan to keep wide receivers coach Sanjay Lal, quarterbacks coach Shane Day",
       "description": "Chargers head coach Jim Harbaugh is shaking up his offense this offseason, but two important assistant coaches are staying in place.",
@@ -43,5 +37,5 @@
     "place"
   ],
   "hash": "901ad51a7ea9b92d",
-  "queuedAt": "2026-02-20T07:01:55.808Z"
+  "queuedAt": "2026-02-20T13:05:46.022Z"
 }

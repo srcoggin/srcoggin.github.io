@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns promote Brandon Lynch to DBs coach/pass game specialist",
-      "description": "The Browns have promoted Brandon Lynch, Jonathan Jones of CBS Sports reports.",
-      "url": "https://sports.yahoo.com/articles/browns-promote-brandon-lynch-dbs-204633723.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns promote Brandon Lynch to DBs coach/pass game specialist",
       "description": "The Browns have promoted Brandon Lynch, Jonathan Jones of CBS Sports reports.",
@@ -31,5 +25,5 @@
     "reports"
   ],
   "hash": "e0615a54b3d8b7ff",
-  "queuedAt": "2026-02-20T07:01:54.236Z"
+  "queuedAt": "2026-02-20T13:05:39.708Z"
 }
