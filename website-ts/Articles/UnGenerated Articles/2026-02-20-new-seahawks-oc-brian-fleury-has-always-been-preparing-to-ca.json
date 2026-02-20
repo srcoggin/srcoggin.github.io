@@ -3,6 +3,12 @@
   "category": "coaching",
   "sources": [
     {
+      "name": "Yahoo Sports NFL",
+      "title": "New Seahawks OC Brian Fleury has \"always been preparing\" to call plays",
+      "description": "The Seahawks introduced new offensive coordinator Brian Fleury on Thursday.",
+      "url": "https://sports.yahoo.com/articles/seahawks-oc-brian-fleury-always-021341375.html"
+    },
+    {
       "name": "Pro Football Talk",
       "title": "New Seahawks OC Brian Fleury has \"always been preparing\" to call plays",
       "description": "The Seahawks introduced new offensive coordinator Brian Fleury on Thursday.",
@@ -24,5 +30,5 @@
     "thursday"
   ],
   "hash": "25c5cc0f282d8fc8",
-  "queuedAt": "2026-02-20T02:25:10.502Z"
+  "queuedAt": "2026-02-20T07:01:55.598Z"
 }
