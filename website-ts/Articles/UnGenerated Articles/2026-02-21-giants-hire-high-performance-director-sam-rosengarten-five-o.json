@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants hire high performance director Sam Rosengarten, five others",
-      "description": "The Giants announced the addition of six more members of their football staff on Friday.",
-      "url": "https://sports.yahoo.com/articles/giants-hire-high-performance-director-202508695.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants hire high performance director Sam Rosengarten, five others",
       "description": "The Giants announced the addition of six more members of their football staff on Friday.",
@@ -34,5 +28,5 @@
     "friday"
   ],
   "hash": "2a23ddfb0e4e63a9",
-  "queuedAt": "2026-02-21T12:55:28.096Z"
+  "queuedAt": "2026-02-21T18:40:44.419Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaxon Smith-Njigba: I deserve to be the highest-paid wide receiver in the NFL",
-      "description": "\"I would play this game for free, I love this game so much, but you don't have to. I'm learning to be a good businessman, and we need that check at the end of the day,\" Smith-Njigba said.",
-      "url": "https://sports.yahoo.com/articles/jaxon-smith-njigba-deserve-highest-093156084.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaxon Smith-Njigba: I deserve to be the highest-paid wide receiver in the NFL",
       "description": "\"I would play this game for free, I love this game so much, but you don't have to. I'm learning to be a good businessman, and we need that check at the end of the day,\" Smith-Njigba said.",
@@ -40,5 +34,5 @@
     "said"
   ],
   "hash": "e1cc5597aae48354",
-  "queuedAt": "2026-02-21T12:55:29.109Z"
+  "queuedAt": "2026-02-21T18:40:54.110Z"
 }
