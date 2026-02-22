@@ -5,14 +5,20 @@
     {
       "name": "Yahoo Sports NFL",
       "title": "Cardinals \"devastated and heartbroken\" by death of Rondale Moore",
-      "description": "NFL wide receiver Rondale Moore, who died on Saturday at the age of 25, was drafted by the Cardinals in 2021 and spent his first three NFL seasons in Arizona.",
+      "description": "Moore was a second-round pick of the Cardinals in 2021.",
       "url": "https://sports.yahoo.com/articles/cardinals-devastated-heartbroken-death-rondale-094000023.html"
     },
     {
       "name": "Pro Football Talk",
       "title": "Cardinals \"devastated and heartbroken\" by death of Rondale Moore",
-      "description": "NFL wide receiver Rondale Moore, who died on Saturday at the age of 25, was drafted by the Cardinals in 2021 and spent his first three NFL seasons in Arizona.",
+      "description": "Moore was a second-round pick of the Cardinals in 2021.",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-devastated-and-heartbroken-by-death-of-rondale-moore"
+    },
+    {
+      "name": "Pro Football Talk",
+      "title": "Vikings WR Rondale Moore dies at 25",
+      "description": "Moore was a second-round pick of the Cardinals in 2021.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-wr-rondale-moore-dies-at-26"
     }
   ],
   "keywords": [
@@ -22,21 +28,12 @@
     "death",
     "rondale",
     "moore",
-    "wide",
-    "receiver",
-    "who",
-    "died",
-    "saturday",
-    "age",
-    "drafted",
+    "secondround",
+    "pick",
     "2021",
-    "spent",
-    "his",
-    "first",
-    "three",
-    "seasons",
-    "arizona"
+    "vikings",
+    "dies"
   ],
-  "hash": "857e501a8c90baa3",
-  "queuedAt": "2026-02-22T12:57:26.987Z"
+  "hash": "98e6d875bf93bbb4",
+  "queuedAt": "2026-02-22T18:41:16.002Z"
 }

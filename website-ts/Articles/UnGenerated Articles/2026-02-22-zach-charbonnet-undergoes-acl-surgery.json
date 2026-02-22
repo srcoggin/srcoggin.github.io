@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Zach Charbonnet undergoes ACL surgery",
-      "description": "During the divisional-round win over the 49ers, Seahawks running back Zach Charbonnet suffered a torn ACL.",
-      "url": "https://sports.yahoo.com/articles/zach-charbonnet-undergoes-acl-surgery-172435820.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Zach Charbonnet undergoes ACL surgery",
       "description": "During the divisional-round win over the 49ers, Seahawks running back Zach Charbonnet suffered a torn ACL.",
@@ -32,5 +26,5 @@
     "torn"
   ],
   "hash": "c1fdeb969a0f3f67",
-  "queuedAt": "2026-02-22T12:57:27.298Z"
+  "queuedAt": "2026-02-22T18:41:23.489Z"
 }
