@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Competition Committee has not discussed onside kick alternative",
-      "description": "The NFL's Competition Committee did not discuss the alternative to the onside kick during their meeting on Sunday at the Scouting Combine, Mark Maske reports.",
-      "url": "https://sports.yahoo.com/articles/competition-committee-not-discussed-onside-020301377.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Competition Committee has not discussed onside kick alternative",
       "description": "The NFL's Competition Committee did not discuss the alternative to the onside kick during their meeting on Sunday at the Scouting Combine, Mark Maske reports.",
@@ -34,5 +28,5 @@
     "reports"
   ],
   "hash": "0055881934994a0b",
-  "queuedAt": "2026-02-23T13:13:17.462Z"
+  "queuedAt": "2026-02-23T19:08:25.401Z"
 }

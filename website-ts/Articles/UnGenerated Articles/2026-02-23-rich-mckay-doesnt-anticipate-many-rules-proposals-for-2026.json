@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rich McKay doesn't anticipate many rules proposals for 2026",
-      "description": "The Scouting Combine marks the unofficial start of rule-change season, with meetings and discussions about potential tweaks to the way the game of pro football is played.",
-      "url": "https://sports.yahoo.com/articles/rich-mckay-doesnt-anticipate-many-113901917.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rich McKay doesn't anticipate many rules proposals for 2026",
       "description": "The Scouting Combine marks the unofficial start of rule-change season, with meetings and discussions about potential tweaks to the way the game of pro football is played.",
@@ -40,5 +34,5 @@
     "played"
   ],
   "hash": "108ad32548ed43f2",
-  "queuedAt": "2026-02-23T13:13:17.385Z"
+  "queuedAt": "2026-02-23T19:08:25.298Z"
 }
