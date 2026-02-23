@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: John Morton to return to Broncos as offensive pass game coordinator",
-      "description": "John Morton was a Broncos assistant before becoming the Lions' offensive coordinator ahead of the 2025 season and he's set to return to Denver after parting ways with the Lions.",
-      "url": "https://sports.yahoo.com/articles/report-john-morton-return-broncos-185232511.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: John Morton to return to Broncos as offensive pass game coordinator",
       "description": "John Morton was a Broncos assistant before becoming the Lions' offensive coordinator ahead of the 2025 season and he's set to return to Denver after parting ways with the Lions.",
@@ -36,5 +30,5 @@
     "ways"
   ],
   "hash": "967c688499e3e93f",
-  "queuedAt": "2026-02-23T07:10:14.714Z"
+  "queuedAt": "2026-02-23T13:13:17.837Z"
 }

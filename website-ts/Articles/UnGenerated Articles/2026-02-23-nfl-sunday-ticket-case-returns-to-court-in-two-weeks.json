@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL Sunday Ticket case returns to court in two weeks",
-      "description": "The wheels of justice move slowly but surely.",
-      "url": "https://sports.yahoo.com/articles/nfl-sunday-ticket-case-returns-160324549.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL Sunday Ticket case returns to court in two weeks",
       "description": "The wheels of justice move slowly but surely.",
@@ -30,5 +24,5 @@
     "surely"
   ],
   "hash": "51d957af29d60ca1",
-  "queuedAt": "2026-02-23T07:10:15.925Z"
+  "queuedAt": "2026-02-23T13:13:23.774Z"
 }

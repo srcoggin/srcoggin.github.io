@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Javonte Williams deal underscores realities of running back market",
-      "description": "Running back Javonte Williams bet on himself last year, signing a one-year, $3 million deal.",
-      "url": "https://sports.yahoo.com/articles/javonte-williams-deal-underscores-realities-151119324.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Javonte Williams deal underscores realities of running back market",
       "description": "Running back Javonte Williams bet on himself last year, signing a one-year, $3 million deal.",
@@ -32,5 +26,5 @@
     "million"
   ],
   "hash": "8d75d1d4552a6598",
-  "queuedAt": "2026-02-23T07:10:16.011Z"
+  "queuedAt": "2026-02-23T13:13:23.637Z"
 }
