@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams' proposal based on crazy two-point play has two components",
-      "description": "Rams want to tweak the rule regarding backward passes, and to limit the time to start a replay review.",
-      "url": "https://sports.yahoo.com/articles/rams-proposal-based-crazy-two-221021623.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams' proposal based on crazy two-point play has two components",
       "description": "Rams want to tweak the rule regarding backward passes, and to limit the time to start a replay review.",
@@ -37,5 +31,5 @@
     "review"
   ],
   "hash": "d5feb9734547d1e3",
-  "queuedAt": "2026-02-24T07:06:10.861Z"
+  "queuedAt": "2026-02-24T13:15:07.968Z"
 }

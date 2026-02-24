@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots release RB Antonio Gibson",
-      "description": "Running back Antonio Gibson's time is up in New England.",
-      "url": "https://sports.yahoo.com/articles/patriots-release-rb-antonio-gibson-213248412.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots release RB Antonio Gibson",
       "description": "Running back Antonio Gibson's time is up in New England.",
@@ -28,5 +22,5 @@
     "england"
   ],
   "hash": "55133df248f1b5e1",
-  "queuedAt": "2026-02-24T07:06:11.064Z"
+  "queuedAt": "2026-02-24T13:15:08.294Z"
 }

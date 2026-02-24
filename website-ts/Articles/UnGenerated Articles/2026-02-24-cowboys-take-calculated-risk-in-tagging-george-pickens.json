@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys take calculated risk in tagging George Pickens",
-      "description": "How wil Pickens respond to not getting a shot at a market-level deal?",
-      "url": "https://sports.yahoo.com/articles/cowboys-calculated-risk-tagging-george-212040565.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys take calculated risk in tagging George Pickens",
       "description": "How wil Pickens respond to not getting a shot at a market-level deal?",
@@ -31,5 +25,5 @@
     "deal"
   ],
   "hash": "2bf3970f02a393df",
-  "queuedAt": "2026-02-24T07:06:11.130Z"
+  "queuedAt": "2026-02-24T13:15:08.400Z"
 }

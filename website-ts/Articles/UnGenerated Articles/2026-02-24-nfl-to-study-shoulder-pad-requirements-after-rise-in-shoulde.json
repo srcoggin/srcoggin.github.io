@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL to study shoulder pad requirements after rise in shoulder injuries",
-      "description": "The NFL's offseason plans include taking a look at whether changes should be made to the league's shoulder pad requirements.",
-      "url": "https://sports.yahoo.com/articles/nfl-study-shoulder-pad-requirements-225416515.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL to study shoulder pad requirements after rise in shoulder injuries",
       "description": "The NFL's offseason plans include taking a look at whether changes should be made to the league's shoulder pad requirements.",
@@ -34,5 +28,5 @@
     "leagues"
   ],
   "hash": "7178222722e1db67",
-  "queuedAt": "2026-02-24T07:06:10.798Z"
+  "queuedAt": "2026-02-24T13:15:07.883Z"
 }

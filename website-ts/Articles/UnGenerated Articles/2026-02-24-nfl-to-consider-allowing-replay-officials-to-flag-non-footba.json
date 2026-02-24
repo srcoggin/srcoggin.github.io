@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL to consider allowing replay officials to flag non-football acts unpenalized on the field",
-      "description": "The NFL Competition Committee has discussed a change to the league's rules that would allow replay officials throw penalty flags for fouls that went unpunished on the field.",
-      "url": "https://sports.yahoo.com/articles/nfl-consider-allowing-replay-officials-231149465.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL to consider allowing replay officials to flag non-football acts unpenalized on the field",
       "description": "The NFL Competition Committee has discussed a change to the league's rules that would allow replay officials throw penalty flags for fouls that went unpunished on the field.",
@@ -41,5 +35,5 @@
     "unpunished"
   ],
   "hash": "4b4b3803865e16af",
-  "queuedAt": "2026-02-24T07:06:09.434Z"
+  "queuedAt": "2026-02-24T13:14:59.760Z"
 }
