@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Troy Vincent suggests crucial replay reversal on Isaiah Likely TD vs. Steelers was wrong",
-      "description": "The Ravens might have won the AFC North if not for replay overturning a Baltimore touchdown against Pittsburgh.",
-      "url": "https://sports.yahoo.com/articles/troy-vincent-suggests-crucial-replay-115258074.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Troy Vincent suggests crucial replay reversal on Isaiah Likely TD vs. Steelers was wrong",
       "description": "The Ravens might have won the AFC North if not for replay overturning a Baltimore touchdown against Pittsburgh.",
@@ -37,5 +31,5 @@
     "pittsburgh"
   ],
   "hash": "7ae5497dd6480056",
-  "queuedAt": "2026-02-24T13:15:00.182Z"
+  "queuedAt": "2026-02-24T19:08:14.192Z"
 }
