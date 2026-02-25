@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "John Lynch: Would take \"fairly strong\" offer to trade Mac Jones",
-      "description": "49ers head coach Kyle Shanahan said last month that he would be \"very surprised\" if Mac Jones is not with the team for the 2026 season, but the 49ers aren't going to be rejecting calls from other teams about the quarterback.",
-      "url": "https://sports.yahoo.com/articles/john-lynch-fairly-strong-offer-121003765.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "John Lynch: Would take \"fairly strong\" offer to trade Mac Jones",
       "description": "49ers head coach Kyle Shanahan said last month that he would be \"very surprised\" if Mac Jones is not with the team for the 2026 season, but the 49ers aren't going to be rejecting calls from other teams about the quarterback.",
@@ -45,5 +39,5 @@
     "quarterback"
   ],
   "hash": "b5b6d0a258cbf1df",
-  "queuedAt": "2026-02-25T13:13:18.981Z"
+  "queuedAt": "2026-02-25T19:12:14.532Z"
 }
