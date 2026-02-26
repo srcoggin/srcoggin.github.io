@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Klint Kubiak: Fernando Mendoza is a winner, that's what you want",
-      "description": "The Raiders don't have to make anything official until April, but their does not seem to be any doubt about what they will do with the first overall pick in this year's draft.",
-      "url": "https://sports.yahoo.com/articles/klint-kubiak-fernando-mendoza-winner-115956433.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Klint Kubiak: Fernando Mendoza is a winner, that's what you want",
       "description": "The Raiders don't have to make anything official until April, but their does not seem to be any doubt about what they will do with the first overall pick in this year's draft.",
@@ -46,5 +40,5 @@
     "draft"
   ],
   "hash": "963d860477b1d4da",
-  "queuedAt": "2026-02-26T13:14:45.980Z"
+  "queuedAt": "2026-02-26T18:58:50.692Z"
 }

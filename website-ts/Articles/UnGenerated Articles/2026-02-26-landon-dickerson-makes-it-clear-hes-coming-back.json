@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Landon Dickerson makes it clear he's coming back",
-      "description": "After considering retirement, Dickerson will be back for a sixth NFL season.",
-      "url": "https://sports.yahoo.com/articles/landon-dickerson-makes-clear-hes-040155492.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Landon Dickerson makes it clear he's coming back",
       "description": "After considering retirement, Dickerson will be back for a sixth NFL season.",
@@ -28,5 +22,5 @@
     "sixth"
   ],
   "hash": "8f2c76ae312a513b",
-  "queuedAt": "2026-02-26T13:14:47.514Z"
+  "queuedAt": "2026-02-26T18:58:59.443Z"
 }
