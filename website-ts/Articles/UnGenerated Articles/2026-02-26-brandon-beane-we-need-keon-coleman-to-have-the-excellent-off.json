@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Beane: We need Keon Coleman to have the excellent offseason he had a year ago",
-      "description": "Bills owner Terry Pegula caused a stir when he singled out receiver Keon Coleman as a coaching-staff draft selection in the press conference just after firing former head coach Sean McDermott.",
-      "url": "https://sports.yahoo.com/articles/brandon-beane-keon-coleman-excellent-222244539.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Beane: We need Keon Coleman to have the excellent offseason he had a year ago",
       "description": "Bills owner Terry Pegula caused a stir when he singled out receiver Keon Coleman as a coaching-staff draft selection in the press conference just after firing former head coach Sean McDermott.",
@@ -46,5 +40,5 @@
     "mcdermott"
   ],
   "hash": "eb8cd5902336b629",
-  "queuedAt": "2026-02-26T07:07:01.300Z"
+  "queuedAt": "2026-02-26T13:14:53.394Z"
 }

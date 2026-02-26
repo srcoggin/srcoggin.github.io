@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans release C Lloyd Cushenberry, S Xavier Woods",
-      "description": "The Titans have moved on from a pair of players on Wednesday.",
-      "url": "https://sports.yahoo.com/articles/titans-release-c-lloyd-cushenberry-224004709.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans release C Lloyd Cushenberry, S Xavier Woods",
       "description": "The Titans have moved on from a pair of players on Wednesday.",
@@ -28,5 +22,5 @@
     "wednesday"
   ],
   "hash": "94a3d0792f609027",
-  "queuedAt": "2026-02-26T07:07:01.185Z"
+  "queuedAt": "2026-02-26T13:14:53.333Z"
 }

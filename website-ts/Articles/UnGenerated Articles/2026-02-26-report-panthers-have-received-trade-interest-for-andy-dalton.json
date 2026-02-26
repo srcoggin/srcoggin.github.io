@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Panthers have received trade interest for Andy Dalton",
-      "description": "Panthers General Manager Dan Morgan made clear at his media availability on Tuesday that Andy Dalton will have to compete for his backup quarterback job.",
-      "url": "https://sports.yahoo.com/articles/report-panthers-received-trade-interest-202027701.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Panthers have received trade interest for Andy Dalton",
       "description": "Panthers General Manager Dan Morgan made clear at his media availability on Tuesday that Andy Dalton will have to compete for his backup quarterback job.",
@@ -40,5 +34,5 @@
     "job"
   ],
   "hash": "edd62246c62f1439",
-  "queuedAt": "2026-02-26T07:06:58.973Z"
+  "queuedAt": "2026-02-26T13:14:47.338Z"
 }

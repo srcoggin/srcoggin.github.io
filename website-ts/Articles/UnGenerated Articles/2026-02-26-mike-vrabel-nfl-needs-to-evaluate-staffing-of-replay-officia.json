@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Vrabel: NFL needs to evaluate staffing of replay officials for more consistency",
-      "description": "Patriots coach Mike Vrabel says the league has to make its instant replay process better.",
-      "url": "https://sports.yahoo.com/articles/mike-vrabel-nfl-needs-evaluate-203010151.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Vrabel: NFL needs to evaluate staffing of replay officials for more consistency",
       "description": "Patriots coach Mike Vrabel says the league has to make its instant replay process better.",
@@ -35,5 +29,5 @@
     "better"
   ],
   "hash": "75ed5dbb4e73ecfc",
-  "queuedAt": "2026-02-26T07:06:58.859Z"
+  "queuedAt": "2026-02-26T13:14:47.265Z"
 }

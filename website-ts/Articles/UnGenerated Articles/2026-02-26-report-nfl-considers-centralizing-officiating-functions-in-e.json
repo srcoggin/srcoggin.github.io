@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: NFL considers centralizing officiating functions in event of work stoppage",
-      "description": "In December 2025, the NFL commenced a P.R. push in advance of the looming expiration of its Collective Bargaining Agreement with the NFL Referees Association.",
-      "url": "https://sports.yahoo.com/articles/report-nfl-considers-centralizing-officiating-222307149.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: NFL considers centralizing officiating functions in event of work stoppage",
       "description": "In December 2025, the NFL commenced a P.R. push in advance of the looming expiration of its Collective Bargaining Agreement with the NFL Referees Association.",
@@ -39,5 +33,5 @@
     "association"
   ],
   "hash": "fe3d226308a05bea",
-  "queuedAt": "2026-02-26T07:06:58.741Z"
+  "queuedAt": "2026-02-26T13:14:47.203Z"
 }
