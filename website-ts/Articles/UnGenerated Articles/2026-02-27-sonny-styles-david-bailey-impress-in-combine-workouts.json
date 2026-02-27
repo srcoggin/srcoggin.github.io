@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sonny Styles, David Bailey impress in Combine workouts",
-      "description": "Sonny Styles's play at Ohio State made him one of the top prospects in this year's draft class and his chances of being one of the first names called in April were given another boost with Thursday's performance at the Scouting Combine.",
-      "url": "https://sports.yahoo.com/articles/sonny-styles-david-bailey-impress-113457099.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sonny Styles, David Bailey impress in Combine workouts",
       "description": "Sonny Styles's play at Ohio State made him one of the top prospects in this year's draft class and his chances of being one of the first names called in April were given another boost with Thursday's performance at the Scouting Combine.",
@@ -50,5 +44,5 @@
     "scouting"
   ],
   "hash": "38f255965aabbb84",
-  "queuedAt": "2026-02-27T13:07:15.851Z"
+  "queuedAt": "2026-02-27T18:52:22.649Z"
 }
