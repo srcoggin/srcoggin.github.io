@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Cowboys plan to use second-round RFA tender on T.J. Bass",
-      "description": "The Cowboys are trying to work out a multi-year deal with kicker Brandon Aubrey before he becomes a restricted free agent and they are reportedly preparing a tender offer for another one of their impending restricted free agents.",
-      "url": "https://sports.yahoo.com/articles/report-cowboys-plan-second-round-225804100.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Cowboys plan to use second-round RFA tender on T.J. Bass",
       "description": "The Cowboys are trying to work out a multi-year deal with kicker Brandon Aubrey before he becomes a restricted free agent and they are reportedly preparing a tender offer for another one of their impending restricted free agents.",
@@ -47,5 +41,5 @@
     "agents"
   ],
   "hash": "65004d25891a39e5",
-  "queuedAt": "2026-02-27T07:01:06.567Z"
+  "queuedAt": "2026-02-27T13:07:15.534Z"
 }
