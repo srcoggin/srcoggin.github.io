@@ -4,6 +4,12 @@
   "sources": [
     {
       "name": "Yahoo Sports NFL",
+      "title": "2026 NFL Combine results: 5 winners from the edge rusher group",
+      "description": "Taking a closer look at the edge rushers that performed well at the 2026 NFL Combine.",
+      "url": "https://sports.yahoo.com/articles/2026-nfl-combine-results-5-033314462.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
       "title": "2026 NFL Combine results: 5 winners from defensive tackle group",
       "description": "Taking a closer look at the interior defensive linemen that performed well at the 2026 NFL Combine.",
       "url": "https://sports.yahoo.com/articles/2026-nfl-combine-results-5-230000876.html"
@@ -14,18 +20,21 @@
     "combine",
     "results",
     "winners",
-    "defensive",
-    "tackle",
+    "edge",
+    "rusher",
     "group",
     "taking",
     "closer",
     "look",
-    "interior",
-    "linemen",
+    "rushers",
     "that",
     "performed",
-    "well"
+    "well",
+    "defensive",
+    "tackle",
+    "interior",
+    "linemen"
   ],
-  "hash": "4a5ab88efbd412ba",
-  "queuedAt": "2026-02-27T02:24:50.768Z"
+  "hash": "3a60c909b17ea586",
+  "queuedAt": "2026-02-27T07:01:10.074Z"
 }

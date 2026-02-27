@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Dolphins finish first, Steelers land last in new NFLPA report cards",
-      "description": "The league's effort to prevent publication of the report cards inevitably failed.",
-      "url": "https://sports.yahoo.com/articles/report-dolphins-finish-first-steelers-203002492.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Dolphins finish first, Steelers land last in new NFLPA report cards",
       "description": "The league's effort to prevent publication of the report cards inevitably failed.",
@@ -34,5 +28,5 @@
     "failed"
   ],
   "hash": "fe13988389568032",
-  "queuedAt": "2026-02-27T02:24:46.077Z"
+  "queuedAt": "2026-02-27T07:01:09.818Z"
 }
