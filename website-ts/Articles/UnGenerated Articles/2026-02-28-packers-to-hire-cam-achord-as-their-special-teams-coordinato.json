@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers to hire Cam Achord as their special teams coordinator",
-      "description": "The Packers have found their new special teams coordinator.",
-      "url": "https://sports.yahoo.com/articles/packers-hire-cam-achord-special-212914572.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers to hire Cam Achord as their special teams coordinator",
       "description": "The Packers have found their new special teams coordinator.",
@@ -28,5 +22,5 @@
     "new"
   ],
   "hash": "a714d4e88ee1d330",
-  "queuedAt": "2026-02-28T06:46:41.110Z"
+  "queuedAt": "2026-02-28T12:56:01.474Z"
 }

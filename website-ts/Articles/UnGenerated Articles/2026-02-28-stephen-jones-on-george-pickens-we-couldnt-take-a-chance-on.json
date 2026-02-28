@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Stephen Jones on George Pickens: We couldn't take a chance on losing him",
-      "description": "The Cowboys officially placed the non-exclusive franchise tag on wide receiver George Pickens, which will carry a salary of $27.298 million for the 2026 season.",
-      "url": "https://sports.yahoo.com/articles/stephen-jones-george-pickens-couldnt-201655201.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Stephen Jones on George Pickens: We couldn't take a chance on losing him",
       "description": "The Cowboys officially placed the non-exclusive franchise tag on wide receiver George Pickens, which will carry a salary of $27.298 million for the 2026 season.",
@@ -41,5 +35,5 @@
     "2026"
   ],
   "hash": "ab1a4785a18fe9bb",
-  "queuedAt": "2026-02-28T06:46:38.337Z"
+  "queuedAt": "2026-02-28T12:55:48.993Z"
 }

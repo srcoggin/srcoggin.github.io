@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Commanders to hire Ben Steele as their TE coach",
-      "description": "The Commanders are promoting tight ends coach David Raih to pass game coordinator and they've found a new position coach to take over his former role on Dan Quinn's staff.",
-      "url": "https://sports.yahoo.com/articles/commanders-hire-ben-steele-te-225748217.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Commanders to hire Ben Steele as their TE coach",
       "description": "The Commanders are promoting tight ends coach David Raih to pass game coordinator and they've found a new position coach to take over his former role on Dan Quinn's staff.",
@@ -43,5 +37,5 @@
     "staff"
   ],
   "hash": "ac2b402b47e8c652",
-  "queuedAt": "2026-02-28T06:46:40.887Z"
+  "queuedAt": "2026-02-28T12:55:59.577Z"
 }
