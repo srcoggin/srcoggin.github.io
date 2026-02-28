@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders hire Nick Holz as offensive pass game coordinator",
-      "description": "Nick Holz is back with the Raiders.",
-      "url": "https://sports.yahoo.com/articles/raiders-hire-nick-holz-offensive-022440251.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders hire Nick Holz as offensive pass game coordinator",
       "description": "Nick Holz is back with the Raiders.",
@@ -26,5 +20,5 @@
     "back"
   ],
   "hash": "a29349ff6df6e5ac",
-  "queuedAt": "2026-02-28T12:55:49.652Z"
+  "queuedAt": "2026-02-28T18:39:12.717Z"
 }

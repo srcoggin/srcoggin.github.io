@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons hire Patrick Toney as their defensive pass game coordinator",
-      "description": "The Falcons have made another addition to their defensive coaching staff.",
-      "url": "https://sports.yahoo.com/articles/falcons-hire-patrick-toney-defensive-235320148.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons hire Patrick Toney as their defensive pass game coordinator",
       "description": "The Falcons have made another addition to their defensive coaching staff.",
@@ -31,5 +25,5 @@
     "staff"
   ],
   "hash": "e3b579871ef85ce4",
-  "queuedAt": "2026-02-28T12:55:49.764Z"
+  "queuedAt": "2026-02-28T18:39:12.872Z"
 }

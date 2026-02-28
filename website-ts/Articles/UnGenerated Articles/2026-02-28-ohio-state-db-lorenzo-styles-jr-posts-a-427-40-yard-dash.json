@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ohio State DB Lorenzo Styles Jr. posts a 4.27 40-yard dash",
-      "description": "Ohio State linebacker Sonny Styles put up a strong time in the 40-yard dash during the Scouting Combine in Indianapolis this week, but he won't go home with the fastest time in his family or from his school.",
-      "url": "https://sports.yahoo.com/articles/ohio-state-db-lorenzo-styles-232052132.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ohio State DB Lorenzo Styles Jr. posts a 4.27 40-yard dash",
       "description": "Ohio State linebacker Sonny Styles put up a strong time in the 40-yard dash during the Scouting Combine in Indianapolis this week, but he won't go home with the fastest time in his family or from his school.",
@@ -41,5 +35,5 @@
     "school"
   ],
   "hash": "ab3e4612a2be773c",
-  "queuedAt": "2026-02-28T12:55:49.866Z"
+  "queuedAt": "2026-02-28T18:39:13.006Z"
 }
