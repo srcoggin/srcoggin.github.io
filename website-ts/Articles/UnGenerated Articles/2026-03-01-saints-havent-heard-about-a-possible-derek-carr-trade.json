@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saints haven't heard about a possible Derek Carr trade",
-      "description": "Earlier this month, quarterback Derek Carr made it clear that he'd end his one-year retirement to play for a Super Bowl contender.",
-      "url": "https://sports.yahoo.com/articles/saints-havent-heard-possible-derek-194647935.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saints haven't heard about a possible Derek Carr trade",
       "description": "Earlier this month, quarterback Derek Carr made it clear that he'd end his one-year retirement to play for a Super Bowl contender.",
@@ -42,5 +36,5 @@
     "contender"
   ],
   "hash": "2130d17c44313a5c",
-  "queuedAt": "2026-03-01T06:54:11.043Z"
+  "queuedAt": "2026-03-01T12:56:45.867Z"
 }
