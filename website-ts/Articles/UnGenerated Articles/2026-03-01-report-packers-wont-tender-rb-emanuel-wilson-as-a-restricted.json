@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Packers won't tender RB Emanuel Wilson as a restricted free agent",
-      "description": "Running back Emanuel Wilson will reportedly hit the open market as an unrestricted free agent next month.",
-      "url": "https://sports.yahoo.com/articles/report-packers-wont-tender-rb-204901146.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Packers won't tender RB Emanuel Wilson as a restricted free agent",
       "description": "Running back Emanuel Wilson will reportedly hit the open market as an unrestricted free agent next month.",
@@ -36,5 +30,5 @@
     "month"
   ],
   "hash": "2e569b4de9674398",
-  "queuedAt": "2026-03-01T12:56:39.747Z"
+  "queuedAt": "2026-03-01T18:41:31.192Z"
 }

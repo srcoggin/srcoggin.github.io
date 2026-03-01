@@ -1,11 +1,11 @@
 {
   "title": "Will the Browns make a big move at quarterback in NFL free agency?",
-  "category": "trades",
+  "category": "free-agency",
   "sources": [
     {
       "name": "ESPN NFL",
       "title": "Will the Browns make a big move at quarterback in NFL free agency?",
-      "description": "As Cleveland scours the QB landscape, it heads into free agency with few options and questionable trade options.",
+      "description": "As Cleveland scours the QB landscape, it heads into free agency with few options.",
       "url": "https://www.espn.com/nfl/story/_/id/48067418/will-cleveland-browns-make-big-move-quarterback-2026-nfl-free-agency"
     }
   ],
@@ -21,10 +21,8 @@
     "scours",
     "landscape",
     "heads",
-    "options",
-    "questionable",
-    "trade"
+    "options"
   ],
-  "hash": "13d510859f350048",
-  "queuedAt": "2026-03-01T12:56:41.187Z"
+  "hash": "3d252c72a8404a64",
+  "queuedAt": "2026-03-01T18:41:32.658Z"
 }
