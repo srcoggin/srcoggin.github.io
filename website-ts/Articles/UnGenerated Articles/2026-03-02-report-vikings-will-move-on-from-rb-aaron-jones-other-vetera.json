@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Vikings will move on from RB Aaron Jones, other veterans",
-      "description": "A salary-cap purge is coming in Minnesota.",
-      "url": "https://sports.yahoo.com/articles/report-vikings-move-rb-aaron-190626040.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Vikings will move on from RB Aaron Jones, other veterans",
       "description": "A salary-cap purge is coming in Minnesota.",
@@ -28,5 +22,5 @@
     "minnesota"
   ],
   "hash": "f39314dc1124b740",
-  "queuedAt": "2026-03-02T07:05:47.350Z"
+  "queuedAt": "2026-03-02T13:09:47.792Z"
 }
