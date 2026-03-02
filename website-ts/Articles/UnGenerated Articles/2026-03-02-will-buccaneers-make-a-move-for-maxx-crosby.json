@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Will Buccaneers make a move for Maxx Crosby?",
-      "description": "The asking price was made clear last week to interested teams.",
-      "url": "https://sports.yahoo.com/articles/buccaneers-move-maxx-crosby-113402388.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Will Buccaneers make a move for Maxx Crosby?",
       "description": "The asking price was made clear last week to interested teams.",
@@ -30,5 +24,5 @@
     "teams"
   ],
   "hash": "44c4d1e671e2ff07",
-  "queuedAt": "2026-03-02T13:09:48.318Z"
+  "queuedAt": "2026-03-02T19:00:14.196Z"
 }

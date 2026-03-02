@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets GM Darren Mougey: We'll talk about trading up to No. 1, I don't think it's happening",
-      "description": "The Jets have the second pick in a draft with only one elite quarterback prospect.",
-      "url": "https://sports.yahoo.com/articles/jets-gm-darren-mougey-well-212712517.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets GM Darren Mougey: We'll talk about trading up to No. 1, I don't think it's happening",
       "description": "The Jets have the second pick in a draft with only one elite quarterback prospect.",
@@ -36,5 +30,5 @@
     "prospect"
   ],
   "hash": "1c090677b59a0b90",
-  "queuedAt": "2026-03-02T13:09:48.538Z"
+  "queuedAt": "2026-03-02T19:00:12.772Z"
 }

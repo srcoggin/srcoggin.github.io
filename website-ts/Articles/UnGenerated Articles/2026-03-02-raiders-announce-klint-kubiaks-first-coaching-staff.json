@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders announce Klint Kubiak's first coaching staff",
-      "description": "The Raiders announced Klint Kubiak's first coaching staff.",
-      "url": "https://sports.yahoo.com/articles/raiders-announce-klint-kubiaks-first-234319958.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders announce Klint Kubiak's first coaching staff",
       "description": "The Raiders announced Klint Kubiak's first coaching staff.",
@@ -26,5 +20,5 @@
     "announced"
   ],
   "hash": "84955bc8f2c92489",
-  "queuedAt": "2026-03-02T13:09:46.265Z"
+  "queuedAt": "2026-03-02T19:00:00.935Z"
 }

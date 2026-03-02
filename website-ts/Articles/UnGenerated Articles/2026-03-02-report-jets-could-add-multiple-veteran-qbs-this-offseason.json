@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Jets could add multiple veteran QBs this offseason",
-      "description": "The Jets didn't have much to say about their plans at the quarterback position at the Scouting Combine last week, but things should come into clearer view in the near future.",
-      "url": "https://sports.yahoo.com/articles/report-jets-could-add-multiple-120528238.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Jets could add multiple veteran QBs this offseason",
       "description": "The Jets didn't have much to say about their plans at the quarterback position at the Scouting Combine last week, but things should come into clearer view in the near future.",
@@ -43,5 +37,5 @@
     "future"
   ],
   "hash": "aebccc11555aa00b",
-  "queuedAt": "2026-03-02T13:09:46.140Z"
+  "queuedAt": "2026-03-02T19:00:00.818Z"
 }
