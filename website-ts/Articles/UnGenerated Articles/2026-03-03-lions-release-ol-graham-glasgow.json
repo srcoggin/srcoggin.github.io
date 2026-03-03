@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions release OL Graham Glasgow",
-      "description": "The Lions have let go of one of their veteran offensive linemen.",
-      "url": "https://sports.yahoo.com/articles/lions-release-ol-graham-glasgow-212536679.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions release OL Graham Glasgow",
       "description": "The Lions have let go of one of their veteran offensive linemen.",
@@ -28,5 +22,5 @@
     "linemen"
   ],
   "hash": "5e589d793323a0c9",
-  "queuedAt": "2026-03-03T07:01:46.582Z"
+  "queuedAt": "2026-03-03T13:08:01.972Z"
 }

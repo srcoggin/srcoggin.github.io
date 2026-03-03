@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Khalil Mack will not retire, plans to explore all options in free agency",
-      "description": "There will be a veteran edge rusher on the free agent market.",
-      "url": "https://sports.yahoo.com/articles/report-khalil-mack-not-retire-201639886.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Khalil Mack will not retire, plans to explore all options in free agency",
       "description": "There will be a veteran edge rusher on the free agent market.",
@@ -32,5 +26,5 @@
     "market"
   ],
   "hash": "3a9b985a4c31261c",
-  "queuedAt": "2026-03-03T07:01:43.829Z"
+  "queuedAt": "2026-03-03T13:07:54.084Z"
 }

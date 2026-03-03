@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ravens hire Dr. Nic Gill as VP of health and performance",
-      "description": "The Ravens looked outside the NFL to find a new vice president of health and performance.",
-      "url": "https://sports.yahoo.com/articles/ravens-hire-dr-nic-gill-204643400.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ravens hire Dr. Nic Gill as VP of health and performance",
       "description": "The Ravens looked outside the NFL to find a new vice president of health and performance.",
@@ -30,5 +24,5 @@
     "president"
   ],
   "hash": "9fd955995250b3ea",
-  "queuedAt": "2026-03-03T07:01:46.688Z"
+  "queuedAt": "2026-03-03T13:08:02.432Z"
 }

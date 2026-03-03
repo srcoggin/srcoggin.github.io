@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles sign DL Ta'Quon Graham",
-      "description": "The Eagles have added a defensive lineman to their offseason roster.",
-      "url": "https://sports.yahoo.com/articles/eagles-sign-dl-taquon-graham-215657014.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles sign DL Ta'Quon Graham",
       "description": "The Eagles have added a defensive lineman to their offseason roster.",
@@ -28,5 +22,5 @@
     "roster"
   ],
   "hash": "b44fe059fbe0c091",
-  "queuedAt": "2026-03-03T07:01:46.480Z"
+  "queuedAt": "2026-03-03T13:08:01.799Z"
 }
