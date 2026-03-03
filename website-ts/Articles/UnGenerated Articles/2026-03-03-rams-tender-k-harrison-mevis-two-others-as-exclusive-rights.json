@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams tender K Harrison Mevis, two others as exclusive rights free agents",
-      "description": "The Rams brought kicker Harrison Mevis in halfway through the 2025 season, but he'll have a chance to be with the team for all of 2026.",
-      "url": "https://sports.yahoo.com/articles/rams-tender-k-harrison-mevis-123700315.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams tender K Harrison Mevis, two others as exclusive rights free agents",
       "description": "The Rams brought kicker Harrison Mevis in halfway through the 2025 season, but he'll have a chance to be with the team for all of 2026.",
@@ -35,5 +29,5 @@
     "2026"
   ],
   "hash": "ef83e1699ccb3e71",
-  "queuedAt": "2026-03-03T13:07:51.619Z"
+  "queuedAt": "2026-03-03T19:04:36.618Z"
 }
