@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Only three players receive the franchise tag",
-      "description": "From 2015-24, the NFL saw five or more franchise tags placed on players each of those offseasons.",
-      "url": "https://sports.yahoo.com/articles/only-three-players-receive-franchise-221339072.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Only three players receive the franchise tag",
       "description": "From 2015-24, the NFL saw five or more franchise tags placed on players each of those offseasons.",
@@ -30,5 +24,5 @@
     "offseasons"
   ],
   "hash": "ff7e143e93df1159",
-  "queuedAt": "2026-03-04T06:57:21.751Z"
+  "queuedAt": "2026-03-04T13:07:50.799Z"
 }
