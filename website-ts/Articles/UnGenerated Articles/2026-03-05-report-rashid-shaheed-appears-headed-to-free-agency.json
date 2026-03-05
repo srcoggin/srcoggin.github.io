@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Rashid Shaheed appears headed to free agency",
-      "description": "The Seahawks traded for wide receiver/returner Rashid Shaheed at the trade deadline.",
-      "url": "https://sports.yahoo.com/articles/report-rashid-shaheed-appears-headed-234838531.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Rashid Shaheed appears headed to free agency",
       "description": "The Seahawks traded for wide receiver/returner Rashid Shaheed at the trade deadline.",
@@ -31,5 +25,5 @@
     "deadline"
   ],
   "hash": "af254e00c5dbba3d",
-  "queuedAt": "2026-03-05T07:03:02.135Z"
+  "queuedAt": "2026-03-05T13:09:59.183Z"
 }

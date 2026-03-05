@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants officially release Bobby Okereke",
-      "description": "Linebacker Bobby Okereke has gotten a head start on finding his new team.",
-      "url": "https://sports.yahoo.com/articles/giants-officially-release-bobby-okereke-205534914.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants officially release Bobby Okereke",
       "description": "Linebacker Bobby Okereke has gotten a head start on finding his new team.",
@@ -30,5 +24,5 @@
     "new"
   ],
   "hash": "75ee018e17a409d8",
-  "queuedAt": "2026-03-05T07:03:02.243Z"
+  "queuedAt": "2026-03-05T13:09:59.352Z"
 }

@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Aubrey: Cowboys' contract offer is \"not the ideal\"",
-      "description": "The Cowboys are willing to make Brandon Aubrey the highest-paid kicker in the NFL, but they have stopped far short of the $10 million annual average he wants.",
-      "url": "https://sports.yahoo.com/articles/brandon-aubrey-cowboys-contract-offer-215232796.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Aubrey: Cowboys' contract offer is \"not the ideal\"",
       "description": "The Cowboys are willing to make Brandon Aubrey the highest-paid kicker in the NFL, but they have stopped far short of the $10 million annual average he wants.",
@@ -36,5 +30,5 @@
     "wants"
   ],
   "hash": "cf5a386f539b7d95",
-  "queuedAt": "2026-03-05T07:03:05.911Z"
+  "queuedAt": "2026-03-05T13:10:06.638Z"
 }
