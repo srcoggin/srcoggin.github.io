@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Stefon Diggs to be free agent after Patriots release",
-      "description": "Stefon Diggs has been informed he will be released by the New England Patriots after one season with the team. The wide receiver will be a free agent.",
-      "url": "https://sports.yahoo.com/articles/stefon-diggs-free-agent-patriots-204147742.html"
-    },
-    {
       "name": "CBS Sports NFL",
       "title": "Patriots to release Stefon Diggs, New England saves more than $16 million against cap by parting ways with WR",
       "description": "After just one year in New England, Diggs will be a free agent",
@@ -16,26 +10,22 @@
     }
   ],
   "keywords": [
-    "stefon",
-    "diggs",
-    "free",
-    "agent",
     "patriots",
     "release",
-    "informed",
-    "released",
+    "stefon",
+    "diggs",
     "new",
     "england",
-    "one",
-    "wide",
-    "receiver",
     "saves",
     "million",
     "against",
     "cap",
     "parting",
-    "ways"
+    "ways",
+    "one",
+    "free",
+    "agent"
   ],
-  "hash": "9ca9b960cd6bedc9",
-  "queuedAt": "2026-03-05T02:29:53.212Z"
+  "hash": "fdd4f05febf74a88",
+  "queuedAt": "2026-03-05T07:03:11.998Z"
 }

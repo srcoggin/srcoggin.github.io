@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots inform Stefon Diggs of their intent to release him",
-      "description": "The Patriots are moving on from receiver Stefon Diggs.",
-      "url": "https://sports.yahoo.com/articles/patriots-inform-stefon-diggs-intent-204124019.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots inform Stefon Diggs of their intent to release him",
       "description": "The Patriots are moving on from receiver Stefon Diggs.",
@@ -28,5 +22,5 @@
     "receiver"
   ],
   "hash": "ca7c432f3a3e4e1b",
-  "queuedAt": "2026-03-05T02:29:53.319Z"
+  "queuedAt": "2026-03-05T07:03:15.964Z"
 }

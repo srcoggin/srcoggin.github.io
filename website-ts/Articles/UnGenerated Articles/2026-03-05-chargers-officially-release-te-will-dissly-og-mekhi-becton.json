@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chargers officially release TE Will Dissly, OG Mekhi Becton",
-      "description": "The Chargers released offensive guard Mekhi Becton and tight end Will Dissly on Wednesday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/chargers-officially-release-te-dissly-204807761.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chargers officially release TE Will Dissly, OG Mekhi Becton",
       "description": "The Chargers released offensive guard Mekhi Becton and tight end Will Dissly on Wednesday, the team announced.",
@@ -31,5 +25,5 @@
     "announced"
   ],
   "hash": "57683bdb46a155a6",
-  "queuedAt": "2026-03-05T02:29:49.631Z"
+  "queuedAt": "2026-03-05T07:03:04.819Z"
 }
