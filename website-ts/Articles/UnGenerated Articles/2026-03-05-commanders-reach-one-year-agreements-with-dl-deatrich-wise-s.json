@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Commanders reach one-year agreements with DL Deatrich Wise, Shy Tuttle",
-      "description": "The Commanders have reached agreements with defensive linemen Deatrich Wise and Shy Tuttle on one-year deals, Adam Schefter of ESPN reports.",
-      "url": "https://sports.yahoo.com/articles/commanders-reach-one-agreements-dl-013914070.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Commanders reach one-year agreements with DL Deatrich Wise, Shy Tuttle",
       "description": "The Commanders have reached agreements with defensive linemen Deatrich Wise and Shy Tuttle on one-year deals, Adam Schefter of ESPN reports.",
@@ -34,5 +28,5 @@
     "reports"
   ],
   "hash": "d15d384a1d5e2d83",
-  "queuedAt": "2026-03-05T13:09:57.882Z"
+  "queuedAt": "2026-03-05T19:22:45.078Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dak Prescott: Cowboys can make a \"big jump\" by adding veteran talent",
-      "description": "Cowboys owner Jerry Jones didn't use the term \"all in\" this offseason, but he did say last week at the Scouting Combine that he was ready to \"bust the budget,\" while being \"aggressive\" in free agency.",
-      "url": "https://sports.yahoo.com/articles/dak-prescott-cowboys-big-jump-012348500.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dak Prescott: Cowboys can make a \"big jump\" by adding veteran talent",
       "description": "Cowboys owner Jerry Jones didn't use the term \"all in\" this offseason, but he did say last week at the Scouting Combine that he was ready to \"bust the budget,\" while being \"aggressive\" in free agency.",
@@ -47,5 +41,5 @@
     "agency"
   ],
   "hash": "73dc0d785a885a58",
-  "queuedAt": "2026-03-05T13:09:59.737Z"
+  "queuedAt": "2026-03-05T19:22:52.108Z"
 }
