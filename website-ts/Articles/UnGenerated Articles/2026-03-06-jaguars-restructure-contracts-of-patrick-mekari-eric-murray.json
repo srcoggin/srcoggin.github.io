@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaguars restructure contracts of Patrick Mekari, Eric Murray",
-      "description": "The Jaguars cleared some cap space ahead of next week's start to free agency.",
-      "url": "https://sports.yahoo.com/articles/jaguars-restructure-contracts-patrick-mekari-120121660.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaguars restructure contracts of Patrick Mekari, Eric Murray",
       "description": "The Jaguars cleared some cap space ahead of next week's start to free agency.",
@@ -34,5 +28,5 @@
     "agency"
   ],
   "hash": "58695e2eefd241f4",
-  "queuedAt": "2026-03-06T13:06:25.609Z"
+  "queuedAt": "2026-03-06T18:57:26.238Z"
 }

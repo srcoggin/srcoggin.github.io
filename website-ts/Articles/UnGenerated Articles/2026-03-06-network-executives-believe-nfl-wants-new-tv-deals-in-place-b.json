@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Network executives believe NFL wants new TV deals in place before start of 2026 season",
-      "description": "Momentum seems to be building for a new wave of NFL TV deals, sooner than later.",
-      "url": "https://sports.yahoo.com/articles/network-executives-believe-nfl-wants-114254968.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Network executives believe NFL wants new TV deals in place before start of 2026 season",
       "description": "Momentum seems to be building for a new wave of NFL TV deals, sooner than later.",
@@ -33,5 +27,5 @@
     "later"
   ],
   "hash": "5cbdf6d7ea024cd2",
-  "queuedAt": "2026-03-06T13:06:25.668Z"
+  "queuedAt": "2026-03-06T18:57:26.327Z"
 }
