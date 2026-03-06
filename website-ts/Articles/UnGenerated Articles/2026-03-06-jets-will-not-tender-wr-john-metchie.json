@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets will not tender WR John Metchie",
-      "description": "The Jets will not tender restricted free agent John Metchie, according to Jordan Schultz of The Schultz Report.",
-      "url": "https://sports.yahoo.com/articles/jets-not-tender-wr-john-233509562.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets will not tender WR John Metchie",
       "description": "The Jets will not tender restricted free agent John Metchie, according to Jordan Schultz of The Schultz Report.",
@@ -29,5 +23,5 @@
     "report"
   ],
   "hash": "897af37d0dcee574",
-  "queuedAt": "2026-03-06T06:57:55.419Z"
+  "queuedAt": "2026-03-06T13:06:25.175Z"
 }

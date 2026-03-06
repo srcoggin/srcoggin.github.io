@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tyler Biadasz on a visit with the Chargers",
-      "description": "The Chargers are in need of a starting center, and Tyler Biadasz is available.",
-      "url": "https://sports.yahoo.com/articles/tyler-biadasz-visit-chargers-221951263.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tyler Biadasz on a visit with the Chargers",
       "description": "The Chargers are in need of a starting center, and Tyler Biadasz is available.",
@@ -26,5 +20,5 @@
     "available"
   ],
   "hash": "311308bd3e383bd1",
-  "queuedAt": "2026-03-06T06:57:56.863Z"
+  "queuedAt": "2026-03-06T13:06:31.762Z"
 }

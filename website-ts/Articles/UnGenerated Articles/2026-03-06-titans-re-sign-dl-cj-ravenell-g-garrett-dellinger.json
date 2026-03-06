@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans re-sign DL C.J. Ravenell, G Garrett Dellinger",
-      "description": "The Titans announced that a pair of their exclusive rights free agents will be sticking with the team in 2026.",
-      "url": "https://sports.yahoo.com/articles/titans-sign-dl-c-j-223322379.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans re-sign DL C.J. Ravenell, G Garrett Dellinger",
       "description": "The Titans announced that a pair of their exclusive rights free agents will be sticking with the team in 2026.",
@@ -33,5 +27,5 @@
     "2026"
   ],
   "hash": "06b7279d3ca5a2ea",
-  "queuedAt": "2026-03-06T06:57:55.464Z"
+  "queuedAt": "2026-03-06T13:06:25.278Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers hire Kent State OL coach Angel Matute",
-      "description": "The 49ers are hiring Kent State offensive line coach Angel Matute, Matt Zenitz of CBS Sports reports.",
-      "url": "https://sports.yahoo.com/articles/49ers-hire-kent-state-ol-000149042.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers hire Kent State OL coach Angel Matute",
       "description": "The 49ers are hiring Kent State offensive line coach Angel Matute, Matt Zenitz of CBS Sports reports.",
@@ -33,5 +27,5 @@
     "reports"
   ],
   "hash": "59618a9933626cf1",
-  "queuedAt": "2026-03-06T06:57:55.376Z"
+  "queuedAt": "2026-03-06T13:06:25.102Z"
 }

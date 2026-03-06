@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "For the Bears, DJ Moore's role no longer fit his pay",
-      "description": "The trade frees up $38.9 million in cash and cap space.",
-      "url": "https://sports.yahoo.com/articles/bears-dj-moores-role-no-224705293.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "For the Bears, DJ Moore's role no longer fit his pay",
       "description": "The trade frees up $38.9 million in cash and cap space.",
@@ -32,5 +26,5 @@
     "space"
   ],
   "hash": "1b4080593abd836b",
-  "queuedAt": "2026-03-06T06:57:56.822Z"
+  "queuedAt": "2026-03-06T13:06:31.700Z"
 }

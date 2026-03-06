@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Paramount plans to keep NFL rights \"for the foreseeable future\"",
-      "description": "An uptick in news items regarding the future of NFL rights has occurred in recent days, at a time when the football-following world is more focused on more pressing concerns, like free agency and the draft.",
-      "url": "https://sports.yahoo.com/articles/paramount-plans-keep-nfl-rights-002354452.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Paramount plans to keep NFL rights \"for the foreseeable future\"",
       "description": "An uptick in news items regarding the future of NFL rights has occurred in recent days, at a time when the football-following world is more focused on more pressing concerns, like free agency and the draft.",
@@ -41,5 +35,5 @@
     "draft"
   ],
   "hash": "65d8ba326e31d1b3",
-  "queuedAt": "2026-03-06T06:57:56.728Z"
+  "queuedAt": "2026-03-06T13:06:31.510Z"
 }

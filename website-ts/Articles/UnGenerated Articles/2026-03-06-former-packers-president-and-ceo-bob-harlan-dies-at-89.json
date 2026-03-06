@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Former Packers president and CEO Bob Harlan dies at 89",
-      "description": "Bob Harlan, who served for 19 years as president and CEO of the Green Bay Packers, has died.",
-      "url": "https://sports.yahoo.com/articles/former-packers-president-ceo-bob-230331417.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Former Packers president and CEO Bob Harlan dies at 89",
       "description": "Bob Harlan, who served for 19 years as president and CEO of the Green Bay Packers, has died.",
@@ -31,5 +25,5 @@
     "died"
   ],
   "hash": "3a656b0e1d3e095c",
-  "queuedAt": "2026-03-06T06:57:56.772Z"
+  "queuedAt": "2026-03-06T13:06:31.634Z"
 }
