@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers announce release of TE Jonnu Smith",
-      "description": "The Steelers have made it official with Jonnu Smith.",
-      "url": "https://sports.yahoo.com/articles/steelers-announce-release-te-jonnu-213344623.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers announce release of TE Jonnu Smith",
       "description": "The Steelers have made it official with Jonnu Smith.",
@@ -25,5 +19,5 @@
     "official"
   ],
   "hash": "e5dbd2680a243fe9",
-  "queuedAt": "2026-03-06T02:25:41.328Z"
+  "queuedAt": "2026-03-06T06:57:56.551Z"
 }

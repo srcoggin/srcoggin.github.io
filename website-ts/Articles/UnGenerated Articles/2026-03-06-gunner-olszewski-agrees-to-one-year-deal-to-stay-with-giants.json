@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Gunner Olszewski agrees to one-year deal to stay with Giants",
-      "description": "The Giants are holding onto kick returner and wide receiver Gunner Olszewski.",
-      "url": "https://sports.yahoo.com/articles/gunner-olszewski-agrees-one-deal-215429649.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Gunner Olszewski agrees to one-year deal to stay with Giants",
       "description": "The Giants are holding onto kick returner and wide receiver Gunner Olszewski.",
@@ -31,5 +25,5 @@
     "receiver"
   ],
   "hash": "14bb6234888b66ef",
-  "queuedAt": "2026-03-06T02:25:43.054Z"
+  "queuedAt": "2026-03-06T06:58:00.417Z"
 }

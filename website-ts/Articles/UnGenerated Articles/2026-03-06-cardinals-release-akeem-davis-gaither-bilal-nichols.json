@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals release Akeem Davis-Gaither, Bilal Nichols",
-      "description": "The Cardinals have not officially released quarterback Kyler Murray yet, but they did part ways with a couple of other players on Thursday.",
-      "url": "https://sports.yahoo.com/articles/cardinals-release-akeem-davis-gaither-215638849.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals release Akeem Davis-Gaither, Bilal Nichols",
       "description": "The Cardinals have not officially released quarterback Kyler Murray yet, but they did part ways with a couple of other players on Thursday.",
@@ -36,5 +30,5 @@
     "thursday"
   ],
   "hash": "197ab8d85538d26b",
-  "queuedAt": "2026-03-06T02:25:41.275Z"
+  "queuedAt": "2026-03-06T06:57:56.510Z"
 }

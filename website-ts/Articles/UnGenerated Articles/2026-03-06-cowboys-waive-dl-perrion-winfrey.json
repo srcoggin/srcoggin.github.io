@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys waive DL Perrion Winfrey",
-      "description": "The Cowboys' table-setting for the start of the 2026 league year included parting ways with a defensive lineman on Thursday.",
-      "url": "https://sports.yahoo.com/articles/cowboys-waive-dl-perrion-winfrey-220813321.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys waive DL Perrion Winfrey",
       "description": "The Cowboys' table-setting for the start of the 2026 league year included parting ways with a defensive lineman on Thursday.",
@@ -32,5 +26,5 @@
     "thursday"
   ],
   "hash": "4d04f6ce31c6f6d2",
-  "queuedAt": "2026-03-06T02:25:43.004Z"
+  "queuedAt": "2026-03-06T06:58:00.370Z"
 }
