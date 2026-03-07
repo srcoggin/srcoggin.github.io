@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL Network employees will become ESPN employees on April 1",
-      "description": "With ESPN acquiring NFL Network, ESPN will soon be inheriting all NFL Network employees.",
-      "url": "https://sports.yahoo.com/articles/nfl-network-employees-become-espn-002155208.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL Network employees will become ESPN employees on April 1",
       "description": "With ESPN acquiring NFL Network, ESPN will soon be inheriting all NFL Network employees.",
@@ -26,5 +20,5 @@
     "inheriting"
   ],
   "hash": "90014a6dc3a1bb19",
-  "queuedAt": "2026-03-07T12:59:01.712Z"
+  "queuedAt": "2026-03-07T18:42:30.130Z"
 }

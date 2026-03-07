@@ -4,13 +4,19 @@
   "sources": [
     {
       "name": "CBS Sports NFL",
+      "title": "AFC win totals: Expert breaks down expectations for next NFL season before free agency",
+      "description": "CBS Sports NFL expert Will Brinson offers up his Over/Under leans and picks for every AFC win total before free agency begins",
+      "url": "https://www.cbssports.com/betting/news/afc-win-totals-expert-breaks-down-expectations-for-next-nfl-season-before-free-agency/"
+    },
+    {
+      "name": "CBS Sports NFL",
       "title": "NFC win totals: Expert breaks down expectations for next NFL season ahead of free agency",
       "description": "CBS Sports NFL expert Will Brinson dishes his over/under leans and picks for every NFC win total before free agency begins",
       "url": "https://www.cbssports.com/betting/news/nfc-win-totals-expert-breaks-down-expectations-for-next-nfl-season-ahead-of-free-agency/"
     }
   ],
   "keywords": [
-    "nfc",
+    "afc",
     "win",
     "totals",
     "expert",
@@ -18,21 +24,23 @@
     "down",
     "expectations",
     "next",
-    "ahead",
     "free",
     "agency",
     "cbs",
     "sports",
     "brinson",
-    "dishes",
+    "offers",
     "his",
     "overunder",
     "leans",
     "picks",
     "every",
     "total",
-    "begins"
+    "begins",
+    "nfc",
+    "ahead",
+    "dishes"
   ],
-  "hash": "57fdaa783ad9fb08",
-  "queuedAt": "2026-03-07T12:59:06.623Z"
+  "hash": "3c6a31c167ba1f7a",
+  "queuedAt": "2026-03-07T18:42:23.061Z"
 }

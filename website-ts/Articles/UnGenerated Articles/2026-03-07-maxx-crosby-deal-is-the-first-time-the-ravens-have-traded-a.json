@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Maxx Crosby deal is the first time the Ravens have traded a first-round pick for a player",
-      "description": "The Ravens traded two first-round picks to acquire Crosby, an unprecedented deal in franchise history.",
-      "url": "https://sports.yahoo.com/articles/maxx-crosby-deal-first-time-100607656.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Maxx Crosby deal is the first time the Ravens have traded a first-round pick for a player",
       "description": "The Ravens traded two first-round picks to acquire Crosby, an unprecedented deal in franchise history.",
@@ -33,5 +27,5 @@
     "history"
   ],
   "hash": "8599a00b68779e64",
-  "queuedAt": "2026-03-07T12:59:01.551Z"
+  "queuedAt": "2026-03-07T18:42:29.790Z"
 }
