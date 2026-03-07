@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Vikings tender LB Bo Richter as an exclusive rights free agent",
-      "description": "The Vikings have tendered another one of their exclusive rights free agents.",
-      "url": "https://sports.yahoo.com/articles/vikings-tender-lb-bo-richter-223622936.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Vikings tender LB Bo Richter as an exclusive rights free agent",
       "description": "The Vikings have tendered another one of their exclusive rights free agents.",
@@ -30,5 +24,5 @@
     "agents"
   ],
   "hash": "7b76f7f4b3c1c3fd",
-  "queuedAt": "2026-03-07T06:49:40.847Z"
+  "queuedAt": "2026-03-07T12:59:00.409Z"
 }

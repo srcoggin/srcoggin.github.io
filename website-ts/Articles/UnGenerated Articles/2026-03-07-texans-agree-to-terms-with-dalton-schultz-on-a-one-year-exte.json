@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Texans agree to terms with Dalton Schultz on a one-year extension",
-      "description": "The Texans have agreed to terms with tight end Dalton Schultz on a contract extension.",
-      "url": "https://sports.yahoo.com/articles/texans-agree-terms-dalton-schultz-225349276.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Texans agree to terms with Dalton Schultz on a one-year extension",
       "description": "The Texans have agreed to terms with tight end Dalton Schultz on a contract extension.",
@@ -29,5 +23,5 @@
     "contract"
   ],
   "hash": "b7da8f95b0ad8c63",
-  "queuedAt": "2026-03-07T06:49:43.468Z"
+  "queuedAt": "2026-03-07T12:59:09.202Z"
 }
