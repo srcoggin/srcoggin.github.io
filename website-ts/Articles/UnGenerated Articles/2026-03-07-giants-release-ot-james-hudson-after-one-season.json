@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants release OT James Hudson after one season",
-      "description": "The Giants released offensive tackle James Hudson on Friday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/giants-release-ot-james-hudson-222450932.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants release OT James Hudson after one season",
       "description": "The Giants released offensive tackle James Hudson on Friday, the team announced.",
@@ -28,5 +22,5 @@
     "announced"
   ],
   "hash": "a26e081c5f488004",
-  "queuedAt": "2026-03-07T02:12:23.906Z"
+  "queuedAt": "2026-03-07T06:49:42.330Z"
 }
