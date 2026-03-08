@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Maxx Crosby posts video message to the Raiders — and to the Ravens",
-      "description": "Crosby said he has \"zero ill will\" toward the Raiders.",
-      "url": "https://sports.yahoo.com/articles/maxx-crosby-posts-video-message-214808594.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Maxx Crosby posts video message to the Raiders — and to the Ravens",
       "description": "Crosby said he has \"zero ill will\" toward the Raiders.",
@@ -29,5 +23,5 @@
     "toward"
   ],
   "hash": "0502b222f8726b57",
-  "queuedAt": "2026-03-08T06:53:37.392Z"
+  "queuedAt": "2026-03-08T12:59:45.470Z"
 }
