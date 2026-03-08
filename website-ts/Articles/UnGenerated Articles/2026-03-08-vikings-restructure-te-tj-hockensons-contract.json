@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Vikings restructure TE T.J. Hockenson's contract",
-      "description": "The Vikings' scramble to create cap space won't result in the release of veteran tight end T.J.",
-      "url": "https://sports.yahoo.com/articles/vikings-restructure-te-t-j-001958487.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Vikings restructure TE T.J. Hockenson's contract",
       "description": "The Vikings' scramble to create cap space won't result in the release of veteran tight end T.J.",
@@ -32,5 +26,5 @@
     "end"
   ],
   "hash": "57e378c60b418697",
-  "queuedAt": "2026-03-08T12:59:39.975Z"
+  "queuedAt": "2026-03-08T18:43:15.828Z"
 }

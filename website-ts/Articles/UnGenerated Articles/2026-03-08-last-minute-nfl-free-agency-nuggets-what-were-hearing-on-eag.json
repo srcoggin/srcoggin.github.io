@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "Last-minute NFL free agency nuggets: What we're hearing on Eagles plans, top RBs and WRs",
-      "description": "What are we hearing as NFL free agency nears? We give you the latest buzz on top players and aggressive teams.",
+      "description": "What are we hearing as NFL free agency nears? We give you the latest buzz on top players and teams that could be active.",
       "url": "https://www.espn.com/nfl/story/_/id/48111448/nfl-free-agency-news-latest-wrs-rbs-pierce-crosby"
     }
   ],
@@ -27,9 +27,10 @@
     "latest",
     "buzz",
     "players",
-    "aggressive",
-    "teams"
+    "teams",
+    "that",
+    "active"
   ],
-  "hash": "8611c1bdb41dc60d",
-  "queuedAt": "2026-03-08T12:59:40.356Z"
+  "hash": "6421ab50a567a4e5",
+  "queuedAt": "2026-03-08T18:43:10.357Z"
 }

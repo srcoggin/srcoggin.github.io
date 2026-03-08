@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tanking effort utimately blew up on Raiders",
-      "description": "Sometimes tanking comes with a cost.",
-      "url": "https://sports.yahoo.com/articles/tanking-effort-utimately-blew-raiders-231152719.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tanking effort utimately blew up on Raiders",
       "description": "Sometimes tanking comes with a cost.",
@@ -26,5 +20,5 @@
     "cost"
   ],
   "hash": "7f233edc262bb5c1",
-  "queuedAt": "2026-03-08T12:59:40.170Z"
+  "queuedAt": "2026-03-08T18:43:15.953Z"
 }

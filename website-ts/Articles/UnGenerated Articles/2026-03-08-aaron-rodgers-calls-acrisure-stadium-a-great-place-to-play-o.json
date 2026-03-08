@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Rodgers calls Acrisure Stadium a great place to play, \"other than the field surface\"",
-      "description": "The quality of the playing surface at the Steelers' home field has consistently been criticized by players.",
-      "url": "https://sports.yahoo.com/articles/aaron-rodgers-calls-acrisure-stadium-081600692.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Rodgers calls Acrisure Stadium a great place to play, \"other than the field surface\"",
       "description": "The quality of the playing surface at the Steelers' home field has consistently been criticized by players.",
@@ -35,5 +29,5 @@
     "players"
   ],
   "hash": "0dbc7a9d0f75f1fa",
-  "queuedAt": "2026-03-08T12:59:39.792Z"
+  "queuedAt": "2026-03-08T18:43:15.635Z"
 }

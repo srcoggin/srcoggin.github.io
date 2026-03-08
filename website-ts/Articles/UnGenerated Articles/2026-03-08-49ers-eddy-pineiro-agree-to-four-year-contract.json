@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers, Eddy Pineiro agree to four-year contract",
-      "description": "Eddy Pineiro has secured some job stability as the 49ers' kicker.",
-      "url": "https://sports.yahoo.com/articles/49ers-eddy-pineiro-agree-four-224445688.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers, Eddy Pineiro agree to four-year contract",
       "description": "Eddy Pineiro has secured some job stability as the 49ers' kicker.",
@@ -28,5 +22,5 @@
     "kicker"
   ],
   "hash": "5be4cb606e3efe1c",
-  "queuedAt": "2026-03-08T12:59:40.232Z"
+  "queuedAt": "2026-03-08T18:43:16.017Z"
 }

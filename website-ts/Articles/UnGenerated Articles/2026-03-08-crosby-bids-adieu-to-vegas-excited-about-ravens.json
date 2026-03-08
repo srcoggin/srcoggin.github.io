@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "Crosby bids adieu to Vegas, excited about Ravens",
-      "description": "Longtime Raiders star Maxx Crosby, who was traded to the Ravens on Friday, expressed his appreciation for his time with Mark Davis' franchise in a video published to his social media accounts Saturday.",
+      "description": "Longtime Raiders star Maxx Crosby, who was traded to the Ravens on Friday, expressed his appreciation for his time with Mark Davis' franchise in a video published to his social media accounts.",
       "url": "https://www.espn.com/nfl/story/_/id/48136307/crosby-bids-farewell-raiders-excited-join-ravens"
     }
   ],
@@ -35,9 +35,8 @@
     "published",
     "social",
     "media",
-    "accounts",
-    "saturday"
+    "accounts"
   ],
-  "hash": "6014b8f9022644e3",
-  "queuedAt": "2026-03-08T12:59:40.470Z"
+  "hash": "49b71f3ce8d6123b",
+  "queuedAt": "2026-03-08T18:43:10.275Z"
 }
