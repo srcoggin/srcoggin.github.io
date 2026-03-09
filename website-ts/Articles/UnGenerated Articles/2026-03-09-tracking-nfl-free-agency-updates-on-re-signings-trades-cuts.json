@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "Tracking NFL free agency: Updates on re-signings, trades, cuts and rumors",
-      "description": "NFL free agency opens with the legal negotiating window on Monday. Here's the latest intel.",
+      "description": "NFL free agency opens with the legal negotiating window Monday. Here's the latest intel.",
       "url": "https://www.espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors"
     }
   ],
@@ -27,6 +27,6 @@
     "latest",
     "intel"
   ],
-  "hash": "1a55b65de74970c2",
-  "queuedAt": "2026-03-09T02:35:09.201Z"
+  "hash": "4a451f4fc833eb86",
+  "queuedAt": "2026-03-09T07:13:09.189Z"
 }
