@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Trent McDuffie agrees to four-year extension with Rams",
-      "description": "McDuffie's new deal will make him the highest-paid cornerback in the league.",
-      "url": "https://sports.yahoo.com/articles/trent-mcduffie-agrees-four-extension-001224865.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Trent McDuffie agrees to four-year extension with Rams",
       "description": "McDuffie's new deal will make him the highest-paid cornerback in the league.",
@@ -32,5 +26,5 @@
     "league"
   ],
   "hash": "e767c43bfa991164",
-  "queuedAt": "2026-03-09T07:13:12.653Z"
+  "queuedAt": "2026-03-09T13:14:24.254Z"
 }

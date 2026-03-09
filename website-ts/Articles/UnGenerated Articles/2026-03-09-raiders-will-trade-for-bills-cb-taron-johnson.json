@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders will trade for Bills CB Taron Johnson",
-      "description": "The Bills were planning to release cornerback Taron Johnson.",
-      "url": "https://sports.yahoo.com/articles/raiders-trade-bills-cb-taron-015351114.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders will trade for Bills CB Taron Johnson",
       "description": "The Bills were planning to release cornerback Taron Johnson.",
@@ -26,5 +20,5 @@
     "cornerback"
   ],
   "hash": "354d8f03bd4af6f8",
-  "queuedAt": "2026-03-09T07:13:12.414Z"
+  "queuedAt": "2026-03-09T13:14:24.150Z"
 }

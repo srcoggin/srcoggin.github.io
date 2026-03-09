@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: \"Growing optimism\" that Jaelan Phillips, Eagles will reach a deal",
-      "description": "The Eagles want to keep Jaelan Phillips, and they are \"working hard\" to ensure that happens.",
-      "url": "https://sports.yahoo.com/articles/report-growing-optimism-jaelan-phillips-011701849.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: \"Growing optimism\" that Jaelan Phillips, Eagles will reach a deal",
       "description": "The Eagles want to keep Jaelan Phillips, and they are \"working hard\" to ensure that happens.",
@@ -34,5 +28,5 @@
     "happens"
   ],
   "hash": "0b51c4a35ded0f79",
-  "queuedAt": "2026-03-09T07:13:08.861Z"
+  "queuedAt": "2026-03-09T13:14:18.934Z"
 }

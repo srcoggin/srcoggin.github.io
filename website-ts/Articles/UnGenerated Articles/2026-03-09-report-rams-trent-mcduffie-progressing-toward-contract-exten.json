@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Rams, Trent McDuffie progressing toward contract extension",
-      "description": "The Rams' trade for McDuffie will become official this week.",
-      "url": "https://sports.yahoo.com/articles/report-rams-trent-mcduffie-progressing-223148320.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Rams, Trent McDuffie progressing toward contract extension",
       "description": "The Rams' trade for McDuffie will become official this week.",
@@ -30,5 +24,5 @@
     "this"
   ],
   "hash": "038784e34b4c3cdc",
-  "queuedAt": "2026-03-09T07:13:09.079Z"
+  "queuedAt": "2026-03-09T13:14:19.082Z"
 }

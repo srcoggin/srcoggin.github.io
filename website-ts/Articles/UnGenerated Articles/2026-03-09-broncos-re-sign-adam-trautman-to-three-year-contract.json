@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos re-sign Adam Trautman to three-year contract",
-      "description": "Broncos tight end Adam Trautman won't test free agency.",
-      "url": "https://sports.yahoo.com/articles/broncos-sign-adam-trautman-three-235419144.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos re-sign Adam Trautman to three-year contract",
       "description": "Broncos tight end Adam Trautman won't test free agency.",
@@ -30,5 +24,5 @@
     "agency"
   ],
   "hash": "1ccc4e4dd2eb9d3f",
-  "queuedAt": "2026-03-09T07:13:12.759Z"
+  "queuedAt": "2026-03-09T13:14:24.329Z"
 }

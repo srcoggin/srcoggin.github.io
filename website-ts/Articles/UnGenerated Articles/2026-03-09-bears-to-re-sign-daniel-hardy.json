@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears to re-sign Daniel Hardy",
-      "description": "The Bears re-signed core special teams player Daniel Hardy to a two-year, $4.97 million contract with $2.45 million guaranteed, per Jordan Schultz of The Schultz Report.",
-      "url": "https://sports.yahoo.com/articles/bears-sign-daniel-hardy-001443276.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears to re-sign Daniel Hardy",
       "description": "The Bears re-signed core special teams player Daniel Hardy to a two-year, $4.97 million contract with $2.45 million guaranteed, per Jordan Schultz of The Schultz Report.",
@@ -36,5 +30,5 @@
     "report"
   ],
   "hash": "72d9ed0232e07767",
-  "queuedAt": "2026-03-09T07:13:08.975Z"
+  "queuedAt": "2026-03-09T13:14:19.003Z"
 }
