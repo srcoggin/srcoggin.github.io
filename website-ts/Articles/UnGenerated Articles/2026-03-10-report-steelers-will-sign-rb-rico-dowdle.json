@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Steelers will sign RB Rico Dowdle",
-      "description": "Three pumps for three rivers.",
-      "url": "https://sports.yahoo.com/articles/report-steelers-sign-rb-rico-234532747.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Steelers will sign RB Rico Dowdle",
       "description": "Three pumps for three rivers.",
@@ -26,5 +20,5 @@
     "rivers"
   ],
   "hash": "16e6002a31f03044",
-  "queuedAt": "2026-03-10T02:18:48.128Z"
+  "queuedAt": "2026-03-10T07:04:10.634Z"
 }

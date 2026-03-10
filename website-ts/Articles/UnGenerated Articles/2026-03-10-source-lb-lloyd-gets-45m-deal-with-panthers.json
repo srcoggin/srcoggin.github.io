@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "Source: LB Lloyd gets $45M deal with Panthers",
-      "description": "Former Jaguars linebacker Devin Lloyd agreed to a 3-year, $45 million deal with the Panthers, a source told ESPN's Adam Schefter.",
+      "description": "Former Jaguars linebacker Devin Lloyd agreed to a three-year, $45 million deal with the Panthers, a source told ESPN's Adam Schefter on Monday.",
       "url": "https://www.espn.com/nfl/story/_/id/48158911/lb-devin-lloyd-agrees-3-year-45m-deal-panthers-source-says"
     }
   ],
@@ -21,13 +21,14 @@
     "linebacker",
     "devin",
     "agreed",
-    "3year",
+    "threeyear",
     "million",
     "told",
     "espns",
     "adam",
-    "schefter"
+    "schefter",
+    "monday"
   ],
-  "hash": "8e4a57c159964dda",
-  "queuedAt": "2026-03-10T02:18:51.043Z"
+  "hash": "9683468dcdafd82f",
+  "queuedAt": "2026-03-10T07:04:12.160Z"
 }

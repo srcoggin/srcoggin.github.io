@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "LS Joe Cardona headed to the Rams on a two-year deal",
-      "description": "One of the Rams' priorities this offseason was improving their league-worst special teams.",
-      "url": "https://sports.yahoo.com/articles/ls-joe-cardona-headed-rams-001139255.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "LS Joe Cardona headed to the Rams on a two-year deal",
       "description": "One of the Rams' priorities this offseason was improving their league-worst special teams.",
@@ -33,5 +27,5 @@
     "teams"
   ],
   "hash": "005c817b437964ea",
-  "queuedAt": "2026-03-10T02:18:50.462Z"
+  "queuedAt": "2026-03-10T07:04:20.021Z"
 }

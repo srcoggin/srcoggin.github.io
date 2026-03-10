@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaguars release TE Johnny Mundt",
-      "description": "Although it was hardly a big-money deal, the two-year agreement signed by Jaguars tight end Johnny Mundt illustrates the one-way nature of NFL contracts.",
-      "url": "https://sports.yahoo.com/articles/jaguars-release-te-johnny-mundt-232538862.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaguars release TE Johnny Mundt",
       "description": "Although it was hardly a big-money deal, the two-year agreement signed by Jaguars tight end Johnny Mundt illustrates the one-way nature of NFL contracts.",
@@ -35,5 +29,5 @@
     "contracts"
   ],
   "hash": "22e4c778c689fd28",
-  "queuedAt": "2026-03-10T02:18:50.616Z"
+  "queuedAt": "2026-03-10T07:04:20.358Z"
 }

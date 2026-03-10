@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals agree to terms with OG Isaac Seumalo",
-      "description": "The Cardinals agreed to terms with offensive guard Isaac Seumalo on a three-year, $31.5 million deal, according to multiple reports.",
-      "url": "https://sports.yahoo.com/articles/cardinals-agree-terms-og-isaac-233447340.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals agree to terms with OG Isaac Seumalo",
       "description": "The Cardinals agreed to terms with offensive guard Isaac Seumalo on a three-year, $31.5 million deal, according to multiple reports.",
@@ -33,5 +27,5 @@
     "reports"
   ],
   "hash": "759dabfeb1839f24",
-  "queuedAt": "2026-03-10T02:18:48.191Z"
+  "queuedAt": "2026-03-10T07:04:10.741Z"
 }
