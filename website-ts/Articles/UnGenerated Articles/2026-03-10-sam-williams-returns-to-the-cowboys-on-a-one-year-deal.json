@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sam Williams returns to the Cowboys on a one-year deal",
-      "description": "The Cowboys are keeping one of their own free agents.",
-      "url": "https://sports.yahoo.com/articles/sam-williams-returns-cowboys-one-023444349.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sam Williams returns to the Cowboys on a one-year deal",
       "description": "The Cowboys are keeping one of their own free agents.",
@@ -29,5 +23,5 @@
     "agents"
   ],
   "hash": "1bf881a955b45dcf",
-  "queuedAt": "2026-03-10T07:04:11.201Z"
+  "queuedAt": "2026-03-10T13:13:12.608Z"
 }

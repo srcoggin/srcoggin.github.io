@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "J.K. Dobbins gets two years, $20 million from Broncos",
-      "description": "The numbers are in for Broncos running back J.K.",
-      "url": "https://sports.yahoo.com/articles/j-k-dobbins-gets-two-010354755.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "J.K. Dobbins gets two years, $20 million from Broncos",
       "description": "The numbers are in for Broncos running back J.K.",
@@ -27,5 +21,5 @@
     "back"
   ],
   "hash": "afe67e2a80f873e0",
-  "queuedAt": "2026-03-10T07:04:11.664Z"
+  "queuedAt": "2026-03-10T13:13:12.842Z"
 }

@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots agree to terms with OL Alijah Vera-Tucker",
-      "description": "The Patriots are signing offensive guard Alijah Vera-Tucker to a three-year, $42 million deal worth up to $48 million, Adam Schefter of ESPN reports.",
-      "url": "https://sports.yahoo.com/articles/patriots-agree-terms-ol-alijah-041807304.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots agree to terms with OL Alijah Vera-Tucker",
       "description": "The Patriots are signing offensive guard Alijah Vera-Tucker to a three-year, $42 million deal worth up to $48 million, Adam Schefter of ESPN reports.",
@@ -34,5 +28,5 @@
     "reports"
   ],
   "hash": "d77a70f05c37c4d2",
-  "queuedAt": "2026-03-10T07:04:05.998Z"
+  "queuedAt": "2026-03-10T13:13:04.414Z"
 }

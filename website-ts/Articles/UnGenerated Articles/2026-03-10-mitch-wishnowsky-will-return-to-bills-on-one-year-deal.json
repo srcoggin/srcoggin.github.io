@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mitch Wishnowsky will return to Bills on one-year deal",
-      "description": "The Bills are re-signing punter Mitch Wishnowsky to a one-year deal, Dianna Russini of TheAthletic.com reports.",
-      "url": "https://sports.yahoo.com/articles/mitch-wishnowsky-return-bills-one-011222112.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mitch Wishnowsky will return to Bills on one-year deal",
       "description": "The Bills are re-signing punter Mitch Wishnowsky to a one-year deal, Dianna Russini of TheAthletic.com reports.",
@@ -30,5 +24,5 @@
     "reports"
   ],
   "hash": "dfeba2ad09198c79",
-  "queuedAt": "2026-03-10T07:04:06.594Z"
+  "queuedAt": "2026-03-10T13:13:04.790Z"
 }

@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets agree to terms with S Dane Belton on one-year deal",
-      "description": "The Jets are signing safety Dane Belton to a one-year, $4 million deal, according to Jordan Schultz of The Schultz Report.",
-      "url": "https://sports.yahoo.com/articles/jets-agree-terms-dane-belton-033350610.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets agree to terms with S Dane Belton on one-year deal",
       "description": "The Jets are signing safety Dane Belton to a one-year, $4 million deal, according to Jordan Schultz of The Schultz Report.",
@@ -32,5 +26,5 @@
     "report"
   ],
   "hash": "0716db6859d4bcf0",
-  "queuedAt": "2026-03-10T07:04:06.257Z"
+  "queuedAt": "2026-03-10T13:13:04.512Z"
 }

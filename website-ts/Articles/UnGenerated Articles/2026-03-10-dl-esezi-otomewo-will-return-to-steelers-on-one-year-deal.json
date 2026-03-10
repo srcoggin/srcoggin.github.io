@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "DL Esezi Otomewo will return to Steelers on one-year deal",
-      "description": "The Steelers are re-signing defensive lineman Esezi Otomewo to a one-year deal, Tom Pelissero of NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/dl-esezi-otomewo-return-steelers-005032795.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "DL Esezi Otomewo will return to Steelers on one-year deal",
       "description": "The Steelers are re-signing defensive lineman Esezi Otomewo to a one-year deal, Tom Pelissero of NFL Media reports.",
@@ -31,5 +25,5 @@
     "reports"
   ],
   "hash": "df6b8442617b05a8",
-  "queuedAt": "2026-03-10T07:04:06.703Z"
+  "queuedAt": "2026-03-10T13:13:04.869Z"
 }
