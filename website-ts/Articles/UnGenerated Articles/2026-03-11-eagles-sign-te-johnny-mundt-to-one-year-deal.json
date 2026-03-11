@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles sign TE Johnny Mundt to one-year deal",
-      "description": "Johnny Mundt wasn't unemployed for long.",
-      "url": "https://sports.yahoo.com/articles/eagles-sign-te-johnny-mundt-235024820.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles sign TE Johnny Mundt to one-year deal",
       "description": "Johnny Mundt wasn't unemployed for long.",
@@ -27,5 +21,5 @@
     "long"
   ],
   "hash": "4c557444d91202db",
-  "queuedAt": "2026-03-11T02:21:03.535Z"
+  "queuedAt": "2026-03-11T07:04:47.660Z"
 }

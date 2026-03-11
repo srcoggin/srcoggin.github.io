@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patrick Ricard set to join John Harbaugh with the Giants",
-      "description": "Fullback Patrick Ricard played for John Harbaugh during his first nine NFL seasons and he's set to make it a decade with Harbaugh's new team.",
-      "url": "https://sports.yahoo.com/articles/patrick-ricard-set-join-john-001926393.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patrick Ricard set to join John Harbaugh with the Giants",
       "description": "Fullback Patrick Ricard played for John Harbaugh during his first nine NFL seasons and he's set to make it a decade with Harbaugh's new team.",
@@ -36,5 +30,5 @@
     "new"
   ],
   "hash": "dd04b1249c3b783b",
-  "queuedAt": "2026-03-11T02:21:03.309Z"
+  "queuedAt": "2026-03-11T07:04:47.506Z"
 }

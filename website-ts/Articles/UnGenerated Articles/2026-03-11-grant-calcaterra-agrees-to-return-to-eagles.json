@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Grant Calcaterra agrees to return to Eagles",
-      "description": "Free agent tight end Grant Calcaterra is returning to the Eagles on a one-year deal, Adam Schefter of ESPN reports.",
-      "url": "https://sports.yahoo.com/articles/grant-calcaterra-agrees-return-eagles-002609942.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Grant Calcaterra agrees to return to Eagles",
       "description": "Free agent tight end Grant Calcaterra is returning to the Eagles on a one-year deal, Adam Schefter of ESPN reports.",
@@ -34,5 +28,5 @@
     "reports"
   ],
   "hash": "3d98bffa75d0cb91",
-  "queuedAt": "2026-03-11T02:20:58.390Z"
+  "queuedAt": "2026-03-11T07:04:38.802Z"
 }

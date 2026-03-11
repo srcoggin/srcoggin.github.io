@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jordan Elliott to join the Titans on a two-year deal",
-      "description": "The Titans are signing defensive tackle Jordan Elliott to a two-year, $8 million deal that includes $500,000 in incentives, Adam Schefter of ESPN reports.",
-      "url": "https://sports.yahoo.com/articles/jordan-elliott-join-titans-two-235748377.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jordan Elliott to join the Titans on a two-year deal",
       "description": "The Titans are signing defensive tackle Jordan Elliott to a two-year, $8 million deal that includes $500,000 in incentives, Adam Schefter of ESPN reports.",
@@ -36,5 +30,5 @@
     "reports"
   ],
   "hash": "ee4b9bc06c975d80",
-  "queuedAt": "2026-03-11T02:20:58.495Z"
+  "queuedAt": "2026-03-11T07:04:38.866Z"
 }
