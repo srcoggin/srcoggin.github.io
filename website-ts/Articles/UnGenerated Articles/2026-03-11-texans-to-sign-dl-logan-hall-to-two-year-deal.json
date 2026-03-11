@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Texans to sign DL Logan Hall to two-year deal",
-      "description": "The Texans have agreed to terms with free agent defensive lineman Logan Hall on a two-year, $7 million deal, Tom Pelissero of NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/texans-sign-dl-logan-hall-010448913.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Texans to sign DL Logan Hall to two-year deal",
       "description": "The Texans have agreed to terms with free agent defensive lineman Logan Hall on a two-year, $7 million deal, Tom Pelissero of NFL Media reports.",
@@ -35,5 +29,5 @@
     "reports"
   ],
   "hash": "0cffe74a8c0765fd",
-  "queuedAt": "2026-03-11T07:04:35.676Z"
+  "queuedAt": "2026-03-11T13:13:54.251Z"
 }

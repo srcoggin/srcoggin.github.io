@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chiefs to re-sign WR Nikko Remigio",
-      "description": "The Chiefs are re-signing wide receiver Nikko Remigio, his representation, Equity Sports, posted on social media.",
-      "url": "https://sports.yahoo.com/articles/chiefs-sign-wr-nikko-remigio-021114701.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chiefs to re-sign WR Nikko Remigio",
       "description": "The Chiefs are re-signing wide receiver Nikko Remigio, his representation, Equity Sports, posted on social media.",
@@ -32,5 +26,5 @@
     "media"
   ],
   "hash": "db79245cec74e3e7",
-  "queuedAt": "2026-03-11T07:04:39.554Z"
+  "queuedAt": "2026-03-11T13:14:02.140Z"
 }

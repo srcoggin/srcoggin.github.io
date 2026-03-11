@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Cowboys getting calls about availability of DT Osa Odighizuwa",
-      "description": "The Cowboys are receiving calls about the availability of defensive tackle Osa Odighizuwa, Nick Harris of the Fort Worth Star-Telegram reports.",
-      "url": "https://sports.yahoo.com/articles/report-cowboys-getting-calls-availability-013525789.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Cowboys getting calls about availability of DT Osa Odighizuwa",
       "description": "The Cowboys are receiving calls about the availability of defensive tackle Osa Odighizuwa, Nick Harris of the Fort Worth Star-Telegram reports.",
@@ -35,5 +29,5 @@
     "reports"
   ],
   "hash": "8d7f22f1543c47f2",
-  "queuedAt": "2026-03-11T07:04:35.529Z"
+  "queuedAt": "2026-03-11T13:13:54.164Z"
 }

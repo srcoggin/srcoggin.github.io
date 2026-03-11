@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys agree to terms with QB Sam Howell",
-      "description": "The well-traveled Sam Howell will be traveling again.",
-      "url": "https://sports.yahoo.com/articles/cowboys-agree-terms-qb-sam-020018723.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys agree to terms with QB Sam Howell",
       "description": "The well-traveled Sam Howell will be traveling again.",
@@ -25,5 +19,5 @@
     "traveling"
   ],
   "hash": "854c41ea47065c3e",
-  "queuedAt": "2026-03-11T07:04:39.624Z"
+  "queuedAt": "2026-03-11T13:14:02.219Z"
 }

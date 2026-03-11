@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Since Geno Smith's time as Jets' QB1 ended, they've had 13 starting quarterbacks",
-      "description": "Drafted in 2013, Geno Smith was the Jets' starting quarterback for both of his first two years in the NFL.",
-      "url": "https://sports.yahoo.com/articles/since-geno-smiths-time-jets-033602581.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Since Geno Smith's time as Jets' QB1 ended, they've had 13 starting quarterbacks",
       "description": "Drafted in 2013, Geno Smith was the Jets' starting quarterback for both of his first two years in the NFL.",
@@ -37,5 +31,5 @@
     "years"
   ],
   "hash": "95c318e417a571ae",
-  "queuedAt": "2026-03-11T07:04:39.407Z"
+  "queuedAt": "2026-03-11T13:14:01.581Z"
 }
