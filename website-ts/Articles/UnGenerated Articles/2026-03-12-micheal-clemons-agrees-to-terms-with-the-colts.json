@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Micheal Clemons agrees to terms with the Colts",
-      "description": "The Colts have added defensive lineman Micheal Clemons, who agreed to a three-year, $17.5 million deal, according to Jordan Schultz of The Schultz Report.",
-      "url": "https://sports.yahoo.com/articles/micheal-clemons-agrees-terms-colts-013152617.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Micheal Clemons agrees to terms with the Colts",
       "description": "The Colts have added defensive lineman Micheal Clemons, who agreed to a three-year, $17.5 million deal, according to Jordan Schultz of The Schultz Report.",
@@ -36,5 +30,5 @@
     "report"
   ],
   "hash": "a1b647570a2ed085",
-  "queuedAt": "2026-03-12T07:05:44.763Z"
+  "queuedAt": "2026-03-12T13:15:52.437Z"
 }

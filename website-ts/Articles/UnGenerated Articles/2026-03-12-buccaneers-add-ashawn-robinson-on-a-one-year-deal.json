@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Buccaneers add A'Shawn Robinson on a one-year deal",
-      "description": "The rivalry between the Panthers and the Buccaneers has gotten a little boost.",
-      "url": "https://sports.yahoo.com/articles/buccaneers-add-ashawn-robinson-one-234918170.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Buccaneers add A'Shawn Robinson on a one-year deal",
       "description": "The rivalry between the Panthers and the Buccaneers has gotten a little boost.",
@@ -29,5 +23,5 @@
     "boost"
   ],
   "hash": "121bf5a44980e112",
-  "queuedAt": "2026-03-12T07:05:47.330Z"
+  "queuedAt": "2026-03-12T13:16:04.477Z"
 }

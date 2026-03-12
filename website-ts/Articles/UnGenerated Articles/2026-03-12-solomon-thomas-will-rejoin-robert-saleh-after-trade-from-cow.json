@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Solomon Thomas will rejoin Robert Saleh after trade from Cowboys",
-      "description": "The Cowboys have made a second trade on Wednesday, sending defensive lineman Solomon Thomas to the Titans, Adam Schefter of ESPN reports.",
-      "url": "https://sports.yahoo.com/articles/solomon-thomas-rejoin-robert-saleh-230551931.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Solomon Thomas will rejoin Robert Saleh after trade from Cowboys",
       "description": "The Cowboys have made a second trade on Wednesday, sending defensive lineman Solomon Thomas to the Titans, Adam Schefter of ESPN reports.",
@@ -36,5 +30,5 @@
     "reports"
   ],
   "hash": "6eecebcc7d0db125",
-  "queuedAt": "2026-03-12T07:05:44.886Z"
+  "queuedAt": "2026-03-12T13:15:52.996Z"
 }
