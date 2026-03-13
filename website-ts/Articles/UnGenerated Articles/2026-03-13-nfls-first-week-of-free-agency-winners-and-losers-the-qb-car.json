@@ -5,7 +5,7 @@
     {
       "name": "Yahoo Sports NFL",
       "title": "NFL's first week of free agency winners and losers: The QB carousel was just as bad as everyone thought for some teams",
-      "description": "Some teams are still looking for an answer at quarterback.",
+      "description": "Some teams are still looking for an answer at quarterback. Meanwhile, others have at least bridge options.",
       "url": "https://sports.yahoo.com/nfl/article/nfls-first-week-of-free-agency-winners-and-losers-the-qb-carousel-was-just-as-bad-as-everyone-thought-for-some-teams-070138637.html"
     }
   ],
@@ -24,8 +24,13 @@
     "still",
     "looking",
     "answer",
-    "quarterback"
+    "quarterback",
+    "meanwhile",
+    "others",
+    "least",
+    "bridge",
+    "options"
   ],
-  "hash": "86148e6462c9ac61",
-  "queuedAt": "2026-03-13T07:08:44.317Z"
+  "hash": "3469e6e576c15b98",
+  "queuedAt": "2026-03-13T13:11:37.668Z"
 }

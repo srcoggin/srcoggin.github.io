@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Tomlin on time in Pittsburgh: We were here for a long and really good time",
-      "description": "Mike Tomlin resigned from the Steelers on Jan. 13, stepping away after 19 seasons with a 175-word statement.",
-      "url": "https://sports.yahoo.com/articles/mike-tomlin-time-pittsburgh-were-004306960.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Tomlin on time in Pittsburgh: We were here for a long and really good time",
       "description": "Mike Tomlin resigned from the Steelers on Jan. 13, stepping away after 19 seasons with a 175-word statement.",
@@ -33,5 +27,5 @@
     "statement"
   ],
   "hash": "adb8414532679ea3",
-  "queuedAt": "2026-03-13T07:08:42.475Z"
+  "queuedAt": "2026-03-13T13:11:40.692Z"
 }

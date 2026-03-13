@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chiefs agree to terms with RB Emari Demercado",
-      "description": "Kenneth Walker isn't the only running back the Chiefs are signing.",
-      "url": "https://sports.yahoo.com/articles/chiefs-agree-terms-rb-emari-005345944.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chiefs agree to terms with RB Emari Demercado",
       "description": "Kenneth Walker isn't the only running back the Chiefs are signing.",
@@ -29,5 +23,5 @@
     "signing"
   ],
   "hash": "e38976fea3bf291a",
-  "queuedAt": "2026-03-13T07:08:42.368Z"
+  "queuedAt": "2026-03-13T13:11:40.603Z"
 }

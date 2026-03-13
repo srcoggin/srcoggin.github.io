@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles agree to terms with CB Jonathan Jones",
-      "description": "The Eagles have agreed to terms with cornerback Jonathan Jones on a one-year deal, Ian Rapoport of NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/eagles-agree-terms-cb-jonathan-000907130.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles agree to terms with CB Jonathan Jones",
       "description": "The Eagles have agreed to terms with cornerback Jonathan Jones on a one-year deal, Ian Rapoport of NFL Media reports.",
@@ -31,5 +25,5 @@
     "reports"
   ],
   "hash": "23a3066e026cf159",
-  "queuedAt": "2026-03-13T07:08:38.551Z"
+  "queuedAt": "2026-03-13T13:11:32.886Z"
 }
