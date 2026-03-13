@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers agree to terms with former Bears S Jaquan Brisker",
-      "description": "The Bears will now be without both of their starting safeties from 2025.",
-      "url": "https://sports.yahoo.com/articles/steelers-agree-terms-former-bears-231733048.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers agree to terms with former Bears S Jaquan Brisker",
       "description": "The Bears will now be without both of their starting safeties from 2025.",
@@ -32,5 +26,5 @@
     "2025"
   ],
   "hash": "dcdaae7df328639b",
-  "queuedAt": "2026-03-13T02:28:58.108Z"
+  "queuedAt": "2026-03-13T07:08:51.269Z"
 }
