@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers, OT Rasheed Walker agree to one-year deal",
-      "description": "The Panthers have added an offensive tackle.",
-      "url": "https://sports.yahoo.com/articles/panthers-ot-rasheed-walker-agree-203715848.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers, OT Rasheed Walker agree to one-year deal",
       "description": "The Panthers have added an offensive tackle.",
@@ -27,5 +21,5 @@
     "tackle"
   ],
   "hash": "9c37983cb0fc66ee",
-  "queuedAt": "2026-03-14T02:33:24.590Z"
+  "queuedAt": "2026-03-14T06:58:57.285Z"
 }

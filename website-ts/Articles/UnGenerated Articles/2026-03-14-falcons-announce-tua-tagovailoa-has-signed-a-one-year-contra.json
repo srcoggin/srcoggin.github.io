@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons announce Tua Tagovailoa has signed a one-year contract",
-      "description": "Tua Tagovailoa is officially a Falcon.",
-      "url": "https://sports.yahoo.com/articles/falcons-announce-tua-tagovailoa-signed-210645364.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons announce Tua Tagovailoa has signed a one-year contract",
       "description": "Tua Tagovailoa is officially a Falcon.",
@@ -27,5 +21,5 @@
     "falcon"
   ],
   "hash": "0d1d6a30e75957ba",
-  "queuedAt": "2026-03-14T02:33:20.729Z"
+  "queuedAt": "2026-03-14T06:58:53.364Z"
 }
