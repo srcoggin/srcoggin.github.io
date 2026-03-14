@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "DB Elijah Campbell agrees to sign with Giants",
-      "description": "The Giants are adding a piece to their secondary on Friday.",
-      "url": "https://sports.yahoo.com/articles/db-elijah-campbell-agrees-sign-213113235.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "DB Elijah Campbell agrees to sign with Giants",
       "description": "The Giants are adding a piece to their secondary on Friday.",
@@ -28,5 +22,5 @@
     "friday"
   ],
   "hash": "e8153e7787812de2",
-  "queuedAt": "2026-03-14T06:58:53.952Z"
+  "queuedAt": "2026-03-14T13:03:45.176Z"
 }

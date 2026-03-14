@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dolphins, David Ojabo agree to contract",
-      "description": "Edge rusher David Ojabo is moving on to the Dolphins.",
-      "url": "https://sports.yahoo.com/articles/dolphins-david-ojabo-agree-contract-221142003.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dolphins, David Ojabo agree to contract",
       "description": "Edge rusher David Ojabo is moving on to the Dolphins.",
@@ -26,5 +20,5 @@
     "moving"
   ],
   "hash": "f973ef31080128db",
-  "queuedAt": "2026-03-14T06:58:53.888Z"
+  "queuedAt": "2026-03-14T13:03:45.041Z"
 }

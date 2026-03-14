@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Texans release DTs Mario Edwards Jr., Kurt Hinish",
-      "description": "The Texans announced a series of moves on Friday.",
-      "url": "https://sports.yahoo.com/articles/texans-release-dts-mario-edwards-212701342.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Texans release DTs Mario Edwards Jr., Kurt Hinish",
       "description": "The Texans announced a series of moves on Friday.",
@@ -29,5 +23,5 @@
     "friday"
   ],
   "hash": "1cac5d08389fbecd",
-  "queuedAt": "2026-03-14T06:58:52.336Z"
+  "queuedAt": "2026-03-14T13:03:39.861Z"
 }
