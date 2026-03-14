@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns agree to terms with DT Kalia Davis",
-      "description": "The Browns have agreed to terms with defensive tackle Kalia Davis on a one-year deal worth up to $3 million, Mike Garafolo of NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/browns-agree-terms-dt-kalia-014108751.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns agree to terms with DT Kalia Davis",
       "description": "The Browns have agreed to terms with defensive tackle Kalia Davis on a one-year deal worth up to $3 million, Mike Garafolo of NFL Media reports.",
@@ -44,5 +38,5 @@
     "lineman"
   ],
   "hash": "c2b468c8978f2bfc",
-  "queuedAt": "2026-03-14T13:03:38.288Z"
+  "queuedAt": "2026-03-14T18:52:17.005Z"
 }

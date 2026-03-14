@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions to sign CB Roger McCreary to one-year deal",
-      "description": "The Lions have reached a deal with their second free agent defensive back of the week.",
-      "url": "https://sports.yahoo.com/articles/lions-sign-cb-roger-mccreary-224413751.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions to sign CB Roger McCreary to one-year deal",
       "description": "The Lions have reached a deal with their second free agent defensive back of the week.",
@@ -31,5 +25,5 @@
     "back"
   ],
   "hash": "ed080e8e3c8f7e34",
-  "queuedAt": "2026-03-14T13:03:40.243Z"
+  "queuedAt": "2026-03-14T18:52:30.986Z"
 }

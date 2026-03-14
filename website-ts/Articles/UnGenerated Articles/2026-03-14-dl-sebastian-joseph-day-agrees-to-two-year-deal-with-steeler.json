@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "DL Sebastian Joseph-Day agrees to two-year deal with Steelers",
-      "description": "Free agent defensive lineman Sebastian Joseph-Day is signing a two-year, $11 million deal with the Steelers, Adam Schefter of ESPN reports.",
-      "url": "https://sports.yahoo.com/articles/dl-sebastian-joseph-day-agrees-223007959.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "DL Sebastian Joseph-Day agrees to two-year deal with Steelers",
       "description": "Free agent defensive lineman Sebastian Joseph-Day is signing a two-year, $11 million deal with the Steelers, Adam Schefter of ESPN reports.",
@@ -34,5 +28,5 @@
     "reports"
   ],
   "hash": "291a9f1f4664da81",
-  "queuedAt": "2026-03-14T13:03:38.552Z"
+  "queuedAt": "2026-03-14T18:52:19.558Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts agree to terms with S Juanyeh Thomas",
-      "description": "The Colts are signing free agent safety Juanyeh Thomas, according to Jordan Schultz of The Schultz Report.",
-      "url": "https://sports.yahoo.com/articles/colts-agree-terms-juanyeh-thomas-225950594.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts agree to terms with S Juanyeh Thomas",
       "description": "The Colts are signing free agent safety Juanyeh Thomas, according to Jordan Schultz of The Schultz Report.",
@@ -31,5 +25,5 @@
     "report"
   ],
   "hash": "561d7bc50a27d557",
-  "queuedAt": "2026-03-14T13:03:38.498Z"
+  "queuedAt": "2026-03-14T18:52:19.449Z"
 }

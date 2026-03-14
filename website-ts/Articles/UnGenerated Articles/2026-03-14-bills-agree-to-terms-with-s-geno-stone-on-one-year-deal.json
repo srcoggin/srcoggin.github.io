@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dolphins agree to terms with WR Jalen Tolbert",
-      "description": "The Dolphins are signing wide receiver Jalen Tolbert to a one-year deal, according to Jordan Schultz of The Schultz Report.",
-      "url": "https://sports.yahoo.com/articles/dolphins-agree-terms-wr-jalen-232026284.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dolphins agree to terms with WR Jalen Tolbert",
       "description": "The Dolphins are signing wide receiver Jalen Tolbert to a one-year deal, according to Jordan Schultz of The Schultz Report.",
@@ -43,5 +37,5 @@
     "smith"
   ],
   "hash": "2545b20ca033093e",
-  "queuedAt": "2026-03-14T13:03:38.364Z"
+  "queuedAt": "2026-03-14T18:52:17.122Z"
 }
