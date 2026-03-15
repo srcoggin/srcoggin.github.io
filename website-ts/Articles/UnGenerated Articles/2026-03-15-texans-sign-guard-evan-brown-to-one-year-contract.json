@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Texans sign guard Evan Brown to one-year contract",
-      "description": "The Texans are adding another piece to their offensive line.",
-      "url": "https://sports.yahoo.com/articles/texans-sign-guard-evan-brown-211754044.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Texans sign guard Evan Brown to one-year contract",
       "description": "The Texans are adding another piece to their offensive line.",
@@ -31,5 +25,5 @@
     "line"
   ],
   "hash": "3b54fbffd61624f3",
-  "queuedAt": "2026-03-15T13:10:10.569Z"
+  "queuedAt": "2026-03-15T18:51:25.764Z"
 }

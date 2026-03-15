@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks agree to terms with CB Noah Igbinoghene",
-      "description": "The Seahawks have agreed to terms on a one-year deal with cornerback Noah Igbinoghene, Michael-Shawn Dugar of TheAthletic.com reports.",
-      "url": "https://sports.yahoo.com/articles/seahawks-agree-terms-cb-noah-002229650.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks agree to terms with CB Noah Igbinoghene",
       "description": "The Seahawks have agreed to terms on a one-year deal with cornerback Noah Igbinoghene, Michael-Shawn Dugar of TheAthletic.com reports.",
@@ -31,5 +25,5 @@
     "reports"
   ],
   "hash": "0984e4b66f9c3d8a",
-  "queuedAt": "2026-03-15T13:10:08.188Z"
+  "queuedAt": "2026-03-15T18:51:17.436Z"
 }

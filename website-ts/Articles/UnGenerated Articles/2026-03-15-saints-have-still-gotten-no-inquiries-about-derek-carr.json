@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saints have still gotten no inquiries about Derek Carr",
-      "description": "He said last month he'll play for a Super Bowl contender, but there's no current interest.",
-      "url": "https://sports.yahoo.com/articles/saints-still-gotten-no-inquiries-010449047.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saints have still gotten no inquiries about Derek Carr",
       "description": "He said last month he'll play for a Super Bowl contender, but there's no current interest.",
@@ -36,5 +30,5 @@
     "interest"
   ],
   "hash": "4386d5ceb76262a4",
-  "queuedAt": "2026-03-15T13:10:10.343Z"
+  "queuedAt": "2026-03-15T18:51:25.568Z"
 }

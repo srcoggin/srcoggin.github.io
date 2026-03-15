@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "TE Mo Alie-Cox will return to Colts on a one-year deal",
-      "description": "The Colts are re-signing veteran tight end Mo Alie-Cox to a one-year deal, according to Jordan Schultz of The Schultz Report.",
-      "url": "https://sports.yahoo.com/articles/te-mo-alie-cox-return-233927550.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "TE Mo Alie-Cox will return to Colts on a one-year deal",
       "description": "The Colts are re-signing veteran tight end Mo Alie-Cox to a one-year deal, according to Jordan Schultz of The Schultz Report.",
@@ -31,5 +25,5 @@
     "report"
   ],
   "hash": "0baa9b3c55fa6d65",
-  "queuedAt": "2026-03-15T13:10:08.491Z"
+  "queuedAt": "2026-03-15T18:51:17.604Z"
 }

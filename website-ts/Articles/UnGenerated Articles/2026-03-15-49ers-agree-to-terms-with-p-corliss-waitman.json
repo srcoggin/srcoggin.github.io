@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers agree to terms with P Corliss Waitman",
-      "description": "Free agent punter Corliss Waitman is signing with the 49ers, Tom Pelissero of NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/49ers-agree-terms-p-corliss-221545912.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers agree to terms with P Corliss Waitman",
       "description": "Free agent punter Corliss Waitman is signing with the 49ers, Tom Pelissero of NFL Media reports.",
@@ -31,5 +25,5 @@
     "reports"
   ],
   "hash": "1c5f25bc6aec568a",
-  "queuedAt": "2026-03-15T13:10:08.598Z"
+  "queuedAt": "2026-03-15T18:51:17.713Z"
 }

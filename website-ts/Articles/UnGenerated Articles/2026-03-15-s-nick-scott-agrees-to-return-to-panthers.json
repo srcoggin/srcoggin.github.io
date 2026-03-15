@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "S Nick Scott agrees to return to Panthers",
-      "description": "The Panthers are re-signing starting safety Nick Scott, Joe Person of TheAthletic.com reports.",
-      "url": "https://sports.yahoo.com/articles/nick-scott-agrees-return-panthers-235905752.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "S Nick Scott agrees to return to Panthers",
       "description": "The Panthers are re-signing starting safety Nick Scott, Joe Person of TheAthletic.com reports.",
@@ -30,5 +24,5 @@
     "reports"
   ],
   "hash": "6054003ad4020960",
-  "queuedAt": "2026-03-15T13:10:08.327Z"
+  "queuedAt": "2026-03-15T18:51:17.523Z"
 }

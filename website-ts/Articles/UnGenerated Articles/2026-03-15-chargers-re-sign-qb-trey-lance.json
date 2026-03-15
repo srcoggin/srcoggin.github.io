@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chargers re-sign QB Trey Lance",
-      "description": "New Chargers offensive coordinator Mike McDaniel will be working with a backup quarterback who was already in L.A.",
-      "url": "https://sports.yahoo.com/articles/chargers-sign-qb-trey-lance-201644352.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chargers re-sign QB Trey Lance",
       "description": "New Chargers offensive coordinator Mike McDaniel will be working with a backup quarterback who was already in L.A.",
@@ -32,5 +26,5 @@
     "already"
   ],
   "hash": "2172af3a9c388971",
-  "queuedAt": "2026-03-15T13:10:10.671Z"
+  "queuedAt": "2026-03-15T18:51:25.858Z"
 }
