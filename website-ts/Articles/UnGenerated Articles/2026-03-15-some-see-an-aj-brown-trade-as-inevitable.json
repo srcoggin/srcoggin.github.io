@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Some see an A.J. Brown trade as inevitable",
-      "description": "The Rams were in it, we're told, but they've tapped out.",
-      "url": "https://sports.yahoo.com/articles/see-j-brown-trade-inevitable-175528978.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Some see an A.J. Brown trade as inevitable",
       "description": "The Rams were in it, we're told, but they've tapped out.",
@@ -27,5 +21,5 @@
     "out"
   ],
   "hash": "72c7976fff2efaf3",
-  "queuedAt": "2026-03-15T07:11:38.745Z"
+  "queuedAt": "2026-03-15T13:10:19.593Z"
 }
