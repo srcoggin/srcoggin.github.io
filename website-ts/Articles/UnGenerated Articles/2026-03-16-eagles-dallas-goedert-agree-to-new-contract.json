@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles, Dallas Goedert agree to new contract",
-      "description": "The tight end will remain for his ninth season in Philadelphia.",
-      "url": "https://sports.yahoo.com/articles/eagles-dallas-goedert-agree-contract-202108830.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles, Dallas Goedert agree to new contract",
       "description": "The tight end will remain for his ninth season in Philadelphia.",
@@ -30,5 +24,5 @@
     "philadelphia"
   ],
   "hash": "4abbd7c3dd40cf91",
-  "queuedAt": "2026-03-16T07:29:15.925Z"
+  "queuedAt": "2026-03-16T13:30:49.791Z"
 }

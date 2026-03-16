@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Trent McDuffie: Rams' goal bringing me in is the Lombardi Trophy",
-      "description": "New Rams cornerback Trent McDuffie says there's no secret about what the Rams hope comes from trading for him: Winning the Super Bowl.",
-      "url": "https://sports.yahoo.com/articles/trent-mcduffie-rams-goal-bringing-164849756.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Trent McDuffie: Rams' goal bringing me in is the Lombardi Trophy",
       "description": "New Rams cornerback Trent McDuffie says there's no secret about what the Rams hope comes from trading for him: Winning the Super Bowl.",
@@ -39,5 +33,5 @@
     "bowl"
   ],
   "hash": "5634fa20e4066305",
-  "queuedAt": "2026-03-16T07:29:16.063Z"
+  "queuedAt": "2026-03-16T13:30:50.004Z"
 }

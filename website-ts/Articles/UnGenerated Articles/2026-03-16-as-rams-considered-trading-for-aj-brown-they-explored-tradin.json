@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "As Rams considered trading for A.J. Brown, they explored trading Davante Adams",
-      "description": "The Rams recently had trade talks with the Eagles for receiver A.J.",
-      "url": "https://sports.yahoo.com/articles/rams-considered-trading-j-brown-175745756.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "As Rams considered trading for A.J. Brown, they explored trading Davante Adams",
       "description": "The Rams recently had trade talks with the Eagles for receiver A.J.",
@@ -31,5 +25,5 @@
     "receiver"
   ],
   "hash": "9b6ce2eecaa7a0b1",
-  "queuedAt": "2026-03-16T07:29:15.995Z"
+  "queuedAt": "2026-03-16T13:30:49.897Z"
 }

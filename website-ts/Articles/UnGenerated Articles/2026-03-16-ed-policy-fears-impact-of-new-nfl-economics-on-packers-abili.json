@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ed Policy fears impact of new NFL economics on Packers' ability to compete",
-      "description": "Spurred by the ability to sell pieces of teams to private-equity funds, plenty of NFL owners have been converting slivers of equity into stacks of cash.",
-      "url": "https://sports.yahoo.com/articles/ed-policy-fears-impact-nfl-153840260.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ed Policy fears impact of new NFL economics on Packers' ability to compete",
       "description": "Spurred by the ability to sell pieces of teams to private-equity funds, plenty of NFL owners have been converting slivers of equity into stacks of cash.",
@@ -39,5 +33,5 @@
     "cash"
   ],
   "hash": "03f79ad1c6f11709",
-  "queuedAt": "2026-03-16T07:29:16.129Z"
+  "queuedAt": "2026-03-16T13:30:50.106Z"
 }
