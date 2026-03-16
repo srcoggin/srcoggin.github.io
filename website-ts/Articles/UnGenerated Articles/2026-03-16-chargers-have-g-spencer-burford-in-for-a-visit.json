@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chargers have G Spencer Burford in for a visit",
-      "description": "The Chargers are meeting with a potential addition to their offensive line to kick off the second week of free agency.",
-      "url": "https://sports.yahoo.com/articles/chargers-g-spencer-burford-visit-104657687.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chargers have G Spencer Burford in for a visit",
       "description": "The Chargers are meeting with a potential addition to their offensive line to kick off the second week of free agency.",
@@ -33,5 +27,5 @@
     "agency"
   ],
   "hash": "ff8944ce5f561e22",
-  "queuedAt": "2026-03-16T13:30:41.856Z"
+  "queuedAt": "2026-03-16T19:15:10.796Z"
 }
