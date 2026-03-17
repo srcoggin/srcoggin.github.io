@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams sign LB Grant Stuard",
-      "description": "Linebacker Grant Stuard is joining the Rams.",
-      "url": "https://sports.yahoo.com/articles/rams-sign-lb-grant-stuard-211430325.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams sign LB Grant Stuard",
       "description": "Linebacker Grant Stuard is joining the Rams.",
@@ -24,5 +18,5 @@
     "joining"
   ],
   "hash": "e0c91a982532c3bc",
-  "queuedAt": "2026-03-17T07:20:03.182Z"
+  "queuedAt": "2026-03-17T13:32:04.766Z"
 }

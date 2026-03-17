@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers add wide receiver Christian Kirk",
-      "description": "The 49ers have made another addition to their wide receiver corps.",
-      "url": "https://sports.yahoo.com/articles/49ers-add-wide-receiver-christian-202518261.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers add wide receiver Christian Kirk",
       "description": "The 49ers have made another addition to their wide receiver corps.",
@@ -29,5 +23,5 @@
     "corps"
   ],
   "hash": "6baf82973ee5f3e5",
-  "queuedAt": "2026-03-17T07:20:03.417Z"
+  "queuedAt": "2026-03-17T13:32:05.000Z"
 }

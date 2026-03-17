@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots sign LS Niko Lalos",
-      "description": "The Patriots signed free agent long snapper Niko Lalos on Monday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/patriots-sign-ls-niko-lalos-203221316.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots sign LS Niko Lalos",
       "description": "The Patriots signed free agent long snapper Niko Lalos on Monday, the team announced.",
@@ -29,5 +23,5 @@
     "announced"
   ],
   "hash": "ed3aec8e6b414085",
-  "queuedAt": "2026-03-17T07:20:00.884Z"
+  "queuedAt": "2026-03-17T13:31:55.133Z"
 }

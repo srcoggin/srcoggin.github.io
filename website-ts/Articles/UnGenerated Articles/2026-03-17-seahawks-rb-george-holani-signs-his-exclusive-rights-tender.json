@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks RB George Holani signs his exclusive rights tender",
-      "description": "Running back Ssigned his exclusive rights free agent tender on Monday, the Seahawks announced.",
-      "url": "https://sports.yahoo.com/articles/seahawks-rb-george-holani-signs-221446009.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks RB George Holani signs his exclusive rights tender",
       "description": "Running back Ssigned his exclusive rights free agent tender on Monday, the Seahawks announced.",
@@ -33,5 +27,5 @@
     "announced"
   ],
   "hash": "c01d2ad4fc0623eb",
-  "queuedAt": "2026-03-17T07:20:00.774Z"
+  "queuedAt": "2026-03-17T13:31:54.910Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Free agent C Ryan Bates visits Giants",
-      "description": "The Giants hosted center Ryan Bates on a free agent visit on Monday.",
-      "url": "https://sports.yahoo.com/articles/free-agent-c-ryan-bates-213023258.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Free agent C Ryan Bates visits Giants",
       "description": "The Giants hosted center Ryan Bates on a free agent visit on Monday.",
@@ -28,5 +22,5 @@
     "monday"
   ],
   "hash": "42450c6f7462d052",
-  "queuedAt": "2026-03-17T07:20:03.084Z"
+  "queuedAt": "2026-03-17T13:32:04.637Z"
 }
