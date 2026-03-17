@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jerry Jones: If Cowboys had played a lick of defense, we would've had a playoff run",
-      "description": "\"When you have the challenges we had last year, there’s no place to go but up on the defensive side of the ball,\" Jones said.",
-      "url": "https://sports.yahoo.com/articles/jerry-jones-cowboys-had-played-072656162.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jerry Jones: If Cowboys had played a lick of defense, we would've had a playoff run",
       "description": "\"When you have the challenges we had last year, there’s no place to go but up on the defensive side of the ball,\" Jones said.",
@@ -36,5 +30,5 @@
     "said"
   ],
   "hash": "9c339259a04ffb0e",
-  "queuedAt": "2026-03-17T13:31:55.478Z"
+  "queuedAt": "2026-03-17T19:19:04.772Z"
 }
