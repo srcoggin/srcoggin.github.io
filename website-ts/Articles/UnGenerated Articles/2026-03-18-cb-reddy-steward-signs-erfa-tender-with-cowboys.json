@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "CB Reddy Steward signs ERFA tender with Cowboys",
-      "description": "Cornerback Reddy Steward wasn't able to talk to other teams after being tendered by the Cowboys as an exclusive rights free agent and he's now officially back on the roster in Dallas.",
-      "url": "https://sports.yahoo.com/articles/cb-reddy-steward-signs-erfa-123948861.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "CB Reddy Steward signs ERFA tender with Cowboys",
       "description": "Cornerback Reddy Steward wasn't able to talk to other teams after being tendered by the Cowboys as an exclusive rights free agent and he's now officially back on the roster in Dallas.",
@@ -40,5 +34,5 @@
     "dallas"
   ],
   "hash": "76b195bb4d0b5a01",
-  "queuedAt": "2026-03-18T13:31:56.235Z"
+  "queuedAt": "2026-03-18T19:18:44.576Z"
 }
