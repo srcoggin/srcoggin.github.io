@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saints' Beanie Bishop suspended for first three games of the regular season",
-      "description": "Saints defensive back Beanie Bishop is no lock to make the team's regular-season roster, but whether he does or not, he won't be able to play at the start of the season.",
-      "url": "https://sports.yahoo.com/articles/saints-beanie-bishop-suspended-first-204550478.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saints' Beanie Bishop suspended for first three games of the regular season",
       "description": "Saints defensive back Beanie Bishop is no lock to make the team's regular-season roster, but whether he does or not, he won't be able to play at the start of the season.",
@@ -38,5 +32,5 @@
     "start"
   ],
   "hash": "b1f050f2adbb64a9",
-  "queuedAt": "2026-03-18T07:13:02.089Z"
+  "queuedAt": "2026-03-18T13:32:09.581Z"
 }

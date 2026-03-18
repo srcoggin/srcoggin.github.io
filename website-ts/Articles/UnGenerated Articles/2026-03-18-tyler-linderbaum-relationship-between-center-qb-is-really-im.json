@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tyler Linderbaum: Relationship between center, QB is really important",
-      "description": "The Raiders have a new veteran center and — presumably — will have a quarterback selected at No. 1 overall in this year's draft next month.",
-      "url": "https://sports.yahoo.com/articles/tyler-linderbaum-relationship-between-center-203036963.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tyler Linderbaum: Relationship between center, QB is really important",
       "description": "The Raiders have a new veteran center and — presumably — will have a quarterback selected at No. 1 overall in this year's draft next month.",
@@ -36,5 +30,5 @@
     "month"
   ],
   "hash": "3a2edafcf04c93cd",
-  "queuedAt": "2026-03-18T07:13:02.270Z"
+  "queuedAt": "2026-03-18T13:32:09.783Z"
 }

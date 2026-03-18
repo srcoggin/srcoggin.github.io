@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders re-sign restricted free agent Thomas Booker",
-      "description": "The Raiders re-signed restricted free agent Thomas Booker IV, the team announced Tuesday.",
-      "url": "https://sports.yahoo.com/articles/raiders-sign-restricted-free-agent-235948030.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders re-sign restricted free agent Thomas Booker",
       "description": "The Raiders re-signed restricted free agent Thomas Booker IV, the team announced Tuesday.",
@@ -28,5 +22,5 @@
     "tuesday"
   ],
   "hash": "bb88f59f4b275c4e",
-  "queuedAt": "2026-03-18T07:13:00.705Z"
+  "queuedAt": "2026-03-18T13:31:58.131Z"
 }

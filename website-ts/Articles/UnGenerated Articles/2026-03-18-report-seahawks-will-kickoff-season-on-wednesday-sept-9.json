@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Seahawks will kickoff season on Wednesday, Sept. 9",
-      "description": "The game between the 49ers and Rams in Australia is scheduled for Thursday, Sept. 10.",
-      "url": "https://sports.yahoo.com/articles/report-seahawks-kickoff-season-wednesday-214704662.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Seahawks will kickoff season on Wednesday, Sept. 9",
       "description": "The game between the 49ers and Rams in Australia is scheduled for Thursday, Sept. 10.",
@@ -28,5 +22,5 @@
     "thursday"
   ],
   "hash": "ef68df1a2608117e",
-  "queuedAt": "2026-03-18T07:13:00.857Z"
+  "queuedAt": "2026-03-18T13:31:57.884Z"
 }

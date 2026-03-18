@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers to honor Bob Harlan's memory by installing his name on the Lambeau facade",
-      "description": "The Packers will honor the memory of Bob Harlan, announcing Tuesday that they will install the name of the team's former president and CEO on Lambeau Field's northeast facade.",
-      "url": "https://sports.yahoo.com/articles/packers-honor-bob-harlans-memory-211529877.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers to honor Bob Harlan's memory by installing his name on the Lambeau facade",
       "description": "The Packers will honor the memory of Bob Harlan, announcing Tuesday that they will install the name of the team's former president and CEO on Lambeau Field's northeast facade.",
@@ -40,5 +34,5 @@
     "northeast"
   ],
   "hash": "9047ac7f586e1cd7",
-  "queuedAt": "2026-03-18T07:13:01.959Z"
+  "queuedAt": "2026-03-18T13:32:09.253Z"
 }

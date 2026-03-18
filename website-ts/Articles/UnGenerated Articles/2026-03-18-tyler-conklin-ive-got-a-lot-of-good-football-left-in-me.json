@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tyler Conklin: I've got a lot of good football left in me",
-      "description": "Despite playing with one of the league's best quarterbacks last season with the Chargers, tight end Tyler Conklin had his worst season since 2019.",
-      "url": "https://sports.yahoo.com/articles/tyler-conklin-ive-got-lot-203739241.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tyler Conklin: I've got a lot of good football left in me",
       "description": "Despite playing with one of the league's best quarterbacks last season with the Chargers, tight end Tyler Conklin had his worst season since 2019.",
@@ -39,5 +33,5 @@
     "2019"
   ],
   "hash": "24255b6589e8263b",
-  "queuedAt": "2026-03-18T07:13:02.208Z"
+  "queuedAt": "2026-03-18T13:32:09.685Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders sign OG Spencer Burford",
-      "description": "The Raiders signed offensive guard Spencer Burford on Tuesday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/raiders-sign-og-spencer-burford-004652124.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders sign OG Spencer Burford",
       "description": "The Raiders signed offensive guard Spencer Burford on Tuesday, the team announced.",
@@ -27,5 +21,5 @@
     "announced"
   ],
   "hash": "b0dea105ff91d760",
-  "queuedAt": "2026-03-18T07:13:00.644Z"
+  "queuedAt": "2026-03-18T13:31:57.985Z"
 }

@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Special teams standout Chazz Surratt will return to Seahawks on a one-year deal",
-      "description": "The Seahawks are re-signing inside linebacker and core special teams player Chazz Surratt to a one-year deal, Aaron Wilson of KPRC reports.",
-      "url": "https://sports.yahoo.com/articles/special-teams-standout-chazz-surratt-205547726.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Special teams standout Chazz Surratt will return to Seahawks on a one-year deal",
       "description": "The Seahawks are re-signing inside linebacker and core special teams player Chazz Surratt to a one-year deal, Aaron Wilson of KPRC reports.",
@@ -35,5 +29,5 @@
     "reports"
   ],
   "hash": "b4f5b2f9671cbf43",
-  "queuedAt": "2026-03-18T07:13:00.917Z"
+  "queuedAt": "2026-03-18T13:31:58.460Z"
 }

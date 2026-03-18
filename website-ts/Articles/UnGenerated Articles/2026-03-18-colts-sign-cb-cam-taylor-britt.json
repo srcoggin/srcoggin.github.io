@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts sign CB Cam Taylor-Britt",
-      "description": "The Colts are reuniting defensive coordinator Lou Anarumo with a player he coached with the Bengals.",
-      "url": "https://sports.yahoo.com/articles/colts-sign-cb-cam-taylor-210158468.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts sign CB Cam Taylor-Britt",
       "description": "The Colts are reuniting defensive coordinator Lou Anarumo with a player he coached with the Bengals.",
@@ -29,5 +23,5 @@
     "bengals"
   ],
   "hash": "42c782c8d6aa479b",
-  "queuedAt": "2026-03-18T07:13:02.023Z"
+  "queuedAt": "2026-03-18T13:32:09.361Z"
 }
