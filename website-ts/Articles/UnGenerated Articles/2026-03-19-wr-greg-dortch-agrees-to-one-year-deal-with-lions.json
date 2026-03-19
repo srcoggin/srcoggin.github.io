@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "WR Greg Dortch agrees to one-year deal with Lions",
-      "description": "Free agent wide receiver Greg Dortch is signing a one-year deal with the Lions, NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/wr-greg-dortch-agrees-one-212746353.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "WR Greg Dortch agrees to one-year deal with Lions",
       "description": "Free agent wide receiver Greg Dortch is signing a one-year deal with the Lions, NFL Media reports.",
@@ -31,5 +25,5 @@
     "reports"
   ],
   "hash": "adea6adebb0129fb",
-  "queuedAt": "2026-03-19T07:09:57.497Z"
+  "queuedAt": "2026-03-19T13:20:03.129Z"
 }

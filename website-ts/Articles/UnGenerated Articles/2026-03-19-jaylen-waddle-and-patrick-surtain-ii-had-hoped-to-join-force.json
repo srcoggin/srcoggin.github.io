@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaylen Waddle and Patrick Surtain II had hoped to join forces",
-      "description": "They arrived in the NFL together, five years ago and three picks apart.",
-      "url": "https://sports.yahoo.com/articles/jaylen-waddle-patrick-surtain-ii-204419342.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaylen Waddle and Patrick Surtain II had hoped to join forces",
       "description": "They arrived in the NFL together, five years ago and three picks apart.",
@@ -34,5 +28,5 @@
     "apart"
   ],
   "hash": "eedf50ef3bb223a5",
-  "queuedAt": "2026-03-19T07:09:59.465Z"
+  "queuedAt": "2026-03-19T13:20:11.538Z"
 }

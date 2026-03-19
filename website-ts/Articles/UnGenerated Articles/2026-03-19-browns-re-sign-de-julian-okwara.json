@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns re-sign DE Julian Okwara",
-      "description": "The Browns have re-signed defensive end Julian Okwara, according to the NFL's transactions wire.",
-      "url": "https://sports.yahoo.com/articles/browns-sign-julian-okwara-221731886.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns re-sign DE Julian Okwara",
       "description": "The Browns have re-signed defensive end Julian Okwara, according to the NFL's transactions wire.",
@@ -29,5 +23,5 @@
     "wire"
   ],
   "hash": "b7d909cbf9d45835",
-  "queuedAt": "2026-03-19T07:09:59.318Z"
+  "queuedAt": "2026-03-19T13:20:11.344Z"
 }

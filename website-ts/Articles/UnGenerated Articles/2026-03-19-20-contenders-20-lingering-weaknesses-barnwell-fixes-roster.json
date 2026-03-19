@@ -1,11 +1,11 @@
 {
-  "title": "20 contenders, 20 lingering weaknesses: Barnwell fixes roster holes as free agency slows down",
-  "category": "free-agency",
+  "title": "20 contenders, 20 lingering weaknesses: Barnwell fixes roster holes",
+  "category": "general",
   "sources": [
     {
       "name": "ESPN NFL",
-      "title": "20 contenders, 20 lingering weaknesses: Barnwell fixes roster holes as free agency slows down",
-      "description": "Will Aaron Rodgers check the QB box for the Steelers? Can the Seahawks find running back help? And is there something the Chiefs can do at cornerback?",
+      "title": "20 contenders, 20 lingering weaknesses: Barnwell fixes roster holes",
+      "description": "Will Aaron Rodgers check the QB box for the Steelers? Can the Seahawks find running back help?",
       "url": "https://www.espn.com/nfl/story/_/id/48227677/2026-nfl-free-agency-barnwell-20-contenders-weaknesses-signings-trades-draft"
     }
   ],
@@ -17,10 +17,6 @@
     "fixes",
     "roster",
     "holes",
-    "free",
-    "agency",
-    "slows",
-    "down",
     "aaron",
     "rodgers",
     "check",
@@ -30,11 +26,8 @@
     "find",
     "running",
     "back",
-    "help",
-    "something",
-    "chiefs",
-    "cornerback"
+    "help"
   ],
-  "hash": "67733c477427acdf",
-  "queuedAt": "2026-03-19T07:09:59.878Z"
+  "hash": "cecc822393d42ae0",
+  "queuedAt": "2026-03-19T13:20:04.049Z"
 }

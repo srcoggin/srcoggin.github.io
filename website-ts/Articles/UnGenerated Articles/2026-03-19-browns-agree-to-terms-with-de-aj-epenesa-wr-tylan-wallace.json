@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns agree to terms with DE A.J. Epenesa, WR Tylan Wallace",
-      "description": "Free agent defensive end A.J.",
-      "url": "https://sports.yahoo.com/articles/browns-agree-terms-j-epenesa-232000433.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns agree to terms with DE A.J. Epenesa, WR Tylan Wallace",
       "description": "Free agent defensive end A.J.",
@@ -28,5 +22,5 @@
     "end"
   ],
   "hash": "2661f52e4d1b492d",
-  "queuedAt": "2026-03-19T07:09:59.243Z"
+  "queuedAt": "2026-03-19T13:20:11.204Z"
 }
