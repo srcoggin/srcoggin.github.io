@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams have withdrawn proposals arising from two-point play in Seattle",
-      "description": "The Rams have abandoned a pair of proposed rule changes.",
-      "url": "https://sports.yahoo.com/articles/rams-withdrawn-proposals-arising-two-002638469.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams have withdrawn proposals arising from two-point play in Seattle",
       "description": "The Rams have abandoned a pair of proposed rule changes.",
@@ -30,5 +24,5 @@
     "changes"
   ],
   "hash": "0a9bc0ae6e288cfc",
-  "queuedAt": "2026-03-19T13:20:03.866Z"
+  "queuedAt": "2026-03-19T19:12:13.695Z"
 }

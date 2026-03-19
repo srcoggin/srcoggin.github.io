@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL officially announces 2026 proposals from Steelers and Browns",
-      "description": "For those of you who follow this space closely (and thank you for that), this news isn't news.",
-      "url": "https://sports.yahoo.com/articles/nfl-officially-announces-2026-proposals-234608151.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL officially announces 2026 proposals from Steelers and Browns",
       "description": "For those of you who follow this space closely (and thank you for that), this news isn't news.",
@@ -35,5 +29,5 @@
     "isnt"
   ],
   "hash": "95ea7dbae575c38e",
-  "queuedAt": "2026-03-19T13:20:01.458Z"
+  "queuedAt": "2026-03-19T19:12:05.256Z"
 }
