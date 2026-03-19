@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions sign LB Damone Clark",
-      "description": "The Lions signed unrestricted free agent Damone Clark on Wednesday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/lions-sign-lb-damone-clark-202049221.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions sign LB Damone Clark",
       "description": "The Lions signed unrestricted free agent Damone Clark on Wednesday, the team announced.",
@@ -28,5 +22,5 @@
     "announced"
   ],
   "hash": "e5c52af806b03f11",
-  "queuedAt": "2026-03-19T02:45:06.979Z"
+  "queuedAt": "2026-03-19T07:09:58.742Z"
 }
