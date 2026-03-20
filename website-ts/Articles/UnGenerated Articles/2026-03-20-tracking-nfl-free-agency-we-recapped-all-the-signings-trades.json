@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "Tracking NFL free agency: We recapped all the signings, trades and cuts from March",
-      "description": "We followed every NFL free agency signing, trade, cut, contract restructures and other moves over the course of two weeks.",
+      "description": "We followed every NFL free agency signing, trade, cut, contract restructures over the course of two weeks.",
       "url": "https://www.espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors"
     }
   ],
@@ -25,12 +25,11 @@
     "cut",
     "contract",
     "restructures",
-    "moves",
     "over",
     "course",
     "two",
     "weeks"
   ],
-  "hash": "3d4a58faae57fb4d",
-  "queuedAt": "2026-03-20T07:07:54.807Z"
+  "hash": "8421fa41c2c1e041",
+  "queuedAt": "2026-03-20T13:14:47.506Z"
 }
