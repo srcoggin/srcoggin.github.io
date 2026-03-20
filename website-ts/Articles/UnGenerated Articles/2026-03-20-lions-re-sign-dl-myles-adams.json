@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions re-sign DL Myles Adams",
-      "description": "The Lions announced the return of a defensive lineman on Thursday.",
-      "url": "https://sports.yahoo.com/articles/lions-sign-dl-myles-adams-202148172.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions re-sign DL Myles Adams",
       "description": "The Lions announced the return of a defensive lineman on Thursday.",
@@ -27,5 +21,5 @@
     "thursday"
   ],
   "hash": "10648a0108ab4d87",
-  "queuedAt": "2026-03-20T13:14:45.371Z"
+  "queuedAt": "2026-03-20T19:10:13.766Z"
 }

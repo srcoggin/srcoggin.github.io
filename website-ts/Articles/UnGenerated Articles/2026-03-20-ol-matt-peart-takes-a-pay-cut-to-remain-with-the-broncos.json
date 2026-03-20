@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "OL Matt Peart takes a pay cut to remain with the Broncos",
-      "description": "Broncos offensive lineman Matt Peart remained with the team after agreeing to a pay cut.",
-      "url": "https://sports.yahoo.com/articles/ol-matt-peart-takes-pay-212702990.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "OL Matt Peart takes a pay cut to remain with the Broncos",
       "description": "Broncos offensive lineman Matt Peart remained with the team after agreeing to a pay cut.",
@@ -29,5 +23,5 @@
     "agreeing"
   ],
   "hash": "1770f33851e84412",
-  "queuedAt": "2026-03-20T13:14:46.728Z"
+  "queuedAt": "2026-03-20T19:10:26.971Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saints re-sign DE Chris Rumph",
-      "description": "The Saints have re-signed veteran defensive end Chris Rumph, the team announced Thursday.",
-      "url": "https://sports.yahoo.com/articles/saints-sign-chris-rumph-214650196.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saints re-sign DE Chris Rumph",
       "description": "The Saints have re-signed veteran defensive end Chris Rumph, the team announced Thursday.",
@@ -28,5 +22,5 @@
     "thursday"
   ],
   "hash": "3c8a82ff1a3f90bc",
-  "queuedAt": "2026-03-20T13:14:45.300Z"
+  "queuedAt": "2026-03-20T19:10:13.523Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL blames replacement officials plan on NFL Referees Association",
-      "description": "NFLRA needs to engage the NFL in the P.R. battle.",
-      "url": "https://sports.yahoo.com/articles/nfl-blames-replacement-officials-plan-014744737.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL blames replacement officials plan on NFL Referees Association",
       "description": "NFLRA needs to engage the NFL in the P.R. battle.",
@@ -28,5 +22,5 @@
     "battle"
   ],
   "hash": "9644012e595232a0",
-  "queuedAt": "2026-03-20T13:14:45.219Z"
+  "queuedAt": "2026-03-20T19:10:13.411Z"
 }
