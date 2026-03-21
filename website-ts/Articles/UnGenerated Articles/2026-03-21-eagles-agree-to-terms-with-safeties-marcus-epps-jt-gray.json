@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles agree to terms with safeties Marcus Epps, J.T. Gray",
-      "description": "The Eagles are signing safeties Marcus Epps and J.T.",
-      "url": "https://sports.yahoo.com/articles/eagles-agree-terms-safeties-marcus-215322592.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles agree to terms with safeties Marcus Epps, J.T. Gray",
       "description": "The Eagles are signing safeties Marcus Epps and J.T.",
@@ -26,5 +20,5 @@
     "signing"
   ],
   "hash": "9faacbbd183c0440",
-  "queuedAt": "2026-03-21T07:02:58.302Z"
+  "queuedAt": "2026-03-21T13:08:59.813Z"
 }

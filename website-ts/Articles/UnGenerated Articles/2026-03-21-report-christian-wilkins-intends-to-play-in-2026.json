@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Christian Wilkins intends to play in 2026",
-      "description": "Free agent defensive tackle Christian Wilkins did not play last season.",
-      "url": "https://sports.yahoo.com/articles/report-christian-wilkins-intends-play-201918838.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Christian Wilkins intends to play in 2026",
       "description": "Free agent defensive tackle Christian Wilkins did not play last season.",
@@ -29,5 +23,5 @@
     "last"
   ],
   "hash": "c2afcc446c56635e",
-  "queuedAt": "2026-03-21T07:02:56.112Z"
+  "queuedAt": "2026-03-21T13:08:54.875Z"
 }
