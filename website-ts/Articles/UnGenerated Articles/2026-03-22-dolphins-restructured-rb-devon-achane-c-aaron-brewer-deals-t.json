@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dolphins restructured RB De'Von Achane, C Aaron Brewer deals to create cap space",
-      "description": "For those who believe the Dolphins are tanking in 2026, one trend contradicts that conclusion: They're kicking as much cap space as they can into future years.",
-      "url": "https://sports.yahoo.com/articles/dolphins-restructured-rb-devon-achane-142258375.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dolphins restructured RB De'Von Achane, C Aaron Brewer deals to create cap space",
       "description": "For those who believe the Dolphins are tanking in 2026, one trend contradicts that conclusion: They're kicking as much cap space as they can into future years.",
@@ -44,5 +38,5 @@
     "years"
   ],
   "hash": "7e57a447f61d5c27",
-  "queuedAt": "2026-03-22T07:09:16.571Z"
+  "queuedAt": "2026-03-22T13:07:11.508Z"
 }

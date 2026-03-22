@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "One year ago today, Aaron Rodgers made his visit to the Steelers",
-      "description": "As the Steelers and quarterback Aaron Rodgers continue to do whatever it is they're doing in 2026, it's a good day to look back at what they did in 2025.",
-      "url": "https://sports.yahoo.com/articles/one-ago-today-aaron-rodgers-150917273.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "One year ago today, Aaron Rodgers made his visit to the Steelers",
       "description": "As the Steelers and quarterback Aaron Rodgers continue to do whatever it is they're doing in 2026, it's a good day to look back at what they did in 2025.",
@@ -41,5 +35,5 @@
     "2025"
   ],
   "hash": "0ec82875c80c448d",
-  "queuedAt": "2026-03-22T07:09:16.449Z"
+  "queuedAt": "2026-03-22T13:07:11.439Z"
 }
