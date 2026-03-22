@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rob Gronkowski suffers hamstring injury in flag football debut",
-      "description": "Rob Gronkowski's day of flag football is apparently over.",
-      "url": "https://sports.yahoo.com/articles/rob-gronkowski-suffers-hamstring-injury-213308573.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rob Gronkowski suffers hamstring injury in flag football debut",
       "description": "Rob Gronkowski's day of flag football is apparently over.",
@@ -29,5 +23,5 @@
     "over"
   ],
   "hash": "45b8e1850cc6c5f1",
-  "queuedAt": "2026-03-22T13:07:05.431Z"
+  "queuedAt": "2026-03-22T18:52:20.039Z"
 }
