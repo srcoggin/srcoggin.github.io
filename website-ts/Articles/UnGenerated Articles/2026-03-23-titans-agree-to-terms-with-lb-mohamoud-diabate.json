@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans agree to terms with LB Mohamoud Diabate",
-      "description": "The Titans have made another addition to Robert Saleh's defense.",
-      "url": "https://sports.yahoo.com/articles/titans-agree-terms-lb-mohamoud-134428371.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans agree to terms with LB Mohamoud Diabate",
       "description": "The Titans have made another addition to Robert Saleh's defense.",
@@ -29,5 +23,5 @@
     "defense"
   ],
   "hash": "65c6c35247b0b935",
-  "queuedAt": "2026-03-23T07:21:50.078Z"
+  "queuedAt": "2026-03-23T13:30:27.297Z"
 }

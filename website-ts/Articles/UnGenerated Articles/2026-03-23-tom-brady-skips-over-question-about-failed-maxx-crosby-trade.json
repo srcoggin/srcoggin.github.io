@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tom Brady skips over question about failed Maxx Crosby trade",
-      "description": "Raiders minority owner managed to avoid the team's biggest recent topic.",
-      "url": "https://sports.yahoo.com/articles/tom-brady-skips-over-failed-154004391.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tom Brady skips over question about failed Maxx Crosby trade",
       "description": "Raiders minority owner managed to avoid the team's biggest recent topic.",
@@ -37,5 +31,5 @@
     "topic"
   ],
   "hash": "c9afbad6196c09b6",
-  "queuedAt": "2026-03-23T07:21:49.985Z"
+  "queuedAt": "2026-03-23T13:30:26.953Z"
 }
