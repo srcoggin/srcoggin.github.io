@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike McCarthy: It'd be a great story to reunite with Aaron Rodgers",
-      "description": "The coach and quarterback were together in Green Bay from 2006-18 seasons, winning a Super Bowl.",
-      "url": "https://sports.yahoo.com/articles/mike-mccarthy-itd-great-story-235525397.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike McCarthy: It'd be a great story to reunite with Aaron Rodgers",
       "description": "The coach and quarterback were together in Green Bay from 2006-18 seasons, winning a Super Bowl.",
@@ -36,5 +30,5 @@
     "bowl"
   ],
   "hash": "5f6582732f0e5652",
-  "queuedAt": "2026-03-24T13:45:12.796Z"
+  "queuedAt": "2026-03-24T19:20:17.057Z"
 }

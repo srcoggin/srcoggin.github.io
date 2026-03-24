@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Free agent RB Najee Harris wants to show teams he can run, six months after torn Achilles",
-      "description": "Harris played just three games for the Chargers last year before suffering a season-ending injury.",
-      "url": "https://sports.yahoo.com/articles/free-agent-rb-najee-harris-082349248.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Free agent RB Najee Harris wants to show teams he can run, six months after torn Achilles",
       "description": "Harris played just three games for the Chargers last year before suffering a season-ending injury.",
@@ -38,5 +32,5 @@
     "injury"
   ],
   "hash": "89e4b1738c6c737b",
-  "queuedAt": "2026-03-24T13:45:12.349Z"
+  "queuedAt": "2026-03-24T19:20:18.056Z"
 }

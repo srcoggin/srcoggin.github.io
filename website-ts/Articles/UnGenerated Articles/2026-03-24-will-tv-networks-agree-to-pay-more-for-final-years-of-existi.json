@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Will TV networks agree to pay more for final years of existing NFL deals?",
-      "description": "From the moment the NBA signed new 11-year, $77 billion media deals, the NFL has wanted more.",
-      "url": "https://sports.yahoo.com/articles/tv-networks-agree-pay-more-020448290.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Will TV networks agree to pay more for final years of existing NFL deals?",
       "description": "From the moment the NBA signed new 11-year, $77 billion media deals, the NFL has wanted more.",
@@ -33,5 +27,5 @@
     "wanted"
   ],
   "hash": "95c1aa551e599606",
-  "queuedAt": "2026-03-24T13:45:12.565Z"
+  "queuedAt": "2026-03-24T19:20:18.145Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Shanahan on Trent Williams: Eventually everything will work out",
-      "description": "The 49ers and Williams have been talking about a new contract.",
-      "url": "https://sports.yahoo.com/articles/kyle-shanahan-trent-williams-eventually-124927695.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Shanahan on Trent Williams: Eventually everything will work out",
       "description": "The 49ers and Williams have been talking about a new contract.",
@@ -31,5 +25,5 @@
     "contract"
   ],
   "hash": "45582e16efbfb1b8",
-  "queuedAt": "2026-03-24T13:45:12.161Z"
+  "queuedAt": "2026-03-24T19:20:17.857Z"
 }

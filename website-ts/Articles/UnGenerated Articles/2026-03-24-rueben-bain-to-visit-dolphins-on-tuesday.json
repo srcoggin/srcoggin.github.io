@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rueben Bain to visit Dolphins on Tuesday",
-      "description": "Edge rusher Rueben Bain won't have to travel far for his next pre-draft visit with a team.",
-      "url": "https://sports.yahoo.com/articles/rueben-bain-visit-dolphins-tuesday-125846842.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rueben Bain to visit Dolphins on Tuesday",
       "description": "Edge rusher Rueben Bain won't have to travel far for his next pre-draft visit with a team.",
@@ -31,5 +25,5 @@
     "predraft"
   ],
   "hash": "9a99bdae5367d122",
-  "queuedAt": "2026-03-24T13:45:11.924Z"
+  "queuedAt": "2026-03-24T19:20:17.762Z"
 }
