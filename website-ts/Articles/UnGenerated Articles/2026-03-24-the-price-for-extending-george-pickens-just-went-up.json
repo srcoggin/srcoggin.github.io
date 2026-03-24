@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "The price for extending George Pickens just went up",
-      "description": "When it comes to paying star players, it never pays to wait.",
-      "url": "https://sports.yahoo.com/articles/price-extending-george-pickens-just-190620911.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "The price for extending George Pickens just went up",
       "description": "When it comes to paying star players, it never pays to wait.",
@@ -30,5 +24,5 @@
     "wait"
   ],
   "hash": "d79d84b88f6e7baf",
-  "queuedAt": "2026-03-24T07:22:34.981Z"
+  "queuedAt": "2026-03-24T13:45:32.932Z"
 }

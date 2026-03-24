@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Michael Pittman Jr.: I haven't spoken to Aaron Rodgers, but think he wants to play",
-      "description": "Wide receiver Michael Pittman Jr. said recently that he and his new Steelers teammates will \"make the most of\" whoever is playing quarterback for the team this fall and it remains unclear when they'll have a better idea about the identity of that player.",
-      "url": "https://sports.yahoo.com/articles/michael-pittman-jr-havent-spoken-202703041.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Michael Pittman Jr.: I haven't spoken to Aaron Rodgers, but think he wants to play",
       "description": "Wide receiver Michael Pittman Jr. said recently that he and his new Steelers teammates will \"make the most of\" whoever is playing quarterback for the team this fall and it remains unclear when they'll have a better idea about the identity of that player.",
@@ -49,5 +43,5 @@
     "identity"
   ],
   "hash": "12d4a172cacf340e",
-  "queuedAt": "2026-03-24T07:22:34.879Z"
+  "queuedAt": "2026-03-24T13:45:33.140Z"
 }

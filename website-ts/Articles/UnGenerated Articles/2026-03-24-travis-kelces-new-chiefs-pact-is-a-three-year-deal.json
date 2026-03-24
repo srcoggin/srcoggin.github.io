@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Travis Kelce's new Chiefs pact is a three-year deal",
-      "description": "Kelce officially returns for 14th season.",
-      "url": "https://sports.yahoo.com/articles/travis-kelces-chiefs-pact-three-193856795.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Travis Kelce's new Chiefs pact is a three-year deal",
       "description": "Kelce officially returns for 14th season.",
@@ -29,5 +23,5 @@
     "14th"
   ],
   "hash": "3d4fe840197c810e",
-  "queuedAt": "2026-03-24T07:22:33.061Z"
+  "queuedAt": "2026-03-24T13:45:11.097Z"
 }

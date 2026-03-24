@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns re-sign TE Blake Whiteheart",
-      "description": "Blake Whiteheart will be back in the Browns' tight end room in 2026.",
-      "url": "https://sports.yahoo.com/articles/browns-sign-te-blake-whiteheart-185122162.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns re-sign TE Blake Whiteheart",
       "description": "Blake Whiteheart will be back in the Browns' tight end room in 2026.",
@@ -27,5 +21,5 @@
     "2026"
   ],
   "hash": "657d63485a3ee02d",
-  "queuedAt": "2026-03-24T07:22:35.096Z"
+  "queuedAt": "2026-03-24T13:45:34.623Z"
 }

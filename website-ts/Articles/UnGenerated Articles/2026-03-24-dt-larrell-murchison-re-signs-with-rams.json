@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "DT Larrell Murchison re-signs with Rams",
-      "description": "The Rams have agreed to terms with defensive tackle Larrell Murchison on a one-year deal, the team announced.",
-      "url": "https://sports.yahoo.com/articles/dt-larrell-murchison-signs-rams-191754465.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "DT Larrell Murchison re-signs with Rams",
       "description": "The Rams have agreed to terms with defensive tackle Larrell Murchison on a one-year deal, the team announced.",
@@ -29,5 +23,5 @@
     "announced"
   ],
   "hash": "17610f66ee83170d",
-  "queuedAt": "2026-03-24T07:22:33.272Z"
+  "queuedAt": "2026-03-24T13:45:11.723Z"
 }

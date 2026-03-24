@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers re-sign DE Arron Mosby",
-      "description": "The Packers did not tender defensive end Arron Mosby with a contract as a restricted free agent, but he will be back with the team in 2026.",
-      "url": "https://sports.yahoo.com/articles/packers-sign-arron-mosby-221405921.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers re-sign DE Arron Mosby",
       "description": "The Packers did not tender defensive end Arron Mosby with a contract as a restricted free agent, but he will be back with the team in 2026.",
@@ -31,5 +25,5 @@
     "2026"
   ],
   "hash": "7fe77448390213b1",
-  "queuedAt": "2026-03-24T07:22:34.573Z"
+  "queuedAt": "2026-03-24T13:45:33.980Z"
 }

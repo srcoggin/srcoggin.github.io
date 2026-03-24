@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Free agent C Austin Corbett visits Bills",
-      "description": "Free agent center Austin Corbett visited the Bills on Monday, according to the NFL's transactions report.",
-      "url": "https://sports.yahoo.com/articles/free-agent-c-austin-corbett-214512768.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Free agent C Austin Corbett visits Bills",
       "description": "Free agent center Austin Corbett visited the Bills on Monday, according to the NFL's transactions report.",
@@ -31,5 +25,5 @@
     "report"
   ],
   "hash": "b6fbbfece678ab66",
-  "queuedAt": "2026-03-24T07:22:32.951Z"
+  "queuedAt": "2026-03-24T13:45:11.318Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "OL Robert Jones visits with the 49ers",
-      "description": "The 49ers met with a possible addition to their offensive line.",
-      "url": "https://sports.yahoo.com/articles/ol-robert-jones-visits-49ers-214547555.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "OL Robert Jones visits with the 49ers",
       "description": "The 49ers met with a possible addition to their offensive line.",
@@ -28,5 +22,5 @@
     "line"
   ],
   "hash": "7413a819c1ff7f03",
-  "queuedAt": "2026-03-24T07:22:34.679Z"
+  "queuedAt": "2026-03-24T13:45:34.170Z"
 }

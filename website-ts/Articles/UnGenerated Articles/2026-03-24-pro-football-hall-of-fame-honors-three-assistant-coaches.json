@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Pro Football Hall of Fame honors three assistant coaches",
-      "description": "The Pro Football Hall of Fame will honor three former assistant coaches with the Awards of Excellence.",
-      "url": "https://sports.yahoo.com/articles/pro-football-hall-fame-honors-211820419.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Pro Football Hall of Fame honors three assistant coaches",
       "description": "The Pro Football Hall of Fame will honor three former assistant coaches with the Awards of Excellence.",
@@ -29,5 +23,5 @@
     "excellence"
   ],
   "hash": "bd18111dfb006b2d",
-  "queuedAt": "2026-03-24T07:22:34.780Z"
+  "queuedAt": "2026-03-24T13:45:34.384Z"
 }
