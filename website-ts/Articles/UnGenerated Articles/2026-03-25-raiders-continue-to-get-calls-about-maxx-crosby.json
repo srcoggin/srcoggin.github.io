@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders continue to get calls about Maxx Crosby",
-      "description": "Just when he thought he was out, they pulled him back in.",
-      "url": "https://sports.yahoo.com/articles/raiders-continue-calls-maxx-crosby-003213946.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders continue to get calls about Maxx Crosby",
       "description": "Just when he thought he was out, they pulled him back in.",
@@ -31,5 +25,5 @@
     "back"
   ],
   "hash": "d11d52c0ca2f2733",
-  "queuedAt": "2026-03-25T13:32:25.865Z"
+  "queuedAt": "2026-03-25T19:12:46.376Z"
 }
