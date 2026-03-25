@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants agree to terms with LB Cam Jones",
-      "description": "Linebacker Cam Jones is set to change locker rooms at MetLife Stadium in 2026.",
-      "url": "https://sports.yahoo.com/articles/giants-agree-terms-lb-cam-205121577.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants agree to terms with LB Cam Jones",
       "description": "Linebacker Cam Jones is set to change locker rooms at MetLife Stadium in 2026.",
@@ -31,5 +25,5 @@
     "2026"
   ],
   "hash": "2798249d5f99009d",
-  "queuedAt": "2026-03-25T07:26:47.730Z"
+  "queuedAt": "2026-03-25T13:32:37.019Z"
 }

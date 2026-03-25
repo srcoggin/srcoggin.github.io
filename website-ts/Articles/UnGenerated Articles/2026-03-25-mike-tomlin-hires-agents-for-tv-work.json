@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Tomlin hires agents for TV work",
-      "description": "Former Steelers coach Mike Tomlin is moving closer to taking the TV plunge.",
-      "url": "https://sports.yahoo.com/articles/mike-tomlin-hires-agents-tv-235732914.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Tomlin hires agents for TV work",
       "description": "Former Steelers coach Mike Tomlin is moving closer to taking the TV plunge.",
@@ -30,5 +24,5 @@
     "plunge"
   ],
   "hash": "63f873f1caf3df51",
-  "queuedAt": "2026-03-25T07:26:47.271Z"
+  "queuedAt": "2026-03-25T13:32:35.953Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tua Tagovailoa: Last season wasn't up to my standard, and I need to play better",
-      "description": "Tua Tagovailoa wouldn't blame his departure from Miami on anyone but himself.",
-      "url": "https://sports.yahoo.com/articles/tua-tagovailoa-last-season-wasnt-002353114.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tua Tagovailoa: Last season wasn't up to my standard, and I need to play better",
       "description": "Tua Tagovailoa wouldn't blame his departure from Miami on anyone but himself.",
@@ -33,5 +27,5 @@
     "himself"
   ],
   "hash": "e97d909588bce900",
-  "queuedAt": "2026-03-25T07:26:47.103Z"
+  "queuedAt": "2026-03-25T13:32:35.310Z"
 }

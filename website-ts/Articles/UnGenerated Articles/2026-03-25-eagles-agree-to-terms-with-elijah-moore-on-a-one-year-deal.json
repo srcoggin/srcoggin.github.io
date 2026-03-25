@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles agree to terms with Elijah Moore on a one-year deal",
-      "description": "The Eagles are signing free agent wide receiver Elijah Moore to a one-year deal, Ian Rapoport of NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/eagles-agree-terms-elijah-moore-001358906.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles agree to terms with Elijah Moore on a one-year deal",
       "description": "The Eagles are signing free agent wide receiver Elijah Moore to a one-year deal, Ian Rapoport of NFL Media reports.",
@@ -34,5 +28,5 @@
     "reports"
   ],
   "hash": "5ebe5bd31c777c05",
-  "queuedAt": "2026-03-25T07:26:43.870Z"
+  "queuedAt": "2026-03-25T13:32:25.132Z"
 }

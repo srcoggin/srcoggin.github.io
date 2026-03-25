@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Joe Flacco returns to the Bengals on a one-year deal",
-      "description": "Last year, Joe Flacco arrived in Cincinnati by trade.",
-      "url": "https://sports.yahoo.com/articles/joe-flacco-returns-bengals-one-213133212.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Joe Flacco returns to the Bengals on a one-year deal",
       "description": "Last year, Joe Flacco arrived in Cincinnati by trade.",
@@ -28,5 +22,5 @@
     "trade"
   ],
   "hash": "e9d16c0a1c389a4d",
-  "queuedAt": "2026-03-25T07:26:47.572Z"
+  "queuedAt": "2026-03-25T13:32:36.815Z"
 }
