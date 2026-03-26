@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ohio State WR Carnell Tate has six pre-draft visits",
-      "description": "Ohio State wide receiver Carnell Tate ran a 4.52-second 40-yard dash at the Scouting Combine.",
-      "url": "https://sports.yahoo.com/articles/ohio-state-wr-carnell-tate-194848379.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ohio State WR Carnell Tate has six pre-draft visits",
       "description": "Ohio State wide receiver Carnell Tate ran a 4.52-second 40-yard dash at the Scouting Combine.",
@@ -33,5 +27,5 @@
     "combine"
   ],
   "hash": "f89cf7bbfec63240",
-  "queuedAt": "2026-03-26T07:21:08.427Z"
+  "queuedAt": "2026-03-26T13:41:02.660Z"
 }

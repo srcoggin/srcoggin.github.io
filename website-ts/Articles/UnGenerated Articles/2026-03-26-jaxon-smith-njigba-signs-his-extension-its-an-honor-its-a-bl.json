@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaxon Smith-Njigba signs his extension: It's an honor; it's a blessing",
-      "description": "The Seahawks traded DK Metcalf in the 2025 offseason to make Jaxon Smith-Njigba their No. 1 wide receiver.",
-      "url": "https://sports.yahoo.com/articles/jaxon-smith-njigba-signs-extension-203335974.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaxon Smith-Njigba signs his extension: It's an honor; it's a blessing",
       "description": "The Seahawks traded DK Metcalf in the 2025 offseason to make Jaxon Smith-Njigba their No. 1 wide receiver.",
@@ -35,5 +29,5 @@
     "receiver"
   ],
   "hash": "f30332121c0551d2",
-  "queuedAt": "2026-03-26T07:21:08.373Z"
+  "queuedAt": "2026-03-26T13:41:02.271Z"
 }

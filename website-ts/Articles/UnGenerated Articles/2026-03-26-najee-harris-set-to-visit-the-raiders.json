@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Najee Harris set to visit the Raiders",
-      "description": "Najee Harris visited the Seahawks on Wednesday and the running back has another visit lined up with a prospective employer for the 2026 season.",
-      "url": "https://sports.yahoo.com/articles/najee-harris-set-visit-raiders-222651133.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Najee Harris set to visit the Raiders",
       "description": "Najee Harris visited the Seahawks on Wednesday and the running back has another visit lined up with a prospective employer for the 2026 season.",
@@ -33,5 +27,5 @@
     "2026"
   ],
   "hash": "a3197a4a25c451dc",
-  "queuedAt": "2026-03-26T07:21:08.266Z"
+  "queuedAt": "2026-03-26T13:41:01.872Z"
 }
