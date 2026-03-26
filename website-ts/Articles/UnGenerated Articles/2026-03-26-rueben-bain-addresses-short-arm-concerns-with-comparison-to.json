@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rueben Bain addresses short-arm concerns with comparison to Mike Tyson",
-      "description": "University of Miami edge rusher Rueben Bain Jr.'",
-      "url": "https://sports.yahoo.com/articles/rueben-bain-addresses-short-arm-011857585.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rueben Bain addresses short-arm concerns with comparison to Mike Tyson",
       "description": "University of Miami edge rusher Rueben Bain Jr.'",
@@ -30,5 +24,5 @@
     "rusher"
   ],
   "hash": "b32118255d76625e",
-  "queuedAt": "2026-03-26T13:40:48.404Z"
+  "queuedAt": "2026-03-26T19:21:13.727Z"
 }

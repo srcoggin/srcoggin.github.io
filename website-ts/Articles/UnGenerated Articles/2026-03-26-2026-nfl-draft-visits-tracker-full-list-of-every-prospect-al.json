@@ -5,7 +5,7 @@
     {
       "name": "CBS Sports NFL",
       "title": "2026 NFL Draft visits tracker: Full list of every prospect all 32 teams are bringing in for top 30 visits",
-      "description": "Teams can bring up to 30 players for top-30 visits",
+      "description": "Teams can bring up to 30 players in for a visit",
       "url": "https://www.cbssports.com/nfl/news/nfl-draft-top-30-visits-tracker-2026/"
     }
   ],
@@ -23,8 +23,8 @@
     "top",
     "bring",
     "players",
-    "top30"
+    "visit"
   ],
-  "hash": "733b74062663c97d",
-  "queuedAt": "2026-03-26T13:40:58.184Z"
+  "hash": "469efcef36672c2d",
+  "queuedAt": "2026-03-26T19:21:10.370Z"
 }
