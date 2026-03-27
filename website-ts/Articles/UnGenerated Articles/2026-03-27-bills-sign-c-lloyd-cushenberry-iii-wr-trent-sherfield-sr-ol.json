@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bills sign C Lloyd Cushenberry III, WR Trent Sherfield Sr., OL Austin Corbett",
-      "description": "The Bills made three additions to their 2026 roster on Thursday.",
-      "url": "https://sports.yahoo.com/articles/bills-sign-c-lloyd-cushenberry-203627767.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bills sign C Lloyd Cushenberry III, WR Trent Sherfield Sr., OL Austin Corbett",
       "description": "The Bills made three additions to their 2026 roster on Thursday.",
@@ -34,5 +28,5 @@
     "thursday"
   ],
   "hash": "94b74d5c1f9df7d0",
-  "queuedAt": "2026-03-27T07:20:57.540Z"
+  "queuedAt": "2026-03-27T13:30:17.393Z"
 }

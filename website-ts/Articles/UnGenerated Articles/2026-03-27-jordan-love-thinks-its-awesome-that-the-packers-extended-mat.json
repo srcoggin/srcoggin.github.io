@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jordan Love thinks it's \"awesome\" that the Packers extended Matt LaFleur's contract",
-      "description": "The Packers and head coach Matt LaFleur signed a contract extension in January, and quarterback Jordan Love couldn't be happier.",
-      "url": "https://sports.yahoo.com/articles/jordan-love-thinks-awesome-packers-213446666.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jordan Love thinks it's \"awesome\" that the Packers extended Matt LaFleur's contract",
       "description": "The Packers and head coach Matt LaFleur signed a contract extension in January, and quarterback Jordan Love couldn't be happier.",
@@ -38,5 +32,5 @@
     "happier"
   ],
   "hash": "d51da8cc44eaf4f3",
-  "queuedAt": "2026-03-27T07:20:57.300Z"
+  "queuedAt": "2026-03-27T13:30:17.042Z"
 }

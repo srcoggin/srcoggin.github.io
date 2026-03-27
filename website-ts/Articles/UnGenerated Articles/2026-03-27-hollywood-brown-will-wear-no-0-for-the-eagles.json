@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Hollywood Brown will wear No. 0 for the Eagles",
-      "description": "Wide receiver Hollywood Brown will have a new number to go with his new uniform.",
-      "url": "https://sports.yahoo.com/articles/hollywood-brown-wear-no-0-191612586.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Hollywood Brown will wear No. 0 for the Eagles",
       "description": "Wide receiver Hollywood Brown will have a new number to go with his new uniform.",
@@ -28,5 +22,5 @@
     "uniform"
   ],
   "hash": "78d48fb0d953e919",
-  "queuedAt": "2026-03-27T07:20:57.651Z"
+  "queuedAt": "2026-03-27T13:30:18.077Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Commanders agree to sign CB Ahkello Witherspoon",
-      "description": "Ahkello Witherspoon’s visit with the Commanders apparently went well.",
-      "url": "https://sports.yahoo.com/articles/commanders-agree-sign-cb-ahkello-201639668.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Commanders agree to sign CB Ahkello Witherspoon",
       "description": "Ahkello Witherspoon’s visit with the Commanders apparently went well.",
@@ -28,5 +22,5 @@
     "well"
   ],
   "hash": "30ad18cd7442a699",
-  "queuedAt": "2026-03-27T07:20:57.594Z"
+  "queuedAt": "2026-03-27T13:30:17.501Z"
 }

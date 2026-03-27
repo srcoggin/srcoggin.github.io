@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Florida attorney general gives NFL until May 1 to ditch Rooney Rule",
-      "description": "NFL has not commented on the situation.",
-      "url": "https://sports.yahoo.com/articles/florida-attorney-general-gives-nfl-210843826.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Florida attorney general gives NFL until May 1 to ditch Rooney Rule",
       "description": "NFL has not commented on the situation.",
@@ -28,5 +22,5 @@
     "situation"
   ],
   "hash": "e3ae56602f2797d4",
-  "queuedAt": "2026-03-27T07:20:57.357Z"
+  "queuedAt": "2026-03-27T13:30:16.811Z"
 }
