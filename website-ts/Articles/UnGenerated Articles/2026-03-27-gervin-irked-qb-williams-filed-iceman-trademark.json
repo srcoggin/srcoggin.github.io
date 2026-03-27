@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "Gervin irked QB Williams filed 'Iceman' trademark",
-      "description": "Former NBA star George Gervin said he was \"caught off guard\" when he learned Bears quarterback Caleb Williams had attempted to trademark the \"Iceman,\" a nickname that Gervin has used since his playing days.",
+      "description": "Former NBA star George Gervin said he was \"caught off guard\" when he learned Bears quarterback Caleb Williams had attempted to trademark \"Iceman,\" a nickname Gervin has used since his playing days.",
       "url": "https://www.espn.com/nfl/story/_/id/48317467/gervin-irked-bears-williams-filed-trademark-iceman"
     }
   ],
@@ -30,13 +30,12 @@
     "caleb",
     "attempted",
     "nickname",
-    "that",
     "used",
     "since",
     "his",
     "playing",
     "days"
   ],
-  "hash": "805f398a99170a13",
-  "queuedAt": "2026-03-27T02:49:29.674Z"
+  "hash": "18d1f00051632669",
+  "queuedAt": "2026-03-27T07:20:57.762Z"
 }
