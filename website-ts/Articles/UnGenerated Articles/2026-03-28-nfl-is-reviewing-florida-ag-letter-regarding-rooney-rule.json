@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL is \"reviewing\" Florida A.G. letter regarding Rooney Rule",
-      "description": "NFL issues statement regarding demand that it be suspended.",
-      "url": "https://sports.yahoo.com/articles/nfl-reviewing-florida-g-letter-190517021.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL is \"reviewing\" Florida A.G. letter regarding Rooney Rule",
       "description": "NFL issues statement regarding demand that it be suspended.",
@@ -29,5 +23,5 @@
     "suspended"
   ],
   "hash": "a889955bf76c95ee",
-  "queuedAt": "2026-03-28T13:09:06.701Z"
+  "queuedAt": "2026-03-28T19:01:38.862Z"
 }

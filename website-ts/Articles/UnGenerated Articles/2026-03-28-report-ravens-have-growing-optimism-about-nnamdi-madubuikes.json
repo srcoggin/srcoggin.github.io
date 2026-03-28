@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Ravens have \"growing optimism\" about Nnamdi Madubuike's future",
-      "description": "Ravens defensive tackle Nnamdi Madubuike injured his neck in Week 2 and did not play again in 2025.",
-      "url": "https://sports.yahoo.com/articles/report-ravens-growing-optimism-nnamdi-223043879.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Ravens have \"growing optimism\" about Nnamdi Madubuike's future",
       "description": "Ravens defensive tackle Nnamdi Madubuike injured his neck in Week 2 and did not play again in 2025.",
@@ -34,5 +28,5 @@
     "2025"
   ],
   "hash": "0cf7f6d98b4fd297",
-  "queuedAt": "2026-03-28T13:09:06.061Z"
+  "queuedAt": "2026-03-28T19:01:27.685Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Art Rooney on Rooney Rule: \"The environment has changed\"",
-      "description": "The NFL has found itself in a DEI minefield.",
-      "url": "https://sports.yahoo.com/articles/art-rooney-rooney-rule-environment-015236059.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Art Rooney on Rooney Rule: \"The environment has changed\"",
       "description": "The NFL has found itself in a DEI minefield.",
@@ -27,5 +21,5 @@
     "minefield"
   ],
   "hash": "fd1a341d5b6c8a34",
-  "queuedAt": "2026-03-28T13:09:06.656Z"
+  "queuedAt": "2026-03-28T19:01:38.107Z"
 }

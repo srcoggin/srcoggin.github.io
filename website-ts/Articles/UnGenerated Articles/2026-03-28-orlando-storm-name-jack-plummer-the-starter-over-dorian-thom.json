@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Orlando Storm name Jack Plummer the starter over Dorian Thompson-Robinson",
-      "description": "The Orlando Storm have named Jack Plummer the team's starter, James Larsen of UFL Newsroom reports.",
-      "url": "https://sports.yahoo.com/articles/orlando-storm-name-jack-plummer-191432810.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Orlando Storm name Jack Plummer the starter over Dorian Thompson-Robinson",
       "description": "The Orlando Storm have named Jack Plummer the team's starter, James Larsen of UFL Newsroom reports.",
@@ -34,5 +28,5 @@
     "reports"
   ],
   "hash": "b448d317181394b0",
-  "queuedAt": "2026-03-28T13:09:06.112Z"
+  "queuedAt": "2026-03-28T19:01:27.796Z"
 }
