@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "FCC chair warns NFL that increase in streaming could \"collapse\" antitrust exemption",
-      "description": "Hogs may not get slaughtered, but they could lose their broadcast antitrust exemption.",
-      "url": "https://sports.yahoo.com/articles/fcc-chair-warns-nfl-increase-165815207.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "FCC chair warns NFL that increase in streaming could \"collapse\" antitrust exemption",
       "description": "Hogs may not get slaughtered, but they could lose their broadcast antitrust exemption.",
@@ -34,5 +28,5 @@
     "broadcast"
   ],
   "hash": "7385c73bef9894d0",
-  "queuedAt": "2026-03-28T07:10:44.718Z"
+  "queuedAt": "2026-03-28T13:09:11.516Z"
 }
