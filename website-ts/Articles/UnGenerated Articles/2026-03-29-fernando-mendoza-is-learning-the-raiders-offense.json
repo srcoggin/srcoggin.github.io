@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Fernando Mendoza is learning the Raiders' offense",
-      "description": "Brian Griese, who worked with Klint Kubiak in 2023, is tutoring Mendoza.",
-      "url": "https://sports.yahoo.com/articles/fernando-mendoza-learning-raiders-offense-201136802.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Fernando Mendoza is learning the Raiders' offense",
       "description": "Brian Griese, who worked with Klint Kubiak in 2023, is tutoring Mendoza.",
@@ -31,5 +25,5 @@
     "tutoring"
   ],
   "hash": "d08a681faef000d4",
-  "queuedAt": "2026-03-29T13:18:33.210Z"
+  "queuedAt": "2026-03-29T19:00:05.937Z"
 }
