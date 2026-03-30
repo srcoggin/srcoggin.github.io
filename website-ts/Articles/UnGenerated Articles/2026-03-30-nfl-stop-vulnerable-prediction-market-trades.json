@@ -1,0 +1,31 @@
+{
+  "title": "NFL: Stop vulnerable prediction market trades",
+  "category": "trades",
+  "sources": [
+    {
+      "name": "ESPN NFL",
+      "title": "NFL: Stop vulnerable prediction market trades",
+      "description": "The NFL asked prediction market operators to refrain from offering trades on events that can be easily manipulated or determined in advance.",
+      "url": "https://www.espn.com/nfl/story/_/id/48338843/nfl-asks-prediction-markets-stop-manipulable-trading"
+    }
+  ],
+  "keywords": [
+    "stop",
+    "vulnerable",
+    "prediction",
+    "market",
+    "trades",
+    "asked",
+    "operators",
+    "refrain",
+    "offering",
+    "events",
+    "that",
+    "easily",
+    "manipulated",
+    "determined",
+    "advance"
+  ],
+  "hash": "1ece12da2c46da74",
+  "queuedAt": "2026-03-30T13:41:23.515Z"
+}
