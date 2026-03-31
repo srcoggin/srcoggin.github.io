@@ -3,6 +3,12 @@
   "category": "general",
   "sources": [
     {
+      "name": "Yahoo Sports NFL",
+      "title": "Ian Cunningham on diversity in hiring: \"There's still work to be done\"",
+      "description": "The NFL is struggling to balance the P.R. and legal realities of diversity in key positions with a potential political assault from those who regard the three-letter \"DEI' acronym as a four-letter word.",
+      "url": "https://sports.yahoo.com/articles/ian-cunningham-diversity-hiring-theres-043008776.html"
+    },
+    {
       "name": "Pro Football Talk",
       "title": "Ian Cunningham on diversity in hiring: \"There's still work to be done\"",
       "description": "The NFL is struggling to balance the P.R. and legal realities of diversity in key positions with a potential political assault from those who regard the three-letter \"DEI' acronym as a four-letter word.",
@@ -37,5 +43,5 @@
     "word"
   ],
   "hash": "d64ead02b1190cad",
-  "queuedAt": "2026-03-31T07:29:21.644Z"
+  "queuedAt": "2026-03-31T13:43:47.050Z"
 }

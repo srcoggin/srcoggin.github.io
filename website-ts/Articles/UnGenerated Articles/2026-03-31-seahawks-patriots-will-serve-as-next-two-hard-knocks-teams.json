@@ -3,6 +3,12 @@
   "category": "general",
   "sources": [
     {
+      "name": "Yahoo Sports NFL",
+      "title": "Seahawks, Patriots will serve as next two Hard Knocks teams",
+      "description": "For first time ever, NFL schedules the series two seasons in advance.",
+      "url": "https://sports.yahoo.com/articles/seahawks-patriots-serve-next-two-014229386.html"
+    },
+    {
       "name": "Pro Football Talk",
       "title": "Seahawks, Patriots will serve as next two Hard Knocks teams",
       "description": "For first time ever, NFL schedules the series two seasons in advance.",
@@ -27,5 +33,5 @@
     "advance"
   ],
   "hash": "ba7caac940d2754b",
-  "queuedAt": "2026-03-31T07:29:21.697Z"
+  "queuedAt": "2026-03-31T13:43:47.310Z"
 }
