@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers have discussed Kirk Cousins as a backup to Jordan Love",
-      "description": "The Rams aren't the only team interested in Kirk Cousins as a backup quarterback.",
-      "url": "https://sports.yahoo.com/articles/packers-discussed-kirk-cousins-backup-225941726.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers have discussed Kirk Cousins as a backup to Jordan Love",
       "description": "The Rams aren't the only team interested in Kirk Cousins as a backup quarterback.",
@@ -29,5 +23,5 @@
     "quarterback"
   ],
   "hash": "66b55d3aad3bc7fe",
-  "queuedAt": "2026-03-31T02:55:42.832Z"
+  "queuedAt": "2026-03-31T07:29:21.965Z"
 }

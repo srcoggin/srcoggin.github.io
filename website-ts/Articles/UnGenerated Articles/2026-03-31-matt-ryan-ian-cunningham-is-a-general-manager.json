@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Matt Ryan: Ian Cunningham is a General Manager",
-      "description": "While the question of whether the Bears will or won't (they won't) get a pair of third-round compensatory picks as a result of the hiring of former assistant General Manager Ian Cunningham by the Falcons as General Manager has been resolved, many still wonder why the provision rewarding teams for developing minority candidates for high-level promotions didn't apply to Chicago.",
-      "url": "https://sports.yahoo.com/articles/matt-ryan-ian-cunningham-general-225534099.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Matt Ryan: Ian Cunningham is a General Manager",
       "description": "While the question of whether the Bears will or won't (they won't) get a pair of third-round compensatory picks as a result of the hiring of former assistant General Manager Ian Cunningham by the Falcons as General Manager has been resolved, many still wonder why the provision rewarding teams for developing minority candidates for high-level promotions didn't apply to Chicago.",
@@ -55,5 +49,5 @@
     "chicago"
   ],
   "hash": "9d277d52414bfa8a",
-  "queuedAt": "2026-03-31T02:55:42.930Z"
+  "queuedAt": "2026-03-31T07:29:22.017Z"
 }

@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL officially awards Super Bowl LXIII to Las Vegas",
-      "description": "NFL owners unanimously approved Las Vegas' second Super Bowl on Monday, which will be played in Feb. 2029.",
-      "url": "https://sports.yahoo.com/articles/nfl-officially-awards-super-bowl-220537033.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL officially awards Super Bowl LXIII to Las Vegas",
       "description": "NFL owners unanimously approved Las Vegas' second Super Bowl on Monday, which will be played in Feb. 2029.",
@@ -34,5 +28,5 @@
     "2029"
   ],
   "hash": "b767a2b02e58915c",
-  "queuedAt": "2026-03-31T02:55:40.206Z"
+  "queuedAt": "2026-03-31T07:29:19.367Z"
 }
