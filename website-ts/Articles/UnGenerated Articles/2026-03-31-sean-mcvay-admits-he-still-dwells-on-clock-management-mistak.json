@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McVay admits he still dwells on clock management mistake in NFC Championship Game",
-      "description": "Two Rams incomplete passes late in the first half gave the Seahawks time to score a touchdown before halftime.",
-      "url": "https://sports.yahoo.com/articles/sean-mcvay-admits-still-dwells-130452179.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McVay admits he still dwells on clock management mistake in NFC Championship Game",
       "description": "Two Rams incomplete passes late in the first half gave the Seahawks time to score a touchdown before halftime.",
@@ -41,5 +35,5 @@
     "halftime"
   ],
   "hash": "19f155fc35aeae8d",
-  "queuedAt": "2026-03-31T13:43:46.586Z"
+  "queuedAt": "2026-03-31T19:18:20.476Z"
 }

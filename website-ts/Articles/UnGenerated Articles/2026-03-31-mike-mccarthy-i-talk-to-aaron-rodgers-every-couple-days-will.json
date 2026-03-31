@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike McCarthy: I talk to Aaron Rodgers every couple days, will continue to do that",
-      "description": "Steelers head coach Mike McCarthy is speaking regularly with the person he hopes will be his starting quarterback in 2026.",
-      "url": "https://sports.yahoo.com/articles/mike-mccarthy-talk-aaron-rodgers-103232823.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike McCarthy: I talk to Aaron Rodgers every couple days, will continue to do that",
       "description": "Steelers head coach Mike McCarthy is speaking regularly with the person he hopes will be his starting quarterback in 2026.",
@@ -39,5 +33,5 @@
     "2026"
   ],
   "hash": "5ee88b6a4dc8c1df",
-  "queuedAt": "2026-03-31T13:43:46.706Z"
+  "queuedAt": "2026-03-31T19:18:20.643Z"
 }

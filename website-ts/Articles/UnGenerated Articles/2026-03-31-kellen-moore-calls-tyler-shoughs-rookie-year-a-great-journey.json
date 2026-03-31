@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kellen Moore calls Tyler Shough's rookie year \"a great journey\"",
-      "description": "The Saints had a first-year coach and a rookie quarterback in 2025, and they came out of it thinking they have two of the most important pieces in place.",
-      "url": "https://sports.yahoo.com/articles/kellen-moore-calls-tyler-shoughs-090321731.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kellen Moore calls Tyler Shough's rookie year \"a great journey\"",
       "description": "The Saints had a first-year coach and a rookie quarterback in 2025, and they came out of it thinking they have two of the most important pieces in place.",
@@ -39,5 +33,5 @@
     "place"
   ],
   "hash": "f9a0586425eda92e",
-  "queuedAt": "2026-03-31T13:43:46.828Z"
+  "queuedAt": "2026-03-31T19:18:20.744Z"
 }
