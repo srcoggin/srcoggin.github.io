@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL \"actively looking\" at Thanksgiving Eve game for 2026",
-      "description": "The NFL began playing a Black Friday game in 2023.",
-      "url": "https://sports.yahoo.com/articles/nfl-actively-looking-thanksgiving-eve-220756964.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL \"actively looking\" at Thanksgiving Eve game for 2026",
       "description": "The NFL began playing a Black Friday game in 2023.",
@@ -28,5 +22,5 @@
     "2023"
   ],
   "hash": "aae4c0ab3025b9dc",
-  "queuedAt": "2026-04-01T07:43:14.610Z"
+  "queuedAt": "2026-04-01T13:41:02.732Z"
 }

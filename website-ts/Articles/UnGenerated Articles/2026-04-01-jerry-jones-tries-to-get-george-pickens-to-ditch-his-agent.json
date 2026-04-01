@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jerry Jones tries to get George Pickens to ditch his agent",
-      "description": "Jerry Jones is at it again.",
-      "url": "https://sports.yahoo.com/articles/jerry-jones-tries-george-pickens-212218655.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jerry Jones tries to get George Pickens to ditch his agent",
       "description": "Jerry Jones is at it again.",
@@ -27,5 +21,5 @@
     "agent"
   ],
   "hash": "bb00ff265ffc8679",
-  "queuedAt": "2026-04-01T07:43:14.747Z"
+  "queuedAt": "2026-04-01T13:41:03.059Z"
 }

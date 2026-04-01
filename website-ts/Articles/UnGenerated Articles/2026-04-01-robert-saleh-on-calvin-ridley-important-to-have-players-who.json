@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Robert Saleh on Calvin Ridley: Important to have players who can score from anywhere",
-      "description": "There was some question about whether wide receiver Calvin Ridley would be back with the Titans for the 2026 season, but he and the team worked out a revised contract this month that will keep him in Nashville.",
-      "url": "https://sports.yahoo.com/articles/robert-saleh-calvin-ridley-important-211727043.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Robert Saleh on Calvin Ridley: Important to have players who can score from anywhere",
       "description": "There was some question about whether wide receiver Calvin Ridley would be back with the Titans for the 2026 season, but he and the team worked out a revised contract this month that will keep him in Nashville.",
@@ -45,5 +39,5 @@
     "nashville"
   ],
   "hash": "450cceb8882dac06",
-  "queuedAt": "2026-04-01T07:43:14.854Z"
+  "queuedAt": "2026-04-01T13:41:03.244Z"
 }

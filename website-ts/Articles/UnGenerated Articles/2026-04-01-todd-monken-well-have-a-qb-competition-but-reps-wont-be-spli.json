@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Todd Monken: We'll have a QB competition, but reps won't be split evenly",
-      "description": "The Browns will open their offseason program next week and one of the things to watch in the coming weeks will be how things are shaping up at quarterback.",
-      "url": "https://sports.yahoo.com/articles/todd-monken-well-qb-competition-221950420.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Todd Monken: We'll have a QB competition, but reps won't be split evenly",
       "description": "The Browns will open their offseason program next week and one of the things to watch in the coming weeks will be how things are shaping up at quarterback.",
@@ -39,5 +33,5 @@
     "quarterback"
   ],
   "hash": "7c4e5bd0219e7514",
-  "queuedAt": "2026-04-01T07:43:14.383Z"
+  "queuedAt": "2026-04-01T13:41:02.652Z"
 }

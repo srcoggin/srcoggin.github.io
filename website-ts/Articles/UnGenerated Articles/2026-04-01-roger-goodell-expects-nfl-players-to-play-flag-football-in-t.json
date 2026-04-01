@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Roger Goodell expects NFL players to play flag football in the Olympics",
-      "description": "Broncos head coach Sean Payton said Tuesday he will be \"surprised\" if NFL players make the United States flag football team for the 2028 Olympics in Los Angeles.",
-      "url": "https://sports.yahoo.com/articles/roger-goodell-expects-nfl-players-233015712.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Roger Goodell expects NFL players to play flag football in the Olympics",
       "description": "Broncos head coach Sean Payton said Tuesday he will be \"surprised\" if NFL players make the United States flag football team for the 2028 Olympics in Los Angeles.",
@@ -39,5 +33,5 @@
     "angeles"
   ],
   "hash": "535f489030d60136",
-  "queuedAt": "2026-04-01T07:43:14.270Z"
+  "queuedAt": "2026-04-01T13:41:02.534Z"
 }

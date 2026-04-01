@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jim Harbaugh: Working with Mike McDaniel has been \"Awesome with a capital A\"",
-      "description": "After a four-year stint as Dolphins head coach, Mike McDaniel landed with the Chargers as their offensive coordinator in 2026.",
-      "url": "https://sports.yahoo.com/articles/jim-harbaugh-working-mike-mcdaniel-205121956.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jim Harbaugh: Working with Mike McDaniel has been \"Awesome with a capital A\"",
       "description": "After a four-year stint as Dolphins head coach, Mike McDaniel landed with the Chargers as their offensive coordinator in 2026.",
@@ -36,5 +30,5 @@
     "2026"
   ],
   "hash": "5cb5b598f2ca0aad",
-  "queuedAt": "2026-04-01T07:43:15.113Z"
+  "queuedAt": "2026-04-01T13:41:03.450Z"
 }
