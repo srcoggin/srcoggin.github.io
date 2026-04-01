@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles sign LB Chandler Martin",
-      "description": "The Eagles have added a linebacker to their roster.",
-      "url": "https://sports.yahoo.com/articles/eagles-sign-lb-chandler-martin-125321249.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles sign LB Chandler Martin",
       "description": "The Eagles have added a linebacker to their roster.",
@@ -26,5 +20,5 @@
     "roster"
   ],
   "hash": "331d7300dd244565",
-  "queuedAt": "2026-04-01T13:40:54.467Z"
+  "queuedAt": "2026-04-01T19:22:00.428Z"
 }

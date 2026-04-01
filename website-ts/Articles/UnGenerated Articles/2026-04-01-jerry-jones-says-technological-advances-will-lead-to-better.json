@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jerry Jones says technological advances will lead to better officiating",
-      "description": "NFL officiating will rely more on technology and get better because of it, Cowboys owner Jerry Jones says.",
-      "url": "https://sports.yahoo.com/articles/jerry-jones-says-technological-advances-125629903.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jerry Jones says technological advances will lead to better officiating",
       "description": "NFL officiating will rely more on technology and get better because of it, Cowboys owner Jerry Jones says.",
@@ -31,5 +25,5 @@
     "owner"
   ],
   "hash": "487b42c8cc8c6e2d",
-  "queuedAt": "2026-04-01T13:40:54.391Z"
+  "queuedAt": "2026-04-01T19:22:00.338Z"
 }
