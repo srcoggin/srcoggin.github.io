@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kirk Cousins agrees to sign with Raiders",
-      "description": "While Las Vegas is expected to select Fernando Mendoza at No. 1 overall, Cousins gives the club a veteran option at QB.",
-      "url": "https://sports.yahoo.com/articles/kirk-cousins-agrees-sign-raiders-132209523.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kirk Cousins agrees to sign with Raiders",
       "description": "While Las Vegas is expected to select Fernando Mendoza at No. 1 overall, Cousins gives the club a veteran option at QB.",
@@ -35,5 +29,5 @@
     "option"
   ],
   "hash": "337ebac3ff0e5a31",
-  "queuedAt": "2026-04-02T13:33:05.393Z"
+  "queuedAt": "2026-04-02T19:20:09.859Z"
 }

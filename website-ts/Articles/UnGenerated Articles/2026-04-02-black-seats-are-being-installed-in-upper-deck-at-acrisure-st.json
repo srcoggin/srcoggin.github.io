@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Black seats are being installed in upper deck at Acrisure Stadium",
-      "description": "Acrisure Stadium, which opened as Heinz Field in 2001, has been characterized by an endless ocean of yellow seats.",
-      "url": "https://sports.yahoo.com/articles/black-seats-being-installed-upper-011659160.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Black seats are being installed in upper deck at Acrisure Stadium",
       "description": "Acrisure Stadium, which opened as Heinz Field in 2001, has been characterized by an endless ocean of yellow seats.",
@@ -34,5 +28,5 @@
     "yellow"
   ],
   "hash": "6be6297c13d1d336",
-  "queuedAt": "2026-04-02T13:33:05.603Z"
+  "queuedAt": "2026-04-02T19:20:11.028Z"
 }
