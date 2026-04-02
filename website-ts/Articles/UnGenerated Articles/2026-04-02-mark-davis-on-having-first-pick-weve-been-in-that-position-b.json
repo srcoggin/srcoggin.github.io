@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mark Davis on having first pick: We've been in that position before, and it didn't work out",
-      "description": "Since they played in Super Bowl XXXVII in the 2002 season, the Raiders have had 15 head coaches, including interim coaches, 27 starting quarterbacks, two playoff appearances and no playoff wins.",
-      "url": "https://sports.yahoo.com/articles/mark-davis-having-first-pick-214634516.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mark Davis on having first pick: We've been in that position before, and it didn't work out",
       "description": "Since they played in Super Bowl XXXVII in the 2002 season, the Raiders have had 15 head coaches, including interim coaches, 27 starting quarterbacks, two playoff appearances and no playoff wins.",
@@ -47,5 +41,5 @@
     "wins"
   ],
   "hash": "3f362de23eca9e05",
-  "queuedAt": "2026-04-02T07:27:05.993Z"
+  "queuedAt": "2026-04-02T13:33:13.291Z"
 }

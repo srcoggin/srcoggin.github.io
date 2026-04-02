@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Ravens will be the Cowboys' opponent in Rio in 2026",
-      "description": "The NFL announced earlier this year that the Cowboys would host a game in Brazil.",
-      "url": "https://sports.yahoo.com/articles/report-ravens-cowboys-opponent-rio-210317114.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Ravens will be the Cowboys' opponent in Rio in 2026",
       "description": "The NFL announced earlier this year that the Cowboys would host a game in Brazil.",
@@ -30,5 +24,5 @@
     "brazil"
   ],
   "hash": "3ef1cf3d23889257",
-  "queuedAt": "2026-04-02T07:27:04.224Z"
+  "queuedAt": "2026-04-02T13:33:05.118Z"
 }

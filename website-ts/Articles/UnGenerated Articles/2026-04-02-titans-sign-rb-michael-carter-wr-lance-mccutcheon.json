@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans sign RB Michael Carter, WR Lance McCutcheon",
-      "description": "On a busy day for the Titans, they've made a third and fourth addition to their offense.",
-      "url": "https://sports.yahoo.com/articles/titans-sign-rb-michael-carter-184750856.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans sign RB Michael Carter, WR Lance McCutcheon",
       "description": "On a busy day for the Titans, they've made a third and fourth addition to their offense.",
@@ -33,5 +27,5 @@
     "offense"
   ],
   "hash": "340b151bacd63c25",
-  "queuedAt": "2026-04-02T07:27:06.233Z"
+  "queuedAt": "2026-04-02T13:33:13.701Z"
 }

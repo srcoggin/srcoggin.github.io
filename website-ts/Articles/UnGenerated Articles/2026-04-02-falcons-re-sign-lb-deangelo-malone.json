@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons re-sign LB DeAngelo Malone",
-      "description": "DeAngelo Malone visited with the Bucs earlier this month, but the linebacker will be remaining with one of their NFC South rivals for the 2026 season.",
-      "url": "https://sports.yahoo.com/articles/falcons-sign-lb-deangelo-malone-195601349.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons re-sign LB DeAngelo Malone",
       "description": "DeAngelo Malone visited with the Bucs earlier this month, but the linebacker will be remaining with one of their NFC South rivals for the 2026 season.",
@@ -35,5 +29,5 @@
     "2026"
   ],
   "hash": "c805fca23348e965",
-  "queuedAt": "2026-04-02T07:27:06.177Z"
+  "queuedAt": "2026-04-02T13:33:13.637Z"
 }

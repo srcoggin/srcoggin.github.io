@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFLPA, NFLRA executive directors met on Tuesday",
-      "description": "With the NFL careening toward another work stoppage involving game officials, the executive directors of the two unions most directly impacted by the development have put their heads together.",
-      "url": "https://sports.yahoo.com/articles/nflpa-nflra-executive-directors-met-175746533.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFLPA, NFLRA executive directors met on Tuesday",
       "description": "With the NFL careening toward another work stoppage involving game officials, the executive directors of the two unions most directly impacted by the development have put their heads together.",
@@ -40,5 +34,5 @@
     "together"
   ],
   "hash": "20f69ac5e8209b9a",
-  "queuedAt": "2026-04-02T07:27:04.304Z"
+  "queuedAt": "2026-04-02T13:33:05.182Z"
 }
