@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kirk Cousins gets $98.7 million for 22 starts with the Falcons",
-      "description": "Kirk Cousins has made $321 million in 14 NFL seasons.",
-      "url": "https://sports.yahoo.com/articles/kirk-cousins-gets-98-7-025248348.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kirk Cousins gets $98.7 million for 22 starts with the Falcons",
       "description": "Kirk Cousins has made $321 million in 14 NFL seasons.",
@@ -28,5 +22,5 @@
     "seasons"
   ],
   "hash": "51d1ba9ad755f0b3",
-  "queuedAt": "2026-04-03T13:29:36.192Z"
+  "queuedAt": "2026-04-03T19:11:40.071Z"
 }

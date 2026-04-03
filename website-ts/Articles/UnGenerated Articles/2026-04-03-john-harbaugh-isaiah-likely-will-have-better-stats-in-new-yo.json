@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "John Harbaugh: Isaiah Likely will have better stats in New York than he did in Baltimore",
-      "description": "New Giants head coach John Harbaugh was eager to sign tight end Isaiah Likely after coaching him the last four years on the Ravens.",
-      "url": "https://sports.yahoo.com/articles/john-harbaugh-isaiah-likely-better-092125975.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "John Harbaugh: Isaiah Likely will have better stats in New York than he did in Baltimore",
       "description": "New Giants head coach John Harbaugh was eager to sign tight end Isaiah Likely after coaching him the last four years on the Ravens.",
@@ -40,5 +34,5 @@
     "ravens"
   ],
   "hash": "3383951ed522ce6c",
-  "queuedAt": "2026-04-03T13:29:35.951Z"
+  "queuedAt": "2026-04-03T19:11:40.653Z"
 }

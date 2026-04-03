@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brian Schottenheimer doesn't rule out selecting an offensive player in the first round",
-      "description": "The Cowboys allowed the most points in the NFL last season, with the 511 points scored by opponents setting a team record.",
-      "url": "https://sports.yahoo.com/articles/brian-schottenheimer-doesnt-rule-selecting-213422992.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brian Schottenheimer doesn't rule out selecting an offensive player in the first round",
       "description": "The Cowboys allowed the most points in the NFL last season, with the 511 points scored by opponents setting a team record.",
@@ -36,5 +30,5 @@
     "record"
   ],
   "hash": "7556085962a28fcc",
-  "queuedAt": "2026-04-03T13:29:36.401Z"
+  "queuedAt": "2026-04-03T19:11:40.972Z"
 }
