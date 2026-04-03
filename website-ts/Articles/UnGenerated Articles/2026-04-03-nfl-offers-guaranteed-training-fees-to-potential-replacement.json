@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL offers guaranteed training fees to potential replacement officials",
-      "description": "League intends to pay Group of 4 officials $120,000 for May-August training.",
-      "url": "https://sports.yahoo.com/articles/nfl-offers-guaranteed-training-fees-202951867.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL offers guaranteed training fees to potential replacement officials",
       "description": "League intends to pay Group of 4 officials $120,000 for May-August training.",
@@ -31,5 +25,5 @@
     "mayaugust"
   ],
   "hash": "2693d36a04a25914",
-  "queuedAt": "2026-04-03T07:23:30.160Z"
+  "queuedAt": "2026-04-03T13:29:35.325Z"
 }

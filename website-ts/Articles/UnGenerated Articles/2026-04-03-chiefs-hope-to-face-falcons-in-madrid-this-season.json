@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chiefs hope to face Falcons in Madrid this season",
-      "description": "The NFL announced that the Falcons will be the designated home team for a game in Madrid this season, but they have not announced the other team that will be heading to Spain in the fall.",
-      "url": "https://sports.yahoo.com/articles/chiefs-hope-face-falcons-madrid-210503675.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chiefs hope to face Falcons in Madrid this season",
       "description": "The NFL announced that the Falcons will be the designated home team for a game in Madrid this season, but they have not announced the other team that will be heading to Spain in the fall.",
@@ -32,5 +26,5 @@
     "fall"
   ],
   "hash": "f6ffee9a42ebba2e",
-  "queuedAt": "2026-04-03T07:23:30.047Z"
+  "queuedAt": "2026-04-03T13:29:35.218Z"
 }

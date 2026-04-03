@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "ESPN is expected to change its NFL \"B\" team",
-      "description": "With the NFL pulling the plug on the Monday Night Football doubleheaders and with ESPN slated to televise games beyond Monday night, ESPN will be making changes to its current NFL \"B\" team.",
-      "url": "https://sports.yahoo.com/articles/espn-expected-change-nfl-b-193133424.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "ESPN is expected to change its NFL \"B\" team",
       "description": "With the NFL pulling the plug on the Monday Night Football doubleheaders and with ESPN slated to televise games beyond Monday night, ESPN will be making changes to its current NFL \"B\" team.",
@@ -34,5 +28,5 @@
     "current"
   ],
   "hash": "dfbad81b63e4f3b8",
-  "queuedAt": "2026-04-03T07:23:31.783Z"
+  "queuedAt": "2026-04-03T13:29:48.385Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Joe Brady still has high hopes for Keon Coleman",
-      "description": "Joe Brady replacing Sean McDermott as the head coach of the Bills is the best thing that could have happened to Keon Coleman.",
-      "url": "https://sports.yahoo.com/articles/joe-brady-still-high-hopes-204047970.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Joe Brady still has high hopes for Keon Coleman",
       "description": "Joe Brady replacing Sean McDermott as the head coach of the Bills is the best thing that could have happened to Keon Coleman.",
@@ -35,5 +29,5 @@
     "happened"
   ],
   "hash": "9524a59f299f0228",
-  "queuedAt": "2026-04-03T07:23:31.625Z"
+  "queuedAt": "2026-04-03T13:29:48.186Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Stephon Gilmore announces retirement",
-      "description": "Free agent cornerback Stephon Gilmore announced his retirement on Thursday.",
-      "url": "https://sports.yahoo.com/articles/stephon-gilmore-announces-retirement-200031739.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Stephon Gilmore announces retirement",
       "description": "Free agent cornerback Stephon Gilmore announced his retirement on Thursday.",
@@ -28,5 +22,5 @@
     "thursday"
   ],
   "hash": "072429c8a0fa131a",
-  "queuedAt": "2026-04-03T07:23:30.214Z"
+  "queuedAt": "2026-04-03T13:29:35.434Z"
 }

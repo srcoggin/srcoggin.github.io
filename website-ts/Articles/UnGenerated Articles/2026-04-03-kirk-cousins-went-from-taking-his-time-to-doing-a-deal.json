@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kirk Cousins went from taking his time to doing a deal",
-      "description": "Earlier this week, Kirk Cousins was supposedly taking his time.",
-      "url": "https://sports.yahoo.com/articles/kirk-cousins-went-taking-time-201321197.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kirk Cousins went from taking his time to doing a deal",
       "description": "Earlier this week, Kirk Cousins was supposedly taking his time.",
@@ -29,5 +23,5 @@
     "supposedly"
   ],
   "hash": "fec9ad4ddda6db45",
-  "queuedAt": "2026-04-03T07:23:31.677Z"
+  "queuedAt": "2026-04-03T13:29:47.636Z"
 }
