@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ten teams will start their offseason programs next week",
-      "description": "Offseason programs will start getting underway around the NFL next week.",
-      "url": "https://sports.yahoo.com/articles/ten-teams-start-offseason-programs-173754686.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ten teams will start their offseason programs next week",
       "description": "Offseason programs will start getting underway around the NFL next week.",
@@ -28,5 +22,5 @@
     "around"
   ],
   "hash": "902f0bd26f10a049",
-  "queuedAt": "2026-04-04T07:15:22.567Z"
+  "queuedAt": "2026-04-04T13:18:20.818Z"
 }

@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Texas Tech edge rusher David Bailey has visited Chiefs, Cowboys, Titans, Cardinals",
-      "description": "Texas Tech edge rusher David Bailey is one of the top prospects in the 2026 draft, a likely top-10 pick.",
-      "url": "https://sports.yahoo.com/articles/texas-tech-edge-rusher-david-192327949.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Texas Tech edge rusher David Bailey has visited Chiefs, Cowboys, Titans, Cardinals",
       "description": "Texas Tech edge rusher David Bailey is one of the top prospects in the 2026 draft, a likely top-10 pick.",
@@ -37,5 +31,5 @@
     "pick"
   ],
   "hash": "658805898149832c",
-  "queuedAt": "2026-04-04T07:15:22.463Z"
+  "queuedAt": "2026-04-04T13:18:20.633Z"
 }
