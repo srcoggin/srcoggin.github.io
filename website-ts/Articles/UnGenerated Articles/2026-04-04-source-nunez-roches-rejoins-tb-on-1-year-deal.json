@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "Source: Nunez-Roches rejoins TB on 1-year deal",
-      "description": "The Buccaneers are re-signing defensive tackle Rakeem Nunez-Roches on a one-year deal, a source confirmed Friday.",
+      "description": "The Buccaneers are re-signing defensive tackle Rakeem Nunez-Roches on a one-year deal, a source confirmed.",
       "url": "https://www.espn.com/nfl/story/_/id/48390461/buccaneers-re-signing-dt-rakeem-nunez-roches-source-says"
     }
   ],
@@ -21,9 +21,8 @@
     "tackle",
     "rakeem",
     "oneyear",
-    "confirmed",
-    "friday"
+    "confirmed"
   ],
-  "hash": "ab539f600c1bb77b",
-  "queuedAt": "2026-04-04T13:18:10.291Z"
+  "hash": "852272cf5a703556",
+  "queuedAt": "2026-04-04T19:00:50.112Z"
 }

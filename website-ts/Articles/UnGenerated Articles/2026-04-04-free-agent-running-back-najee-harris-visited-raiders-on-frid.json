@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Free agent running back Najee Harris visited Raiders on Friday",
-      "description": "Free agent running back Najee Harris visited the Raiders on Friday, according to the NFL's transactions report.",
-      "url": "https://sports.yahoo.com/articles/free-agent-running-back-najee-211401449.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Free agent running back Najee Harris visited Raiders on Friday",
       "description": "Free agent running back Najee Harris visited the Raiders on Friday, according to the NFL's transactions report.",
@@ -31,5 +25,5 @@
     "report"
   ],
   "hash": "83c519db6af1ba0c",
-  "queuedAt": "2026-04-04T13:18:09.985Z"
+  "queuedAt": "2026-04-04T19:00:50.904Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Buccaneers owner Joel Glazer supports head coach Todd Bowles",
-      "description": "The Buccaneers began last season 5-1 and were 6-2 before their off week.",
-      "url": "https://sports.yahoo.com/articles/buccaneers-owner-joel-glazer-supports-202704867.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Buccaneers owner Joel Glazer supports head coach Todd Bowles",
       "description": "The Buccaneers began last season 5-1 and were 6-2 before their off week.",
@@ -31,5 +25,5 @@
     "off"
   ],
   "hash": "c309aa8628fbe8e2",
-  "queuedAt": "2026-04-04T13:18:11.609Z"
+  "queuedAt": "2026-04-04T19:00:58.363Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears Falcons Ian Cunningham compensatory picks Rooney Rule",
-      "description": "By not giviing the Bears a pair of third-round picks for Ian Cunningham being hired by the Falcons, another team could hire him.",
-      "url": "https://sports.yahoo.com/articles/bears-falcons-ian-cunningham-compensatory-202133739.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears Falcons Ian Cunningham compensatory picks Rooney Rule",
       "description": "By not giviing the Bears a pair of third-round picks for Ian Cunningham being hired by the Falcons, another team could hire him.",
@@ -33,5 +27,5 @@
     "him"
   ],
   "hash": "83d4ef27c0504d66",
-  "queuedAt": "2026-04-04T13:18:11.702Z"
+  "queuedAt": "2026-04-04T19:00:58.436Z"
 }
