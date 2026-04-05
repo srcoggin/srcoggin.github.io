@@ -1,0 +1,32 @@
+{
+  "title": "NFL CBS Fox NBC ABC films TV",
+  "category": "general",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "NFL CBS Fox NBC ABC films TV",
+      "description": "The league's quest for more could lead to fewer films and TV shows.",
+      "url": "https://sports.yahoo.com/articles/nfl-cbs-fox-nbc-abc-233055529.html"
+    },
+    {
+      "name": "Pro Football Talk",
+      "title": "NFL CBS Fox NBC ABC films TV",
+      "description": "The league's quest for more could lead to fewer films and TV shows.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfls-current-cash-grab-could-hamper-hollywood"
+    }
+  ],
+  "keywords": [
+    "cbs",
+    "fox",
+    "nbc",
+    "abc",
+    "films",
+    "leagues",
+    "quest",
+    "lead",
+    "fewer",
+    "shows"
+  ],
+  "hash": "156d1c45fb03dcf8",
+  "queuedAt": "2026-04-05T02:56:11.869Z"
+}
