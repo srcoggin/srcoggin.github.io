@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kirk Cousins Raiders Career Earnings Falcons Vikings",
-      "description": "Kirk Cousins has spent 14 years in the NFL.",
-      "url": "https://sports.yahoo.com/articles/kirk-cousins-continues-climb-time-132412062.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kirk Cousins Raiders Career Earnings Falcons Vikings",
       "description": "Kirk Cousins has spent 14 years in the NFL.",
@@ -27,5 +21,5 @@
     "years"
   ],
   "hash": "b6a1d88bcfd43cab",
-  "queuedAt": "2026-04-05T07:30:42.726Z"
+  "queuedAt": "2026-04-05T13:24:56.392Z"
 }

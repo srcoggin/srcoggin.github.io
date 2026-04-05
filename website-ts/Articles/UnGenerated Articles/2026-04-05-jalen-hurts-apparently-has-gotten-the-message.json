@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jalen Hurts apparently has gotten the message",
-      "description": "Wednesday's curiously timed report regarding the role of quarterback Jalen Hurts in the Eagles' offensive dysfunction seemed to be a message.",
-      "url": "https://sports.yahoo.com/articles/jalen-hurts-apparently-gotten-message-145952363.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jalen Hurts apparently has gotten the message",
       "description": "Wednesday's curiously timed report regarding the role of quarterback Jalen Hurts in the Eagles' offensive dysfunction seemed to be a message.",
@@ -34,5 +28,5 @@
     "seemed"
   ],
   "hash": "a474e438a2171644",
-  "queuedAt": "2026-04-05T07:30:40.269Z"
+  "queuedAt": "2026-04-05T13:24:45.794Z"
 }
