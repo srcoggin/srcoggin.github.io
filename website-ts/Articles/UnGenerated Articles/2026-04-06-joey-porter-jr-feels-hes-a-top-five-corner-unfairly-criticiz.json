@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Joey Porter Jr. feels he's a top-five corner, unfairly criticized for penalties",
-      "description": "Steelers cornerback Joey Porter Jr. doesn't think he's getting the recognition he deserves after three years in the league.",
-      "url": "https://sports.yahoo.com/articles/joey-porter-jr-feels-hes-105557787.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Joey Porter Jr. feels he's a top-five corner, unfairly criticized for penalties",
       "description": "Steelers cornerback Joey Porter Jr. doesn't think he's getting the recognition he deserves after three years in the league.",
@@ -37,5 +31,5 @@
     "league"
   ],
   "hash": "ffc907c462c97b47",
-  "queuedAt": "2026-04-06T13:31:14.435Z"
+  "queuedAt": "2026-04-06T19:22:13.341Z"
 }

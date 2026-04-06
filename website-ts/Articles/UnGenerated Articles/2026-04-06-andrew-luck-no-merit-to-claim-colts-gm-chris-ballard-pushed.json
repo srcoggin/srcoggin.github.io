@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Andrew Luck: No merit to claim Colts GM Chris Ballard pushed me to retirement decision",
-      "description": "Former Colts quarterback Andrew Luck has rejected a claim that the team's General Manager Chris Ballard influenced his retirement decision ahead of the 2019 season.",
-      "url": "https://sports.yahoo.com/articles/andrew-luck-no-merit-claim-120711225.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Andrew Luck: No merit to claim Colts GM Chris Ballard pushed me to retirement decision",
       "description": "Former Colts quarterback Andrew Luck has rejected a claim that the team's General Manager Chris Ballard influenced his retirement decision ahead of the 2019 season.",
@@ -39,5 +33,5 @@
     "2019"
   ],
   "hash": "0a7f897719e4c40a",
-  "queuedAt": "2026-04-06T13:31:14.368Z"
+  "queuedAt": "2026-04-06T19:22:12.953Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cam Ward \"progressing really well\" after Week 18 shoulder injury",
-      "description": "Titans quarterback Cam Ward's rookie season ended a little earlier than expected, but there doesn't seem to be much worry about his right shoulder impacting his readiness for Year Two.",
-      "url": "https://sports.yahoo.com/articles/cam-ward-progressing-really-well-175636863.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cam Ward \"progressing really well\" after Week 18 shoulder injury",
       "description": "Titans quarterback Cam Ward's rookie season ended a little earlier than expected, but there doesn't seem to be much worry about his right shoulder impacting his readiness for Year Two.",
@@ -43,5 +37,5 @@
     "two"
   ],
   "hash": "c081f06c828584dc",
-  "queuedAt": "2026-04-06T13:31:14.650Z"
+  "queuedAt": "2026-04-06T19:22:13.584Z"
 }

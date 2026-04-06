@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Troy Aikman addresses his new (but still undefined) role with the Dolphins",
-      "description": "Once upon a time, the Cowboys beat the Dolphins in the Super Bowl.",
-      "url": "https://sports.yahoo.com/articles/troy-aikman-addresses-still-undefined-161055345.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Troy Aikman addresses his new (but still undefined) role with the Dolphins",
       "description": "Once upon a time, the Cowboys beat the Dolphins in the Super Bowl.",
@@ -33,5 +27,5 @@
     "bowl"
   ],
   "hash": "8d815e1242e68ee7",
-  "queuedAt": "2026-04-06T13:31:14.716Z"
+  "queuedAt": "2026-04-06T19:22:12.663Z"
 }
