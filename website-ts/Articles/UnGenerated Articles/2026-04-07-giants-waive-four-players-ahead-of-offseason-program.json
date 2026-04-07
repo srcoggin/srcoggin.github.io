@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants waive four players ahead of offseason program",
-      "description": "The Giants will kick off their first offseason program with John Harbaugh at the helm on Tuesday, but four players won't be joining the rest of the roster at the team's facility.",
-      "url": "https://sports.yahoo.com/articles/giants-waive-four-players-ahead-205325464.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants waive four players ahead of offseason program",
       "description": "The Giants will kick off their first offseason program with John Harbaugh at the helm on Tuesday, but four players won't be joining the rest of the roster at the team's facility.",
@@ -39,5 +33,5 @@
     "facility"
   ],
   "hash": "684d3cbe8ef8986f",
-  "queuedAt": "2026-04-07T07:34:59.172Z"
+  "queuedAt": "2026-04-07T13:40:31.863Z"
 }

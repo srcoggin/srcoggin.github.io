@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns sign DB Myles Bryant, re-sign K Andre Szmyt",
-      "description": "With their offseason program starting this week, the Browns have made several roster moves on Monday.",
-      "url": "https://sports.yahoo.com/articles/browns-sign-db-myles-bryant-204846491.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns sign DB Myles Bryant, re-sign K Andre Szmyt",
       "description": "With their offseason program starting this week, the Browns have made several roster moves on Monday.",
@@ -35,5 +29,5 @@
     "monday"
   ],
   "hash": "64487b825181434e",
-  "queuedAt": "2026-04-07T07:34:59.223Z"
+  "queuedAt": "2026-04-07T13:40:32.903Z"
 }

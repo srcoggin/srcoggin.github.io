@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bucs sign OL Justin Skule",
-      "description": "The Buccaneers signed offensive tackle Justin Skule on Monday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/bucs-sign-justin-skule-204617415.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bucs sign OL Justin Skule",
       "description": "The Buccaneers signed offensive tackle Justin Skule on Monday, the team announced.",
@@ -28,5 +22,5 @@
     "announced"
   ],
   "hash": "c07e840d5dd85dbf",
-  "queuedAt": "2026-04-07T07:34:57.427Z"
+  "queuedAt": "2026-04-07T13:40:25.601Z"
 }

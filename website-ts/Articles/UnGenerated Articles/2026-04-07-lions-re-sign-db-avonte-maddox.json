@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions re-sign DB Avonte Maddox",
-      "description": "Defensive back Avonte Maddox will be back with the Lions in 2026.",
-      "url": "https://sports.yahoo.com/articles/lions-sign-db-avonte-maddox-204150097.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions re-sign DB Avonte Maddox",
       "description": "Defensive back Avonte Maddox will be back with the Lions in 2026.",
@@ -25,5 +19,5 @@
     "2026"
   ],
   "hash": "64a13463e31a5484",
-  "queuedAt": "2026-04-07T07:34:59.280Z"
+  "queuedAt": "2026-04-07T13:40:32.976Z"
 }
