@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Australian fans frustrated by high prices, lack of access to tickets for first NFL game",
-      "description": "Tickets to the NFL's first regular-season game in Australia had high prices and sold fast anyway, which is good for the NFL's bottom line but bad for the fans of American football Down Under who say they were priced out of seeing the Week One game between the 49ers and Rams in Melbourne.",
-      "url": "https://sports.yahoo.com/articles/australian-fans-frustrated-high-prices-085845234.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Australian fans frustrated by high prices, lack of access to tickets for first NFL game",
       "description": "Tickets to the NFL's first regular-season game in Australia had high prices and sold fast anyway, which is good for the NFL's bottom line but bad for the fans of American football Down Under who say they were priced out of seeing the Week One game between the 49ers and Rams in Melbourne.",
@@ -50,5 +44,5 @@
     "melbourne"
   ],
   "hash": "4673473fb88b7fde",
-  "queuedAt": "2026-04-08T13:44:52.599Z"
+  "queuedAt": "2026-04-08T19:35:38.574Z"
 }

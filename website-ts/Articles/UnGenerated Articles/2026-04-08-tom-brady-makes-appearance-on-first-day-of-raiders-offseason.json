@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tom Brady makes appearance on first day of Raiders' offseason program",
-      "description": "Brady was in the building for the official start of the Klint Kubiak regime.",
-      "url": "https://sports.yahoo.com/articles/tom-brady-makes-appearance-first-031916949.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tom Brady makes appearance on first day of Raiders' offseason program",
       "description": "Brady was in the building for the official start of the Klint Kubiak regime.",
@@ -33,5 +27,5 @@
     "regime"
   ],
   "hash": "6a0edd1febda8420",
-  "queuedAt": "2026-04-08T13:44:50.512Z"
+  "queuedAt": "2026-04-08T19:35:30.031Z"
 }

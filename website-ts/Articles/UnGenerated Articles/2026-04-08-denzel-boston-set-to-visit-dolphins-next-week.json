@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Denzel Boston set to visit Dolphins next week",
-      "description": "The Dolphins have parted ways with both of their top wide receivers from the 2025 season, so there's a good chance they'll be addressing the spot during the draft later this month.",
-      "url": "https://sports.yahoo.com/articles/denzel-boston-set-visit-dolphins-130025100.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Denzel Boston set to visit Dolphins next week",
       "description": "The Dolphins have parted ways with both of their top wide receivers from the 2025 season, so there's a good chance they'll be addressing the spot during the draft later this month.",
@@ -42,5 +36,5 @@
     "month"
   ],
   "hash": "94c2aa0e9ee00499",
-  "queuedAt": "2026-04-08T13:44:52.309Z"
+  "queuedAt": "2026-04-08T19:35:39.002Z"
 }

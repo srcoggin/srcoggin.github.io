@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kirk Cousins will now wear the \"best jersey in pro sports\"",
-      "description": "Kirk Cousins had multiple reasons to sign with the Raiders.",
-      "url": "https://sports.yahoo.com/articles/kirk-cousins-now-wear-best-093956048.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kirk Cousins will now wear the \"best jersey in pro sports\"",
       "description": "Kirk Cousins had multiple reasons to sign with the Raiders.",
@@ -30,5 +24,5 @@
     "raiders"
   ],
   "hash": "83714e3e56cf6e56",
-  "queuedAt": "2026-04-08T13:44:52.507Z"
+  "queuedAt": "2026-04-08T19:35:38.813Z"
 }
