@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "OL Jordan Meredith, DE Charles Snowden signed tenders with Raiders",
-      "description": "Offensive lineman Jordan Meredith and defensive end Charles Snowden signed their tender on Tuesday, according to the NFL's transactions wire.",
-      "url": "https://sports.yahoo.com/articles/ol-jordan-meredith-charles-snowden-210528800.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "OL Jordan Meredith, DE Charles Snowden signed tenders with Raiders",
       "description": "Offensive lineman Jordan Meredith and defensive end Charles Snowden signed their tender on Tuesday, according to the NFL's transactions wire.",
@@ -36,5 +30,5 @@
     "wire"
   ],
   "hash": "8015bb4b0b517fd5",
-  "queuedAt": "2026-04-08T07:36:39.879Z"
+  "queuedAt": "2026-04-08T13:45:02.495Z"
 }

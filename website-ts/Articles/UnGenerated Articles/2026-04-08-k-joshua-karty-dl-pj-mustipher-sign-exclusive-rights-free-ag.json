@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "K Joshua Karty, DL P.J. Mustipher sign exclusive rights free agent tenders",
-      "description": "Kicker Joshua Karty and defensive lineman P.J.",
-      "url": "https://sports.yahoo.com/articles/k-joshua-karty-dl-p-201500638.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "K Joshua Karty, DL P.J. Mustipher sign exclusive rights free agent tenders",
       "description": "Kicker Joshua Karty and defensive lineman P.J.",
@@ -30,5 +24,5 @@
     "lineman"
   ],
   "hash": "e6b56198d141d407",
-  "queuedAt": "2026-04-08T07:36:39.052Z"
+  "queuedAt": "2026-04-08T13:44:52.023Z"
 }

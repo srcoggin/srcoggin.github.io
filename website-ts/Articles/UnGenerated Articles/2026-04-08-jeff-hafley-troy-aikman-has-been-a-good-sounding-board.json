@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jeff Hafley: Troy Aikman has been a \"good sounding board\"",
-      "description": "ESPN's Troy Aikman has been and will be working for the Dolphins.",
-      "url": "https://sports.yahoo.com/articles/jeff-hafley-troy-aikman-good-193352981.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jeff Hafley: Troy Aikman has been a \"good sounding board\"",
       "description": "ESPN's Troy Aikman has been and will be working for the Dolphins.",
@@ -28,5 +22,5 @@
     "dolphins"
   ],
   "hash": "55fc3522d0bf0020",
-  "queuedAt": "2026-04-08T07:36:40.117Z"
+  "queuedAt": "2026-04-08T13:45:01.962Z"
 }

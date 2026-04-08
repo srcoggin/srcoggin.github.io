@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons re-sign DL Elijah Garcia",
-      "description": "The Falcons officially re-signed defensive lineman Elijah Garcia on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/falcons-sign-dl-elijah-garcia-210638272.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons re-sign DL Elijah Garcia",
       "description": "The Falcons officially re-signed defensive lineman Elijah Garcia on Tuesday.",
@@ -27,5 +21,5 @@
     "tuesday"
   ],
   "hash": "d482fa4bce91093c",
-  "queuedAt": "2026-04-08T07:36:38.998Z"
+  "queuedAt": "2026-04-08T13:44:51.926Z"
 }
