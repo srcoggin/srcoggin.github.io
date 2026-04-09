@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons OT Kaleb McGary retires",
-      "description": "The Falcons are in the market for a new right tackle.",
-      "url": "https://sports.yahoo.com/articles/falcons-ot-kaleb-mcgary-retires-192448937.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons OT Kaleb McGary retires",
       "description": "The Falcons are in the market for a new right tackle.",
@@ -26,5 +20,5 @@
     "tackle"
   ],
   "hash": "b8e3820a82b84a6d",
-  "queuedAt": "2026-04-09T07:42:12.709Z"
+  "queuedAt": "2026-04-09T14:03:03.877Z"
 }

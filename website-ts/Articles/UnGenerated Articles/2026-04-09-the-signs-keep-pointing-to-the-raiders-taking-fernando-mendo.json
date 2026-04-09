@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "The signs keep pointing to the Raiders taking Fernando Mendoza",
-      "description": "With the odds all the way down to -20000 for quarterback Fernando Mendoza to be the first pick in the draft, there seems to be no way the Raiders won't be taking him.",
-      "url": "https://sports.yahoo.com/articles/signs-keep-pointing-raiders-taking-203422549.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "The signs keep pointing to the Raiders taking Fernando Mendoza",
       "description": "With the odds all the way down to -20000 for quarterback Fernando Mendoza to be the first pick in the draft, there seems to be no way the Raiders won't be taking him.",
@@ -36,5 +30,5 @@
     "him"
   ],
   "hash": "61b61da4a97f5a8c",
-  "queuedAt": "2026-04-09T07:42:12.628Z"
+  "queuedAt": "2026-04-09T14:03:02.919Z"
 }

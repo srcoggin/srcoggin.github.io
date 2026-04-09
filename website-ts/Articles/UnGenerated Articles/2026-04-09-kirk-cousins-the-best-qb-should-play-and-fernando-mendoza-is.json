@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kirk Cousins: The best QB should play, and Fernando Mendoza is going to be great",
-      "description": "Cousins made clear that he knows the Raiders will take Mendoza with the first overall pick in the draft.",
-      "url": "https://sports.yahoo.com/articles/kirk-cousins-best-qb-play-185147566.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kirk Cousins: The best QB should play, and Fernando Mendoza is going to be great",
       "description": "Cousins made clear that he knows the Raiders will take Mendoza with the first overall pick in the draft.",
@@ -36,5 +30,5 @@
     "draft"
   ],
   "hash": "8c1f98793c95880c",
-  "queuedAt": "2026-04-09T07:42:12.794Z"
+  "queuedAt": "2026-04-09T14:03:02.851Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL informs teams it will begin training replacement officials in May",
-      "description": "The league plans to assign replacements to OTAs and mandatory minicamps as of June 1.",
-      "url": "https://sports.yahoo.com/articles/nfl-informs-teams-begin-training-195334745.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL informs teams it will begin training replacement officials in May",
       "description": "The league plans to assign replacements to OTAs and mandatory minicamps as of June 1.",
@@ -32,5 +26,5 @@
     "june"
   ],
   "hash": "74b68f0a51a0cddb",
-  "queuedAt": "2026-04-09T07:42:10.880Z"
+  "queuedAt": "2026-04-09T14:02:56.512Z"
 }
