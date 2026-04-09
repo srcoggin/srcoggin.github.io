@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jeff Hafley to Malik Willis: \"Don't change who you are\"",
-      "description": "The new regime in Miami, which came from Green Bay, made a beeline for Packers backup quarterback Malik Willis in free agency.",
-      "url": "https://sports.yahoo.com/articles/jeff-hafley-malik-willis-dont-235422350.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jeff Hafley to Malik Willis: \"Don't change who you are\"",
       "description": "The new regime in Miami, which came from Green Bay, made a beeline for Packers backup quarterback Malik Willis in free agency.",
@@ -40,5 +34,5 @@
     "agency"
   ],
   "hash": "ccadd0f279989aeb",
-  "queuedAt": "2026-04-09T14:02:56.811Z"
+  "queuedAt": "2026-04-09T19:26:11.075Z"
 }

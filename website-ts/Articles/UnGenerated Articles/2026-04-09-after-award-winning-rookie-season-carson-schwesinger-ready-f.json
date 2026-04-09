@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "After award-winning rookie season, Carson Schwesinger ready for what's next",
-      "description": "Browns linebacker Carson Schwesinger won Defensive Rookie of the Year.",
-      "url": "https://sports.yahoo.com/articles/award-winning-rookie-season-carson-222601510.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "After award-winning rookie season, Carson Schwesinger ready for what's next",
       "description": "Browns linebacker Carson Schwesinger won Defensive Rookie of the Year.",
@@ -29,5 +23,5 @@
     "defensive"
   ],
   "hash": "652dca21503feadc",
-  "queuedAt": "2026-04-09T14:02:56.866Z"
+  "queuedAt": "2026-04-09T19:26:11.202Z"
 }
