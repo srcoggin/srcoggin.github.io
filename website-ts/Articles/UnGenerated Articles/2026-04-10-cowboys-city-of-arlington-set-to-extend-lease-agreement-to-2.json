@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys, city of Arlington set to extend lease agreement to 2055",
-      "description": "The Cowboys have called Arlington home since 2009.",
-      "url": "https://sports.yahoo.com/articles/cowboys-city-arlington-set-extend-235508850.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys, city of Arlington set to extend lease agreement to 2055",
       "description": "The Cowboys have called Arlington home since 2009.",
@@ -30,5 +24,5 @@
     "2009"
   ],
   "hash": "69f09af0302b14ef",
-  "queuedAt": "2026-04-10T13:33:32.149Z"
+  "queuedAt": "2026-04-10T19:24:07.940Z"
 }

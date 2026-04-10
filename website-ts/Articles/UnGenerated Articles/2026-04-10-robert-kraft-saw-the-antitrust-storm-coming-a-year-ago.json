@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Robert Kraft saw the antitrust storm coming a year ago",
-      "description": "\"We're going to be a target,\" Kraft said last April.",
-      "url": "https://sports.yahoo.com/articles/robert-kraft-saw-antitrust-storm-015804330.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Robert Kraft saw the antitrust storm coming a year ago",
       "description": "\"We're going to be a target,\" Kraft said last April.",
@@ -30,5 +24,5 @@
     "april"
   ],
   "hash": "fc7b2f40fb65e6d2",
-  "queuedAt": "2026-04-10T13:33:32.077Z"
+  "queuedAt": "2026-04-10T19:24:07.082Z"
 }
