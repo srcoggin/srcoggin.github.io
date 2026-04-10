@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: DOJ probe is about \"affordability and creating an even playing field\"",
-      "description": "Feds may try to force NFL to stop selling games to cable, satellite, and streaming.",
-      "url": "https://sports.yahoo.com/articles/report-doj-probe-affordability-creating-205928923.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: DOJ probe is about \"affordability and creating an even playing field\"",
       "description": "Feds may try to force NFL to stop selling games to cable, satellite, and streaming.",
@@ -36,5 +30,5 @@
     "streaming"
   ],
   "hash": "9b88544801f5f571",
-  "queuedAt": "2026-04-10T07:57:28.499Z"
+  "queuedAt": "2026-04-10T13:33:31.734Z"
 }

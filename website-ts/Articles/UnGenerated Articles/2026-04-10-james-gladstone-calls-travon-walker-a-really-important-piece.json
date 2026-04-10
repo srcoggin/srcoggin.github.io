@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "James Gladstone calls Travon Walker \"a really important piece\" to the Jaguars' future",
-      "description": "Travon Walker spent his first four seasons in Jacksonville.",
-      "url": "https://sports.yahoo.com/articles/james-gladstone-calls-travon-walker-211313360.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "James Gladstone calls Travon Walker \"a really important piece\" to the Jaguars' future",
       "description": "Travon Walker spent his first four seasons in Jacksonville.",
@@ -34,5 +28,5 @@
     "jacksonville"
   ],
   "hash": "c7213b5279bdf1a3",
-  "queuedAt": "2026-04-10T07:57:29.824Z"
+  "queuedAt": "2026-04-10T13:33:39.161Z"
 }

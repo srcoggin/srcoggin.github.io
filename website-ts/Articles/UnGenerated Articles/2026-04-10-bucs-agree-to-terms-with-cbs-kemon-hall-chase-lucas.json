@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bucs agree to terms with CBs Kemon Hall, Chase Lucas",
-      "description": "The Buccaneers have agreed to terms with a pair of cornerbacks on one-year deals.",
-      "url": "https://sports.yahoo.com/articles/bucs-agree-terms-cbs-kemon-200829770.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bucs agree to terms with CBs Kemon Hall, Chase Lucas",
       "description": "The Buccaneers have agreed to terms with a pair of cornerbacks on one-year deals.",
@@ -32,5 +26,5 @@
     "deals"
   ],
   "hash": "6c1fe1f6718f31c7",
-  "queuedAt": "2026-04-10T07:57:29.888Z"
+  "queuedAt": "2026-04-10T13:33:39.250Z"
 }
