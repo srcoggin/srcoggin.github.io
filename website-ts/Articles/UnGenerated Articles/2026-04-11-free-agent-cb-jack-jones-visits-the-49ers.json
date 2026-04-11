@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Free agent CB Jack Jones visits the 49ers",
-      "description": "The 49ers spent some time with a possible veteran addition to their secondary on Friday.",
-      "url": "https://sports.yahoo.com/articles/free-agent-cb-jack-jones-214022164.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Free agent CB Jack Jones visits the 49ers",
       "description": "The 49ers spent some time with a possible veteran addition to their secondary on Friday.",
@@ -32,5 +26,5 @@
     "friday"
   ],
   "hash": "b54ff51e36ae6ab9",
-  "queuedAt": "2026-04-11T13:19:26.574Z"
+  "queuedAt": "2026-04-11T19:08:13.540Z"
 }

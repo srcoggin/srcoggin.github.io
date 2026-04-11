@@ -3,6 +3,12 @@
   "category": "trades",
   "sources": [
     {
+      "name": "ESPN NFL",
+      "title": "Eagles get Packers WR Wicks for picks in trade",
+      "description": "The Eagles have acquired wide receiver Dontayvion Wicks from the Packers for two draft picks.",
+      "url": "https://www.espn.com/nfl/story/_/id/48451181/eagles-get-wr-dontayvion-wick-packers-sources-say"
+    },
+    {
       "name": "Pro Football Talk",
       "title": "Packers will trade WR Dontayvion Wicks to the Eagles",
       "description": "The Eagles have made a trade involving a wide receiver, but it does not involve A.J.",
@@ -10,17 +16,22 @@
     }
   ],
   "keywords": [
-    "packers",
-    "trade",
-    "dontayvion",
-    "wicks",
     "eagles",
-    "made",
-    "involving",
+    "get",
+    "packers",
+    "wicks",
+    "picks",
+    "trade",
+    "acquired",
     "wide",
     "receiver",
+    "dontayvion",
+    "two",
+    "draft",
+    "made",
+    "involving",
     "involve"
   ],
-  "hash": "d220b017dabefc45",
-  "queuedAt": "2026-04-11T13:19:32.249Z"
+  "hash": "f15dc0e862088af5",
+  "queuedAt": "2026-04-11T19:08:06.236Z"
 }

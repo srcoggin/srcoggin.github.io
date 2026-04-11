@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "Sources: NYT investigating reporter's Vrabel ties",
-      "description": "The Athletic is reinvestigating the coverage of NFL reporter Dianna Russini and the nature of her relationship with Patriots head coach Mike Vrabel amid questions raised about the two this week, sources told ESPN on Friday.",
+      "description": "The Athletic is reinvestigating the coverage of NFL reporter Dianna Russini and the nature of her relationship with Patriots coach Mike Vrabel amid questions raised about the two this week, sources told ESPN.",
       "url": "https://www.espn.com/nfl/story/_/id/48452785/nyt-scrutinizing-reporter-russini-vrabel-coverage-amid-photo-fallout"
     }
   ],
@@ -26,7 +26,6 @@
     "her",
     "relationship",
     "patriots",
-    "head",
     "coach",
     "mike",
     "amid",
@@ -36,9 +35,8 @@
     "two",
     "this",
     "told",
-    "espn",
-    "friday"
+    "espn"
   ],
-  "hash": "faa4648335533f99",
-  "queuedAt": "2026-04-11T13:19:25.070Z"
+  "hash": "48a20357f19f7ef8",
+  "queuedAt": "2026-04-11T19:08:04.441Z"
 }

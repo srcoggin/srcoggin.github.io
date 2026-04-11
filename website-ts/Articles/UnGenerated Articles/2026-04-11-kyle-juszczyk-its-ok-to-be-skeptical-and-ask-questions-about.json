@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Juszczyk: It's OK to be skeptical and ask questions about electrical substation",
-      "description": "There's no hard evidence to support the idea that 49ers players are more susceptible to injuries because they practice near an electrical substation.",
-      "url": "https://sports.yahoo.com/articles/kyle-juszczyk-ok-skeptical-ask-225859345.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Juszczyk: It's OK to be skeptical and ask questions about electrical substation",
       "description": "There's no hard evidence to support the idea that 49ers players are more susceptible to injuries because they practice near an electrical substation.",
@@ -40,5 +34,5 @@
     "near"
   ],
   "hash": "ae2ecc53b54b5ec6",
-  "queuedAt": "2026-04-11T13:19:26.435Z"
+  "queuedAt": "2026-04-11T19:08:13.272Z"
 }
