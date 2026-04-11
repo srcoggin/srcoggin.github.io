@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers will trade WR Dontayvion Wicks to the Eagles",
-      "description": "The Eagles have made a trade involving a wide receiver, but it does not involve A.J.",
-      "url": "https://sports.yahoo.com/articles/packers-trade-wr-dontayvion-wicks-204217454.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers will trade WR Dontayvion Wicks to the Eagles",
       "description": "The Eagles have made a trade involving a wide receiver, but it does not involve A.J.",
@@ -28,5 +22,5 @@
     "involve"
   ],
   "hash": "d220b017dabefc45",
-  "queuedAt": "2026-04-11T07:22:51.241Z"
+  "queuedAt": "2026-04-11T13:19:32.249Z"
 }
