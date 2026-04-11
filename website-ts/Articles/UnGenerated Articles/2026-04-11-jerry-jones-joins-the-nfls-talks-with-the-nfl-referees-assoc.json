@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jerry Jones joins the NFL's talks with the NFL Referees Association",
-      "description": "Thursday session was reportedly \"productive.\"",
-      "url": "https://sports.yahoo.com/articles/jerry-jones-joins-nfls-talks-175112770.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jerry Jones joins the NFL's talks with the NFL Referees Association",
       "description": "Thursday session was reportedly \"productive.\"",
@@ -29,5 +23,5 @@
     "productive"
   ],
   "hash": "a065d13ed7e6a58d",
-  "queuedAt": "2026-04-11T02:46:14.076Z"
+  "queuedAt": "2026-04-11T07:22:50.514Z"
 }

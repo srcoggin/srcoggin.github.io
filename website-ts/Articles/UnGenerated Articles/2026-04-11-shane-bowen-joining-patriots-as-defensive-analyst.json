@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Shane Bowen joining Patriots as defensive analyst",
-      "description": "Shane Bowen is reuniting with Mike Vrabel.",
-      "url": "https://sports.yahoo.com/articles/shane-bowen-joining-patriots-defensive-182501115.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Shane Bowen joining Patriots as defensive analyst",
       "description": "Shane Bowen is reuniting with Mike Vrabel.",
@@ -27,5 +21,5 @@
     "vrabel"
   ],
   "hash": "3ec0c9d5a916203d",
-  "queuedAt": "2026-04-11T02:46:16.197Z"
+  "queuedAt": "2026-04-11T07:22:59.068Z"
 }

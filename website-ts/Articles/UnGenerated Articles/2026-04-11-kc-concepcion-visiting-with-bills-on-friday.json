@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "KC Concepcion visiting with Bills on Friday",
-      "description": "A busy week for receiver KC Concepcion is continuing on Friday.",
-      "url": "https://sports.yahoo.com/articles/kc-concepcion-visiting-bills-friday-180518116.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "KC Concepcion visiting with Bills on Friday",
       "description": "A busy week for receiver KC Concepcion is continuing on Friday.",
@@ -25,5 +19,5 @@
     "continuing"
   ],
   "hash": "78df9d2550ca2865",
-  "queuedAt": "2026-04-11T02:46:16.263Z"
+  "queuedAt": "2026-04-11T07:22:59.160Z"
 }
