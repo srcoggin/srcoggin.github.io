@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaylen Warren on Aaron Rodgers: Great if he's back, we'll miss him if not",
-      "description": "One of the remaining unanswered questions for the NFL offseason is whether Aaron Rodgers will be back at quarterback for the Steelers this fall.",
-      "url": "https://sports.yahoo.com/articles/jaylen-warren-aaron-rodgers-great-210606045.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaylen Warren on Aaron Rodgers: Great if he's back, we'll miss him if not",
       "description": "One of the remaining unanswered questions for the NFL offseason is whether Aaron Rodgers will be back at quarterback for the Steelers this fall.",
@@ -38,5 +32,5 @@
     "fall"
   ],
   "hash": "2ecb2fbe0629a867",
-  "queuedAt": "2026-04-12T13:29:28.115Z"
+  "queuedAt": "2026-04-12T19:17:24.011Z"
 }

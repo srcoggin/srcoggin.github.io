@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Collusion appeal ruling says Ravens offered Lamar Jackson two fully-guaranteed contracts",
-      "description": "New document doesn't specify the compensation offered, or whether the deals had no-tag clauses.",
-      "url": "https://sports.yahoo.com/articles/collusion-appeal-ruling-says-ravens-211108064.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Collusion appeal ruling says Ravens offered Lamar Jackson two fully-guaranteed contracts",
       "description": "New document doesn't specify the compensation offered, or whether the deals had no-tag clauses.",
@@ -38,5 +32,5 @@
     "clauses"
   ],
   "hash": "8ea9bb7647ae36b7",
-  "queuedAt": "2026-04-12T13:29:28.007Z"
+  "queuedAt": "2026-04-12T19:17:23.906Z"
 }

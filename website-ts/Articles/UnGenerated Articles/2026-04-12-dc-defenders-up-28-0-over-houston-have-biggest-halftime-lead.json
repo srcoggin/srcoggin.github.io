@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "D.C. Defenders, up 28-0 over Houston, have biggest halftime lead in UFL history",
-      "description": "The home opener for the defending UFL champions is going well.",
-      "url": "https://sports.yahoo.com/articles/d-c-defenders-28-0-173523834.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "D.C. Defenders, up 28-0 over Houston, have biggest halftime lead in UFL history",
       "description": "The home opener for the defending UFL champions is going well.",
@@ -33,5 +27,5 @@
     "well"
   ],
   "hash": "352b2a7b73431bf9",
-  "queuedAt": "2026-04-12T13:29:28.212Z"
+  "queuedAt": "2026-04-12T19:17:24.126Z"
 }
