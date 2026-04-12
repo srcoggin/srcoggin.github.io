@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "YouTube, Netflix, Fox are in play for special five-game 2026 package",
-      "description": "As the NFL embarks on an effort to renegotiate its various full-season TV packages, the league continues to shop a five-game package of games to be televised during the 2026 season.",
-      "url": "https://sports.yahoo.com/articles/youtube-netflix-fox-play-special-162458013.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "YouTube, Netflix, Fox are in play for special five-game 2026 package",
       "description": "As the NFL embarks on an effort to renegotiate its various full-season TV packages, the league continues to shop a five-game package of games to be televised during the 2026 season.",
@@ -38,5 +32,5 @@
     "televised"
   ],
   "hash": "d51d3fe6124aa6e8",
-  "queuedAt": "2026-04-12T07:30:01.701Z"
+  "queuedAt": "2026-04-12T13:29:36.365Z"
 }
