@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL should embrace UFL's officiating transparency",
-      "description": "Perception is reality, and the reality is that too many people are suspicious of officiating decisions.",
-      "url": "https://sports.yahoo.com/articles/nfl-embrace-ufls-officiating-transparency-165650362.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL should embrace UFL's officiating transparency",
       "description": "Perception is reality, and the reality is that too many people are suspicious of officiating decisions.",
@@ -29,5 +23,5 @@
     "decisions"
   ],
   "hash": "334420934bf278b4",
-  "queuedAt": "2026-04-13T08:20:46.823Z"
+  "queuedAt": "2026-04-13T14:05:43.564Z"
 }

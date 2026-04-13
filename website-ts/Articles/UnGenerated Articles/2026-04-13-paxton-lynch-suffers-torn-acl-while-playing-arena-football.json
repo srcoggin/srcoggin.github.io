@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Paxton Lynch suffers torn ACL while playing arena football",
-      "description": "Seven years after the ship sailed on Paxton Lynch's NFL career, he's still dog paddling after it.",
-      "url": "https://sports.yahoo.com/articles/paxton-lynch-suffers-torn-acl-142948819.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Paxton Lynch suffers torn ACL while playing arena football",
       "description": "Seven years after the ship sailed on Paxton Lynch's NFL career, he's still dog paddling after it.",
@@ -36,5 +30,5 @@
     "paddling"
   ],
   "hash": "e9c8f05a3e146c48",
-  "queuedAt": "2026-04-13T08:20:46.870Z"
+  "queuedAt": "2026-04-13T14:05:43.657Z"
 }
