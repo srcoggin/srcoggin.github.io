@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Former NFL, UFL player Chris Payton-Jones dies at 30",
-      "description": "Chris Payton-Jones, a former cornerback in the NFL and UFL, has died.",
-      "url": "https://sports.yahoo.com/articles/former-nfl-ufl-player-chris-133915586.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Former NFL, UFL player Chris Payton-Jones dies at 30",
       "description": "Chris Payton-Jones, a former cornerback in the NFL and UFL, has died.",
@@ -25,5 +19,5 @@
     "died"
   ],
   "hash": "821090e4706deedc",
-  "queuedAt": "2026-04-13T14:05:33.633Z"
+  "queuedAt": "2026-04-13T19:33:54.742Z"
 }

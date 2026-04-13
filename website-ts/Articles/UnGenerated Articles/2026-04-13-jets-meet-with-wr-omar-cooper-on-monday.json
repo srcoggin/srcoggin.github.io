@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets meet with WR Omar Cooper on Monday",
-      "description": "The Jets have a pair of first-round picks in next week's draft and they're spending some time on Monday with a player who could be in the mix for one of them.",
-      "url": "https://sports.yahoo.com/articles/jets-meet-wr-omar-cooper-133702781.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets meet with WR Omar Cooper on Monday",
       "description": "The Jets have a pair of first-round picks in next week's draft and they're spending some time on Monday with a player who could be in the mix for one of them.",
@@ -36,5 +30,5 @@
     "them"
   ],
   "hash": "f5371c30477f5b15",
-  "queuedAt": "2026-04-13T14:05:33.736Z"
+  "queuedAt": "2026-04-13T19:33:54.811Z"
 }

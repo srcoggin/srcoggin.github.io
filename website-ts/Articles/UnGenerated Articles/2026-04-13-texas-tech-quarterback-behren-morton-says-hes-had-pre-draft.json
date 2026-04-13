@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Texas Tech quarterback Behren Morton says he's had pre-draft meetings with most NFL teams",
-      "description": "Texas Tech quarterback Behren Morton is not viewed as an elite draft prospect, but plenty of teams are keeping tabs on him as a potential late-round pick with long-term upside.",
-      "url": "https://sports.yahoo.com/articles/texas-tech-quarterback-behren-morton-112333499.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Texas Tech quarterback Behren Morton says he's had pre-draft meetings with most NFL teams",
       "description": "Texas Tech quarterback Behren Morton is not viewed as an elite draft prospect, but plenty of teams are keeping tabs on him as a potential late-round pick with long-term upside.",
@@ -41,5 +35,5 @@
     "upside"
   ],
   "hash": "192eddf0731414ed",
-  "queuedAt": "2026-04-13T14:05:34.019Z"
+  "queuedAt": "2026-04-13T19:33:55.175Z"
 }
