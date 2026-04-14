@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Former Cardinals head coach Dave McGinnis dies at 74",
-      "description": "Coach Mac coached the Cardinals from 2000-03, getting the full-time job after being in the interim coach.",
-      "url": "https://sports.yahoo.com/articles/former-cardinals-head-coach-dave-225825571.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Former Cardinals head coach Dave McGinnis dies at 74",
       "description": "Coach Mac coached the Cardinals from 2000-03, getting the full-time job after being in the interim coach.",
@@ -32,5 +26,5 @@
     "interim"
   ],
   "hash": "3da56e941bb34616",
-  "queuedAt": "2026-04-14T08:03:43.301Z"
+  "queuedAt": "2026-04-14T14:09:20.738Z"
 }

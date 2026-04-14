@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions GM Brad Holmes: We don't have to draft an offensive tackle or edge rusher",
-      "description": "The Lions parted ways with longtime left tackle Taylor Decker this offseason and that's led many to suggest that the position will be one they address in the draft, but General Manager Brad Holmes did his best on Monday to downplay any urgency.",
-      "url": "https://sports.yahoo.com/articles/lions-gm-brad-holmes-we-don39t-have-to-draft-an-offensive-tackle-or-edge-rusher-200247902.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions GM Brad Holmes: We don't have to draft an offensive tackle or edge rusher",
       "description": "The Lions parted ways with longtime left tackle Taylor Decker this offseason and that's led many to suggest that the position will be one they address in the draft, but General Manager Brad Holmes did his best on Monday to downplay any urgency.",
@@ -52,5 +46,5 @@
     "urgency"
   ],
   "hash": "65d9b97537dd531a",
-  "queuedAt": "2026-04-14T08:03:43.454Z"
+  "queuedAt": "2026-04-14T14:09:20.644Z"
 }

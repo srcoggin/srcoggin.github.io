@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eliot Wolf: \"Business as usual\" for Mike Vrabel in Patriots draft preparations",
-      "description": "Patriots head coach Mike Vrabel was not present for the team's pre-draft press conference on Monday, which means that he didn't have to field any questions about the release of photos that have created questions about his relationship with The Athletic's NFL reporter Dianna Russini.",
-      "url": "https://sports.yahoo.com/articles/eliot-wolf-business-usual-mike-184414513.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eliot Wolf: \"Business as usual\" for Mike Vrabel in Patriots draft preparations",
       "description": "Patriots head coach Mike Vrabel was not present for the team's pre-draft press conference on Monday, which means that he didn't have to field any questions about the release of photos that have created questions about his relationship with The Athletic's NFL reporter Dianna Russini.",
@@ -52,5 +46,5 @@
     "russini"
   ],
   "hash": "09520c0a6a67d524",
-  "queuedAt": "2026-04-14T08:03:42.584Z"
+  "queuedAt": "2026-04-14T14:09:10.950Z"
 }
