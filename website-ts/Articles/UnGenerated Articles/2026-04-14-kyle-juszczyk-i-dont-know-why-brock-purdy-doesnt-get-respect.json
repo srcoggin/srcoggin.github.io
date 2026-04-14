@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Juszczyk: I don't know why Brock Purdy doesn't get respect he deserves",
-      "description": "Brock Purdy was an unlikely leading man when he became the 49ers' starting quarterback as a rookie, but the five-year contract extension he signed before last season left no doubt that he'll be playing the role for a long time.",
-      "url": "https://sports.yahoo.com/articles/kyle-juszczyk-dont-know-why-112306110.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Juszczyk: I don't know why Brock Purdy doesn't get respect he deserves",
       "description": "Brock Purdy was an unlikely leading man when he became the 49ers' starting quarterback as a rookie, but the five-year contract extension he signed before last season left no doubt that he'll be playing the role for a long time.",
@@ -49,5 +43,5 @@
     "time"
   ],
   "hash": "c4c46664231f03ec",
-  "queuedAt": "2026-04-14T14:09:11.284Z"
+  "queuedAt": "2026-04-14T19:50:50.388Z"
 }
