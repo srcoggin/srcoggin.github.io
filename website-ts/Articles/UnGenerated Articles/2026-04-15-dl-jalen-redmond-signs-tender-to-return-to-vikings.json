@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "DL Jalen Redmond signs tender to return to Vikings",
-      "description": "Vikings defensive lineman Jalen Redmond signed his exclusive rights free agent tender on Tuesday, according to the NFL's transactions report.",
-      "url": "https://sports.yahoo.com/articles/dl-jalen-redmond-signs-tender-203255888.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "DL Jalen Redmond signs tender to return to Vikings",
       "description": "Vikings defensive lineman Jalen Redmond signed his exclusive rights free agent tender on Tuesday, according to the NFL's transactions report.",
@@ -37,5 +31,5 @@
     "report"
   ],
   "hash": "64a466e0e68eae0d",
-  "queuedAt": "2026-04-15T08:16:01.810Z"
+  "queuedAt": "2026-04-15T14:02:01.961Z"
 }

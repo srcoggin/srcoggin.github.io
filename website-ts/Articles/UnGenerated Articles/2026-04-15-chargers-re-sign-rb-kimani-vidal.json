@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chargers re-sign RB Kimani Vidal",
-      "description": "Running back Kimani Vidal is officially back with the Chargers for the 2026 season.",
-      "url": "https://sports.yahoo.com/articles/chargers-sign-rb-kimani-vidal-202902012.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chargers re-sign RB Kimani Vidal",
       "description": "Running back Kimani Vidal is officially back with the Chargers for the 2026 season.",
@@ -26,5 +20,5 @@
     "2026"
   ],
   "hash": "38569854ee4d2e21",
-  "queuedAt": "2026-04-15T08:16:01.912Z"
+  "queuedAt": "2026-04-15T14:02:02.061Z"
 }

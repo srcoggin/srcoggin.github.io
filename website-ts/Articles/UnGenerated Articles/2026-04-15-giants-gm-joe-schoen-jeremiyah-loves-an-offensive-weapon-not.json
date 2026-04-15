@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants GM Joe Schoen: Jeremiyah Love's an offensive weapon, not just a running back",
-      "description": "Giants General Manager Joe Schoen will be on the clock with the fifth overall pick of the draft in a little more than a week and his plans for that selection were a chief topic of a Tuesday press conference from the team's facility.",
-      "url": "https://sports.yahoo.com/articles/giants-gm-joe-schoen-jeremiyah-201805795.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants GM Joe Schoen: Jeremiyah Love's an offensive weapon, not just a running back",
       "description": "Giants General Manager Joe Schoen will be on the clock with the fifth overall pick of the draft in a little more than a week and his plans for that selection were a chief topic of a Tuesday press conference from the team's facility.",
@@ -46,5 +40,5 @@
     "facility"
   ],
   "hash": "92f22536b7b0d48e",
-  "queuedAt": "2026-04-15T08:16:04.060Z"
+  "queuedAt": "2026-04-15T14:02:10.262Z"
 }

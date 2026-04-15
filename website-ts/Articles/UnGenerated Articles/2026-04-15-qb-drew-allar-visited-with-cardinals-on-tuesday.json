@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "QB Drew Allar visited with Cardinals on Tuesday",
-      "description": "The Cardinals are taking a closer look at a quarterback prospect for this year's draft.",
-      "url": "https://sports.yahoo.com/articles/qb-drew-allar-visited-cardinals-192105591.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "QB Drew Allar visited with Cardinals on Tuesday",
       "description": "The Cardinals are taking a closer look at a quarterback prospect for this year's draft.",
@@ -31,5 +25,5 @@
     "draft"
   ],
   "hash": "5d505406c77403fa",
-  "queuedAt": "2026-04-15T08:16:04.170Z"
+  "queuedAt": "2026-04-15T14:02:10.458Z"
 }

@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders letting teams calling about the first pick know where they stand",
-      "description": "The Raiders have the No. 1 overall pick, and it seems a certainty they will draft Heisman Trophy winner Fernando Mendoza.",
-      "url": "https://sports.yahoo.com/articles/raiders-letting-teams-calling-first-002033128.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders letting teams calling about the first pick know where they stand",
       "description": "The Raiders have the No. 1 overall pick, and it seems a certainty they will draft Heisman Trophy winner Fernando Mendoza.",
@@ -37,5 +31,5 @@
     "mendoza"
   ],
   "hash": "947b3e53ab7f6358",
-  "queuedAt": "2026-04-15T08:16:03.953Z"
+  "queuedAt": "2026-04-15T14:02:10.061Z"
 }
