@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Giants, Dexter Lawrence reach \"an impasse\"",
-      "description": "A trade now becomes a real possibility.",
-      "url": "https://sports.yahoo.com/articles/report-giants-dexter-lawrence-reach-023420790.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Giants, Dexter Lawrence reach \"an impasse\"",
       "description": "A trade now becomes a real possibility.",
@@ -29,5 +23,5 @@
     "possibility"
   ],
   "hash": "2bc1579c2dae8628",
-  "queuedAt": "2026-04-15T14:02:01.113Z"
+  "queuedAt": "2026-04-15T19:42:30.111Z"
 }
