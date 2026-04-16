@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Inside the Kirk Cousins deal with the Raiders",
-      "description": "The initial reporting regarding the new Kirk Cousins contract with the Raiders was confusing, to say the least.",
-      "url": "https://sports.yahoo.com/articles/inside-kirk-cousins-deal-raiders-205103414.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Inside the Kirk Cousins deal with the Raiders",
       "description": "The initial reporting regarding the new Kirk Cousins contract with the Raiders was confusing, to say the least.",
@@ -31,5 +25,5 @@
     "least"
   ],
   "hash": "5b00ad7c22f68000",
-  "queuedAt": "2026-04-16T08:07:25.848Z"
+  "queuedAt": "2026-04-16T14:11:12.603Z"
 }

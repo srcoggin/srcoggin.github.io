@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jon-Eric Sullivan: Troy Aikman will be in draft room but will not be consulted about picks",
-      "description": "Troy Aikman is not a minority owner of the Dolphins, like Tom Brady is with the Raiders.",
-      "url": "https://sports.yahoo.com/articles/jon-eric-sullivan-troy-aikman-191353614.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jon-Eric Sullivan: Troy Aikman will be in draft room but will not be consulted about picks",
       "description": "Troy Aikman is not a minority owner of the Dolphins, like Tom Brady is with the Raiders.",
@@ -34,5 +28,5 @@
     "raiders"
   ],
   "hash": "595dadaa88b3ddc9",
-  "queuedAt": "2026-04-16T08:07:27.097Z"
+  "queuedAt": "2026-04-16T14:11:22.279Z"
 }

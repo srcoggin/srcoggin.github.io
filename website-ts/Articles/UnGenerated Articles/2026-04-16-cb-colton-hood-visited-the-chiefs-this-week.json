@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "CB Colton Hood visited the Chiefs this week",
-      "description": "Cornerback is seen as a need for the Chiefs heading into the draft and they spent some time with one of the top prospects at the position this week.",
-      "url": "https://sports.yahoo.com/articles/cb-colton-hood-visited-chiefs-185447845.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "CB Colton Hood visited the Chiefs this week",
       "description": "Cornerback is seen as a need for the Chiefs heading into the draft and they spent some time with one of the top prospects at the position this week.",
@@ -35,5 +29,5 @@
     "position"
   ],
   "hash": "f31fde463cd34659",
-  "queuedAt": "2026-04-16T08:07:27.227Z"
+  "queuedAt": "2026-04-16T14:11:22.916Z"
 }

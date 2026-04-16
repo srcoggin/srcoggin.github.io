@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "College football NIL means some rookies take pay cuts by going to the NFL",
-      "description": "The ability of players to cash in on name, image and likeness deals has changed college football, and it also changes the reality of pro football for some rookies who will make less money in the NFL than they made in college.",
-      "url": "https://sports.yahoo.com/articles/college-football-nil-means-rookies-210656580.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "College football NIL means some rookies take pay cuts by going to the NFL",
       "description": "The ability of players to cash in on name, image and likeness deals has changed college football, and it also changes the reality of pro football for some rookies who will make less money in the NFL than they made in college.",
@@ -44,5 +38,5 @@
     "made"
   ],
   "hash": "208a954b51cb1bec",
-  "queuedAt": "2026-04-16T08:07:26.896Z"
+  "queuedAt": "2026-04-16T14:11:22.528Z"
 }

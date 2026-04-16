@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers had visits with OTs Caleb Lomu, Kadyn Proctor",
-      "description": "The 49ers remain optimistic that they will come to agreement with left tackle Trent Williams on a revised contract for the 2026 season, but Williams won't be on the roster forever and the team's pre-draft work has included meetings with a couple of the top tackles in this year's class.",
-      "url": "https://sports.yahoo.com/articles/49ers-had-visits-ots-caleb-190609596.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers had visits with OTs Caleb Lomu, Kadyn Proctor",
       "description": "The 49ers remain optimistic that they will come to agreement with left tackle Trent Williams on a revised contract for the 2026 season, but Williams won't be on the roster forever and the team's pre-draft work has included meetings with a couple of the top tackles in this year's class.",
@@ -52,5 +46,5 @@
     "class"
   ],
   "hash": "175454fbcdb53a86",
-  "queuedAt": "2026-04-16T08:07:27.153Z"
+  "queuedAt": "2026-04-16T14:11:22.827Z"
 }

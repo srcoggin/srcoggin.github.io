@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Evans says he'll wear No. 5 with the 49ers",
-      "description": "Wide receiver Mike Evans will have a new number to go with his new uniform in 2026.",
-      "url": "https://sports.yahoo.com/articles/mike-evans-says-hell-wear-203218977.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Evans says he'll wear No. 5 with the 49ers",
       "description": "Wide receiver Mike Evans will have a new number to go with his new uniform in 2026.",
@@ -31,5 +25,5 @@
     "2026"
   ],
   "hash": "39376045275058f5",
-  "queuedAt": "2026-04-16T08:07:26.972Z"
+  "queuedAt": "2026-04-16T14:11:22.604Z"
 }

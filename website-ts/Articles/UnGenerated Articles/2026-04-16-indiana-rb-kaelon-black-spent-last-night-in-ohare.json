@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Indiana RB Kaelon Black spent last night in O'Hare",
-      "description": "Indiana running back Kaelon Black has had a busy pre-draft itinerary.",
-      "url": "https://sports.yahoo.com/articles/indiana-rb-kaelon-black-spent-233047043.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Indiana RB Kaelon Black spent last night in O'Hare",
       "description": "Indiana running back Kaelon Black has had a busy pre-draft itinerary.",
@@ -30,5 +24,5 @@
     "itinerary"
   ],
   "hash": "aa8f748f33c535fe",
-  "queuedAt": "2026-04-16T08:07:26.838Z"
+  "queuedAt": "2026-04-16T14:11:22.136Z"
 }
