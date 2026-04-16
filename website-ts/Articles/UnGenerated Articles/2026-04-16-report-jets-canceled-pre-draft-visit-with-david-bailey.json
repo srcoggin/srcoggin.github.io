@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Jets canceled pre-draft visit with David Bailey",
-      "description": "The Jets canceled their top-30 visit with Texas Tech edge rusher David Bailey, Connor Hughes of SNY reports.",
-      "url": "https://sports.yahoo.com/articles/report-jets-canceled-pre-draft-011550059.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Jets canceled pre-draft visit with David Bailey",
       "description": "The Jets canceled their top-30 visit with Texas Tech edge rusher David Bailey, Connor Hughes of SNY reports.",
@@ -35,5 +29,5 @@
     "reports"
   ],
   "hash": "63c75d0dfe957cd3",
-  "queuedAt": "2026-04-16T14:11:11.623Z"
+  "queuedAt": "2026-04-16T19:41:05.886Z"
 }

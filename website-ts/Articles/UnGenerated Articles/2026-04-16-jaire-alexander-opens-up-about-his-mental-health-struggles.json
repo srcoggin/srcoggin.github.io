@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaire Alexander opens up about his mental health struggles",
-      "description": "The Ravens traded cornerback Jaire Alexander to the Eagles on Nov. 1, and he stepped away from football on Nov. 12 without playing a game for his new team.",
-      "url": "https://sports.yahoo.com/articles/jaire-alexander-opens-mental-health-004223259.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaire Alexander opens up about his mental health struggles",
       "description": "The Ravens traded cornerback Jaire Alexander to the Eagles on Nov. 1, and he stepped away from football on Nov. 12 without playing a game for his new team.",
@@ -36,5 +30,5 @@
     "new"
   ],
   "hash": "94f6608497e46aa6",
-  "queuedAt": "2026-04-16T14:11:13.083Z"
+  "queuedAt": "2026-04-16T19:41:17.401Z"
 }

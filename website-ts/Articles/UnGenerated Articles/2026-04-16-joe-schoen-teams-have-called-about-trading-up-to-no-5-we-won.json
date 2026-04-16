@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Joe Schoen: Teams have called about trading up to No. 5, we won't before we're on the clock",
-      "description": "\"We'll just have to wait and see who's there when we pick,\" Schoen said.",
-      "url": "https://sports.yahoo.com/articles/joe-schoen-teams-called-trading-130724531.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Joe Schoen: Teams have called about trading up to No. 5, we won't before we're on the clock",
       "description": "\"We'll just have to wait and see who's there when we pick,\" Schoen said.",
@@ -32,5 +26,5 @@
     "said"
   ],
   "hash": "64cc736b3fcc6753",
-  "queuedAt": "2026-04-16T14:11:12.969Z"
+  "queuedAt": "2026-04-16T19:41:16.830Z"
 }
