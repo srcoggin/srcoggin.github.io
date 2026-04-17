@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Zay Flowers: John Harbaugh made Ravens practice too hard, Jesse Minter won't",
-      "description": "\"That’s why we had a lot of injuries. Because of how we practiced, how we went. The load was heavy,\" Flowers said of Harbaugh's practices.",
-      "url": "https://sports.yahoo.com/articles/zay-flowers-john-harbaugh-made-122500967.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Zay Flowers: John Harbaugh made Ravens practice too hard, Jesse Minter won't",
       "description": "\"That’s why we had a lot of injuries. Because of how we practiced, how we went. The load was heavy,\" Flowers said of Harbaugh's practices.",
@@ -39,5 +33,5 @@
     "practices"
   ],
   "hash": "bb5c895650e862f1",
-  "queuedAt": "2026-04-17T13:51:17.364Z"
+  "queuedAt": "2026-04-17T19:31:18.329Z"
 }
