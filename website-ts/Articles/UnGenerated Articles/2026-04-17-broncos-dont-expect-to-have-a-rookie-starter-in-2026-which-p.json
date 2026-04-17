@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos don't expect to have a rookie starter in 2026, which prompted trade for Jaylen Waddle",
-      "description": "The Broncos are without a first-round draft pick.",
-      "url": "https://sports.yahoo.com/articles/broncos-dont-expect-rookie-starter-220413554.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos don't expect to have a rookie starter in 2026, which prompted trade for Jaylen Waddle",
       "description": "The Broncos are without a first-round draft pick.",
@@ -33,5 +27,5 @@
     "pick"
   ],
   "hash": "79da70c0855e79a7",
-  "queuedAt": "2026-04-17T08:04:44.603Z"
+  "queuedAt": "2026-04-17T13:51:30.307Z"
 }

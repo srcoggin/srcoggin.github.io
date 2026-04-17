@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: NFL looking for big increase in next round of TV deals",
-      "description": "For the NFL, the ultimate four-letter word is \"more.\"",
-      "url": "https://sports.yahoo.com/articles/report-nfl-looking-big-increase-210356326.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: NFL looking for big increase in next round of TV deals",
       "description": "For the NFL, the ultimate four-letter word is \"more.\"",
@@ -28,5 +22,5 @@
     "word"
   ],
   "hash": "bb8d9db21076c8fa",
-  "queuedAt": "2026-04-17T08:04:43.514Z"
+  "queuedAt": "2026-04-17T13:51:16.521Z"
 }

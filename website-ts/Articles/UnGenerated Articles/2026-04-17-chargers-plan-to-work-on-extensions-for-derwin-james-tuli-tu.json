@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chargers plan to work on extensions for Derwin James, Tuli Tuipulotu after draft",
-      "description": "Safety Derwin James is heading into his ninth NFL season and the Chargers hope it isn't his final one in their uniform.",
-      "url": "https://sports.yahoo.com/articles/chargers-plan-extensions-derwin-james-202226908.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chargers plan to work on extensions for Derwin James, Tuli Tuipulotu after draft",
       "description": "Safety Derwin James is heading into his ninth NFL season and the Chargers hope it isn't his final one in their uniform.",
@@ -37,5 +31,5 @@
     "uniform"
   ],
   "hash": "bf1acbcf7e964b42",
-  "queuedAt": "2026-04-17T08:04:44.879Z"
+  "queuedAt": "2026-04-17T13:51:30.901Z"
 }

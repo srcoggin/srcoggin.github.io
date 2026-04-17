@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "UCF DE Malachi Lawrence met with 16 NFL teams",
-      "description": "Central Florida edge rusher Malachi Lawrence was busy during the pre-draft process.",
-      "url": "https://sports.yahoo.com/articles/ucf-malachi-lawrence-met-16-204810760.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "UCF DE Malachi Lawrence met with 16 NFL teams",
       "description": "Central Florida edge rusher Malachi Lawrence was busy during the pre-draft process.",
@@ -30,5 +24,5 @@
     "process"
   ],
   "hash": "c8f52cafe178ff74",
-  "queuedAt": "2026-04-17T08:04:44.829Z"
+  "queuedAt": "2026-04-17T13:51:30.787Z"
 }
