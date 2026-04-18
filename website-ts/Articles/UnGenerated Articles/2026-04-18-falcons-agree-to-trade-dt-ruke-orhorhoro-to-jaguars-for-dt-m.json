@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons agree to trade DT Ruke Orhorhoro to Jaguars for DT Maason Smith",
-      "description": "The Falcons and Jaguars have agreed to a swap of defensive linemen.",
-      "url": "https://sports.yahoo.com/articles/falcons-agree-trade-dt-ruke-190127495.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons agree to trade DT Ruke Orhorhoro to Jaguars for DT Maason Smith",
       "description": "The Falcons and Jaguars have agreed to a swap of defensive linemen.",
@@ -30,5 +24,5 @@
     "linemen"
   ],
   "hash": "ee7b6675de6c7df9",
-  "queuedAt": "2026-04-18T07:41:07.155Z"
+  "queuedAt": "2026-04-18T13:23:36.152Z"
 }
