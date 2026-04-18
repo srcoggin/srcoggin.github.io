@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chargers OTs Rashawn Slater, Joe Alt ahead of schedule in their rehab",
-      "description": "Chargers offensive tackles Rashawn Slater and Joe Alt are working their way back from injuries that prematurely ended their season in 2025.",
-      "url": "https://sports.yahoo.com/articles/chargers-ots-rashawn-slater-joe-220102132.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chargers OTs Rashawn Slater, Joe Alt ahead of schedule in their rehab",
       "description": "Chargers offensive tackles Rashawn Slater and Joe Alt are working their way back from injuries that prematurely ended their season in 2025.",
@@ -38,5 +32,5 @@
     "2025"
   ],
   "hash": "3ef7986951eda0d7",
-  "queuedAt": "2026-04-18T13:23:29.415Z"
+  "queuedAt": "2026-04-18T19:12:45.414Z"
 }
