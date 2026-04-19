@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "The Cardinals currently have no obvious plan at quarterback",
-      "description": "Most teams have a clear starting quarterback, obvious contenders for the job, or (at a minimum) concepts of a plan for the position.",
-      "url": "https://sports.yahoo.com/articles/cardinals-currently-no-obvious-plan-154904659.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "The Cardinals currently have no obvious plan at quarterback",
       "description": "Most teams have a clear starting quarterback, obvious contenders for the job, or (at a minimum) concepts of a plan for the position.",
@@ -31,5 +25,5 @@
     "position"
   ],
   "hash": "ce05e58e1d99b8ac",
-  "queuedAt": "2026-04-19T03:11:58.037Z"
+  "queuedAt": "2026-04-19T07:39:45.065Z"
 }

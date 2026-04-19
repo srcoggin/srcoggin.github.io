@@ -1,7 +1,13 @@
 {
   "title": "Dexter Lawrence trade grades: Giants trade defensive tackle to Bengals for No. 10 overall pick, per report",
-  "category": "trades",
+  "category": "draft",
   "sources": [
+    {
+      "name": "CBS Sports NFL",
+      "title": "Ranking NFL Draft options for Giants at No. 10 following Dexter Lawrence trade",
+      "description": "New York now holds two picks in the top 10, so what are their options?",
+      "url": "https://www.cbssports.com/nfl/news/ranking-nfl-draft-options-for-giants-following-dexter-lawrence-trade/"
+    },
     {
       "name": "CBS Sports NFL",
       "title": "Dexter Lawrence trade grades: Giants trade defensive tackle to Bengals for No. 10 overall pick, per report",
@@ -10,18 +16,14 @@
     }
   ],
   "keywords": [
+    "ranking",
+    "draft",
+    "options",
+    "giants",
+    "following",
     "dexter",
     "lawrence",
     "trade",
-    "grades",
-    "giants",
-    "defensive",
-    "tackle",
-    "bengals",
-    "overall",
-    "pick",
-    "per",
-    "report",
     "new",
     "york",
     "now",
@@ -29,12 +31,20 @@
     "two",
     "picks",
     "top",
-    "draft",
-    "following",
+    "what",
+    "their",
+    "grades",
+    "defensive",
+    "tackle",
+    "bengals",
+    "overall",
+    "pick",
+    "per",
+    "report",
     "this",
     "blockbuster",
     "deal"
   ],
-  "hash": "dc0cae6c47d010c7",
-  "queuedAt": "2026-04-19T03:11:57.203Z"
+  "hash": "dede4c9dc71e8e01",
+  "queuedAt": "2026-04-19T07:39:37.381Z"
 }
