@@ -3,6 +3,12 @@
   "category": "trades",
   "sources": [
     {
+      "name": "ESPN NFL",
+      "title": "Sources: Giants trade Lawrence for Bengals pick",
+      "description": "The Giants are trading defensive tackle Dexter Lawrence to the Bengals in a deal for the No. 10 pick in next week's NFL draft, sources told ESPN.",
+      "url": "https://www.espn.com/nfl/story/_/id/48526634/sources-giants-trade-dt-lawrence-bengals-no-10-pick"
+    },
+    {
       "name": "Yahoo Sports NFL",
       "title": "Giants trading Dexter Lawrence to Bengals for No. 10 pick in 2026 NFL Draft",
       "description": "The Giants have traded star defensive tackle Dexter Lawrence to the Bengals in a deal that includes the No. 10 overall pick in the 2026 NFL Draft.",
@@ -10,23 +16,29 @@
     }
   ],
   "keywords": [
+    "sources",
     "giants",
-    "trading",
-    "dexter",
+    "trade",
     "lawrence",
     "bengals",
     "pick",
-    "2026",
-    "draft",
-    "traded",
-    "star",
+    "trading",
     "defensive",
     "tackle",
+    "dexter",
     "deal",
+    "next",
+    "weeks",
+    "draft",
+    "told",
+    "espn",
+    "2026",
+    "traded",
+    "star",
     "that",
     "includes",
     "overall"
   ],
-  "hash": "9ccc4e0e66a16353",
-  "queuedAt": "2026-04-19T07:39:41.139Z"
+  "hash": "12e57937c90e82aa",
+  "queuedAt": "2026-04-19T13:25:32.777Z"
 }

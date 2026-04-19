@@ -4,6 +4,12 @@
   "sources": [
     {
       "name": "Yahoo Sports NFL",
+      "title": "John Portis’ One & Done 2026 NFL Mock Draft: Washington Commanders Move Up",
+      "description": "A different look at how Washington might approach the NFL Draft.",
+      "url": "https://sports.yahoo.com/articles/john-portis-one-done-2026-130000985.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
       "title": "John Portis’ One & Done 2026 NFL Mock Draft: Washington Commanders trade up.",
       "description": "A different look at how Washington might approach the NFL Draft.",
       "url": "https://sports.yahoo.com/articles/john-portis-one-done-2026-230645587.html"
@@ -19,11 +25,12 @@
     "draft",
     "washington",
     "commanders",
-    "trade",
+    "move",
     "different",
     "look",
-    "approach"
+    "approach",
+    "trade"
   ],
   "hash": "2a7539fadc5907e7",
-  "queuedAt": "2026-04-19T07:39:41.270Z"
+  "queuedAt": "2026-04-19T13:25:34.827Z"
 }
