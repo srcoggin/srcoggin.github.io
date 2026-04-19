@@ -1,29 +1,31 @@
 {
-  "title": "Dexter Lawrence trade grades: Giants trade defensive tackle to Bengals for No. 10 overall pick, per report",
-  "category": "draft",
+  "title": "Dexter Lawrence trade grades: Giants trade defensive tackle to Bengals for No. 10 overall pick",
+  "category": "trades",
   "sources": [
+    {
+      "name": "CBS Sports NFL",
+      "title": "Dexter Lawrence trade grades: Giants trade defensive tackle to Bengals for No. 10 overall pick",
+      "description": "New York now holds two picks in the top 10 of the draft following this blockbuster deal with the Bengals",
+      "url": "https://www.cbssports.com/nfl/news/giants-trade-dexter-lawrence-to-bengals-for-no-10-overall-pick-in-2026-nfl-draft/"
+    },
     {
       "name": "CBS Sports NFL",
       "title": "Ranking NFL Draft options for Giants at No. 10 following Dexter Lawrence trade",
       "description": "New York now holds two picks in the top 10, so what are their options?",
       "url": "https://www.cbssports.com/nfl/news/ranking-nfl-draft-options-for-giants-following-dexter-lawrence-trade/"
-    },
-    {
-      "name": "CBS Sports NFL",
-      "title": "Dexter Lawrence trade grades: Giants trade defensive tackle to Bengals for No. 10 overall pick, per report",
-      "description": "New York now holds two picks in the top 10 of the draft following this blockbuster deal with the Bengals",
-      "url": "https://www.cbssports.com/nfl/news/giants-trade-dexter-lawrence-to-bengals-for-no-10-overall-pick-in-2026-nfl-draft/"
     }
   ],
   "keywords": [
-    "ranking",
-    "draft",
-    "options",
-    "giants",
-    "following",
     "dexter",
     "lawrence",
     "trade",
+    "grades",
+    "giants",
+    "defensive",
+    "tackle",
+    "bengals",
+    "overall",
+    "pick",
     "new",
     "york",
     "now",
@@ -31,20 +33,16 @@
     "two",
     "picks",
     "top",
-    "what",
-    "their",
-    "grades",
-    "defensive",
-    "tackle",
-    "bengals",
-    "overall",
-    "pick",
-    "per",
-    "report",
+    "draft",
+    "following",
     "this",
     "blockbuster",
-    "deal"
+    "deal",
+    "ranking",
+    "options",
+    "what",
+    "their"
   ],
-  "hash": "dede4c9dc71e8e01",
-  "queuedAt": "2026-04-19T13:25:32.979Z"
+  "hash": "b56f69d8f55ed85c",
+  "queuedAt": "2026-04-19T19:17:35.731Z"
 }
