@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bengals' pick gives Giants ammunition to move up",
-      "description": "If the Giants plan to use the Bengals' first-round pick, it would have been better to acquire the selection in exchange for defensive tackle Dexter Lawrence when the pick was on the clock.",
-      "url": "https://sports.yahoo.com/articles/bengals-pick-gives-giants-ammunition-013247599.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bengals' pick gives Giants ammunition to move up",
       "description": "If the Giants plan to use the Bengals' first-round pick, it would have been better to acquire the selection in exchange for defensive tackle Dexter Lawrence when the pick was on the clock.",
@@ -36,5 +30,5 @@
     "clock"
   ],
   "hash": "1b772830e03e3018",
-  "queuedAt": "2026-04-20T08:29:08.750Z"
+  "queuedAt": "2026-04-20T14:18:26.747Z"
 }
