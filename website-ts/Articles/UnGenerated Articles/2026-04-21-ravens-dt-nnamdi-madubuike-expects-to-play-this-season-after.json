@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ravens DT Nnamdi Madubuike expects to play this season after neck surgery",
-      "description": "Ravens defensive tackle Nnamdi Madubuike appears likely to play this season.",
-      "url": "https://sports.yahoo.com/articles/ravens-dt-nnamdi-madubuike-expects-131711181.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ravens DT Nnamdi Madubuike expects to play this season after neck surgery",
       "description": "Ravens defensive tackle Nnamdi Madubuike appears likely to play this season.",
@@ -30,5 +24,5 @@
     "likely"
   ],
   "hash": "50702536b445f429",
-  "queuedAt": "2026-04-21T14:05:18.357Z"
+  "queuedAt": "2026-04-21T19:44:54.103Z"
 }
