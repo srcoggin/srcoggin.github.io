@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "WR Eric McAlister broke a foot at TCU's Pro Day",
-      "description": "TCU wide receiver Eric McAlister broke a foot during position drills at the school's Pro Day, Ian Rapoport of NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/wr-eric-mcalister-broke-foot-220346526.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "WR Eric McAlister broke a foot at TCU's Pro Day",
       "description": "TCU wide receiver Eric McAlister broke a foot during position drills at the school's Pro Day, Ian Rapoport of NFL Media reports.",
@@ -35,5 +29,5 @@
     "reports"
   ],
   "hash": "21c805a7920da7ab",
-  "queuedAt": "2026-04-21T08:23:21.870Z"
+  "queuedAt": "2026-04-21T14:05:17.589Z"
 }

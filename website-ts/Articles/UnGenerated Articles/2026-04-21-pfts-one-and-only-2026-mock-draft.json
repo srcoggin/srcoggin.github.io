@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "PFT's one (and only) 2026 mock draft",
-      "description": "I don't like mock drafts. But, when in Rome.",
-      "url": "https://sports.yahoo.com/articles/pfts-one-only-2026-mock-010359998.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "PFT's one (and only) 2026 mock draft",
       "description": "I don't like mock drafts. But, when in Rome.",
@@ -27,5 +21,5 @@
     "rome"
   ],
   "hash": "631ab13340f749ac",
-  "queuedAt": "2026-04-21T08:23:23.374Z"
+  "queuedAt": "2026-04-21T14:05:26.537Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers WRs Jalen Coker, Brycen Tremayne sign their exclusive rights tenders",
-      "description": "The start of the Panthers' offseason program marked the official return to the roster for wide receivers Jalen Coker and Brycen Tremayne.",
-      "url": "https://sports.yahoo.com/articles/panthers-wrs-jalen-coker-brycen-220150700.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers WRs Jalen Coker, Brycen Tremayne sign their exclusive rights tenders",
       "description": "The start of the Panthers' offseason program marked the official return to the roster for wide receivers Jalen Coker and Brycen Tremayne.",
@@ -38,5 +32,5 @@
     "receivers"
   ],
   "hash": "117f6aeac1720726",
-  "queuedAt": "2026-04-21T08:23:21.986Z"
+  "queuedAt": "2026-04-21T14:05:18.133Z"
 }

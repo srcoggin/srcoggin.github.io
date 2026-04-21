@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chiefs WR Nikko Remigio signs exclusive rights tender",
-      "description": "Chiefs wide receiver Nikko Remigio signed his exclusive rights tender on Monday, according to the NFL's transactions report.",
-      "url": "https://sports.yahoo.com/articles/chiefs-wr-nikko-remigio-signs-224914691.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chiefs WR Nikko Remigio signs exclusive rights tender",
       "description": "Chiefs wide receiver Nikko Remigio signed his exclusive rights tender on Monday, according to the NFL's transactions report.",
@@ -34,5 +28,5 @@
     "report"
   ],
   "hash": "5a53c1e6d08e2638",
-  "queuedAt": "2026-04-21T08:23:21.651Z"
+  "queuedAt": "2026-04-21T14:05:17.988Z"
 }

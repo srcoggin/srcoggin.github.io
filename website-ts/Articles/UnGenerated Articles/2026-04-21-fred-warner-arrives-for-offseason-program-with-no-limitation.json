@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Fred Warner arrives for offseason program with no limitations",
-      "description": "The 49ers are back.",
-      "url": "https://sports.yahoo.com/articles/fred-warner-arrives-offseason-program-233320655.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Fred Warner arrives for offseason program with no limitations",
       "description": "The 49ers are back.",
@@ -26,5 +20,5 @@
     "back"
   ],
   "hash": "8d21f3effbe7176e",
-  "queuedAt": "2026-04-21T08:23:23.491Z"
+  "queuedAt": "2026-04-21T14:05:26.667Z"
 }

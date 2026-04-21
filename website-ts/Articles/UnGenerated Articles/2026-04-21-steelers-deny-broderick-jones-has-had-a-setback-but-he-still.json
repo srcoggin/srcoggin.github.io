@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers deny Broderick Jones has had a setback, but he still has hurdles to clear",
-      "description": "The Steelers disputed a report that left tackle Broderick Jones had a setback from a neck injury that required surgery during the offseason.",
-      "url": "https://sports.yahoo.com/articles/steelers-deny-broderick-jones-had-235833273.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers deny Broderick Jones has had a setback, but he still has hurdles to clear",
       "description": "The Steelers disputed a report that left tackle Broderick Jones had a setback from a neck injury that required surgery during the offseason.",
@@ -36,5 +30,5 @@
     "offseason"
   ],
   "hash": "57e4c9414677a02e",
-  "queuedAt": "2026-04-21T08:23:21.352Z"
+  "queuedAt": "2026-04-21T14:05:17.828Z"
 }
