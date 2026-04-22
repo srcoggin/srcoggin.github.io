@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams leave the door open for Jimmy Garoppolo's return",
-      "description": "The Rams know that they will have Matthew Stafford as their starting quarterback.",
-      "url": "https://sports.yahoo.com/articles/rams-leave-door-open-jimmy-202151474.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams leave the door open for Jimmy Garoppolo's return",
       "description": "The Rams know that they will have Matthew Stafford as their starting quarterback.",
@@ -33,5 +27,5 @@
     "quarterback"
   ],
   "hash": "580c345ff83f99c7",
-  "queuedAt": "2026-04-22T03:03:41.829Z"
+  "queuedAt": "2026-04-22T08:22:28.617Z"
 }

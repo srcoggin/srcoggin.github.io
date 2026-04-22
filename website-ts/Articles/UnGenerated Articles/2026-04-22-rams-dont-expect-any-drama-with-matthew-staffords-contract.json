@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams \"don't expect any drama\" with Matthew Stafford's contract",
-      "description": "A report emerged on Monday that the Rams and quarterback Matthew Stafford had made significant progress on a contract extension.",
-      "url": "https://sports.yahoo.com/articles/rams-dont-expect-drama-matthew-200833743.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams \"don't expect any drama\" with Matthew Stafford's contract",
       "description": "A report emerged on Monday that the Rams and quarterback Matthew Stafford had made significant progress on a contract extension.",
@@ -36,5 +30,5 @@
     "extension"
   ],
   "hash": "ab49bf400d3dfe47",
-  "queuedAt": "2026-04-22T03:03:40.110Z"
+  "queuedAt": "2026-04-22T08:22:16.307Z"
 }
