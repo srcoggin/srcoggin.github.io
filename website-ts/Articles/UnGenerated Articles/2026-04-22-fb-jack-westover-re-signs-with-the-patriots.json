@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "FB Jack Westover re-signs with the Patriots",
-      "description": "The Patriots have fullback Jack Westover back on their roster.",
-      "url": "https://sports.yahoo.com/articles/fb-jack-westover-signs-patriots-210842834.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "FB Jack Westover re-signs with the Patriots",
       "description": "The Patriots have fullback Jack Westover back on their roster.",
@@ -26,5 +20,5 @@
     "roster"
   ],
   "hash": "213a6354ca152102",
-  "queuedAt": "2026-04-22T08:22:17.166Z"
+  "queuedAt": "2026-04-22T14:06:35.421Z"
 }

@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tyler Shough excited to see who Saints draft, hopes for WR help",
-      "description": "This time a year ago, Tyler Shough was nervously awaiting the NFL draft.",
-      "url": "https://sports.yahoo.com/articles/tyler-shough-excited-see-saints-004200542.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tyler Shough excited to see who Saints draft, hopes for WR help",
       "description": "This time a year ago, Tyler Shough was nervously awaiting the NFL draft.",
@@ -32,5 +26,5 @@
     "awaiting"
   ],
   "hash": "723e2c15cc68470c",
-  "queuedAt": "2026-04-22T08:22:16.914Z"
+  "queuedAt": "2026-04-22T14:06:35.109Z"
 }

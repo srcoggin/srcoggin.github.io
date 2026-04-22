@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Caleb Williams: I'll miss D.J. Moore personally, understand trading him was business",
-      "description": "\"You build up a relationship on a personal level and it sucks that he has to go,\" Williams said. \"I'm excited for him the rest of his career to see what he does.\"",
-      "url": "https://sports.yahoo.com/articles/caleb-williams-ill-miss-d-075953042.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Caleb Williams: I'll miss D.J. Moore personally, understand trading him was business",
       "description": "\"You build up a relationship on a personal level and it sucks that he has to go,\" Williams said. \"I'm excited for him the rest of his career to see what he does.\"",
@@ -42,5 +36,5 @@
     "what"
   ],
   "hash": "fc702530dd87ea0e",
-  "queuedAt": "2026-04-22T08:22:16.668Z"
+  "queuedAt": "2026-04-22T14:06:34.902Z"
 }

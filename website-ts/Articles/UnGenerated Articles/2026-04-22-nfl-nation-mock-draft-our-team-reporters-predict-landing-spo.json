@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "NFL Nation mock draft: Our team reporters predict landing spots in the first round",
-      "description": "The Raiders fill their biggest need at No. 1, but is Mendoza the only first-round QB? Our reporters make their picks.",
+      "description": "Is Fernando Mendoza the only first-round quarterback? Our reporters make their picks.",
       "url": "https://www.espn.com/nfl/draft2026/story/_/id/48494104/mock-draft-2026-nfl-nation-first-round-predictions"
     }
   ],
@@ -20,16 +20,14 @@
     "spots",
     "first",
     "round",
-    "raiders",
-    "fill",
-    "their",
-    "biggest",
-    "need",
+    "fernando",
     "mendoza",
     "firstround",
+    "quarterback",
     "make",
+    "their",
     "picks"
   ],
-  "hash": "fe9413182801ac55",
-  "queuedAt": "2026-04-22T08:22:13.946Z"
+  "hash": "ba7d5e3a146dbde1",
+  "queuedAt": "2026-04-22T14:06:16.900Z"
 }
