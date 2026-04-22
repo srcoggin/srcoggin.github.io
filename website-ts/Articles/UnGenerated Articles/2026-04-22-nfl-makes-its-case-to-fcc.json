@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL makes its case to FCC",
-      "description": "The unflappable league is flapping, when it comes to the assault on the antitrust exemption.",
-      "url": "https://sports.yahoo.com/articles/nfl-makes-case-fcc-134330021.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL makes its case to FCC",
       "description": "The unflappable league is flapping, when it comes to the assault on the antitrust exemption.",
@@ -29,5 +23,5 @@
     "exemption"
   ],
   "hash": "26dc4ddfd936c27f",
-  "queuedAt": "2026-04-22T14:06:18.956Z"
+  "queuedAt": "2026-04-22T19:40:04.181Z"
 }
