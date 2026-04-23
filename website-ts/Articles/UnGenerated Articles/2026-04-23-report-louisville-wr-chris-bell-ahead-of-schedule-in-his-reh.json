@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Louisville WR Chris Bell ahead of schedule in his rehab",
-      "description": "Louisville wide receiver Chris Bell tore an ACL in the Cardinals' 38-6 loss to SMU on Nov. 22.",
-      "url": "https://sports.yahoo.com/articles/report-louisville-wr-chris-bell-011902144.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Louisville WR Chris Bell ahead of schedule in his rehab",
       "description": "Louisville wide receiver Chris Bell tore an ACL in the Cardinals' 38-6 loss to SMU on Nov. 22.",
@@ -35,5 +29,5 @@
     "nov"
   ],
   "hash": "4c7f06a0c1d8936c",
-  "queuedAt": "2026-04-23T08:12:14.582Z"
+  "queuedAt": "2026-04-23T14:18:30.784Z"
 }

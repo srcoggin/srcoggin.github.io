@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Would the Cowboys draft a wide receiver in the first round?",
-      "description": "The Cowboys won't negotiate with George Pickens in 2026, forcing him to play on the franchise tag.",
-      "url": "https://sports.yahoo.com/articles/cowboys-draft-wide-receiver-first-015104669.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Would the Cowboys draft a wide receiver in the first round?",
       "description": "The Cowboys won't negotiate with George Pickens in 2026, forcing him to play on the franchise tag.",
@@ -34,5 +28,5 @@
     "tag"
   ],
   "hash": "97eff9e8387cc552",
-  "queuedAt": "2026-04-23T08:12:15.716Z"
+  "queuedAt": "2026-04-23T14:18:40.148Z"
 }
