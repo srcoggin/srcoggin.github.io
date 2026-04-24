@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dolphins trade with 49ers, take CB Chris Johnson at No. 27",
-      "description": "The Dolphins traded down before making their first pick on Thursday night and they traded up before making their second first-round choice.",
-      "url": "https://sports.yahoo.com/articles/dolphins-trade-49ers-cb-chris-024306179.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dolphins trade with 49ers, take CB Chris Johnson at No. 27",
       "description": "The Dolphins traded down before making their first pick on Thursday night and they traded up before making their second first-round choice.",
@@ -36,5 +30,5 @@
     "choice"
   ],
   "hash": "b3e0d90540aa8b44",
-  "queuedAt": "2026-04-24T03:06:32.877Z"
+  "queuedAt": "2026-04-24T08:20:24.045Z"
 }

@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots trade up to No. 28, take Caleb Lomu",
-      "description": "After the 28th overall pick in the 2026 NFL draft was traded twice, the Patriots ended up with it and selected Utah offensive tackle Caleb Lomu.",
-      "url": "https://sports.yahoo.com/articles/patriots-trade-no-28-caleb-024709102.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots trade up to No. 28, take Caleb Lomu",
       "description": "After the 28th overall pick in the 2026 NFL draft was traded twice, the Patriots ended up with it and selected Utah offensive tackle Caleb Lomu.",
@@ -35,5 +29,5 @@
     "tackle"
   ],
   "hash": "b194fd988923dfb5",
-  "queuedAt": "2026-04-24T03:06:32.833Z"
+  "queuedAt": "2026-04-24T08:20:24.452Z"
 }

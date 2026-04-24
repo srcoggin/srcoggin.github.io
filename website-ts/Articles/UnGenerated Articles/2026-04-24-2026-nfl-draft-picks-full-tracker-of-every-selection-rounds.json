@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "2026 NFL Draft Picks: Full tracker of every selection Rounds 1-7",
-      "description": "Fernando Mendoza is set to go to Las Vegas with the first overall pick.",
-      "url": "https://sports.yahoo.com/articles/2026-nfl-draft-picks-full-092859120.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "2026 NFL Draft Picks: Full tracker of every selection Rounds 1-7",
       "description": "Fernando Mendoza is set to go to Las Vegas with the first overall pick.",
@@ -34,5 +28,5 @@
     "pick"
   ],
   "hash": "059f39b982a5839e",
-  "queuedAt": "2026-04-24T03:06:32.778Z"
+  "queuedAt": "2026-04-24T08:20:24.690Z"
 }
