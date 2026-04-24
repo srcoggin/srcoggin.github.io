@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "John Lynch on trading out of first round: It's the way the board fell",
-      "description": "The 49ers began the day with the 27th overall pick.",
-      "url": "https://sports.yahoo.com/articles/john-lynch-trading-first-round-042118743.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "John Lynch on trading out of first round: It's the way the board fell",
       "description": "The 49ers began the day with the 27th overall pick.",
@@ -34,5 +28,5 @@
     "pick"
   ],
   "hash": "4a6ef259831ce20f",
-  "queuedAt": "2026-04-24T08:20:19.447Z"
+  "queuedAt": "2026-04-24T14:02:35.945Z"
 }
