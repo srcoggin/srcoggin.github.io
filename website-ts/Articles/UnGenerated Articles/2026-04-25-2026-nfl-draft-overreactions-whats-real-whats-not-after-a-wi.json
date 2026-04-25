@@ -4,6 +4,12 @@
   "sources": [
     {
       "name": "CBS Sports NFL",
+      "title": "2026 NFL Draft overreactions: What&#039;s real, what&#039;s not after jam-packed Day 2",
+      "description": "We break down which narratives are legit -- and which are overblown -- after a wild Day 2 of the NFL Draft",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-draft-overreactions-after-day-2/"
+    },
+    {
+      "name": "CBS Sports NFL",
       "title": "2026 NFL Draft overreactions: What&#039;s real, what&#039;s not after a wild first round",
       "description": "We break down which narratives hold up -- and which ones don&#039;t -- from a chaotic opening night",
       "url": "https://www.cbssports.com/nfl/news/nfl-draft-2026-overreactions-reality-round-1-analysis/"
@@ -15,13 +21,17 @@
     "overreactions",
     "what039s",
     "real",
-    "wild",
-    "first",
-    "round",
+    "jampacked",
+    "day",
     "break",
     "down",
     "which",
     "narratives",
+    "legit",
+    "overblown",
+    "wild",
+    "first",
+    "round",
     "hold",
     "ones",
     "don039t",
@@ -29,6 +39,6 @@
     "opening",
     "night"
   ],
-  "hash": "cfc6f295f2dae888",
-  "queuedAt": "2026-04-25T03:04:01.485Z"
+  "hash": "28df2d2c93837d91",
+  "queuedAt": "2026-04-25T07:38:27.391Z"
 }

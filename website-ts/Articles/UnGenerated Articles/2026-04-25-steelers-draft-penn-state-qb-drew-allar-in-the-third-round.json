@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers draft Penn State QB Drew Allar in the third round",
-      "description": "The Steelers have added another quarterback to their roster.",
-      "url": "https://sports.yahoo.com/articles/steelers-draft-penn-state-qb-020344590.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers draft Penn State QB Drew Allar in the third round",
       "description": "The Steelers have added another quarterback to their roster.",
@@ -31,5 +25,5 @@
     "roster"
   ],
   "hash": "b8eafbdf5e970d50",
-  "queuedAt": "2026-04-25T03:03:55.816Z"
+  "queuedAt": "2026-04-25T07:38:34.486Z"
 }

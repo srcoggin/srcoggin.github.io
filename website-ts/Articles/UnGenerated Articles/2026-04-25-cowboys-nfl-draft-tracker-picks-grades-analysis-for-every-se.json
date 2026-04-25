@@ -1,10 +1,10 @@
 {
-  "title": "Cowboys NFL Draft tracker: Picks, grades, analysis for every selection as Dallas trades up for Caleb Downs",
+  "title": "Cowboys NFL Draft tracker: Picks, grades, analysis for every selection",
   "category": "draft",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Cowboys NFL Draft tracker: Picks, grades, analysis for every selection as Dallas trades up for Caleb Downs",
+      "title": "Cowboys NFL Draft tracker: Picks, grades, analysis for every selection",
       "description": "Track every Cowboys pick in the 2026 NFL Draft with live grades, analysis and updates.",
       "url": "https://www.cbssports.com/nfl/news/cowboys-draft-picks-2026-tracker-grades-analysis/"
     }
@@ -18,16 +18,12 @@
     "analysis",
     "every",
     "selection",
-    "dallas",
-    "trades",
-    "caleb",
-    "downs",
     "track",
     "pick",
     "2026",
     "live",
     "updates"
   ],
-  "hash": "3488bc20e3b71fa7",
-  "queuedAt": "2026-04-25T03:03:55.184Z"
+  "hash": "e2a7f3297cce00b5",
+  "queuedAt": "2026-04-25T07:38:27.146Z"
 }
