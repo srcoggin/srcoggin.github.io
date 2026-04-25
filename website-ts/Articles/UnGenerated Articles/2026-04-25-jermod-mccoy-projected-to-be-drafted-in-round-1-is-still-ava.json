@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jermod McCoy, projected to be drafted in Round 1, is still available heading into Round 4",
-      "description": "McCoy was expected to be a Day One pick. Now he's hoping to hear his name called on Day Three.",
-      "url": "https://sports.yahoo.com/articles/jermod-mccoy-projected-drafted-round-081238173.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jermod McCoy, projected to be drafted in Round 1, is still available heading into Round 4",
       "description": "McCoy was expected to be a Day One pick. Now he's hoping to hear his name called on Day Three.",
@@ -38,5 +32,5 @@
     "three"
   ],
   "hash": "2b1c72cde14bcdeb",
-  "queuedAt": "2026-04-25T13:24:18.102Z"
+  "queuedAt": "2026-04-25T19:25:19.408Z"
 }
