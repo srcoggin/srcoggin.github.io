@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions agree to terms with undrafted QB Luke Altmyer",
-      "description": "Quarterback Luke Altmyer didn't get drafted this weekend, but he has found a spot in the NFL.",
-      "url": "https://sports.yahoo.com/articles/lions-agree-terms-undrafted-qb-001646219.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions agree to terms with undrafted QB Luke Altmyer",
       "description": "Quarterback Luke Altmyer didn't get drafted this weekend, but he has found a spot in the NFL.",
@@ -32,5 +26,5 @@
     "spot"
   ],
   "hash": "4d2324b03b535e0d",
-  "queuedAt": "2026-04-26T03:11:37.527Z"
+  "queuedAt": "2026-04-26T08:05:15.575Z"
 }
