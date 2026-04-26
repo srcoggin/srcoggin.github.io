@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Vikings sign 19 undrafted free agents",
-      "description": "The Vikings did not draft any wide receivers this year, but they added four of them to their roster after the draft ended on Saturday.",
-      "url": "https://sports.yahoo.com/articles/vikings-sign-19-undrafted-free-130336935.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Vikings sign 19 undrafted free agents",
       "description": "The Vikings did not draft any wide receivers this year, but they added four of them to their roster after the draft ended on Saturday.",
@@ -36,5 +30,5 @@
     "saturday"
   ],
   "hash": "6f7df4567c9c51f0",
-  "queuedAt": "2026-04-26T13:25:01.439Z"
+  "queuedAt": "2026-04-26T19:17:19.214Z"
 }
