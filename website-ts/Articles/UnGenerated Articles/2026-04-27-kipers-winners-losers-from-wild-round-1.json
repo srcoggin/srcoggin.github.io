@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "Kiper's winners, losers from wild Round 1",
-      "description": "Mel Kiper Jr. makes sense of the first round of the NFL draft, sizing up moves like the Makai Lemon and Ty Simpson picks.",
+      "description": "Mel Kiper Jr. makes sense of the first round, sizing up moves like the Makai Lemon and Ty Simpson picks.",
       "url": "https://www.espn.com/nfl/draft2026/story/_/id/48547294/2026-nfl-draft-kiper-round-1-winners-losers-value-picks-updates-best-available"
     }
   ],
@@ -20,7 +20,6 @@
     "makes",
     "sense",
     "first",
-    "draft",
     "sizing",
     "moves",
     "like",
@@ -29,6 +28,6 @@
     "simpson",
     "picks"
   ],
-  "hash": "ad9b6b35b7717b21",
-  "queuedAt": "2026-04-27T14:31:00.605Z"
+  "hash": "2f1f1f1b6fc79526",
+  "queuedAt": "2026-04-27T19:52:11.712Z"
 }

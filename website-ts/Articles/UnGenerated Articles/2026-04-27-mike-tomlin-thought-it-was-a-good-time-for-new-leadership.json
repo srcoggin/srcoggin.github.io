@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Tomlin \"thought it was a good time\" for \"new leadership\"",
-      "description": "When Mike Tomlin stepped down as head coach of the Steelers, there was no press conference and no media tour.",
-      "url": "https://sports.yahoo.com/articles/mike-tomlin-thought-good-time-134223890.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Tomlin \"thought it was a good time\" for \"new leadership\"",
       "description": "When Mike Tomlin stepped down as head coach of the Steelers, there was no press conference and no media tour.",
@@ -34,5 +28,5 @@
     "tour"
   ],
   "hash": "f115f49c8064dd8d",
-  "queuedAt": "2026-04-27T14:30:58.548Z"
+  "queuedAt": "2026-04-27T19:52:20.019Z"
 }
