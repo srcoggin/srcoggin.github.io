@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "DL Dean Lowry will re-sign with Steelers",
-      "description": "The Steelers are re-signing veteran defensive end Dean Lowry, Ian Rapoport of NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/dl-dean-lowry-sign-steelers-225059085.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "DL Dean Lowry will re-sign with Steelers",
       "description": "The Steelers are re-signing veteran defensive end Dean Lowry, Ian Rapoport of NFL Media reports.",
@@ -30,5 +24,5 @@
     "reports"
   ],
   "hash": "c3cdf5e985b768cd",
-  "queuedAt": "2026-04-27T08:48:21.326Z"
+  "queuedAt": "2026-04-27T14:30:57.973Z"
 }

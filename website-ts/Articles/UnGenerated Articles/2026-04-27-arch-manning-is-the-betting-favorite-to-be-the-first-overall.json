@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Arch Manning is the betting favorite to be the first overall pick in the 2027 NFL draft",
-      "description": "The Texas quarterback could be the third Manning to be drafted first overall.",
-      "url": "https://sports.yahoo.com/articles/arch-manning-betting-favorite-first-075835263.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Arch Manning is the betting favorite to be the first overall pick in the 2027 NFL draft",
       "description": "The Texas quarterback could be the third Manning to be drafted first overall.",
@@ -31,5 +25,5 @@
     "drafted"
   ],
   "hash": "16d1fbc69c1d59cc",
-  "queuedAt": "2026-04-27T08:48:22.026Z"
+  "queuedAt": "2026-04-27T14:31:12.427Z"
 }

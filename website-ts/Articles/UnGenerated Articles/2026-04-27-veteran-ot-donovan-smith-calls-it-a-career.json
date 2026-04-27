@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Veteran OT Donovan Smith calls it a career",
-      "description": "Veteran offensive tackle Donovan Smith announced his retirement on Sunday.",
-      "url": "https://sports.yahoo.com/articles/veteran-ot-donovan-smith-calls-230446031.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Veteran OT Donovan Smith calls it a career",
       "description": "Veteran offensive tackle Donovan Smith announced his retirement on Sunday.",
@@ -29,5 +23,5 @@
     "sunday"
   ],
   "hash": "dc0fb6f35d21ee16",
-  "queuedAt": "2026-04-27T08:48:21.265Z"
+  "queuedAt": "2026-04-27T14:30:57.863Z"
 }

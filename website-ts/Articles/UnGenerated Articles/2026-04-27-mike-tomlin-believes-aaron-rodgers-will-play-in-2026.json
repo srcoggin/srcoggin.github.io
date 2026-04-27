@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Tomlin believes Aaron Rodgers will play in 2026",
-      "description": "Rodgers \"has an addiction\" to the process.",
-      "url": "https://sports.yahoo.com/articles/mike-tomlin-believes-aaron-rodgers-231752890.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Tomlin believes Aaron Rodgers will play in 2026",
       "description": "Rodgers \"has an addiction\" to the process.",
@@ -27,5 +21,5 @@
     "process"
   ],
   "hash": "d8fc8408d385e16c",
-  "queuedAt": "2026-04-27T08:48:22.094Z"
+  "queuedAt": "2026-04-27T14:31:11.483Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers agree to terms with eight undrafted free agents",
-      "description": "The 49ers have announced a group of eight undrafted rookie additions to their roster.",
-      "url": "https://sports.yahoo.com/articles/49ers-agree-terms-eight-undrafted-221143177.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers agree to terms with eight undrafted free agents",
       "description": "The 49ers have announced a group of eight undrafted rookie additions to their roster.",
@@ -31,5 +25,5 @@
     "roster"
   ],
   "hash": "de00cfa89ab77977",
-  "queuedAt": "2026-04-27T08:48:21.406Z"
+  "queuedAt": "2026-04-27T14:30:58.204Z"
 }

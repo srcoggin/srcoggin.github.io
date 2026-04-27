@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saints agree to terms with 10 undrafted rookies",
-      "description": "The Saints announced on Sunday that they have agreed to terms with 10 undrafted free agents.",
-      "url": "https://sports.yahoo.com/articles/saints-agree-terms-10-undrafted-215457807.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saints agree to terms with 10 undrafted rookies",
       "description": "The Saints announced on Sunday that they have agreed to terms with 10 undrafted free agents.",
@@ -30,5 +24,5 @@
     "agents"
   ],
   "hash": "bc5ebdd63c0081f5",
-  "queuedAt": "2026-04-27T08:48:21.472Z"
+  "queuedAt": "2026-04-27T14:30:58.318Z"
 }
