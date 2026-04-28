@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Teair Tart even more motivated after signing long-term deal",
-      "description": "The Chargers paid Teair Tart a total of $6.225 million the past two seasons.",
-      "url": "https://sports.yahoo.com/articles/teair-tart-even-more-motivated-222936935.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Teair Tart even more motivated after signing long-term deal",
       "description": "The Chargers paid Teair Tart a total of $6.225 million the past two seasons.",
@@ -33,5 +27,5 @@
     "seasons"
   ],
   "hash": "9b787a562be45fdb",
-  "queuedAt": "2026-04-28T08:43:21.552Z"
+  "queuedAt": "2026-04-28T14:33:12.961Z"
 }

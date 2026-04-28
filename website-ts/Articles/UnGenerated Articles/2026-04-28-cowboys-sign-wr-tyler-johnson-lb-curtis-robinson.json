@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys sign WR Tyler Johnson, LB Curtis Robinson",
-      "description": "The Cowboys signed three veteran players to one-year deals, the team announced Monday.",
-      "url": "https://sports.yahoo.com/articles/cowboys-sign-wr-tyler-johnson-210251146.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys sign WR Tyler Johnson, LB Curtis Robinson",
       "description": "The Cowboys signed three veteran players to one-year deals, the team announced Monday.",
@@ -32,5 +26,5 @@
     "monday"
   ],
   "hash": "d67d04075dd3e185",
-  "queuedAt": "2026-04-28T08:43:20.775Z"
+  "queuedAt": "2026-04-28T14:33:06.764Z"
 }

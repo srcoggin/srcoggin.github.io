@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL announces 13.2 million viewers for Round 1, down from 13.6 million last year",
-      "description": "The first round of the NFL draft drew a big TV audience, but not as big as last year.",
-      "url": "https://sports.yahoo.com/articles/nfl-announces-13-2-million-204533138.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL announces 13.2 million viewers for Round 1, down from 13.6 million last year",
       "description": "The first round of the NFL draft drew a big TV audience, but not as big as last year.",
@@ -31,5 +25,5 @@
     "audience"
   ],
   "hash": "43d50a3bbea4614f",
-  "queuedAt": "2026-04-28T08:43:21.598Z"
+  "queuedAt": "2026-04-28T14:33:12.649Z"
 }

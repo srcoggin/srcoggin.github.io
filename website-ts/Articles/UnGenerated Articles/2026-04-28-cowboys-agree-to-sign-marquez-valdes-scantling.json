@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys agree to sign Marquez Valdes-Scantling",
-      "description": "The Cowboys added a receiver late in the draft over the weekend and now have added a veteran to the mix.",
-      "url": "https://sports.yahoo.com/articles/cowboys-agree-sign-marquez-valdes-201438303.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys agree to sign Marquez Valdes-Scantling",
       "description": "The Cowboys added a receiver late in the draft over the weekend and now have added a veteran to the mix.",
@@ -32,5 +26,5 @@
     "mix"
   ],
   "hash": "41a42bdbf7119270",
-  "queuedAt": "2026-04-28T08:43:21.682Z"
+  "queuedAt": "2026-04-28T14:33:13.080Z"
 }

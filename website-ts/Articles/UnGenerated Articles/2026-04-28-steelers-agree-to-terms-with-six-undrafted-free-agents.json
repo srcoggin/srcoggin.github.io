@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers agree to terms with six undrafted free agents",
-      "description": "The Steelers are adding six more rookies to their roster.",
-      "url": "https://sports.yahoo.com/articles/steelers-agree-terms-six-undrafted-195805920.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers agree to terms with six undrafted free agents",
       "description": "The Steelers are adding six more rookies to their roster.",
@@ -29,5 +23,5 @@
     "roster"
   ],
   "hash": "f66b182080950433",
-  "queuedAt": "2026-04-28T08:43:21.826Z"
+  "queuedAt": "2026-04-28T14:33:13.140Z"
 }
