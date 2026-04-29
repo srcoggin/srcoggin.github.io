@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saints announce signings of Martin Emerson, Anfernee Jennings",
-      "description": "The Saints have announced the signings of cornerback Martin Emerson and linebacker Anfernee Jennings.",
-      "url": "https://sports.yahoo.com/articles/saints-announce-signings-martin-emerson-211141739.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saints announce signings of Martin Emerson, Anfernee Jennings",
       "description": "The Saints have announced the signings of cornerback Martin Emerson and linebacker Anfernee Jennings.",
@@ -28,5 +22,5 @@
     "linebacker"
   ],
   "hash": "8b5ba4fea945fb78",
-  "queuedAt": "2026-04-29T08:36:09.804Z"
+  "queuedAt": "2026-04-29T14:28:48.222Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans executive Chad Brinker leaving to pursue other opportunities",
-      "description": "Brinker joined the Titans in 2023 as assistant GM, and a year later, the team promoted him to president of football operations.",
-      "url": "https://sports.yahoo.com/articles/titans-executive-chad-brinker-leaving-005250770.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans executive Chad Brinker leaving to pursue other opportunities",
       "description": "Brinker joined the Titans in 2023 as assistant GM, and a year later, the team promoted him to president of football operations.",
@@ -33,5 +27,5 @@
     "operations"
   ],
   "hash": "130ed797aa25916f",
-  "queuedAt": "2026-04-29T08:36:10.690Z"
+  "queuedAt": "2026-04-29T14:28:56.280Z"
 }

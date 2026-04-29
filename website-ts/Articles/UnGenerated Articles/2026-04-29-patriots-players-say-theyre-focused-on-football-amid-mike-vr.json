@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots players say they're focused on football amid Mike Vrabel drama",
-      "description": "Patriots tight end Hunter Henry and linebacker Robert Spillane both fielded questions about head coach Mike Vrabel's messaging to the team when they held press conferences from the team's facility on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/patriots-players-theyre-focused-football-204844070.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots players say they're focused on football amid Mike Vrabel drama",
       "description": "Patriots tight end Hunter Henry and linebacker Robert Spillane both fielded questions about head coach Mike Vrabel's messaging to the team when they held press conferences from the team's facility on Tuesday.",
@@ -49,5 +43,5 @@
     "tuesday"
   ],
   "hash": "2331e7fc7cbcedec",
-  "queuedAt": "2026-04-29T08:36:10.823Z"
+  "queuedAt": "2026-04-29T14:28:56.108Z"
 }

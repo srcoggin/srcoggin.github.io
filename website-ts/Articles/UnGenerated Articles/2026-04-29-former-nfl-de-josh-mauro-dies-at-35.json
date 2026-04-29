@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Former NFL DE Josh Mauro dies at 35",
-      "description": "Former NFL defensive lineman Josh Mauro died last week, the Raiders announced.",
-      "url": "https://sports.yahoo.com/articles/former-nfl-josh-mauro-dies-224854720.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Former NFL DE Josh Mauro dies at 35",
       "description": "Former NFL defensive lineman Josh Mauro died last week, the Raiders announced.",
@@ -28,5 +22,5 @@
     "announced"
   ],
   "hash": "e5d5dd63e9145c0c",
-  "queuedAt": "2026-04-29T08:36:09.761Z"
+  "queuedAt": "2026-04-29T14:28:47.727Z"
 }

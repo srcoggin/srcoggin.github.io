@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers release QB/WR John Rhys Plumlee",
-      "description": "The Steelers released quarterback/wide receiver John Rhys Plumlee.",
-      "url": "https://sports.yahoo.com/articles/steelers-release-qb-wr-john-201356731.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers release QB/WR John Rhys Plumlee",
       "description": "The Steelers released quarterback/wide receiver John Rhys Plumlee.",
@@ -27,5 +21,5 @@
     "receiver"
   ],
   "hash": "10794f9912f719e8",
-  "queuedAt": "2026-04-29T08:36:10.870Z"
+  "queuedAt": "2026-04-29T14:28:56.569Z"
 }

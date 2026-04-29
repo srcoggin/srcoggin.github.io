@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots pick up Christian Gonzalez's fifth-year option",
-      "description": "The Patriots have taken the next step toward keeping cornerback Christian Gonzalez in New England for years to come.",
-      "url": "https://sports.yahoo.com/articles/patriots-pick-christian-gonzalezs-fifth-210223095.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots pick up Christian Gonzalez's fifth-year option",
       "description": "The Patriots have taken the next step toward keeping cornerback Christian Gonzalez in New England for years to come.",
@@ -35,5 +29,5 @@
     "come"
   ],
   "hash": "86f0efe17e9377c6",
-  "queuedAt": "2026-04-29T08:36:10.781Z"
+  "queuedAt": "2026-04-29T14:28:57.442Z"
 }
