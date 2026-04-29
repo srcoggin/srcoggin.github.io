@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "QB Maverick McIvor accepts invites for Cowboys, Bears rookie minicamps",
-      "description": "Two NFC teams are taking a look at an older incoming quarterback.",
-      "url": "https://sports.yahoo.com/articles/qb-maverick-mcivor-accepts-invites-133011725.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "QB Maverick McIvor accepts invites for Cowboys, Bears rookie minicamps",
       "description": "Two NFC teams are taking a look at an older incoming quarterback.",
@@ -34,5 +28,5 @@
     "quarterback"
   ],
   "hash": "a8801e51c487c482",
-  "queuedAt": "2026-04-29T14:28:48.803Z"
+  "queuedAt": "2026-04-29T20:05:02.166Z"
 }

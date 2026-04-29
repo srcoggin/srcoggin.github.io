@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants agree to terms with Shelby Harris",
-      "description": "The Giants said after the draft that they planned to add help on their defensive line and they've found one player they hope will provide it.",
-      "url": "https://sports.yahoo.com/articles/giants-agree-terms-shelby-harris-134342661.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants agree to terms with Shelby Harris",
       "description": "The Giants said after the draft that they planned to add help on their defensive line and they've found one player they hope will provide it.",
@@ -38,5 +32,5 @@
     "provide"
   ],
   "hash": "71b83ecd636adc1a",
-  "queuedAt": "2026-04-29T14:28:48.482Z"
+  "queuedAt": "2026-04-29T20:05:01.602Z"
 }

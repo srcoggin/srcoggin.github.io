@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Next up on the offseason calendar: Schedule release",
-      "description": "It's coming in May — likely the week of May 11.",
-      "url": "https://sports.yahoo.com/articles/next-offseason-calendar-schedule-release-133949289.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Next up on the offseason calendar: Schedule release",
       "description": "It's coming in May — likely the week of May 11.",
@@ -26,5 +20,5 @@
     "likely"
   ],
   "hash": "6983fc69c1746671",
-  "queuedAt": "2026-04-29T14:28:48.581Z"
+  "queuedAt": "2026-04-29T20:05:01.689Z"
 }
