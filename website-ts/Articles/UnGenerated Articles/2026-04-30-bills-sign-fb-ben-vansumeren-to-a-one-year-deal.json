@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bills sign FB Ben VanSumeren to a one-year deal",
-      "description": "The Bills signed fullback Ben VanSumeren to a one-year deal on Wednesday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/bills-sign-fb-ben-vansumeren-213358176.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bills sign FB Ben VanSumeren to a one-year deal",
       "description": "The Bills signed fullback Ben VanSumeren to a one-year deal on Wednesday, the team announced.",
@@ -28,5 +22,5 @@
     "announced"
   ],
   "hash": "b7585e03e522d3de",
-  "queuedAt": "2026-04-30T08:38:44.481Z"
+  "queuedAt": "2026-04-30T14:16:52.841Z"
 }

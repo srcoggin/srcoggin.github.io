@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Art Rooney on Aaron Rodgers: I thought we'd know by now, think we'll know in a few weeks",
-      "description": "Steelers owner Art Rooney II said a month ago that he expected to know whether Aaron Rodgers would play in Pittsburgh this season before the draft.",
-      "url": "https://sports.yahoo.com/articles/art-rooney-aaron-rodgers-thought-233635991.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Art Rooney on Aaron Rodgers: I thought we'd know by now, think we'll know in a few weeks",
       "description": "Steelers owner Art Rooney II said a month ago that he expected to know whether Aaron Rodgers would play in Pittsburgh this season before the draft.",
@@ -41,5 +35,5 @@
     "draft"
   ],
   "hash": "a90cf6849aac40a1",
-  "queuedAt": "2026-04-30T08:38:45.567Z"
+  "queuedAt": "2026-04-30T14:16:57.085Z"
 }

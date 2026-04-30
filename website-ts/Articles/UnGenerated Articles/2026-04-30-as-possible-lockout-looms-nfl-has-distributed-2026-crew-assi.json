@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "As possible lockout looms, NFL has distributed 2026 crew assignments for regular officials",
-      "description": "Clock keeps ticking toward expiation of current CBA.",
-      "url": "https://sports.yahoo.com/articles/possible-lockout-looms-nfl-distributed-205108959.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "As possible lockout looms, NFL has distributed 2026 crew assignments for regular officials",
       "description": "Clock keeps ticking toward expiation of current CBA.",
@@ -34,5 +28,5 @@
     "cba"
   ],
   "hash": "9117e56e8fb48d6e",
-  "queuedAt": "2026-04-30T08:38:44.570Z"
+  "queuedAt": "2026-04-30T14:16:52.891Z"
 }

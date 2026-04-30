@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions sign LB Joe Bachie, DL Jay Tufele",
-      "description": "The Lions added a couple of veterans on the defensive side of the ball on Wednesday.",
-      "url": "https://sports.yahoo.com/articles/lions-sign-lb-joe-bachie-202507035.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions sign LB Joe Bachie, DL Jay Tufele",
       "description": "The Lions added a couple of veterans on the defensive side of the ball on Wednesday.",
@@ -31,5 +25,5 @@
     "wednesday"
   ],
   "hash": "3a35886b996c98d9",
-  "queuedAt": "2026-04-30T08:38:45.690Z"
+  "queuedAt": "2026-04-30T14:16:57.719Z"
 }
