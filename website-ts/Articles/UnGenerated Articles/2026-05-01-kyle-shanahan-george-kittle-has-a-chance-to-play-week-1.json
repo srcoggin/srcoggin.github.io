@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Shanahan: George Kittle has a chance to play Week 1",
-      "description": "49ers tight end George Kittle remains on track in his rehab from a torn Achilles.",
-      "url": "https://sports.yahoo.com/articles/kyle-shanahan-george-kittle-chance-203346366.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Shanahan: George Kittle has a chance to play Week 1",
       "description": "49ers tight end George Kittle remains on track in his rehab from a torn Achilles.",
@@ -33,5 +27,5 @@
     "achilles"
   ],
   "hash": "a8a73930e9811910",
-  "queuedAt": "2026-05-01T08:33:09.519Z"
+  "queuedAt": "2026-05-01T13:43:07.412Z"
 }

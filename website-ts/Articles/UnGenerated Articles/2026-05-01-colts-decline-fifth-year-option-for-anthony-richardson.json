@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts decline fifth-year option for Anthony Richardson",
-      "description": "The Colts will not exercise the fifth-year option on quarterback Anthony Richardson's rookie contract, Mike Chappell of Fox 59 reports.",
-      "url": "https://sports.yahoo.com/articles/colts-decline-fifth-option-anthony-213129825.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts decline fifth-year option for Anthony Richardson",
       "description": "The Colts will not exercise the fifth-year option on quarterback Anthony Richardson's rookie contract, Mike Chappell of Fox 59 reports.",
@@ -33,5 +27,5 @@
     "reports"
   ],
   "hash": "084d91207890a701",
-  "queuedAt": "2026-05-01T08:33:07.722Z"
+  "queuedAt": "2026-05-01T13:43:01.519Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos S Devon Key signs exclusive rights tender",
-      "description": "Broncos safety Devon Key officially signed his exclusive rights free agent tender on Thursday.",
-      "url": "https://sports.yahoo.com/articles/broncos-devon-key-signs-exclusive-204910224.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos S Devon Key signs exclusive rights tender",
       "description": "Broncos safety Devon Key officially signed his exclusive rights free agent tender on Thursday.",
@@ -32,5 +26,5 @@
     "thursday"
   ],
   "hash": "65d3a0e4fd8eb7c6",
-  "queuedAt": "2026-05-01T08:33:07.967Z"
+  "queuedAt": "2026-05-01T13:43:01.584Z"
 }

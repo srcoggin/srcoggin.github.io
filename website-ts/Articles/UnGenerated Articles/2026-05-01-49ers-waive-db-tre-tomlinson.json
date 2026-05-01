@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers waive DB Tre Tomlinson",
-      "description": "The 49ers dropped a player from their roster on Thursday.",
-      "url": "https://sports.yahoo.com/articles/49ers-waive-db-tre-tomlinson-203201484.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers waive DB Tre Tomlinson",
       "description": "The 49ers dropped a player from their roster on Thursday.",
@@ -26,5 +20,5 @@
     "thursday"
   ],
   "hash": "2f1f0553085ba453",
-  "queuedAt": "2026-05-01T08:33:09.582Z"
+  "queuedAt": "2026-05-01T13:43:07.479Z"
 }

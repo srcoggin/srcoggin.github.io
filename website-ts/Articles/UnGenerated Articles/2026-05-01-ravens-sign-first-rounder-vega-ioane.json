@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ravens sign first-rounder Vega Ioane",
-      "description": "The Ravens have their top 2026 draft pick under contract.",
-      "url": "https://sports.yahoo.com/articles/ravens-sign-first-rounder-vega-193046547.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ravens sign first-rounder Vega Ioane",
       "description": "The Ravens have their top 2026 draft pick under contract.",
@@ -29,5 +23,5 @@
     "contract"
   ],
   "hash": "4427e32dc8c692c7",
-  "queuedAt": "2026-05-01T08:33:09.705Z"
+  "queuedAt": "2026-05-01T13:43:07.612Z"
 }

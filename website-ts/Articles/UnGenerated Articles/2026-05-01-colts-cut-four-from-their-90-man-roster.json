@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts cut four from their 90-man roster",
-      "description": "The Colts have dropped four players from their roster.",
-      "url": "https://sports.yahoo.com/articles/colts-cut-four-90-man-190147099.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts cut four from their 90-man roster",
       "description": "The Colts have dropped four players from their roster.",
@@ -26,5 +20,5 @@
     "players"
   ],
   "hash": "715153f1ca76b161",
-  "queuedAt": "2026-05-01T08:33:09.764Z"
+  "queuedAt": "2026-05-01T13:43:07.874Z"
 }
