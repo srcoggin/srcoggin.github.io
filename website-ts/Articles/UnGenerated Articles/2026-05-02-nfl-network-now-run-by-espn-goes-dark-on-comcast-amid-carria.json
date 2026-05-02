@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL Network, now run by ESPN, goes dark on Comcast amid carriage dispute",
-      "description": "As of April 1, ESPN assumed control of NFL Network.",
-      "url": "https://sports.yahoo.com/articles/nfl-network-now-run-espn-164902865.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL Network, now run by ESPN, goes dark on Comcast amid carriage dispute",
       "description": "As of April 1, ESPN assumed control of NFL Network.",
@@ -31,5 +25,5 @@
     "control"
   ],
   "hash": "25717a0ec0ce230c",
-  "queuedAt": "2026-05-02T03:24:41.630Z"
+  "queuedAt": "2026-05-02T08:12:11.502Z"
 }
