@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "RBs Elijah Mitchell, Khalil Herbert trying out at Eagles rookie minicamp",
-      "description": "The Eagles have a couple of veteran running backs trying out at their rookie minicamp this weekend.",
-      "url": "https://sports.yahoo.com/articles/rbs-elijah-mitchell-khalil-herbert-185948981.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "RBs Elijah Mitchell, Khalil Herbert trying out at Eagles rookie minicamp",
       "description": "The Eagles have a couple of veteran running backs trying out at their rookie minicamp this weekend.",
@@ -35,5 +29,5 @@
     "weekend"
   ],
   "hash": "ca976d7c5b42530c",
-  "queuedAt": "2026-05-02T08:12:06.889Z"
+  "queuedAt": "2026-05-02T13:31:43.853Z"
 }

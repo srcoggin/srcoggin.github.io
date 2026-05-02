@@ -4,6 +4,12 @@
   "sources": [
     {
       "name": "Yahoo Sports NFL",
+      "title": "Everything to know about new Denver Broncos LB Red Murdock",
+      "description": "Here’s a complete recap on everything we covered on Buffalo linebacker Red Murdock. The Denver Broncos 257th pick in the 2026 NFL Draft.",
+      "url": "https://sports.yahoo.com/articles/everything-know-denver-broncos-lb-100000162.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
       "title": "Everything to know about new Denver Broncos TE Dallen Bentley",
       "description": "Here’s a complete recap on everything we covered on Utah tight end Dallen Bentley. The Denver Broncos 256th pick in the 2026 NFL Draft.",
       "url": "https://sports.yahoo.com/articles/everything-know-denver-broncos-te-224509478.html"
@@ -16,20 +22,25 @@
     "new",
     "denver",
     "broncos",
-    "dallen",
-    "bentley",
+    "red",
+    "murdock",
     "heres",
     "complete",
     "recap",
     "covered",
+    "buffalo",
+    "linebacker",
+    "257th",
+    "pick",
+    "2026",
+    "draft",
+    "dallen",
+    "bentley",
     "utah",
     "tight",
     "end",
-    "256th",
-    "pick",
-    "2026",
-    "draft"
+    "256th"
   ],
-  "hash": "70f2346d5ece307a",
-  "queuedAt": "2026-05-02T08:12:07.312Z"
+  "hash": "8b1f65ee4c53d5d9",
+  "queuedAt": "2026-05-02T13:31:40.910Z"
 }

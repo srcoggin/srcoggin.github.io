@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ravens officially sign QBs Diego Pavia and Joe Fagnano, 17 other undrafted rookies",
-      "description": "Quarterbacks Diego Pavia and Joe Fagnano are officially on the roster in Baltimore.",
-      "url": "https://sports.yahoo.com/articles/ravens-officially-sign-qbs-diego-181758847.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ravens officially sign QBs Diego Pavia and Joe Fagnano, 17 other undrafted rookies",
       "description": "Quarterbacks Diego Pavia and Joe Fagnano are officially on the roster in Baltimore.",
@@ -31,5 +25,5 @@
     "baltimore"
   ],
   "hash": "9d44326892209057",
-  "queuedAt": "2026-05-02T08:12:04.766Z"
+  "queuedAt": "2026-05-02T13:31:40.597Z"
 }
