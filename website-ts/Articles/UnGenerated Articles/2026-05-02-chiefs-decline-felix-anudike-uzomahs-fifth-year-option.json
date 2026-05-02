@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams decline CB Emmanuel Forbes' fifth-year option",
-      "description": "The Rams declined the fifth-year option on the contract of cornerback Emmanuel Forbes, according to the NFL's personnel notice.",
-      "url": "https://sports.yahoo.com/articles/rams-decline-cb-emmanuel-forbes-215900799.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams decline CB Emmanuel Forbes' fifth-year option",
       "description": "The Rams declined the fifth-year option on the contract of cornerback Emmanuel Forbes, according to the NFL's personnel notice.",
@@ -43,5 +37,5 @@
     "anudikeuzomah"
   ],
   "hash": "8627861ebdac17d8",
-  "queuedAt": "2026-05-02T13:31:40.865Z"
+  "queuedAt": "2026-05-02T19:19:24.453Z"
 }

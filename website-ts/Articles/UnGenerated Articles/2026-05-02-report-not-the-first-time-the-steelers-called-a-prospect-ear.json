@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: \"Not the first time\" the Steelers called a prospect early",
-      "description": "Unnamed source dubs it \"crazy\" to call a prospect befre being on the clock.",
-      "url": "https://sports.yahoo.com/articles/report-not-first-time-steelers-215238316.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: \"Not the first time\" the Steelers called a prospect early",
       "description": "Unnamed source dubs it \"crazy\" to call a prospect befre being on the clock.",
@@ -32,5 +26,5 @@
     "clock"
   ],
   "hash": "7c0714367962f03a",
-  "queuedAt": "2026-05-02T13:31:39.947Z"
+  "queuedAt": "2026-05-02T19:19:23.831Z"
 }

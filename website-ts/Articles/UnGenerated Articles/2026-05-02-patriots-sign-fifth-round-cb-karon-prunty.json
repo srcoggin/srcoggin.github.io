@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots sign fifth-round CB Karon Prunty",
-      "description": "The Patriots have signed fifth-round cornerback Karon Prunty to his four-year rookie deal, Christopher Price of the Boston Globe reports.",
-      "url": "https://sports.yahoo.com/articles/patriots-sign-fifth-round-cb-201110656.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots sign fifth-round CB Karon Prunty",
       "description": "The Patriots have signed fifth-round cornerback Karon Prunty to his four-year rookie deal, Christopher Price of the Boston Globe reports.",
@@ -34,5 +28,5 @@
     "reports"
   ],
   "hash": "1b5840cfa8ae3d64",
-  "queuedAt": "2026-05-02T13:31:39.998Z"
+  "queuedAt": "2026-05-02T19:19:23.880Z"
 }

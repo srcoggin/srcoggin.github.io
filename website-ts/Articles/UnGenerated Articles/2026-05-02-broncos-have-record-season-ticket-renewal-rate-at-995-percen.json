@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos have record season-ticket renewal rate, at 99.5 percent",
-      "description": "The 2025 Broncos won the No. 1 seed in the AFC and came within a whisker (and a Bo Nix broken ankle with a twist of a freak snowstorm) of the Super Bowl.",
-      "url": "https://sports.yahoo.com/articles/broncos-record-season-ticket-renewal-020020236.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos have record season-ticket renewal rate, at 99.5 percent",
       "description": "The 2025 Broncos won the No. 1 seed in the AFC and came within a whisker (and a Bo Nix broken ankle with a twist of a freak snowstorm) of the Super Bowl.",
@@ -40,5 +34,5 @@
     "bowl"
   ],
   "hash": "bba718a0d3e26f0e",
-  "queuedAt": "2026-05-02T13:31:41.006Z"
+  "queuedAt": "2026-05-02T19:19:27.812Z"
 }
