@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Miami slips out of Super Bowl rotation due to NFL requirements",
-      "description": "Miami has hosted 11 Super Bowls.",
-      "url": "https://sports.yahoo.com/articles/miami-slips-super-bowl-rotation-144003722.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Miami slips out of Super Bowl rotation due to NFL requirements",
       "description": "Miami has hosted 11 Super Bowls.",
@@ -28,5 +22,5 @@
     "bowls"
   ],
   "hash": "7cbce57c343a4198",
-  "queuedAt": "2026-05-03T08:18:57.488Z"
+  "queuedAt": "2026-05-03T13:32:03.061Z"
 }
