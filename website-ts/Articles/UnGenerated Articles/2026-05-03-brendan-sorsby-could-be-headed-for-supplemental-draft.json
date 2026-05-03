@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brendan Sorsby could be headed for supplemental draft",
-      "description": "Sorsby will first try to regain his college eligibility, with the help of attorney Jeffrey Kessler.",
-      "url": "https://sports.yahoo.com/articles/brendan-sorsby-could-headed-supplemental-213152698.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brendan Sorsby could be headed for supplemental draft",
       "description": "Sorsby will first try to regain his college eligibility, with the help of attorney Jeffrey Kessler.",
@@ -33,5 +27,5 @@
     "kessler"
   ],
   "hash": "bae76e0444ae048d",
-  "queuedAt": "2026-05-03T13:32:00.242Z"
+  "queuedAt": "2026-05-03T19:22:15.636Z"
 }

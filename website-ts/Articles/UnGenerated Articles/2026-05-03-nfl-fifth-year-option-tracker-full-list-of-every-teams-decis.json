@@ -5,7 +5,7 @@
     {
       "name": "CBS Sports NFL",
       "title": "NFL fifth-year option tracker: Full list of every team&#039;s decision about first-round picks from 2023 NFL Draft",
-      "description": "The deadline for teams to pick up options is May 1",
+      "description": "The deadline for teams to pick up options was May 1",
       "url": "https://www.cbssports.com/nfl/news/nfl-fifth-year-option-tracker/"
     }
   ],
@@ -28,6 +28,6 @@
     "pick",
     "options"
   ],
-  "hash": "dce5e1920476849b",
-  "queuedAt": "2026-05-03T08:18:59.551Z"
+  "hash": "278a289843e61ca7",
+  "queuedAt": "2026-05-03T19:22:14.865Z"
 }

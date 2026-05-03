@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Would the NFL ever hold a draft in another country?",
-      "description": "From time to time, the NFL drops a hint about the possibility of playing a Super Bowl on foreign soil.",
-      "url": "https://sports.yahoo.com/articles/nfl-ever-hold-draft-another-172617840.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Would the NFL ever hold a draft in another country?",
       "description": "From time to time, the NFL drops a hint about the possibility of playing a Super Bowl on foreign soil.",
@@ -33,5 +27,5 @@
     "soil"
   ],
   "hash": "a32a16a5fef98e95",
-  "queuedAt": "2026-05-03T13:32:00.289Z"
+  "queuedAt": "2026-05-03T19:22:15.695Z"
 }
