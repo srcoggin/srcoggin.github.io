@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Caleb Downs has the top-selling rookie jersey, so far",
-      "description": "He was the eleventh overall pick in the draft.",
-      "url": "https://sports.yahoo.com/articles/caleb-downs-top-selling-rookie-152028057.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Caleb Downs has the top-selling rookie jersey, so far",
       "description": "He was the eleventh overall pick in the draft.",
@@ -28,5 +22,5 @@
     "draft"
   ],
   "hash": "854cd3099d1434c4",
-  "queuedAt": "2026-05-04T08:58:36.340Z"
+  "queuedAt": "2026-05-04T14:24:41.753Z"
 }
