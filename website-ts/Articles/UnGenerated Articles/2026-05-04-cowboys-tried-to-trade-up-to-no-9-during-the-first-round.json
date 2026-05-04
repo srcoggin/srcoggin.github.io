@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys tried to trade up to No. 9 during the first round",
-      "description": "The Cowboys traded up one spot before taking safety Caleb Downs in the first round of this year's draft, but that deal only came after an attempt to move even higher was rebuffed.",
-      "url": "https://sports.yahoo.com/articles/cowboys-tried-trade-no-9-105054459.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys tried to trade up to No. 9 during the first round",
       "description": "The Cowboys traded up one spot before taking safety Caleb Downs in the first round of this year's draft, but that deal only came after an attempt to move even higher was rebuffed.",
@@ -41,5 +35,5 @@
     "rebuffed"
   ],
   "hash": "679e67b633fd5d67",
-  "queuedAt": "2026-05-04T14:24:38.400Z"
+  "queuedAt": "2026-05-04T20:01:45.542Z"
 }
