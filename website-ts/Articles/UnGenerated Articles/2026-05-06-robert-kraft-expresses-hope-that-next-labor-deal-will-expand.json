@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Robert Kraft expresses \"hope\" that next labor deal will expand season to 18 games",
-      "description": "18 games is a matter of when, not if.",
-      "url": "https://sports.yahoo.com/articles/robert-kraft-expresses-hope-next-024827981.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Robert Kraft expresses \"hope\" that next labor deal will expand season to 18 games",
       "description": "18 games is a matter of when, not if.",
@@ -29,5 +23,5 @@
     "matter"
   ],
   "hash": "ab43de755fe6b3be",
-  "queuedAt": "2026-05-06T14:42:05.242Z"
+  "queuedAt": "2026-05-06T20:10:41.597Z"
 }
