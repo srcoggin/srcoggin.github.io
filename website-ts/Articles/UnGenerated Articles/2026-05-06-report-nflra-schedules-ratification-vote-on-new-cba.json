@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: NFLRA schedules ratification vote on new CBA",
-      "description": "If the Collective Bargaining Agreement is approved, there will be no need for replacement officials.",
-      "url": "https://sports.yahoo.com/articles/report-nflra-schedules-ratification-vote-224430658.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: NFLRA schedules ratification vote on new CBA",
       "description": "If the Collective Bargaining Agreement is approved, there will be no need for replacement officials.",
@@ -32,5 +26,5 @@
     "officials"
   ],
   "hash": "17fbf11ab4aa179e",
-  "queuedAt": "2026-05-06T09:02:26.752Z"
+  "queuedAt": "2026-05-06T14:42:04.725Z"
 }

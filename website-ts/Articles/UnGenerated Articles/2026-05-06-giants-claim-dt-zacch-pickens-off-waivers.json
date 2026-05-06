@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants claim DT Zacch Pickens off waivers",
-      "description": "After agreeing to sign D.J.",
-      "url": "https://sports.yahoo.com/articles/giants-claim-dt-zacch-pickens-211451222.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants claim DT Zacch Pickens off waivers",
       "description": "After agreeing to sign D.J.",
@@ -26,5 +20,5 @@
     "sign"
   ],
   "hash": "ecce11c8a4db89d7",
-  "queuedAt": "2026-05-06T09:02:28.120Z"
+  "queuedAt": "2026-05-06T14:42:10.680Z"
 }

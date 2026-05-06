@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos agree to terms with seventh-round LB Red Murdock",
-      "description": "The Broncos have agreed to terms with linebacker Red Murdock, Benjamin Allbright of KOA Colorado reports.",
-      "url": "https://sports.yahoo.com/articles/broncos-agree-terms-seventh-round-225909079.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos agree to terms with seventh-round LB Red Murdock",
       "description": "The Broncos have agreed to terms with linebacker Red Murdock, Benjamin Allbright of KOA Colorado reports.",
@@ -31,5 +25,5 @@
     "reports"
   ],
   "hash": "3a0ace43be0e1f55",
-  "queuedAt": "2026-05-06T09:02:26.656Z"
+  "queuedAt": "2026-05-06T14:42:04.796Z"
 }
