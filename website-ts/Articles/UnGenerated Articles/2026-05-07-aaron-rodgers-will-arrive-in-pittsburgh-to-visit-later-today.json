@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Rodgers will arrive in Pittsburgh to \"visit\" later today",
-      "description": "The second annual Rodgers-Steelers saga could be ending soon.",
-      "url": "https://sports.yahoo.com/articles/aaron-rodgers-arrive-pittsburgh-visit-134738302.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Rodgers will arrive in Pittsburgh to \"visit\" later today",
       "description": "The second annual Rodgers-Steelers saga could be ending soon.",
@@ -31,5 +25,5 @@
     "soon"
   ],
   "hash": "05ea5eef36358d90",
-  "queuedAt": "2026-05-07T14:54:06.992Z"
+  "queuedAt": "2026-05-07T20:08:28.028Z"
 }

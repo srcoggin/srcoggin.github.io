@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "The sticking point for Aaron Rodgers and the Steelers becomes money",
-      "description": "With quarterback Aaron Rodgers returning to Pittsburgh today, the question becomes whether a contract will be finalized between Rodgers and the Steelers for 2026.",
-      "url": "https://sports.yahoo.com/articles/sticking-point-aaron-rodgers-steelers-141240379.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "The sticking point for Aaron Rodgers and the Steelers becomes money",
       "description": "With quarterback Aaron Rodgers returning to Pittsburgh today, the question becomes whether a contract will be finalized between Rodgers and the Steelers for 2026.",
@@ -34,5 +28,5 @@
     "2026"
   ],
   "hash": "2b7ebd6678922c2b",
-  "queuedAt": "2026-05-07T14:54:06.885Z"
+  "queuedAt": "2026-05-07T20:08:28.101Z"
 }
