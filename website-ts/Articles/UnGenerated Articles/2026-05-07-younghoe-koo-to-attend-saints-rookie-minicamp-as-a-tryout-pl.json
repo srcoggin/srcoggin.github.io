@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Younghoe Koo to attend Saints' rookie minicamp as a tryout player",
-      "description": "Kicker Younghoe Koo will take a shot at earning a job with the Saints this weekend.",
-      "url": "https://sports.yahoo.com/articles/younghoe-koo-attend-saints-rookie-210751528.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Younghoe Koo to attend Saints' rookie minicamp as a tryout player",
       "description": "Kicker Younghoe Koo will take a shot at earning a job with the Saints this weekend.",
@@ -32,5 +26,5 @@
     "weekend"
   ],
   "hash": "1eeca6cc1f6157e9",
-  "queuedAt": "2026-05-07T08:51:52.156Z"
+  "queuedAt": "2026-05-07T14:54:16.516Z"
 }

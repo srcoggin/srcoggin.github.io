@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Caleb Downs makes quick change from No. 18 to No. 13",
-      "description": "Cowboys safety Caleb Downs has the top-selling jersey of all rookies.",
-      "url": "https://sports.yahoo.com/articles/caleb-downs-makes-quick-change-233732076.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Caleb Downs makes quick change from No. 18 to No. 13",
       "description": "Cowboys safety Caleb Downs has the top-selling jersey of all rookies.",
@@ -28,5 +22,5 @@
     "rookies"
   ],
   "hash": "18a951fdde1b6a1c",
-  "queuedAt": "2026-05-07T08:51:52.114Z"
+  "queuedAt": "2026-05-07T14:54:16.386Z"
 }

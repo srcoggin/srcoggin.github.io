@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jim Bob Cooter: We're going to get good work out of Anthony Richardson",
-      "description": "Anthony Richardson reported to the Colts' voluntary offseason program on Monday after staying away for the first two weeks.",
-      "url": "https://sports.yahoo.com/articles/jim-bob-cooter-were-going-212554152.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jim Bob Cooter: We're going to get good work out of Anthony Richardson",
       "description": "Anthony Richardson reported to the Colts' voluntary offseason program on Monday after staying away for the first two weeks.",
@@ -39,5 +33,5 @@
     "weeks"
   ],
   "hash": "ead1d976045bd1ce",
-  "queuedAt": "2026-05-07T08:51:51.728Z"
+  "queuedAt": "2026-05-07T14:54:06.562Z"
 }

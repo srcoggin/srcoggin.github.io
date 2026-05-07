@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Trask, Easton Stick will participate in Saints' rookie minicamp",
-      "description": "The Saints will host two veteran quarterbacks at their rookie minicamp.",
-      "url": "https://sports.yahoo.com/articles/kyle-trask-easton-stick-participate-201108116.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Trask, Easton Stick will participate in Saints' rookie minicamp",
       "description": "The Saints will host two veteran quarterbacks at their rookie minicamp.",
@@ -31,5 +25,5 @@
     "their"
   ],
   "hash": "4b5323e1a0cf6dd1",
-  "queuedAt": "2026-05-07T08:51:52.211Z"
+  "queuedAt": "2026-05-07T14:54:16.622Z"
 }

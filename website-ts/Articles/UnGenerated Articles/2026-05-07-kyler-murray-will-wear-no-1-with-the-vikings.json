@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyler Murray will wear No. 1 with the Vikings",
-      "description": "Quarterback Kyler Murray will be in a new uniform for the 2026 season, but he'll be wearing a familiar number.",
-      "url": "https://sports.yahoo.com/articles/kyler-murray-wear-no-1-200441989.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyler Murray will wear No. 1 with the Vikings",
       "description": "Quarterback Kyler Murray will be in a new uniform for the 2026 season, but he'll be wearing a familiar number.",
@@ -30,5 +24,5 @@
     "number"
   ],
   "hash": "a1dd73cb5e2716bb",
-  "queuedAt": "2026-05-07T08:51:52.250Z"
+  "queuedAt": "2026-05-07T14:54:16.736Z"
 }

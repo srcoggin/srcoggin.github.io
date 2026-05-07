@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nathan Peterman to participate in Broncos' rookie minicamp",
-      "description": "The Broncos are giving veteran quarterback Nathan Peterman a tryout at their rookie minicamp this weekend, Mike Klis of 9News reports.",
-      "url": "https://sports.yahoo.com/articles/nathan-peterman-participate-broncos-rookie-220438930.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nathan Peterman to participate in Broncos' rookie minicamp",
       "description": "The Broncos are giving veteran quarterback Nathan Peterman a tryout at their rookie minicamp this weekend, Mike Klis of 9News reports.",
@@ -35,5 +29,5 @@
     "reports"
   ],
   "hash": "65ab7f2d8673d0a5",
-  "queuedAt": "2026-05-07T08:51:51.674Z"
+  "queuedAt": "2026-05-07T14:54:06.452Z"
 }
