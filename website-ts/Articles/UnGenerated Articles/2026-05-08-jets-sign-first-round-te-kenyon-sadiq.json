@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets sign first-round TE Kenyon Sadiq",
-      "description": "Two weeks ago tonight, the Jets made three picks in the first round of the draft.",
-      "url": "https://sports.yahoo.com/articles/jets-sign-first-round-te-003933591.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets sign first-round TE Kenyon Sadiq",
       "description": "Two weeks ago tonight, the Jets made three picks in the first round of the draft.",
@@ -33,5 +27,5 @@
     "draft"
   ],
   "hash": "bb38cd7410277bb5",
-  "queuedAt": "2026-05-08T08:18:33.999Z"
+  "queuedAt": "2026-05-08T14:29:25.220Z"
 }

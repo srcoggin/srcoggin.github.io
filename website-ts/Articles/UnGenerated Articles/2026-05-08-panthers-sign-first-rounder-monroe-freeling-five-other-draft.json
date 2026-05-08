@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers sign first-rounder Monroe Freeling, five other draft picks and 10 undrafted rookies",
-      "description": "The Panthers got six draft picks signed before the start of their rookie minicamp.",
-      "url": "https://sports.yahoo.com/articles/panthers-sign-first-rounder-monroe-215506673.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers sign first-rounder Monroe Freeling, five other draft picks and 10 undrafted rookies",
       "description": "The Panthers got six draft picks signed before the start of their rookie minicamp.",
@@ -35,5 +29,5 @@
     "minicamp"
   ],
   "hash": "cf51ab92d647c172",
-  "queuedAt": "2026-05-08T08:18:34.327Z"
+  "queuedAt": "2026-05-08T14:29:25.893Z"
 }

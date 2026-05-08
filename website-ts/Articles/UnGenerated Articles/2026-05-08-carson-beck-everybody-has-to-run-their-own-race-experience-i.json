@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Carson Beck: Everybody has to run their own race, experience I gained is priceless",
-      "description": "Quarterback Carson Beck got a reminder of how long he spent in college when he got to the Cardinals facility ahead of this weekend's rookie minicamp.",
-      "url": "https://sports.yahoo.com/articles/carson-beck-everybody-run-own-224432261.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Carson Beck: Everybody has to run their own race, experience I gained is priceless",
       "description": "Quarterback Carson Beck got a reminder of how long he spent in college when he got to the Cardinals facility ahead of this weekend's rookie minicamp.",
@@ -40,5 +34,5 @@
     "minicamp"
   ],
   "hash": "63a2a0a4b03d4652",
-  "queuedAt": "2026-05-08T08:18:34.223Z"
+  "queuedAt": "2026-05-08T14:29:25.786Z"
 }

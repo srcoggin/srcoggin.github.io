@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Vikings, Jauan Jennings reach agreement on one-year deal",
-      "description": "Former 49ers WR lands in Minnesota.",
-      "url": "https://sports.yahoo.com/articles/vikings-jauan-jennings-reach-agreement-013137466.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Vikings, Jauan Jennings reach agreement on one-year deal",
       "description": "Former 49ers WR lands in Minnesota.",
@@ -29,5 +23,5 @@
     "minnesota"
   ],
   "hash": "453ae03bec520451",
-  "queuedAt": "2026-05-08T08:18:33.888Z"
+  "queuedAt": "2026-05-08T14:29:24.194Z"
 }

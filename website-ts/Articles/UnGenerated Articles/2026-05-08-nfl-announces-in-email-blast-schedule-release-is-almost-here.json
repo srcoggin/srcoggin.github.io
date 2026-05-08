@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL announces in email blast schedule release \"is almost here\"",
-      "description": "It's an announcement of the announcement of the announcement.",
-      "url": "https://sports.yahoo.com/articles/nfl-announces-email-blast-schedule-231816334.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL announces in email blast schedule release \"is almost here\"",
       "description": "It's an announcement of the announcement of the announcement.",
@@ -26,5 +20,5 @@
     "announcement"
   ],
   "hash": "909ef20d60542c31",
-  "queuedAt": "2026-05-08T08:18:34.107Z"
+  "queuedAt": "2026-05-08T14:29:24.081Z"
 }

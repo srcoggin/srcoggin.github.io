@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants sign four draft picks, six undrafted free agents",
-      "description": "The Giants announced the signing of four draft picks on Thursday.",
-      "url": "https://sports.yahoo.com/articles/giants-sign-four-draft-picks-222302533.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants sign four draft picks, six undrafted free agents",
       "description": "The Giants announced the signing of four draft picks on Thursday.",
@@ -30,5 +24,5 @@
     "thursday"
   ],
   "hash": "eab986dd165f47b2",
-  "queuedAt": "2026-05-08T08:18:32.013Z"
+  "queuedAt": "2026-05-08T14:29:13.220Z"
 }

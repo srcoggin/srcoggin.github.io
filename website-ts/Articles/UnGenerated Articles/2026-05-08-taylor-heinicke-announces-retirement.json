@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Taylor Heinicke announces retirement",
-      "description": "Former NFL quarterback Taylor Heinicke announced his retirement from football.",
-      "url": "https://sports.yahoo.com/articles/taylor-heinicke-announces-retirement-231310152.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Taylor Heinicke announces retirement",
       "description": "Former NFL quarterback Taylor Heinicke announced his retirement from football.",
@@ -26,5 +20,5 @@
     "his"
   ],
   "hash": "44c615213f5d609d",
-  "queuedAt": "2026-05-08T08:18:31.895Z"
+  "queuedAt": "2026-05-08T14:29:13.013Z"
 }
