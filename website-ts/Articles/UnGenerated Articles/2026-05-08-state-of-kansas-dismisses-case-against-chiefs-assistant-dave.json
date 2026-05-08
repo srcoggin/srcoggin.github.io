@@ -3,6 +3,12 @@
   "category": "coaching",
   "sources": [
     {
+      "name": "ESPN NFL",
+      "title": "Charge against Chiefs DBs coach Merritt dropped",
+      "description": "A misdemeanor domestic battery charge filed last month against Chiefs defensive backs coach Dave Merritt was dismissed Thursday by the District Court of Johnson County (Kansas).",
+      "url": "https://www.espn.com/nfl/story/_/id/48706147/domestic-battery-charge-vs-chiefs-dbs-coach-dave-merritt-dropped"
+    },
+    {
       "name": "Pro Football Talk",
       "title": "State of Kansas dismisses case against Chiefs assistant Dave Merritt",
       "description": "The District Court of Johnson County, Kansas, has dismissed the case against Chiefs defensive backs coach Dave Merritt.",
@@ -10,24 +16,34 @@
     }
   ],
   "keywords": [
-    "state",
-    "kansas",
-    "dismisses",
-    "case",
+    "charge",
     "against",
     "chiefs",
-    "assistant",
-    "dave",
+    "dbs",
+    "coach",
     "merritt",
+    "dropped",
+    "misdemeanor",
+    "domestic",
+    "battery",
+    "filed",
+    "last",
+    "month",
+    "defensive",
+    "backs",
+    "dave",
+    "dismissed",
+    "thursday",
     "district",
     "court",
     "johnson",
     "county",
-    "dismissed",
-    "defensive",
-    "backs",
-    "coach"
+    "kansas",
+    "state",
+    "dismisses",
+    "case",
+    "assistant"
   ],
-  "hash": "db6d3223db00a50d",
-  "queuedAt": "2026-05-08T03:58:57.407Z"
+  "hash": "6f74adccbc95b2f5",
+  "queuedAt": "2026-05-08T08:18:33.782Z"
 }
