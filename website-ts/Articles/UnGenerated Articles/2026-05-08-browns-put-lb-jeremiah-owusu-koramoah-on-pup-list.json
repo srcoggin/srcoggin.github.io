@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns put LB Jeremiah Owusu-Koramoah on PUP list",
-      "description": "Word in February was that it was doubtful that Browns linebacker Jeremiah Owusu-Koramoah will ever play again and the team made a roster move that rules him out for the 2026 season on Friday.",
-      "url": "https://sports.yahoo.com/articles/browns-put-lb-jeremiah-owusu-140353771.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns put LB Jeremiah Owusu-Koramoah on PUP list",
       "description": "Word in February was that it was doubtful that Browns linebacker Jeremiah Owusu-Koramoah will ever play again and the team made a roster move that rules him out for the 2026 season on Friday.",
@@ -39,5 +33,5 @@
     "friday"
   ],
   "hash": "fdd210feafad43f2",
-  "queuedAt": "2026-05-08T14:29:13.327Z"
+  "queuedAt": "2026-05-08T19:58:22.719Z"
 }
