@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots sign five draft picks",
-      "description": "The Patriots have five of this year's draft picks under contract.",
-      "url": "https://sports.yahoo.com/articles/patriots-sign-five-draft-picks-201122244.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots sign five draft picks",
       "description": "The Patriots have five of this year's draft picks under contract.",
@@ -26,5 +20,5 @@
     "contract"
   ],
   "hash": "cd4810f0785954ed",
-  "queuedAt": "2026-05-09T08:33:18.404Z"
+  "queuedAt": "2026-05-09T13:46:43.774Z"
 }

@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Breece Hall, Jets agree to three-year deal",
-      "description": "Hall received the franchise tag, but won't be playing on it in 2026.",
-      "url": "https://sports.yahoo.com/articles/breece-hall-jets-agree-three-190124574.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Breece Hall, Jets agree to three-year deal",
       "description": "Hall received the franchise tag, but won't be playing on it in 2026.",
@@ -30,5 +24,5 @@
     "2026"
   ],
   "hash": "75f8e77f16e531f0",
-  "queuedAt": "2026-05-09T08:33:18.730Z"
+  "queuedAt": "2026-05-09T13:46:44.028Z"
 }

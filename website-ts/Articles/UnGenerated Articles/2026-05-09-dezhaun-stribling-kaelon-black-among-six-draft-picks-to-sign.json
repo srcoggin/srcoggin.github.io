@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "De'Zhaun Stribling, Kaelon Black among six draft picks to sign with 49ers",
-      "description": "The 49ers have started signing their 2026 draft picks.",
-      "url": "https://sports.yahoo.com/articles/dezhaun-stribling-kaelon-black-among-192744215.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "De'Zhaun Stribling, Kaelon Black among six draft picks to sign with 49ers",
       "description": "The 49ers have started signing their 2026 draft picks.",
@@ -32,5 +26,5 @@
     "2026"
   ],
   "hash": "cd73fe5a117eca5c",
-  "queuedAt": "2026-05-09T08:33:18.626Z"
+  "queuedAt": "2026-05-09T13:46:43.960Z"
 }

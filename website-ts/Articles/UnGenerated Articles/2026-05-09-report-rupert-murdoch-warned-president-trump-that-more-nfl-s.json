@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Rupert Murdoch warned President Trump that more NFL streaming could kill networks",
-      "description": "The NFL's current effort to get more from its broadcast partners prompted one of them to go straight to the White House for help.",
-      "url": "https://sports.yahoo.com/articles/report-rupert-murdoch-warned-president-185643908.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Rupert Murdoch warned President Trump that more NFL streaming could kill networks",
       "description": "The NFL's current effort to get more from its broadcast partners prompted one of them to go straight to the White House for help.",
@@ -42,5 +36,5 @@
     "help"
   ],
   "hash": "f925ab7dcc6d70b1",
-  "queuedAt": "2026-05-09T08:33:16.043Z"
+  "queuedAt": "2026-05-09T13:46:37.759Z"
 }

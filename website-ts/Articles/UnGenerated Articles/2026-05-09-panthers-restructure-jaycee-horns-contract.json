@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers restructure Jaycee Horn's contract",
-      "description": "The Panthers restructured the contract of cornerback Jaycee Horn.",
-      "url": "https://sports.yahoo.com/articles/panthers-restructure-jaycee-horns-contract-203004081.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers restructure Jaycee Horn's contract",
       "description": "The Panthers restructured the contract of cornerback Jaycee Horn.",
@@ -26,5 +20,5 @@
     "horn"
   ],
   "hash": "b5a1b0b89334a3c5",
-  "queuedAt": "2026-05-09T08:33:18.296Z"
+  "queuedAt": "2026-05-09T13:46:43.626Z"
 }
