@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans WR Carnell Tate agrees to terms",
-      "description": "Before 2011, first-round draft picks rarely agreed to terms on their rookie deals before the Fourth of July.",
-      "url": "https://sports.yahoo.com/articles/titans-wr-carnell-tate-agrees-003639506.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans WR Carnell Tate agrees to terms",
       "description": "Before 2011, first-round draft picks rarely agreed to terms on their rookie deals before the Fourth of July.",
@@ -34,5 +28,5 @@
     "july"
   ],
   "hash": "86fe07879178aa7c",
-  "queuedAt": "2026-05-09T13:46:37.825Z"
+  "queuedAt": "2026-05-09T19:33:12.271Z"
 }

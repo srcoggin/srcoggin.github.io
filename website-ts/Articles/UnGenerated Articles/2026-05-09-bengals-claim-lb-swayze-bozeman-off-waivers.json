@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bengals claim LB Swayze Bozeman off waivers",
-      "description": "The Bengals claimed linebacker Swayze Bozeman off waivers from the Giants, the team announced Friday.",
-      "url": "https://sports.yahoo.com/articles/bengals-claim-lb-swayze-bozeman-214618160.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bengals claim LB Swayze Bozeman off waivers",
       "description": "The Bengals claimed linebacker Swayze Bozeman off waivers from the Giants, the team announced Friday.",
@@ -29,5 +23,5 @@
     "friday"
   ],
   "hash": "b256541090090f0c",
-  "queuedAt": "2026-05-09T13:46:36.312Z"
+  "queuedAt": "2026-05-09T19:33:03.640Z"
 }

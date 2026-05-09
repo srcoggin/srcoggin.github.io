@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns claim DT Elijah Chatman off of waivers",
-      "description": "The Browns announced a roster move on Friday afternoon.",
-      "url": "https://sports.yahoo.com/articles/browns-claim-dt-elijah-chatman-205656016.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns claim DT Elijah Chatman off of waivers",
       "description": "The Browns announced a roster move on Friday afternoon.",
@@ -29,5 +23,5 @@
     "afternoon"
   ],
   "hash": "56d6b9394f00fb19",
-  "queuedAt": "2026-05-09T13:46:36.383Z"
+  "queuedAt": "2026-05-09T19:33:03.912Z"
 }

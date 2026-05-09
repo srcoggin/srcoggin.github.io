@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: No meeting scheduled or expected between Steelers, Aaron Rodgers",
-      "description": "For the Steelers and Rodgers, the new normal is abnormal.",
-      "url": "https://sports.yahoo.com/articles/report-no-meeting-scheduled-expected-232642349.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: No meeting scheduled or expected between Steelers, Aaron Rodgers",
       "description": "For the Steelers and Rodgers, the new normal is abnormal.",
@@ -28,5 +22,5 @@
     "abnormal"
   ],
   "hash": "9588db569180b3e7",
-  "queuedAt": "2026-05-09T13:46:36.195Z"
+  "queuedAt": "2026-05-09T19:33:03.552Z"
 }
