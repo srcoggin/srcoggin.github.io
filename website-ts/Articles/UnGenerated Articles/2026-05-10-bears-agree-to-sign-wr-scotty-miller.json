@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears agree to sign WR Scotty Miller",
-      "description": "Scotty Miller attended Bears rookie minicamp on a tryout basis in an effort to get on the team's 90-man roster.",
-      "url": "https://sports.yahoo.com/articles/bears-agree-sign-wr-scotty-165612723.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears agree to sign WR Scotty Miller",
       "description": "Scotty Miller attended Bears rookie minicamp on a tryout basis in an effort to get on the team's 90-man roster.",
@@ -33,5 +27,5 @@
     "roster"
   ],
   "hash": "01bcb2a5591842d9",
-  "queuedAt": "2026-05-10T08:29:10.920Z"
+  "queuedAt": "2026-05-10T13:38:41.779Z"
 }
