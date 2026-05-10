@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean Payton: \"Good chance\" Bo Nix will return to work in June",
-      "description": "Broncos head coach Sean Payton gave a positive update on quarterback Bo Nix's right ankle during a press conference from the team's rookie minicamp on Saturday.",
-      "url": "https://sports.yahoo.com/articles/sean-payton-good-chance-bo-210011934.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean Payton: \"Good chance\" Bo Nix will return to work in June",
       "description": "Broncos head coach Sean Payton gave a positive update on quarterback Bo Nix's right ankle during a press conference from the team's rookie minicamp on Saturday.",
@@ -42,5 +36,5 @@
     "saturday"
   ],
   "hash": "399aac6a2a90daca",
-  "queuedAt": "2026-05-10T13:38:37.675Z"
+  "queuedAt": "2026-05-10T19:41:27.694Z"
 }

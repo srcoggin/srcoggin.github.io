@@ -1,10 +1,10 @@
 {
-  "title": "2026 NFL schedule release: Predicting the matchup for every international game being played this season",
+  "title": "2026 NFL schedule release: Predicting the matchup for every international game being played",
   "category": "free-agency",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "2026 NFL schedule release: Predicting the matchup for every international game being played this season",
+      "title": "2026 NFL schedule release: Predicting the matchup for every international game being played",
       "description": "With the NFL schedule coming out soon, it&#039;s time to make some predictions",
       "url": "https://www.cbssports.com/nfl/news/2026-nfl-international-schedule-predictions/"
     }
@@ -18,7 +18,6 @@
     "every",
     "international",
     "played",
-    "this",
     "coming",
     "out",
     "soon",
@@ -27,6 +26,6 @@
     "make",
     "predictions"
   ],
-  "hash": "897d0141c2a54dc6",
-  "queuedAt": "2026-05-10T13:38:41.002Z"
+  "hash": "4070b94f6098aa40",
+  "queuedAt": "2026-05-10T19:41:34.864Z"
 }
