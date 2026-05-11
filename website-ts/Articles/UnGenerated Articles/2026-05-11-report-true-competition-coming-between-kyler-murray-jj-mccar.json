@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: \"True competition\" coming between Kyler Murray, J.J. McCarthy",
-      "description": "The Vikings have added quarterback Kyler Murray to a depth chart that includes 2024 first-rounder J.J.",
-      "url": "https://sports.yahoo.com/articles/report-true-competition-coming-between-014402316.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: \"True competition\" coming between Kyler Murray, J.J. McCarthy",
       "description": "The Vikings have added quarterback Kyler Murray to a depth chart that includes 2024 first-rounder J.J.",
@@ -34,5 +28,5 @@
     "firstrounder"
   ],
   "hash": "4cd6912b7c8c17ed",
-  "queuedAt": "2026-05-11T09:59:25.359Z"
+  "queuedAt": "2026-05-11T15:37:45.590Z"
 }
