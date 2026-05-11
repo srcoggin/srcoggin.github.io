@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "CB Antonio Hamilton re-signs with the Commanders",
-      "description": "The Commanders are bringing back cornerback Antonio Hamilton.",
-      "url": "https://sports.yahoo.com/articles/cb-antonio-hamilton-signs-commanders-132525638.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "CB Antonio Hamilton re-signs with the Commanders",
       "description": "The Commanders are bringing back cornerback Antonio Hamilton.",
@@ -25,5 +19,5 @@
     "cornerback"
   ],
   "hash": "997f96a45be18597",
-  "queuedAt": "2026-05-11T15:37:46.043Z"
+  "queuedAt": "2026-05-11T20:07:33.602Z"
 }

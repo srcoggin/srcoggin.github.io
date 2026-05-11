@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons to sign OL Layden Robinson",
-      "description": "Offensive lineman Layden Robinson took part in the Falcons' rookie minicamp on a tryout basis and he is set to stick around Atlanta for a little while longer.",
-      "url": "https://sports.yahoo.com/articles/falcons-sign-ol-layden-robinson-125940274.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons to sign OL Layden Robinson",
       "description": "Offensive lineman Layden Robinson took part in the Falcons' rookie minicamp on a tryout basis and he is set to stick around Atlanta for a little while longer.",
@@ -37,5 +31,5 @@
     "longer"
   ],
   "hash": "a6035a6d7c5d5638",
-  "queuedAt": "2026-05-11T15:37:46.110Z"
+  "queuedAt": "2026-05-11T20:07:33.646Z"
 }

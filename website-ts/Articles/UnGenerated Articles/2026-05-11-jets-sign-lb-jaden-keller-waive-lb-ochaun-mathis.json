@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets sign LB Jaden Keller, waive LB Ochaun Mathis",
-      "description": "The Jets have made another tweak to their roster in the wake of their rookie minicamp.",
-      "url": "https://sports.yahoo.com/articles/jets-sign-lb-jaden-keller-134807090.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets sign LB Jaden Keller, waive LB Ochaun Mathis",
       "description": "The Jets have made another tweak to their roster in the wake of their rookie minicamp.",
@@ -33,5 +27,5 @@
     "minicamp"
   ],
   "hash": "b70e5a3ecd1e9234",
-  "queuedAt": "2026-05-11T15:37:45.981Z"
+  "queuedAt": "2026-05-11T20:07:33.554Z"
 }
