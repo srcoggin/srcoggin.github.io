@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chargers sign second-round pick Jake Slaughter",
-      "description": "The Chargers have signed another member of their 2026 draft class.",
-      "url": "https://sports.yahoo.com/articles/chargers-sign-second-round-pick-220608959.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chargers sign second-round pick Jake Slaughter",
       "description": "The Chargers have signed another member of their 2026 draft class.",
@@ -31,5 +25,5 @@
     "class"
   ],
   "hash": "7c99c2abc3f97844",
-  "queuedAt": "2026-05-12T09:19:05.864Z"
+  "queuedAt": "2026-05-12T15:10:39.048Z"
 }

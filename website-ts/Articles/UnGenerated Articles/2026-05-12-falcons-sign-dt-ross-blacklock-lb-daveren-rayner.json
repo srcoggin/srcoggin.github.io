@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons sign DT Ross Blacklock, LB Daveren Rayner",
-      "description": "The Falcons have announced several roster moves on Monday, including two previously reported signings.",
-      "url": "https://sports.yahoo.com/articles/falcons-sign-dt-ross-blacklock-202836549.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons sign DT Ross Blacklock, LB Daveren Rayner",
       "description": "The Falcons have announced several roster moves on Monday, including two previously reported signings.",
@@ -34,5 +28,5 @@
     "signings"
   ],
   "hash": "a62a47a75bdad700",
-  "queuedAt": "2026-05-12T09:19:03.228Z"
+  "queuedAt": "2026-05-12T15:10:30.205Z"
 }

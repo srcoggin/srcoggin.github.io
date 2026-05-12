@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Texans sign RB Evan Hull after tryout",
-      "description": "The Texans signed running back Evan Hull on Monday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/texans-sign-rb-evan-hull-215545139.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Texans sign RB Evan Hull after tryout",
       "description": "The Texans signed running back Evan Hull on Monday, the team announced.",
@@ -28,5 +22,5 @@
     "announced"
   ],
   "hash": "d1ab9a45d58847cd",
-  "queuedAt": "2026-05-12T09:19:03.004Z"
+  "queuedAt": "2026-05-12T15:10:29.978Z"
 }

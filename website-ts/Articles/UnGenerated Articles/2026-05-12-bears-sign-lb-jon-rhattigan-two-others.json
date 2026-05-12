@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears sign LB Jon Rhattigan, two others",
-      "description": "The Bears confirmed their signing of wide receiver Scotty Miller on Monday and they also announced three other new additions to the roster.",
-      "url": "https://sports.yahoo.com/articles/bears-sign-lb-jon-rhattigan-202358462.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears sign LB Jon Rhattigan, two others",
       "description": "The Bears confirmed their signing of wide receiver Scotty Miller on Monday and they also announced three other new additions to the roster.",
@@ -39,5 +33,5 @@
     "roster"
   ],
   "hash": "200b005708879fc9",
-  "queuedAt": "2026-05-12T09:19:03.347Z"
+  "queuedAt": "2026-05-12T15:10:30.321Z"
 }

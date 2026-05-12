@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams sign third-rounder Keagen Trost, sixth-rounder CJ Daniels",
-      "description": "The Rams have signed two of their draft picks.",
-      "url": "https://sports.yahoo.com/articles/rams-sign-third-rounder-keagen-221658668.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams sign third-rounder Keagen Trost, sixth-rounder CJ Daniels",
       "description": "The Rams have signed two of their draft picks.",
@@ -30,5 +24,5 @@
     "picks"
   ],
   "hash": "24f7ad9cdd1007db",
-  "queuedAt": "2026-05-12T09:19:05.757Z"
+  "queuedAt": "2026-05-12T15:10:38.927Z"
 }
