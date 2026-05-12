@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chargers RB Keaton Mitchell: Motivating to be somewhere I have a shot to do big things",
-      "description": "Chargers offensive coordinator Mike McDaniel showed he had a knack for highlighting fast offensive players when he was the head coach in Miami and that has one of his new players excited about what's coming his way during the 2026 season.",
-      "url": "https://sports.yahoo.com/articles/chargers-rb-keaton-mitchell-motivating-130719685.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chargers RB Keaton Mitchell: Motivating to be somewhere I have a shot to do big things",
       "description": "Chargers offensive coordinator Mike McDaniel showed he had a knack for highlighting fast offensive players when he was the head coach in Miami and that has one of his new players excited about what's coming his way during the 2026 season.",
@@ -48,5 +42,5 @@
     "2026"
   ],
   "hash": "72da06843ff63aaf",
-  "queuedAt": "2026-05-12T15:10:30.555Z"
+  "queuedAt": "2026-05-12T20:38:06.515Z"
 }
