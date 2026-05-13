@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL announces Chiefs will host Week 1 Monday night game vs. Broncos",
-      "description": "The Chiefs ended their 2025 home slate with a visit from the Broncos.",
-      "url": "https://sports.yahoo.com/articles/nfl-announces-chiefs-host-week-204634394.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL announces Chiefs will host Week 1 Monday night game vs. Broncos",
       "description": "The Chiefs ended their 2025 home slate with a visit from the Broncos.",
@@ -30,5 +24,5 @@
     "visit"
   ],
   "hash": "64b573412a98f4c9",
-  "queuedAt": "2026-05-13T04:06:47.984Z"
+  "queuedAt": "2026-05-13T09:06:16.852Z"
 }
