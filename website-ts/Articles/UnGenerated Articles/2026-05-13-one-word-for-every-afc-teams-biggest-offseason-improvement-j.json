@@ -4,6 +4,12 @@
   "sources": [
     {
       "name": "CBS Sports NFL",
+      "title": "One word for every NFC team&#039;s biggest offseason improvement: Panthers go &#039;big,&#039; Eagles &#039;bold&#039;",
+      "description": "Through all the signings, trades and draft picks, we can boil down how each team got better",
+      "url": "https://www.cbssports.com/nfl/news/nfl-offseason-nfcs-biggest-improvement-by-team/"
+    },
+    {
+      "name": "CBS Sports NFL",
       "title": "One word for every AFC team&#039;s biggest offseason improvement: Jets get &#039;professional,&#039; Chiefs are &#039;fresh&#039;",
       "description": "Through all the signings, trades and draft picks, we can boil down how each team got better",
       "url": "https://www.cbssports.com/nfl/news/nfl-offseason-afcs-biggest-improvement-by-team/"
@@ -13,16 +19,15 @@
     "one",
     "word",
     "every",
-    "afc",
+    "nfc",
     "team039s",
     "biggest",
     "offseason",
     "improvement",
-    "jets",
-    "get",
-    "039professional039",
-    "chiefs",
-    "039fresh039",
+    "panthers",
+    "039big039",
+    "eagles",
+    "039bold039",
     "signings",
     "trades",
     "draft",
@@ -30,8 +35,14 @@
     "boil",
     "down",
     "got",
-    "better"
+    "better",
+    "afc",
+    "jets",
+    "get",
+    "039professional039",
+    "chiefs",
+    "039fresh039"
   ],
   "hash": "73873c832a492d3d",
-  "queuedAt": "2026-05-13T09:06:16.076Z"
+  "queuedAt": "2026-05-13T15:02:53.248Z"
 }

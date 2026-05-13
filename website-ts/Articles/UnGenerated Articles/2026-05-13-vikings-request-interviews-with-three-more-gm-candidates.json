@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Vikings request interviews with three more GM candidates",
-      "description": "The Vikings requested interviews with Lions assistant General Manager Ray Agnew, Broncos assistant GM Reed Burckhardt and Dolphins assistant GM Kyle Smith for their General Manager job, Tom Pelissero of NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/vikings-request-interviews-three-more-013329932.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Vikings request interviews with three more GM candidates",
       "description": "The Vikings requested interviews with Lions assistant General Manager Ray Agnew, Broncos assistant GM Reed Burckhardt and Dolphins assistant GM Kyle Smith for their General Manager job, Tom Pelissero of NFL Media reports.",
@@ -42,5 +36,5 @@
     "reports"
   ],
   "hash": "efdacd7008a25774",
-  "queuedAt": "2026-05-13T09:06:12.541Z"
+  "queuedAt": "2026-05-13T15:02:52.745Z"
 }

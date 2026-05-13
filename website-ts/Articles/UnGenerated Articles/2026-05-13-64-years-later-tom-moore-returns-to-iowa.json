@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "64 years later, Tom Moore returns to Iowa",
-      "description": "Long-time NFL assistant coach Tom Moore hasn't retired, after all.",
-      "url": "https://sports.yahoo.com/articles/64-years-later-tom-moore-214327967.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "64 years later, Tom Moore returns to Iowa",
       "description": "Long-time NFL assistant coach Tom Moore hasn't retired, after all.",
@@ -29,5 +23,5 @@
     "retired"
   ],
   "hash": "fa9f386d1afce621",
-  "queuedAt": "2026-05-13T09:06:13.473Z"
+  "queuedAt": "2026-05-13T15:03:00.202Z"
 }

@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Texans sign seventh-rounder Aiden Fisher",
-      "description": "The Texans announced a pair of draft pick signings on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/texans-sign-seventh-rounder-aiden-210033731.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Texans sign seventh-rounder Aiden Fisher",
       "description": "The Texans announced a pair of draft pick signings on Tuesday.",
@@ -29,5 +23,5 @@
     "tuesday"
   ],
   "hash": "a37566c68f8c6d00",
-  "queuedAt": "2026-05-13T09:06:12.638Z"
+  "queuedAt": "2026-05-13T15:02:52.952Z"
 }

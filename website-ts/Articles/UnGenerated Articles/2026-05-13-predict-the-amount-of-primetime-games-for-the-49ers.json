@@ -1,0 +1,25 @@
+{
+  "title": "Predict the amount of primetime games for the 49ers",
+  "category": "general",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Predict the amount of primetime games for the 49ers",
+      "description": "History says the number will be 5 for the 49ers this season.",
+      "url": "https://sports.yahoo.com/articles/predict-amount-primetime-games-49ers-133000174.html"
+    }
+  ],
+  "keywords": [
+    "predict",
+    "amount",
+    "primetime",
+    "games",
+    "49ers",
+    "history",
+    "says",
+    "number",
+    "this"
+  ],
+  "hash": "da6875d98fd39f9e",
+  "queuedAt": "2026-05-13T15:02:55.935Z"
+}

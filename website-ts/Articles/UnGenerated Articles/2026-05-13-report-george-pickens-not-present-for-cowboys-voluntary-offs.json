@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: George Pickens not present for Cowboys' voluntary offseason work",
-      "description": "Cowboys wide receiver George Pickens signed his franchise tag on April 29, and executive vice president Stephen Jones said soon after the team expected Pickens to show up for voluntary work.",
-      "url": "https://sports.yahoo.com/articles/report-george-pickens-not-present-032433588.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: George Pickens not present for Cowboys' voluntary offseason work",
       "description": "Cowboys wide receiver George Pickens signed his franchise tag on April 29, and executive vice president Stephen Jones said soon after the team expected Pickens to show up for voluntary work.",
@@ -42,5 +36,5 @@
     "show"
   ],
   "hash": "2c6e473ccea518a3",
-  "queuedAt": "2026-05-13T09:06:12.436Z"
+  "queuedAt": "2026-05-13T15:02:52.629Z"
 }

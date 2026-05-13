@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Options for season-opening game at Seattle are down to four",
-      "description": "When the Seahawks won Super Bowl LX, there were nine potential options for the Week 1 season-opening game in Seattle.",
-      "url": "https://sports.yahoo.com/articles/options-season-opening-game-seattle-210528936.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Options for season-opening game at Seattle are down to four",
       "description": "When the Seahawks won Super Bowl LX, there were nine potential options for the Week 1 season-opening game in Seattle.",
@@ -29,5 +23,5 @@
     "potential"
   ],
   "hash": "29433c9a2acb2966",
-  "queuedAt": "2026-05-13T09:06:13.740Z"
+  "queuedAt": "2026-05-13T15:02:59.386Z"
 }

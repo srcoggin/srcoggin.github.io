@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Former All-Pro tight end Charlie Young dies at 75",
-      "description": "Charlie Young, a first-round pick of the Eagles in 1973, has died.",
-      "url": "https://sports.yahoo.com/articles/former-pro-tight-end-charlie-212104243.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Former All-Pro tight end Charlie Young dies at 75",
       "description": "Charlie Young, a first-round pick of the Eagles in 1973, has died.",
@@ -30,5 +24,5 @@
     "died"
   ],
   "hash": "06a09c82c405d446",
-  "queuedAt": "2026-05-13T09:06:13.609Z"
+  "queuedAt": "2026-05-13T15:03:00.328Z"
 }
