@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders sign DT Benito Jones",
-      "description": "Veteran defensive tackle Benito Jones has found a home for the 2026 season.",
-      "url": "https://sports.yahoo.com/articles/raiders-sign-dt-benito-jones-221201926.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders sign DT Benito Jones",
       "description": "Veteran defensive tackle Benito Jones has found a home for the 2026 season.",
@@ -28,5 +22,5 @@
     "2026"
   ],
   "hash": "a7eb800f1025ded7",
-  "queuedAt": "2026-05-14T08:57:58.407Z"
+  "queuedAt": "2026-05-14T14:37:02.873Z"
 }

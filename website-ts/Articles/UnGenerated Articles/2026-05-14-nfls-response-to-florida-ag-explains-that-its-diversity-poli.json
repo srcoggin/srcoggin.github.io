@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL's response to Florida A.G. explains that its diversity policies do not compel hiring decisions",
-      "description": "When Florida attorney general James Uthmeier posted his latest letter to the NFL regarding his ongoing assault against the league's diversity policies, he didn't include the league's response to his initial letter.",
-      "url": "https://sports.yahoo.com/articles/nfls-response-florida-g-explains-002516277.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL's response to Florida A.G. explains that its diversity policies do not compel hiring decisions",
       "description": "When Florida attorney general James Uthmeier posted his latest letter to the NFL regarding his ongoing assault against the league's diversity policies, he didn't include the league's response to his initial letter.",
@@ -45,5 +39,5 @@
     "initial"
   ],
   "hash": "cc7a3ce42e1a5a4a",
-  "queuedAt": "2026-05-14T08:57:58.309Z"
+  "queuedAt": "2026-05-14T14:37:02.774Z"
 }

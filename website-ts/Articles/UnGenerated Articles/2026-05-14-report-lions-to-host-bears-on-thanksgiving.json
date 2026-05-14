@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Lions to host Bears on Thanksgiving",
-      "description": "One of the NFL's oldest rivalries will reportedly be involved in the 2026 Thanksgiving slate.",
-      "url": "https://sports.yahoo.com/articles/report-lions-host-bears-thanksgiving-215657810.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Lions to host Bears on Thanksgiving",
       "description": "One of the NFL's oldest rivalries will reportedly be involved in the 2026 Thanksgiving slate.",
@@ -31,5 +25,5 @@
     "slate"
   ],
   "hash": "6a98aac3ec5de9fa",
-  "queuedAt": "2026-05-14T08:57:56.889Z"
+  "queuedAt": "2026-05-14T14:36:58.555Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dolphins, RB De'Von Achane agree to four-year extension",
-      "description": "Reports differ on the new-money APY; either way, he's now No. 3 among all running backs.",
-      "url": "https://sports.yahoo.com/articles/dolphins-rb-devon-achane-agree-000854143.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dolphins, RB De'Von Achane agree to four-year extension",
       "description": "Reports differ on the new-money APY; either way, he's now No. 3 among all running backs.",
@@ -35,5 +29,5 @@
     "backs"
   ],
   "hash": "d9d99ee71dcac45a",
-  "queuedAt": "2026-05-14T08:57:56.770Z"
+  "queuedAt": "2026-05-14T14:36:58.456Z"
 }
