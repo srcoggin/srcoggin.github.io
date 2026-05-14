@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Reports: Titans to face Jets in opener, Giants in Week 3",
-      "description": "It looks like Titans head coach Robert Saleh and offensive coordinator Brian Daboll won't have to wait long for matchups against the teams they used to coach.",
-      "url": "https://sports.yahoo.com/articles/reports-titans-face-jets-opener-135149666.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Reports: Titans to face Jets in opener, Giants in Week 3",
       "description": "It looks like Titans head coach Robert Saleh and offensive coordinator Brian Daboll won't have to wait long for matchups against the teams they used to coach.",
@@ -42,5 +36,5 @@
     "used"
   ],
   "hash": "6f05bfe20ffb72e9",
-  "queuedAt": "2026-05-14T14:36:57.887Z"
+  "queuedAt": "2026-05-14T20:16:50.404Z"
 }

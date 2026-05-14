@@ -5,7 +5,7 @@
     {
       "name": "Yahoo Sports NFL",
       "title": "NFL Week 1 Odds & Betting Lines: Super Bowl Rematch Kicks Off Season",
-      "description": "Week 1 matchups won’t be fully finalized until Thursday’s schedule release, but we’ve already got you covered with confirmed games hitting the board.",
+      "description": "Week 1 matchups have already leaked ahead of tonight’s schedule release, and we’ve already got you covered with confirmed games hitting the board.",
       "url": "https://sports.yahoo.com/articles/nfl-week-1-odds-betting-153300092.html"
     }
   ],
@@ -19,15 +19,13 @@
     "kicks",
     "off",
     "matchups",
-    "wont",
-    "fully",
-    "finalized",
-    "until",
-    "thursdays",
+    "already",
+    "leaked",
+    "ahead",
+    "tonights",
     "schedule",
     "release",
     "weve",
-    "already",
     "got",
     "you",
     "covered",
@@ -36,6 +34,6 @@
     "hitting",
     "board"
   ],
-  "hash": "930d82bef33620e4",
-  "queuedAt": "2026-05-14T08:57:57.702Z"
+  "hash": "b3daef11e6373cd8",
+  "queuedAt": "2026-05-14T20:16:49.728Z"
 }

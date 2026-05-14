@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Chiefs will visit Bills on Thanksgiving night",
-      "description": "Patrick Mahomes and Josh Allen will meet again this November.",
-      "url": "https://sports.yahoo.com/articles/report-chiefs-visit-bills-thanksgiving-110100783.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Chiefs will visit Bills on Thanksgiving night",
       "description": "Patrick Mahomes and Josh Allen will meet again this November.",
@@ -31,5 +25,5 @@
     "november"
   ],
   "hash": "9c7e35af8c0f4caf",
-  "queuedAt": "2026-05-14T14:36:57.983Z"
+  "queuedAt": "2026-05-14T20:16:50.579Z"
 }
