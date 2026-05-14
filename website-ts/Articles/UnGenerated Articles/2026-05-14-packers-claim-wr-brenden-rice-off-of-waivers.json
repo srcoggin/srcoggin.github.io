@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers claim WR Brenden Rice off of waivers",
-      "description": "Wide receiver Brenden Rice is on to Green Bay.",
-      "url": "https://sports.yahoo.com/articles/packers-claim-wr-brenden-rice-210223125.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers claim WR Brenden Rice off of waivers",
       "description": "Wide receiver Brenden Rice is on to Green Bay.",
@@ -28,5 +22,5 @@
     "bay"
   ],
   "hash": "eec46295155d21d4",
-  "queuedAt": "2026-05-14T04:13:49.657Z"
+  "queuedAt": "2026-05-14T08:58:01.691Z"
 }
