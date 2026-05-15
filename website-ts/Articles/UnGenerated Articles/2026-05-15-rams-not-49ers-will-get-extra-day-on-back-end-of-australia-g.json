@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams (not 49ers) will get extra day on back end of Australia game",
-      "description": "When 49ers coach Kyle Shanahan aired grievances at the annual NFL meetings in March about his team getting the short straw for a long trip to Australia to face the Rams — at (as Shanahan insists) the specific request of the Rams — Shanahan held out hope for a nugget of consideration when the 49ers return to the United States.",
-      "url": "https://sports.yahoo.com/articles/rams-not-49ers-extra-day-020013658.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams (not 49ers) will get extra day on back end of Australia game",
       "description": "When 49ers coach Kyle Shanahan aired grievances at the annual NFL meetings in March about his team getting the short straw for a long trip to Australia to face the Rams — at (as Shanahan insists) the specific request of the Rams — Shanahan held out hope for a nugget of consideration when the 49ers return to the United States.",
@@ -53,5 +47,5 @@
     "states"
   ],
   "hash": "c451ee34e82c4228",
-  "queuedAt": "2026-05-15T09:14:14.647Z"
+  "queuedAt": "2026-05-15T14:50:02.603Z"
 }

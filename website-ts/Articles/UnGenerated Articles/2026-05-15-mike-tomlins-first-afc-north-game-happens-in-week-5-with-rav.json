@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Tomlin's first AFC North game happens in Week 5, with Ravens at Falcons",
-      "description": "During 19 years with the Steelers, coach Mike Tomlin worked 114 games against teams from the AFC North.",
-      "url": "https://sports.yahoo.com/articles/mike-tomlins-first-afc-north-041116244.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Tomlin's first AFC North game happens in Week 5, with Ravens at Falcons",
       "description": "During 19 years with the Steelers, coach Mike Tomlin worked 114 games against teams from the AFC North.",
@@ -35,5 +29,5 @@
     "teams"
   ],
   "hash": "cb80406476bd2292",
-  "queuedAt": "2026-05-15T09:14:14.453Z"
+  "queuedAt": "2026-05-15T14:50:03.583Z"
 }

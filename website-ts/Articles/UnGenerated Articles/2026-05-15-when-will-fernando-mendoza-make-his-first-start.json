@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "When will Fernando Mendoza make his first start?",
-      "description": "Raiders coach Klint Kubiak repeatedly has said he would prefer that a rookie quarterback not start Day 1.",
-      "url": "https://sports.yahoo.com/articles/fernando-mendoza-first-start-015621435.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "When will Fernando Mendoza make his first start?",
       "description": "Raiders coach Klint Kubiak repeatedly has said he would prefer that a rookie quarterback not start Day 1.",
@@ -35,5 +29,5 @@
     "day"
   ],
   "hash": "f3e65967acbe8b4f",
-  "queuedAt": "2026-05-15T09:14:14.709Z"
+  "queuedAt": "2026-05-15T14:50:03.700Z"
 }

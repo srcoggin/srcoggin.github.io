@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chiefs, Panthers get early bye week; Cowboys, Cardinals get a late one",
-      "description": "The NFL did the Chiefs a favor, giving them an early off week as Patrick Mahomes works his way back.",
-      "url": "https://sports.yahoo.com/articles/chiefs-panthers-early-bye-week-013046300.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chiefs, Panthers get early bye week; Cowboys, Cardinals get a late one",
       "description": "The NFL did the Chiefs a favor, giving them an early off week as Patrick Mahomes works his way back.",
@@ -37,5 +31,5 @@
     "back"
   ],
   "hash": "2bd83f14ab94ae85",
-  "queuedAt": "2026-05-15T09:14:14.769Z"
+  "queuedAt": "2026-05-15T14:50:03.818Z"
 }

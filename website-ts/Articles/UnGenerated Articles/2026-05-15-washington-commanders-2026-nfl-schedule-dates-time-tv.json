@@ -4,21 +4,27 @@
   "sources": [
     {
       "name": "Yahoo Sports NFL",
-      "title": "New York Giants 2026 NFL schedule: dates, time, TV",
-      "description": "Here's everything you need to know for the Giants' full 2026 season schedule.",
-      "url": "https://sports.yahoo.com/nfl/breaking-news/article/new-york-giants-2026-nfl-schedule-dates-time-tv-171052899.html"
+      "title": "Green Bay Packers 2026 NFL schedule: dates, time, TV",
+      "description": "Here's everything you need to know for the Packers' full 2026 season schedule.",
+      "url": "https://sports.yahoo.com/nfl/breaking-news/article/green-bay-packers-2026-nfl-schedule-dates-time-tv-004108844.html"
     },
     {
       "name": "Yahoo Sports NFL",
-      "title": "Dallas Cowboys 2026 NFL schedule: dates, time, TV",
-      "description": "Here's everything you need to know for the Cowboys' full 2026 season schedule.",
-      "url": "https://sports.yahoo.com/nfl/breaking-news/article/dallas-cowboys-2026-nfl-schedule-dates-time-tv-171148563.html"
+      "title": "San Francisco 49ers 2026 NFL schedule: dates, time, TV",
+      "description": "Here's everything you need to know for the 49ers' full 2026 season schedule.",
+      "url": "https://sports.yahoo.com/nfl/breaking-news/article/san-francisco-49ers-2026-nfl-schedule-dates-time-tv-171002229.html"
     },
     {
       "name": "Yahoo Sports NFL",
-      "title": "Philadelphia Eagles 2026 NFL schedule: dates, time, TV",
-      "description": "Here's everything you need to know for the Eagles' full 2026 season schedule.",
-      "url": "https://sports.yahoo.com/nfl/breaking-news/article/philadelphia-eagles-2026-nfl-schedule-dates-time-tv-171201184.html"
+      "title": "Buffalo Bills 2026 NFL schedule: dates, time, TV",
+      "description": "Here's everything you need to know for the Bills' full 2026 season schedule.",
+      "url": "https://sports.yahoo.com/nfl/breaking-news/article/buffalo-bills-2026-nfl-schedule-dates-time-tv-171030712.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Tampa Bay Buccaneers 2026 NFL schedule: dates, time, TV",
+      "description": "Here's everything you need to know for the Buccaneers' full 2026 season schedule.",
+      "url": "https://sports.yahoo.com/nfl/breaking-news/article/tampa-bay-buccaneers-2026-nfl-schedule-dates-time-tv-010053778.html"
     },
     {
       "name": "Yahoo Sports NFL",
@@ -28,9 +34,9 @@
     }
   ],
   "keywords": [
-    "new",
-    "york",
-    "giants",
+    "green",
+    "bay",
+    "packers",
     "2026",
     "schedule",
     "dates",
@@ -41,13 +47,16 @@
     "need",
     "know",
     "full",
-    "dallas",
-    "cowboys",
-    "philadelphia",
-    "eagles",
+    "san",
+    "francisco",
+    "49ers",
+    "buffalo",
+    "bills",
+    "tampa",
+    "buccaneers",
     "washington",
     "commanders"
   ],
-  "hash": "7db9cdec094ea5b1",
-  "queuedAt": "2026-05-15T09:14:14.392Z"
+  "hash": "2e89fd67cbcc583f",
+  "queuedAt": "2026-05-15T14:49:51.669Z"
 }
