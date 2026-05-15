@@ -5,7 +5,7 @@
     {
       "name": "Yahoo Sports NFL",
       "title": "2026 NFL schedule release, betting, lines: Odds for every game this season",
-      "description": "Here are the odds for every NFL game this season that we know of so far.",
+      "description": "Here are the odds for every single NFL game this season.",
       "url": "https://sports.yahoo.com/nfl/betting/article/2026-nfl-schedule-release-betting-lines-odds-for-every-game-this-season-164646872.html"
     }
   ],
@@ -18,10 +18,8 @@
     "odds",
     "every",
     "this",
-    "that",
-    "know",
-    "far"
+    "single"
   ],
-  "hash": "639c4519c1a6c39e",
-  "queuedAt": "2026-05-15T14:49:57.605Z"
+  "hash": "69863daaadde9639",
+  "queuedAt": "2026-05-15T20:12:58.706Z"
 }

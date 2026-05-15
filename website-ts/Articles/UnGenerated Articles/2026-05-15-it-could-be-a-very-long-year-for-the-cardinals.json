@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "It could be a very long year for the Cardinals",
-      "description": "It's one thing to know generally that a team will be facing a tough slate of opponents in the upcoming season.",
-      "url": "https://sports.yahoo.com/articles/could-very-long-cardinals-135832635.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "It could be a very long year for the Cardinals",
       "description": "It's one thing to know generally that a team will be facing a tough slate of opponents in the upcoming season.",
@@ -31,5 +25,5 @@
     "upcoming"
   ],
   "hash": "61a0aab29fc1ed81",
-  "queuedAt": "2026-05-15T14:49:51.799Z"
+  "queuedAt": "2026-05-15T20:13:04.294Z"
 }
