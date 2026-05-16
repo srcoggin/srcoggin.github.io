@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patrick Mahomes is back playing golf",
-      "description": "Chiefs quarterback Patrick Mahomes is \"making progress\" in his rehab from major knee surgery, coach Andy Reid said Thursday.",
-      "url": "https://sports.yahoo.com/articles/patrick-mahomes-back-playing-golf-203057842.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patrick Mahomes is back playing golf",
       "description": "Chiefs quarterback Patrick Mahomes is \"making progress\" in his rehab from major knee surgery, coach Andy Reid said Thursday.",
@@ -37,5 +31,5 @@
     "thursday"
   ],
   "hash": "a97ad5813919e5bd",
-  "queuedAt": "2026-05-16T08:36:25.729Z"
+  "queuedAt": "2026-05-16T13:44:49.353Z"
 }

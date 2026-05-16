@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Current rules allow up to eight prime-time games per team",
-      "description": "The NFL wants maximum flexibility to put great games in desirable windows.",
-      "url": "https://sports.yahoo.com/articles/current-rules-allow-eight-prime-204953707.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Current rules allow up to eight prime-time games per team",
       "description": "The NFL wants maximum flexibility to put great games in desirable windows.",
@@ -32,5 +26,5 @@
     "windows"
   ],
   "hash": "1c9d0dab87886fda",
-  "queuedAt": "2026-05-16T08:36:25.648Z"
+  "queuedAt": "2026-05-16T13:44:49.303Z"
 }
