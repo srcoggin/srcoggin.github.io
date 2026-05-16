@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tom Brady will call his first game in New England in Week 9",
-      "description": "Tom Brady has spent the past two seasons working as a broadcaster for Fox.",
-      "url": "https://sports.yahoo.com/articles/tom-brady-call-first-game-185658504.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tom Brady will call his first game in New England in Week 9",
       "description": "Tom Brady has spent the past two seasons working as a broadcaster for Fox.",
@@ -32,5 +26,5 @@
     "fox"
   ],
   "hash": "adeda23c43d2ea52",
-  "queuedAt": "2026-05-16T03:42:01.279Z"
+  "queuedAt": "2026-05-16T08:36:32.233Z"
 }
