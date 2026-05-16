@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Anthony Richardson: Colts are giving me a chance to work and potentially get back on the field",
-      "description": "Anthony Richardson wants a trade, and the Colts would love to trade him.",
-      "url": "https://sports.yahoo.com/articles/anthony-richardson-colts-giving-chance-211631926.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Anthony Richardson: Colts are giving me a chance to work and potentially get back on the field",
       "description": "Anthony Richardson wants a trade, and the Colts would love to trade him.",
@@ -32,5 +26,5 @@
     "him"
   ],
   "hash": "502600cf2dc08d22",
-  "queuedAt": "2026-05-16T13:44:45.134Z"
+  "queuedAt": "2026-05-16T19:24:19.025Z"
 }

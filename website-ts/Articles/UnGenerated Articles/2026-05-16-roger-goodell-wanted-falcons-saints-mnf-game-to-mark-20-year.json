@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Roger Goodell wanted Falcons-Saints MNF game to mark 20 years since return from Katrina",
-      "description": "A Monday night game in 2026 will recall one of the greatest moments in Saints franchise history in 2006.",
-      "url": "https://sports.yahoo.com/articles/roger-goodell-wanted-falcons-saints-092932513.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Roger Goodell wanted Falcons-Saints MNF game to mark 20 years since return from Katrina",
       "description": "A Monday night game in 2026 will recall one of the greatest moments in Saints franchise history in 2006.",
@@ -39,5 +33,5 @@
     "2006"
   ],
   "hash": "7152bd17173866b2",
-  "queuedAt": "2026-05-16T13:44:45.088Z"
+  "queuedAt": "2026-05-16T19:24:18.903Z"
 }
