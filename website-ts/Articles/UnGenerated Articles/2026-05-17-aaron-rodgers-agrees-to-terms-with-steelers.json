@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Rodgers agrees to terms with Steelers",
-      "description": "Rodgers is back for a second season.",
-      "url": "https://sports.yahoo.com/articles/aaron-rodgers-agrees-terms-steelers-000127722.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Rodgers agrees to terms with Steelers",
       "description": "Rodgers is back for a second season.",
@@ -25,5 +19,5 @@
     "second"
   ],
   "hash": "4ff45474de4e2379",
-  "queuedAt": "2026-05-17T13:45:33.905Z"
+  "queuedAt": "2026-05-17T19:50:17.994Z"
 }

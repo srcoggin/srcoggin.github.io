@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Rodgers is spotted in Pittsburgh, getting ice cream with Steelers players",
-      "description": "Even for a slow weekend, initial accounts on social media of free-agent quarterback Aaron Rodgers supposedly getting ice cream with multiple Steelers players in Pittsburgh didn't initially move the needle.",
-      "url": "https://sports.yahoo.com/articles/aaron-rodgers-spotted-pittsburgh-getting-232752857.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Rodgers is spotted in Pittsburgh, getting ice cream with Steelers players",
       "description": "Even for a slow weekend, initial accounts on social media of free-agent quarterback Aaron Rodgers supposedly getting ice cream with multiple Steelers players in Pittsburgh didn't initially move the needle.",
@@ -42,5 +36,5 @@
     "needle"
   ],
   "hash": "5f8b1f7094029941",
-  "queuedAt": "2026-05-17T13:45:33.959Z"
+  "queuedAt": "2026-05-17T19:50:18.199Z"
 }

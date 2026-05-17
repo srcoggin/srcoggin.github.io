@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Aaron Rodgers can earn up to $25 million in 2026",
-      "description": "Last year, quarterback Aaron Rodgers gave the Steelers a massive bargain.",
-      "url": "https://sports.yahoo.com/articles/report-aaron-rodgers-earn-25-001340972.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Aaron Rodgers can earn up to $25 million in 2026",
       "description": "Last year, quarterback Aaron Rodgers gave the Steelers a massive bargain.",
@@ -30,5 +24,5 @@
     "bargain"
   ],
   "hash": "2ebcd322b6090d4b",
-  "queuedAt": "2026-05-17T13:45:32.809Z"
+  "queuedAt": "2026-05-17T19:50:09.782Z"
 }
