@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "When it comes to standalone windows and Sunday Ticket/RedZone, there's a delicate balance to strike",
-      "description": "At some point, expansion of the league will have to be considered.",
-      "url": "https://sports.yahoo.com/articles/comes-standalone-windows-sunday-ticket-152141108.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "When it comes to standalone windows and Sunday Ticket/RedZone, there's a delicate balance to strike",
       "description": "At some point, expansion of the league will have to be considered.",
@@ -31,5 +25,5 @@
     "considered"
   ],
   "hash": "2c1d20ad49dd97ec",
-  "queuedAt": "2026-05-17T08:39:42.157Z"
+  "queuedAt": "2026-05-17T13:45:38.016Z"
 }

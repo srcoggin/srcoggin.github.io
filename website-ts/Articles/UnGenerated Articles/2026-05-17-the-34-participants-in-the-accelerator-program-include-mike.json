@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "The 34 participants in the Accelerator program include Mike McDaniel, Eric Bieniemy",
-      "description": "After its cancellation in 2025, the Accelerator returns for 2026.",
-      "url": "https://sports.yahoo.com/articles/34-participants-accelerator-program-mike-165015420.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "The 34 participants in the Accelerator program include Mike McDaniel, Eric Bieniemy",
       "description": "After its cancellation in 2025, the Accelerator returns for 2026.",
@@ -31,5 +25,5 @@
     "2026"
   ],
   "hash": "d47a5d6c14f00aba",
-  "queuedAt": "2026-05-17T08:39:42.113Z"
+  "queuedAt": "2026-05-17T13:45:37.908Z"
 }
