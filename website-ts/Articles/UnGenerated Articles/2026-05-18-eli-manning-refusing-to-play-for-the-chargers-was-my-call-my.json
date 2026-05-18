@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eli Manning: Refusing to play for the Chargers was my call, my dad didn't like it",
-      "description": "Manning said he also didn't want to go to Cleveland when the Chargers considered trading his draft rights to the Browns.",
-      "url": "https://sports.yahoo.com/articles/eli-manning-refusing-play-chargers-115400612.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eli Manning: Refusing to play for the Chargers was my call, my dad didn't like it",
       "description": "Manning said he also didn't want to go to Cleveland when the Chargers considered trading his draft rights to the Browns.",
@@ -37,5 +31,5 @@
     "browns"
   ],
   "hash": "f6ff75d0935bccae",
-  "queuedAt": "2026-05-18T04:17:53.997Z"
+  "queuedAt": "2026-05-18T10:46:58.856Z"
 }
