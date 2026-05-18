@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL on opening with Pats-Seahawks: Super Bowl rematch will never be more relevant than in Week 1",
-      "description": "2026 is the fourth straight season with a Super Bowl rematch.",
-      "url": "https://sports.yahoo.com/articles/nfl-opening-pats-seahawks-super-104232561.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL on opening with Pats-Seahawks: Super Bowl rematch will never be more relevant than in Week 1",
       "description": "2026 is the fourth straight season with a Super Bowl rematch.",
@@ -28,5 +22,5 @@
     "straight"
   ],
   "hash": "6950045bc7cc9fb8",
-  "queuedAt": "2026-05-18T10:46:51.812Z"
+  "queuedAt": "2026-05-18T15:56:39.686Z"
 }

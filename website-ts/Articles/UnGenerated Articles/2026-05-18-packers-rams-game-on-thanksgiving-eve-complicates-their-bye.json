@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers-Rams game on Thanksgiving Eve complicates their bye week",
-      "description": "When the league first deliberately leaked the possibility of staging a game on the night before Thanksgiving, it should have been obvious that it was happening.",
-      "url": "https://sports.yahoo.com/articles/packers-rams-game-thanksgiving-eve-130948448.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers-Rams game on Thanksgiving Eve complicates their bye week",
       "description": "When the league first deliberately leaked the possibility of staging a game on the night before Thanksgiving, it should have been obvious that it was happening.",
@@ -34,5 +28,5 @@
     "happening"
   ],
   "hash": "818bea2d305b039d",
-  "queuedAt": "2026-05-18T10:46:52.239Z"
+  "queuedAt": "2026-05-18T15:56:39.930Z"
 }
