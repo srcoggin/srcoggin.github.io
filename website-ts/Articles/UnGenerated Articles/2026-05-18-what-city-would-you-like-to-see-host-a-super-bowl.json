@@ -1,0 +1,29 @@
+{
+  "title": "What city would you like to see host a Super Bowl?",
+  "category": "superbowl",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "What city would you like to see host a Super Bowl?",
+      "description": "Super Bowl LXIV appears headed for Nashville, Tennessee",
+      "url": "https://sports.yahoo.com/articles/city-see-host-super-bowl-164659119.html"
+    }
+  ],
+  "keywords": [
+    "what",
+    "city",
+    "you",
+    "like",
+    "see",
+    "host",
+    "super",
+    "bowl",
+    "lxiv",
+    "appears",
+    "headed",
+    "nashville",
+    "tennessee"
+  ],
+  "hash": "1c6d6cca7b17895c",
+  "queuedAt": "2026-05-18T20:05:20.252Z"
+}

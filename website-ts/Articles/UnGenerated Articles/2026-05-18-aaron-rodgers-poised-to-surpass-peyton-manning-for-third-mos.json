@@ -3,6 +3,12 @@
   "category": "general",
   "sources": [
     {
+      "name": "Yahoo Sports NFL",
+      "title": "Aaron Rodgers poised to surpass Peyton Manning for third-most TD passes in NFL history",
+      "description": "The news that Aaron Rodgers is officially back with the Steelers for his 22nd NFL season means he'll continue to add to one of the most impressive statistical résumés any quarterback has ever assembled.",
+      "url": "https://sports.yahoo.com/articles/aaron-rodgers-poised-surpass-peyton-155046566.html"
+    },
+    {
       "name": "Pro Football Talk",
       "title": "Aaron Rodgers poised to surpass Peyton Manning for third-most TD passes in NFL history",
       "description": "The news that Aaron Rodgers is officially back with the Steelers for his 22nd NFL season means he'll continue to add to one of the most impressive statistical résumés any quarterback has ever assembled.",
@@ -40,5 +46,5 @@
     "assembled"
   ],
   "hash": "ea9ffbab0da937e5",
-  "queuedAt": "2026-05-18T15:56:35.206Z"
+  "queuedAt": "2026-05-18T20:05:18.261Z"
 }

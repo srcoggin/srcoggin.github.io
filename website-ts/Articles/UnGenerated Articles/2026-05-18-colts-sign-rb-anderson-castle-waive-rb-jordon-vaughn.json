@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts sign RB Anderson Castle, waive RB Jordon Vaughn",
-      "description": "The Colts have made a pair of roster moves on Monday.",
-      "url": "https://sports.yahoo.com/articles/colts-sign-rb-anderson-castle-135107569.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts sign RB Anderson Castle, waive RB Jordon Vaughn",
       "description": "The Colts have made a pair of roster moves on Monday.",
@@ -30,5 +24,5 @@
     "monday"
   ],
   "hash": "ffeaae9baa0cde92",
-  "queuedAt": "2026-05-18T15:56:35.628Z"
+  "queuedAt": "2026-05-18T20:05:22.941Z"
 }
