@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns open OTAs today, don't expect Myles Garrett to be there",
-      "description": "The NFL's reigning Defensive Player of the Year is skipping voluntary offseason work.",
-      "url": "https://sports.yahoo.com/articles/browns-open-otas-today-dont-081259172.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns open OTAs today, don't expect Myles Garrett to be there",
       "description": "The NFL's reigning Defensive Player of the Year is skipping voluntary offseason work.",
@@ -33,5 +27,5 @@
     "work"
   ],
   "hash": "87f6800d14291a93",
-  "queuedAt": "2026-05-19T10:31:50.566Z"
+  "queuedAt": "2026-05-19T16:08:22.712Z"
 }

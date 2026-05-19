@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers LB Payton Wilson was \"a little shocked\" to see Aaron Rodgers",
-      "description": "The news broke over the weekend that quarterback Aaron Rodgers is back with the Steelers.",
-      "url": "https://sports.yahoo.com/articles/steelers-lb-payton-wilson-little-022518243.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers LB Payton Wilson was \"a little shocked\" to see Aaron Rodgers",
       "description": "The news broke over the weekend that quarterback Aaron Rodgers is back with the Steelers.",
@@ -33,5 +27,5 @@
     "back"
   ],
   "hash": "76ccb17f5ca30171",
-  "queuedAt": "2026-05-19T10:31:50.669Z"
+  "queuedAt": "2026-05-19T16:08:22.387Z"
 }

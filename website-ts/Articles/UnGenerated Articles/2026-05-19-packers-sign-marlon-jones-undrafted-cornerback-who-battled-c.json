@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers sign Marlon Jones, undrafted cornerback who battled cancer in college",
-      "description": "The Packers are bringing in an undafted rookie with a back story that makes him easy to root for.",
-      "url": "https://sports.yahoo.com/articles/packers-sign-marlon-jones-undrafted-092602315.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers sign Marlon Jones, undrafted cornerback who battled cancer in college",
       "description": "The Packers are bringing in an undafted rookie with a back story that makes him easy to root for.",
@@ -38,5 +32,5 @@
     "root"
   ],
   "hash": "9fb3328a59486cb4",
-  "queuedAt": "2026-05-19T10:31:50.458Z"
+  "queuedAt": "2026-05-19T16:08:22.603Z"
 }

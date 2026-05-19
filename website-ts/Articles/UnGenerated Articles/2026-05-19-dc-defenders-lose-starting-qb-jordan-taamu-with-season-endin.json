@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "D.C. Defenders lose starting QB Jordan Ta'amu with season-ending injury",
-      "description": "Even though the UFL has been generating solid TV ratings, it's had a hard time moving the needle.",
-      "url": "https://sports.yahoo.com/articles/d-c-defenders-lose-starting-000115185.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "D.C. Defenders lose starting QB Jordan Ta'amu with season-ending injury",
       "description": "Even though the UFL has been generating solid TV ratings, it's had a hard time moving the needle.",
@@ -36,5 +30,5 @@
     "needle"
   ],
   "hash": "4baab2dfdf544136",
-  "queuedAt": "2026-05-19T10:31:50.878Z"
+  "queuedAt": "2026-05-19T16:08:21.697Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Michael Pittman on Aaron Rodgers: We're going to get as many reps as possible",
-      "description": "Quarterback Aaron Rodgers officially re-signed with the Steelers on Monday, just as the team began its OTAs.",
-      "url": "https://sports.yahoo.com/articles/michael-pittman-aaron-rodgers-were-191950950.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Michael Pittman on Aaron Rodgers: We're going to get as many reps as possible",
       "description": "Quarterback Aaron Rodgers officially re-signed with the Steelers on Monday, just as the team began its OTAs.",
@@ -35,5 +29,5 @@
     "otas"
   ],
   "hash": "5c5147666d07f216",
-  "queuedAt": "2026-05-19T10:31:48.180Z"
+  "queuedAt": "2026-05-19T16:08:13.910Z"
 }

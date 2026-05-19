@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Joe Burrow: We have everything we need",
-      "description": "Joe Burrow expressed his frustration at the end of an injury-plagued 2025 season.",
-      "url": "https://sports.yahoo.com/articles/joe-burrow-everything-001229854.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Joe Burrow: We have everything we need",
       "description": "Joe Burrow expressed his frustration at the end of an injury-plagued 2025 season.",
@@ -28,5 +22,5 @@
     "2025"
   ],
   "hash": "41f8da7bfe0e8140",
-  "queuedAt": "2026-05-19T10:31:50.772Z"
+  "queuedAt": "2026-05-19T16:08:23.081Z"
 }

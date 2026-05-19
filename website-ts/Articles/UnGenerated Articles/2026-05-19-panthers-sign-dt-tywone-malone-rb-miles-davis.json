@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers sign DT Tywone Malone, RB Miles Davis",
-      "description": "The Panthers made a handful of roster moves on Monday.",
-      "url": "https://sports.yahoo.com/articles/panthers-sign-dt-tywone-malone-205530800.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers sign DT Tywone Malone, RB Miles Davis",
       "description": "The Panthers made a handful of roster moves on Monday.",
@@ -29,5 +23,5 @@
     "monday"
   ],
   "hash": "d895cb89dd726e7b",
-  "queuedAt": "2026-05-19T10:31:50.992Z"
+  "queuedAt": "2026-05-19T16:08:23.423Z"
 }
