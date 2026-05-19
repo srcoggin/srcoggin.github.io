@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaxon Smith-Njigba's Offensive Player of the Year trophy said \"Defensive Player of the Year\"",
-      "description": "Seahawks wide receiver Jaxon Smith-Njigba was last season's Associated Press NFL Offensive Player of the Year.",
-      "url": "https://sports.yahoo.com/articles/jaxon-smith-njigba39s-offensive-player-of-the-year-trophy-said-quotdefensive-player-of-theyearquot-124921738.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaxon Smith-Njigba's Offensive Player of the Year trophy said \"Defensive Player of the Year\"",
       "description": "Seahawks wide receiver Jaxon Smith-Njigba was last season's Associated Press NFL Offensive Player of the Year.",
@@ -32,5 +26,5 @@
     "press"
   ],
   "hash": "cf6f068a43a739b0",
-  "queuedAt": "2026-05-19T16:08:14.795Z"
+  "queuedAt": "2026-05-19T20:12:21.919Z"
 }

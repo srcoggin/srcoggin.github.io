@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "Sources: Nashville expected to host 2030 SB",
-      "description": "NFL owners are expected to name Nashville as host of Super Bowl LXIV in 2030 when they meet Tuesday for the league's spring meeting, sources told the NFL Network's Ian Rapoport and Mike Garafolo.",
+      "description": "Nashville will host Super Bowl LXIV in 2030 after NFL owners voted in favor of the city's bid Tuesday during the spring league meeting.",
       "url": "https://www.espn.com/nfl/story/_/id/48804104/sources-nfl-owners-vote-nashville-super-bowl-lxiv-host"
     }
   ],
@@ -15,24 +15,19 @@
     "expected",
     "host",
     "2030",
-    "owners",
-    "name",
     "super",
     "bowl",
     "lxiv",
-    "they",
-    "meet",
+    "owners",
+    "voted",
+    "favor",
+    "citys",
+    "bid",
     "tuesday",
-    "leagues",
     "spring",
-    "meeting",
-    "told",
-    "networks",
-    "ian",
-    "rapoport",
-    "mike",
-    "garafolo"
+    "league",
+    "meeting"
   ],
-  "hash": "8a36d88da27eab0e",
-  "queuedAt": "2026-05-19T10:31:48.555Z"
+  "hash": "ad164fcdd4de1122",
+  "queuedAt": "2026-05-19T20:12:16.188Z"
 }

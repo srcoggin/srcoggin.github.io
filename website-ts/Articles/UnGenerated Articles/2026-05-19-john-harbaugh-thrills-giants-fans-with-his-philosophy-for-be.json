@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "John Harbaugh thrills Giants fans with his philosophy for beating the Cowboys",
-      "description": "On Monday night, the Giants held their annual Town Hall event.",
-      "url": "https://sports.yahoo.com/articles/john-harbaugh-thrills-giants-fans-133902191.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "John Harbaugh thrills Giants fans with his philosophy for beating the Cowboys",
       "description": "On Monday night, the Giants held their annual Town Hall event.",
@@ -35,5 +29,5 @@
     "event"
   ],
   "hash": "92d05b3d3549dba9",
-  "queuedAt": "2026-05-19T16:08:14.572Z"
+  "queuedAt": "2026-05-19T20:12:22.141Z"
 }

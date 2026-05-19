@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns sign DE Markees Watts, WR Aaron Anderson, LB Reid Carrico",
-      "description": "Defensive end Markees Watts tried out for the Browns at their rookie minicamp this month and that went well enough to earn him an extended stay in Cleveland.",
-      "url": "https://sports.yahoo.com/articles/browns-sign-markees-watts-wr-140240648.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns sign DE Markees Watts, WR Aaron Anderson, LB Reid Carrico",
       "description": "Defensive end Markees Watts tried out for the Browns at their rookie minicamp this month and that went well enough to earn him an extended stay in Cleveland.",
@@ -44,5 +38,5 @@
     "cleveland"
   ],
   "hash": "6935693a11427765",
-  "queuedAt": "2026-05-19T16:08:14.246Z"
+  "queuedAt": "2026-05-19T20:12:21.877Z"
 }
