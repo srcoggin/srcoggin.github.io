@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Would the Steelers keep four quarterbacks on the 53-man roster?",
-      "description": "With quarterback Aaron Rodgers returning to Pittsburgh, the Steelers now have four quarterbacks on the offseason roster.",
-      "url": "https://sports.yahoo.com/articles/steelers-keep-four-quarterbacks-53-182534723.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Would the Steelers keep four quarterbacks on the 53-man roster?",
       "description": "With quarterback Aaron Rodgers returning to Pittsburgh, the Steelers now have four quarterbacks on the offseason roster.",
@@ -31,5 +25,5 @@
     "offseason"
   ],
   "hash": "875a61ff2ceec6ae",
-  "queuedAt": "2026-05-19T04:06:25.416Z"
+  "queuedAt": "2026-05-19T10:31:59.627Z"
 }

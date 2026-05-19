@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles sign second-round pick Eli Stowers",
-      "description": "Eagles second-round pick Eli Stowers has signed his first NFL contract.",
-      "url": "https://sports.yahoo.com/articles/eagles-sign-second-round-pick-183126905.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles sign second-round pick Eli Stowers",
       "description": "Eagles second-round pick Eli Stowers has signed his first NFL contract.",
@@ -28,5 +22,5 @@
     "contract"
   ],
   "hash": "df88c21ff952f1dd",
-  "queuedAt": "2026-05-19T04:06:25.375Z"
+  "queuedAt": "2026-05-19T10:31:59.523Z"
 }
