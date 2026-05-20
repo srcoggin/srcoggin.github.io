@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers sign TE Heinrich Haarberg",
-      "description": "The Panthers have added a versatile tight end to their 90-man roster.",
-      "url": "https://sports.yahoo.com/articles/panthers-sign-te-heinrich-haarberg-133848038.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers sign TE Heinrich Haarberg",
       "description": "The Panthers have added a versatile tight end to their 90-man roster.",
@@ -29,5 +23,5 @@
     "roster"
   ],
   "hash": "24bb198a7cec3f7c",
-  "queuedAt": "2026-05-20T16:05:13.248Z"
+  "queuedAt": "2026-05-20T20:38:48.675Z"
 }
