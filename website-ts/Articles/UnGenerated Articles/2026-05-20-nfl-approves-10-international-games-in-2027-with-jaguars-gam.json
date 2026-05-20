@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL approves 10 international games in 2027, with Jaguars' game making 11",
-      "description": "The NFL will play a record nine international games in 2026.",
-      "url": "https://sports.yahoo.com/articles/nfl-approves-10-international-games-195635136.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL approves 10 international games in 2027, with Jaguars' game making 11",
       "description": "The NFL will play a record nine international games in 2026.",
@@ -28,5 +22,5 @@
     "2026"
   ],
   "hash": "d2a0be69d2d60f6b",
-  "queuedAt": "2026-05-20T09:55:59.088Z"
+  "queuedAt": "2026-05-20T16:05:21.478Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bill Belichick is still complaining about last year's CBS interview",
-      "description": "Last year, when North Carolina coach Bill Belichick was selling a book, he conducted a very truncated media tour.",
-      "url": "https://sports.yahoo.com/articles/bill-belichick-still-complaining-last-214526644.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bill Belichick is still complaining about last year's CBS interview",
       "description": "Last year, when North Carolina coach Bill Belichick was selling a book, he conducted a very truncated media tour.",
@@ -36,5 +30,5 @@
     "tour"
   ],
   "hash": "80372bf338b7a391",
-  "queuedAt": "2026-05-20T09:55:59.045Z"
+  "queuedAt": "2026-05-20T16:05:22.624Z"
 }
