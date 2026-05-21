@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jerry Jones on international travel: Wear and tear is a lot less than a night out",
-      "description": "The Cowboys have not played an international game since 2014 when they traveled to London to play the Jaguars.",
-      "url": "https://sports.yahoo.com/articles/jerry-jones-international-travel-wear-193045206.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jerry Jones on international travel: Wear and tear is a lot less than a night out",
       "description": "The Cowboys have not played an international game since 2014 when they traveled to London to play the Jaguars.",
@@ -37,5 +31,5 @@
     "jaguars"
   ],
   "hash": "fd3b88e77f336d9d",
-  "queuedAt": "2026-05-21T04:35:26.359Z"
+  "queuedAt": "2026-05-21T10:01:56.654Z"
 }
