@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bill Belichick's recent podcast tour suggests he's doing damage control",
-      "description": "North Carolina coach Bill Belichick, who didn't spend much time talking to the media a year ago when promoting his book, submitted this week to a pair of lengthy podcast interviews.",
-      "url": "https://sports.yahoo.com/articles/bill-belichicks-recent-podcast-tour-141121540.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bill Belichick's recent podcast tour suggests he's doing damage control",
       "description": "North Carolina coach Bill Belichick, who didn't spend much time talking to the media a year ago when promoting his book, submitted this week to a pair of lengthy podcast interviews.",
@@ -48,5 +42,5 @@
     "interviews"
   ],
   "hash": "c27b61746777e522",
-  "queuedAt": "2026-05-21T15:52:26.322Z"
+  "queuedAt": "2026-05-21T20:39:30.899Z"
 }
