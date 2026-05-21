@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Rodgers's incentives are tied to playing time, postseason success",
-      "description": "If Aaron Rodgers makes $25 million in 2026, it'll be the best $25 million the Steelers ever spent.",
-      "url": "https://sports.yahoo.com/articles/aaron-rodgerss-incentives-tied-playing-095401033.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Rodgers's incentives are tied to playing time, postseason success",
       "description": "If Aaron Rodgers makes $25 million in 2026, it'll be the best $25 million the Steelers ever spent.",
@@ -35,5 +29,5 @@
     "spent"
   ],
   "hash": "6f54709d01f8a383",
-  "queuedAt": "2026-05-21T10:01:52.912Z"
+  "queuedAt": "2026-05-21T15:52:32.046Z"
 }

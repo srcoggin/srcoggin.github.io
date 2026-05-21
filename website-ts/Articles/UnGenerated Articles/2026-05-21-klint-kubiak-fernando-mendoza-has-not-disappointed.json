@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Klint Kubiak: Fernando Mendoza has not disappointed",
-      "description": "The Raiders drafted Fernando Mendoza to be their quarterback of the future.",
-      "url": "https://sports.yahoo.com/articles/klint-kubiak-fernando-mendoza-not-001116250.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Klint Kubiak: Fernando Mendoza has not disappointed",
       "description": "The Raiders drafted Fernando Mendoza to be their quarterback of the future.",
@@ -28,5 +22,5 @@
     "future"
   ],
   "hash": "47970be43931f39f",
-  "queuedAt": "2026-05-21T10:01:52.996Z"
+  "queuedAt": "2026-05-21T15:52:31.652Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jerry Jones: George Pickens gets another season to answer \"all those questions\"",
-      "description": "Cowboys wide receiver George Pickens signed the non-exclusive franchise tag, but he hasn't attended the team's voluntary offseason workouts.",
-      "url": "https://sports.yahoo.com/articles/jerry-jones-george-pickens-gets-223652044.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jerry Jones: George Pickens gets another season to answer \"all those questions\"",
       "description": "Cowboys wide receiver George Pickens signed the non-exclusive franchise tag, but he hasn't attended the team's voluntary offseason workouts.",
@@ -40,5 +34,5 @@
     "workouts"
   ],
   "hash": "68cd04aa00c58188",
-  "queuedAt": "2026-05-21T10:01:52.355Z"
+  "queuedAt": "2026-05-21T15:52:25.887Z"
 }

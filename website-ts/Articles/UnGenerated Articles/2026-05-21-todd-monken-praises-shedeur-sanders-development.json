@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Todd Monken praises Shedeur Sanders' development",
-      "description": "Shedeur Sanders made the Pro Bowl last season despite starting only seven games and throwing seven touchdowns to 10 interceptions as a rookie.",
-      "url": "https://sports.yahoo.com/articles/todd-monken-praises-shedeur-sanders-230213685.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Todd Monken praises Shedeur Sanders' development",
       "description": "Shedeur Sanders made the Pro Bowl last season despite starting only seven games and throwing seven touchdowns to 10 interceptions as a rookie.",
@@ -36,5 +30,5 @@
     "rookie"
   ],
   "hash": "53102e9c570608e2",
-  "queuedAt": "2026-05-21T10:01:53.035Z"
+  "queuedAt": "2026-05-21T15:52:32.138Z"
 }

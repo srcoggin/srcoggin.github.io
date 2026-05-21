@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders \"counting on\" Maxx Crosby being ready for training camp",
-      "description": "Defensive end Maxx Crosby's unexpected return to the Raiders has not included a return to the practice field yet.",
-      "url": "https://sports.yahoo.com/articles/raiders-counting-maxx-crosby-being-215749908.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders \"counting on\" Maxx Crosby being ready for training camp",
       "description": "Defensive end Maxx Crosby's unexpected return to the Raiders has not included a return to the practice field yet.",
@@ -34,5 +28,5 @@
     "yet"
   ],
   "hash": "a0441d44c342a22d",
-  "queuedAt": "2026-05-21T10:01:53.088Z"
+  "queuedAt": "2026-05-21T15:52:32.237Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Todd Monken says Browns' QBs threw \"embarrassing\" interceptions at OTAs",
-      "description": "“We threw interceptions in 7-on-7 for God’s sakes. Who does that? There’s no pass rush. I mean, it was embarrassing,” Monken said.",
-      "url": "https://sports.yahoo.com/articles/todd-monken-says-browns-qbs-091218984.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Todd Monken says Browns' QBs threw \"embarrassing\" interceptions at OTAs",
       "description": "“We threw interceptions in 7-on-7 for God’s sakes. Who does that? There’s no pass rush. I mean, it was embarrassing,” Monken said.",
@@ -37,5 +31,5 @@
     "said"
   ],
   "hash": "f49a3422f8ce7782",
-  "queuedAt": "2026-05-21T10:01:52.956Z"
+  "queuedAt": "2026-05-21T15:52:31.407Z"
 }
