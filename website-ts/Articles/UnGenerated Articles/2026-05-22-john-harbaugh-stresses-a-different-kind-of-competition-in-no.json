@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "John Harbaugh stresses a different kind of competition in non-contact offseason practices",
-      "description": "Contact is not allowed at Organized Team Activities, so the Giants are telling players they're competing with themselves, not against each other.",
-      "url": "https://sports.yahoo.com/articles/john-harbaugh-stresses-different-kind-085245305.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "John Harbaugh stresses a different kind of competition in non-contact offseason practices",
       "description": "Contact is not allowed at Organized Team Activities, so the Giants are telling players they're competing with themselves, not against each other.",
@@ -38,5 +32,5 @@
     "against"
   ],
   "hash": "2a8bf18c541d91cb",
-  "queuedAt": "2026-05-22T09:55:24.954Z"
+  "queuedAt": "2026-05-22T15:05:11.966Z"
 }

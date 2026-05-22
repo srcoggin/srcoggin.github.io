@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles OC Sean Mannion: There's things I believe in, but our offense will be a blend",
-      "description": "The Eagles hired offensive coordinator Sean Mannion after they failed to impress on that side of the ball in 2025 and his plans for the coming season were the chief topic of a press conference on Thursday.",
-      "url": "https://sports.yahoo.com/articles/eagles-oc-sean-mannion-theres-214916147.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles OC Sean Mannion: There's things I believe in, but our offense will be a blend",
       "description": "The Eagles hired offensive coordinator Sean Mannion after they failed to impress on that side of the ball in 2025 and his plans for the coming season were the chief topic of a press conference on Thursday.",
@@ -45,5 +39,5 @@
     "thursday"
   ],
   "hash": "026aa51fd91579a1",
-  "queuedAt": "2026-05-22T09:55:25.013Z"
+  "queuedAt": "2026-05-22T15:05:12.362Z"
 }

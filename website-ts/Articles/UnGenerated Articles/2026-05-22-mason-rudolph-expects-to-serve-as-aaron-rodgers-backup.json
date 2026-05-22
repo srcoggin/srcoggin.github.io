@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mason Rudolph expects to serve as Aaron Rodgers' backup",
-      "description": "Mason Rudolph was competing for the Steelers' starting job . . . until he wasn't.",
-      "url": "https://sports.yahoo.com/articles/mason-rudolph-expects-serve-aaron-204337123.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mason Rudolph expects to serve as Aaron Rodgers' backup",
       "description": "Mason Rudolph was competing for the Steelers' starting job . . . until he wasn't.",
@@ -31,5 +25,5 @@
     "wasnt"
   ],
   "hash": "bb13ff7a5d13ed08",
-  "queuedAt": "2026-05-22T09:55:25.158Z"
+  "queuedAt": "2026-05-22T15:05:12.705Z"
 }
