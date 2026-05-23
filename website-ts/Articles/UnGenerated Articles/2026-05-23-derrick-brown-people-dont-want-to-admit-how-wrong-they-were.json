@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Derrick Brown: People don’t want to admit how wrong they were about Bryce Young",
-      "description": "The Panthers made the postseason for the first time since 2017 last season, winning the NFC South via a tiebreaker with an 8-9 record.",
-      "url": "https://sports.yahoo.com/articles/derrick-brown-people-don-t-163857806.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Derrick Brown: People don’t want to admit how wrong they were about Bryce Young",
       "description": "The Panthers made the postseason for the first time since 2017 last season, winning the NFC South via a tiebreaker with an 8-9 record.",
@@ -43,5 +37,5 @@
     "record"
   ],
   "hash": "855989d676c9b0c1",
-  "queuedAt": "2026-05-23T08:59:59.642Z"
+  "queuedAt": "2026-05-23T14:10:59.119Z"
 }
