@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Texans LB E.J. Speed partially tore a quadriceps while lifting weights",
-      "description": "Texans linebacker E.J.",
-      "url": "https://sports.yahoo.com/articles/texans-lb-e-j-speed-195440929.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Texans LB E.J. Speed partially tore a quadriceps while lifting weights",
       "description": "Texans linebacker E.J.",
@@ -27,5 +21,5 @@
     "linebacker"
   ],
   "hash": "3a9ebfff5972c030",
-  "queuedAt": "2026-05-23T14:10:53.048Z"
+  "queuedAt": "2026-05-23T19:33:13.602Z"
 }
