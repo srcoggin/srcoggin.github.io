@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "The recent Aaron Rodgers press conference included an interesting exchange",
-      "description": "Steelers quarterback Aaron Rodgers has said that, when he's done playing, he plans to disappear.",
-      "url": "https://sports.yahoo.com/articles/recent-aaron-rodgers-press-conference-155122804.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "The recent Aaron Rodgers press conference included an interesting exchange",
       "description": "Steelers quarterback Aaron Rodgers has said that, when he's done playing, he plans to disappear.",
@@ -35,5 +29,5 @@
     "disappear"
   ],
   "hash": "83de0ad45427daf3",
-  "queuedAt": "2026-05-24T14:06:05.153Z"
+  "queuedAt": "2026-05-24T19:38:08.145Z"
 }

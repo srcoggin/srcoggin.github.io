@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Davante Adams can make a big move up the all-time catch list",
-      "description": "As his 13th NFL season approaches, receiver Davante Adams has a chance to make a big move on the list of all-time receptions.",
-      "url": "https://sports.yahoo.com/articles/davante-adams-big-move-time-150940521.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Davante Adams can make a big move up the all-time catch list",
       "description": "As his 13th NFL season approaches, receiver Davante Adams has a chance to make a big move on the list of all-time receptions.",
@@ -32,5 +26,5 @@
     "receptions"
   ],
   "hash": "bec0d1a0a6db6c4e",
-  "queuedAt": "2026-05-24T14:06:05.224Z"
+  "queuedAt": "2026-05-24T19:38:08.186Z"
 }
