@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Will Rashee Rice's probation violation result in another suspension?",
-      "description": "The NFL has multiple possible avenues for imposing discipline, if it chooses to pursue them.",
-      "url": "https://sports.yahoo.com/articles/rashee-rices-probation-violation-result-142644331.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Will Rashee Rice's probation violation result in another suspension?",
       "description": "The NFL has multiple possible avenues for imposing discipline, if it chooses to pursue them.",
@@ -33,5 +27,5 @@
     "them"
   ],
   "hash": "c860878eeae0d568",
-  "queuedAt": "2026-05-26T10:30:38.868Z"
+  "queuedAt": "2026-05-26T16:20:26.278Z"
 }

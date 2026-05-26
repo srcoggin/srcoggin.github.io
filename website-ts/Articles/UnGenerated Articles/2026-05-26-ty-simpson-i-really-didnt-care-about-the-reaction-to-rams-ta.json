@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ty Simpson: I really didn't care about the reaction to Rams taking me in the first round",
-      "description": "\"Everybody can have an opinion, but it’s my job to take care of my business,\" Simpson said.",
-      "url": "https://sports.yahoo.com/articles/ty-simpson-really-didnt-care-084857385.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ty Simpson: I really didn't care about the reaction to Rams taking me in the first round",
       "description": "\"Everybody can have an opinion, but it’s my job to take care of my business,\" Simpson said.",
@@ -35,5 +29,5 @@
     "said"
   ],
   "hash": "6877301d41b22dab",
-  "queuedAt": "2026-05-26T10:30:38.565Z"
+  "queuedAt": "2026-05-26T16:20:24.997Z"
 }

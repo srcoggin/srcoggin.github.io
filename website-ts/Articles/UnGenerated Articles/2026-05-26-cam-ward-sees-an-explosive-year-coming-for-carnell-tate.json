@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cam Ward sees an \"explosive year\" coming for Carnell Tate",
-      "description": "On the outside, the Titans' decision to use the fourth overall pick in the draft on receiver Carnell Tate was a surprise.",
-      "url": "https://sports.yahoo.com/articles/cam-ward-sees-explosive-coming-210340433.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cam Ward sees an \"explosive year\" coming for Carnell Tate",
       "description": "On the outside, the Titans' decision to use the fourth overall pick in the draft on receiver Carnell Tate was a surprise.",
@@ -35,5 +29,5 @@
     "surprise"
   ],
   "hash": "0e54af7ec6c2d480",
-  "queuedAt": "2026-05-26T10:30:38.632Z"
+  "queuedAt": "2026-05-26T16:20:25.958Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Fernando Mendoza wasn't happy to leave work for NFLPA Rookie Premiere",
-      "description": "Raiders quarterback Fernando Mendoza skipped Indiana's visit to the White House so that he could focus on his current job.",
-      "url": "https://sports.yahoo.com/articles/fernando-mendoza-wasnt-happy-leave-164557548.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Fernando Mendoza wasn't happy to leave work for NFLPA Rookie Premiere",
       "description": "Raiders quarterback Fernando Mendoza skipped Indiana's visit to the White House so that he could focus on his current job.",
@@ -39,5 +33,5 @@
     "job"
   ],
   "hash": "dd814f2b42232f7f",
-  "queuedAt": "2026-05-26T10:30:38.800Z"
+  "queuedAt": "2026-05-26T16:20:26.068Z"
 }
