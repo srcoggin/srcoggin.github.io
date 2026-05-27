@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Jets to trade WR Irv Charles to the Seahawks",
-      "description": "The Jets and Seahawks have reportedly agreed to a trade.",
-      "url": "https://sports.yahoo.com/articles/report-jets-trade-wr-irv-155631971.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Jets to trade WR Irv Charles to the Seahawks",
       "description": "The Jets and Seahawks have reportedly agreed to a trade.",
@@ -26,5 +20,5 @@
     "agreed"
   ],
   "hash": "e360e78444023158",
-  "queuedAt": "2026-05-27T16:33:55.176Z"
+  "queuedAt": "2026-05-27T21:04:13.621Z"
 }

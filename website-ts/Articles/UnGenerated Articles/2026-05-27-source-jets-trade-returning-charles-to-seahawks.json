@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "Source: Jets trade returning Charles to Seahawks",
-      "description": "Special teams player Irv Charles is going from the last-place Jets to the Super Bowl champion Seahawks, a source confirmed to ESPN.",
+      "description": "Special teams player Irv Charles is going from the last-place Jets to the Super Bowl champion Seahawks, it was announced on Wednesday.",
       "url": "https://www.espn.com/nfl/story/_/id/48891916/source-jets-trade-special-teamer-irv-charles-seahawks"
     }
   ],
@@ -24,9 +24,9 @@
     "super",
     "bowl",
     "champion",
-    "confirmed",
-    "espn"
+    "announced",
+    "wednesday"
   ],
-  "hash": "34406317717ec79e",
-  "queuedAt": "2026-05-27T16:33:55.412Z"
+  "hash": "fe47d263932b40da",
+  "queuedAt": "2026-05-27T21:04:12.708Z"
 }

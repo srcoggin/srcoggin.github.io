@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Matthew Stafford gets a $5 million raise, and the Rams get control of his rights through 2027",
-      "description": "When the first details of a new contract emerge, they usually lack key details and context.",
-      "url": "https://sports.yahoo.com/articles/matthew-stafford-gets-5-million-143410479.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Matthew Stafford gets a $5 million raise, and the Rams get control of his rights through 2027",
       "description": "When the first details of a new contract emerge, they usually lack key details and context.",
@@ -39,5 +33,5 @@
     "context"
   ],
   "hash": "535194e68e23da3f",
-  "queuedAt": "2026-05-27T16:33:56.555Z"
+  "queuedAt": "2026-05-27T21:04:24.350Z"
 }
