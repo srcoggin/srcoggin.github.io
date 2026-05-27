@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lawyers say Josh Jacobs \"vehemently denies\" criminal charges",
-      "description": "Packers running back Josh Jacobs faces five criminal charges arising from a domestic disturbance over the weekend.",
-      "url": "https://sports.yahoo.com/articles/lawyers-josh-jacobs-vehemently-denies-231804099.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lawyers say Josh Jacobs \"vehemently denies\" criminal charges",
       "description": "Packers running back Josh Jacobs faces five criminal charges arising from a domestic disturbance over the weekend.",
@@ -36,5 +30,5 @@
     "weekend"
   ],
   "hash": "3a8ef74e8f599f65",
-  "queuedAt": "2026-05-27T10:21:56.999Z"
+  "queuedAt": "2026-05-27T16:34:06.465Z"
 }

@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Derwin James reaches 3-year, $75.6 million deal with Chargers to become highest-paid safety in the NFL",
-      "description": "Derwin James is now the league's highest-paid safety for the second time in his career.",
-      "url": "https://sports.yahoo.com/nfl/breaking-news/article/derwin-james-reaches-3-year-756-million-deal-with-chargers-to-become-highest-paid-safety-in-the-nfl-230230705.html"
-    },
-    {
       "name": "CBS Sports NFL",
       "title": "Derwin James signing four-year extension with Chargers, to become highest-paid safety in NFL for second time",
       "description": "James made NFL history for the second time in his career with another lucrative deal",
@@ -18,29 +12,23 @@
   "keywords": [
     "derwin",
     "james",
-    "reaches",
-    "3year",
-    "756",
-    "million",
-    "deal",
+    "signing",
+    "fouryear",
+    "extension",
     "chargers",
     "become",
     "highestpaid",
     "safety",
-    "now",
-    "leagues",
     "second",
     "time",
-    "his",
-    "career",
-    "signing",
-    "fouryear",
-    "extension",
     "made",
     "history",
+    "his",
+    "career",
     "another",
-    "lucrative"
+    "lucrative",
+    "deal"
   ],
-  "hash": "991534238822d298",
-  "queuedAt": "2026-05-27T10:21:56.932Z"
+  "hash": "0a1710600e89c08c",
+  "queuedAt": "2026-05-27T16:34:03.722Z"
 }
