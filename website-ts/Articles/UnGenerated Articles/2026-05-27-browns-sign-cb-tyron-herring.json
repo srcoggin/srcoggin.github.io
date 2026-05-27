@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns sign CB Tyron Herring",
-      "description": "The Browns announced a change to their cornerback group on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/browns-sign-cb-tyron-herring-173723538.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns sign CB Tyron Herring",
       "description": "The Browns announced a change to their cornerback group on Tuesday.",
@@ -28,5 +22,5 @@
     "tuesday"
   ],
   "hash": "fdc4b95b42fcb8da",
-  "queuedAt": "2026-05-27T04:22:14.348Z"
+  "queuedAt": "2026-05-27T10:21:56.790Z"
 }
