@@ -1,0 +1,26 @@
+{
+  "title": "This is a cool thing in Raider Nation",
+  "category": "general",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "This is a cool thing in Raider Nation",
+      "description": "Getting kids to their first Raiders’ game",
+      "url": "https://sports.yahoo.com/articles/cool-thing-raider-nation-140700045.html"
+    }
+  ],
+  "keywords": [
+    "this",
+    "cool",
+    "thing",
+    "raider",
+    "nation",
+    "getting",
+    "kids",
+    "their",
+    "first",
+    "raiders"
+  ],
+  "hash": "95e9127fe2d84b15",
+  "queuedAt": "2026-05-28T16:26:22.295Z"
+}

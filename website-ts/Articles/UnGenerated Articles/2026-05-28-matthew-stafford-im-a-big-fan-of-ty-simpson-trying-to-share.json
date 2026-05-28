@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Matthew Stafford: I'm a big fan of Ty Simpson, trying to share my knowledge with him",
-      "description": "Stafford says he's happy to do everything he can for his rookie teammate.",
-      "url": "https://sports.yahoo.com/articles/matthew-stafford-im-big-fan-082306450.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Matthew Stafford: I'm a big fan of Ty Simpson, trying to share my knowledge with him",
       "description": "Stafford says he's happy to do everything he can for his rookie teammate.",
@@ -34,5 +28,5 @@
     "teammate"
   ],
   "hash": "3b129ec3b76cbe27",
-  "queuedAt": "2026-05-28T10:28:00.086Z"
+  "queuedAt": "2026-05-28T16:26:25.691Z"
 }
