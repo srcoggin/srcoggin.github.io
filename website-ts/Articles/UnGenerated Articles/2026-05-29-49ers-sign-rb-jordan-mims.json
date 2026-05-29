@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers sign RB Jordan Mims",
-      "description": "The 49ers have made an addition to their offensive backfield.",
-      "url": "https://sports.yahoo.com/articles/49ers-sign-rb-jordan-mims-202618472.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers sign RB Jordan Mims",
       "description": "The 49ers have made an addition to their offensive backfield.",
@@ -27,5 +21,5 @@
     "backfield"
   ],
   "hash": "acd4d76a275f0dac",
-  "queuedAt": "2026-05-29T04:28:20.253Z"
+  "queuedAt": "2026-05-29T10:44:28.065Z"
 }
