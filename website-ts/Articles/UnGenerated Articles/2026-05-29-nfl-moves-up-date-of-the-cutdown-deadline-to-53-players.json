@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL moves up date of the cutdown deadline to 53 players",
-      "description": "The NFL has informed teams that this year’s cutdown deadline to 53 players has moved up by two days compared to what it was in recent years.",
-      "url": "https://sports.yahoo.com/articles/nfl-moves-date-cutdown-deadline-234114634.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL moves up date of the cutdown deadline to 53 players",
       "description": "The NFL has informed teams that this year’s cutdown deadline to 53 players has moved up by two days compared to what it was in recent years.",
@@ -34,5 +28,5 @@
     "recent"
   ],
   "hash": "e88388ea6f8f17b0",
-  "queuedAt": "2026-05-29T10:44:17.435Z"
+  "queuedAt": "2026-05-29T16:08:54.146Z"
 }

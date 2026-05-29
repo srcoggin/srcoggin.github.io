@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nick Bosa: Free agent Joey Bosa is working on his golf game right now",
-      "description": "Veteran edge rusher Joey Bosa is one of the top players remaining on the free agent market.",
-      "url": "https://sports.yahoo.com/articles/nick-bosa-free-agent-joey-001417588.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nick Bosa: Free agent Joey Bosa is working on his golf game right now",
       "description": "Veteran edge rusher Joey Bosa is one of the top players remaining on the free agent market.",
@@ -36,5 +30,5 @@
     "market"
   ],
   "hash": "0a5ab50c4b525e6e",
-  "queuedAt": "2026-05-29T10:44:17.323Z"
+  "queuedAt": "2026-05-29T16:08:54.035Z"
 }

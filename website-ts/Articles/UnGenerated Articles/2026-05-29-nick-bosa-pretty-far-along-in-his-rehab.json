@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nick Bosa \"pretty far along\" in his rehab",
-      "description": "49ers edge rusher Nick Bosa tore the ACL in his right knee in a Sept. 21 win over the Cardinals.",
-      "url": "https://sports.yahoo.com/articles/nick-bosa-pretty-far-along-025338351.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nick Bosa \"pretty far along\" in his rehab",
       "description": "49ers edge rusher Nick Bosa tore the ACL in his right knee in a Sept. 21 win over the Cardinals.",
@@ -36,5 +30,5 @@
     "cardinals"
   ],
   "hash": "2cbe0f122a4859d2",
-  "queuedAt": "2026-05-29T10:44:17.211Z"
+  "queuedAt": "2026-05-29T16:08:53.915Z"
 }
