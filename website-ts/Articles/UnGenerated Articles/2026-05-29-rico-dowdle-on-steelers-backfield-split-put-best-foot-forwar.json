@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rico Dowdle on Steelers backfield split: Put best foot forward, the rest takes care of itself",
-      "description": "Rico Dowdle emerged as the lead back with the Panthers during the 2025 season and posted his second straight 1,000-yard season, but he won't be back in Carolina for the 2026 campaign.",
-      "url": "https://sports.yahoo.com/articles/rico-dowdle-steelers-backfield-split-132858255.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rico Dowdle on Steelers backfield split: Put best foot forward, the rest takes care of itself",
       "description": "Rico Dowdle emerged as the lead back with the Panthers during the 2025 season and posted his second straight 1,000-yard season, but he won't be back in Carolina for the 2026 campaign.",
@@ -45,5 +39,5 @@
     "campaign"
   ],
   "hash": "2ad90ee18abe2493",
-  "queuedAt": "2026-05-29T16:08:47.496Z"
+  "queuedAt": "2026-05-29T20:57:24.412Z"
 }

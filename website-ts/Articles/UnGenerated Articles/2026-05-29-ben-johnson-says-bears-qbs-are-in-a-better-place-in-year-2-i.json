@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ben Johnson says Bears' QBs are in a better place in Year 2 in his offense",
-      "description": "The Bears have kept stability at the most important position, with Caleb Williams remaining in place as the franchise quarterback and both of last year's backups, Tyson Bagent and Case Keenum, back as well.",
-      "url": "https://sports.yahoo.com/articles/ben-johnson-says-bears-qbs-131902707.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ben Johnson says Bears' QBs are in a better place in Year 2 in his offense",
       "description": "The Bears have kept stability at the most important position, with Caleb Williams remaining in place as the franchise quarterback and both of last year's backups, Tyson Bagent and Case Keenum, back as well.",
@@ -46,5 +40,5 @@
     "well"
   ],
   "hash": "9f700aa30f4860eb",
-  "queuedAt": "2026-05-29T16:08:47.636Z"
+  "queuedAt": "2026-05-29T20:57:24.139Z"
 }
