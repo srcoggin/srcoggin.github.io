@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants sign first-round pick Arvell Reese",
-      "description": "The Giants have their top pick from this year's draft under contract.",
-      "url": "https://sports.yahoo.com/articles/giants-sign-first-round-pick-193745081.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants sign first-round pick Arvell Reese",
       "description": "The Giants have their top pick from this year's draft under contract.",
@@ -30,5 +24,5 @@
     "contract"
   ],
   "hash": "6fbad066b08a53bd",
-  "queuedAt": "2026-05-30T14:11:01.295Z"
+  "queuedAt": "2026-05-30T19:55:11.301Z"
 }

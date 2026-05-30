@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks agree to terms with first-rounder Jadarian Price",
-      "description": "Another first-round pick has agreed to their first NFL contract.",
-      "url": "https://sports.yahoo.com/articles/seahawks-agree-terms-first-rounder-205024162.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks agree to terms with first-rounder Jadarian Price",
       "description": "Another first-round pick has agreed to their first NFL contract.",
@@ -31,5 +25,5 @@
     "contract"
   ],
   "hash": "e79d3261b6c354f8",
-  "queuedAt": "2026-05-30T14:11:01.224Z"
+  "queuedAt": "2026-05-30T19:55:11.212Z"
 }
