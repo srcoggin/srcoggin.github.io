@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "ESPN NFL",
-      "title": "Source: Steelers assistant fired for misconduct",
-      "description": "The Steelers have fired senior special teams assistant Derius Swinton II for a violation of club policy, sources told ESPN.",
-      "url": "https://www.espn.com/nfl/story/_/id/48912033/sources-steelers-fire-assistant-swinton-months-job"
-    },
-    {
       "name": "Yahoo Sports NFL",
       "title": "Steelers part with special teams assistant coach due to violation of club policy",
       "description": "The Pittsburgh Steelers parted ways with senior assistant special teams coach Derius Swinton II due to a violation of club policy, ESPN reported.",
@@ -16,30 +10,25 @@
     }
   ],
   "keywords": [
-    "source",
     "steelers",
-    "assistant",
-    "fired",
-    "misconduct",
-    "senior",
+    "part",
     "special",
     "teams",
-    "derius",
-    "swinton",
+    "assistant",
+    "coach",
+    "due",
     "violation",
     "club",
     "policy",
-    "sources",
-    "told",
-    "espn",
-    "part",
-    "coach",
-    "due",
     "pittsburgh",
     "parted",
     "ways",
+    "senior",
+    "derius",
+    "swinton",
+    "espn",
     "reported"
   ],
-  "hash": "114a088c8262c67d",
-  "queuedAt": "2026-05-30T04:19:49.607Z"
+  "hash": "31371dd54a74931b",
+  "queuedAt": "2026-05-30T08:49:54.748Z"
 }
