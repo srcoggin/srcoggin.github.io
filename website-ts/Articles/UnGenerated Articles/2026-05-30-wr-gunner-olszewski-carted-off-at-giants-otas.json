@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "WR Gunner Olszewski carted off at Giants OTAs",
-      "description": "The Giants lost defensive tackle Roy Robertson-Harris to an Achilles tear this month and they had another member of the team go down with an apparent injury at Friday's OTA practice.",
-      "url": "https://sports.yahoo.com/articles/wr-gunner-olszewski-carted-off-182016896.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "WR Gunner Olszewski carted off at Giants OTAs",
       "description": "The Giants lost defensive tackle Roy Robertson-Harris to an Achilles tear this month and they had another member of the team go down with an apparent injury at Friday's OTA practice.",
@@ -42,5 +36,5 @@
     "practice"
   ],
   "hash": "8edbc3d2b1fe8cbc",
-  "queuedAt": "2026-05-30T08:49:55.418Z"
+  "queuedAt": "2026-05-30T14:11:07.103Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Steelers dismiss senior assistant ST coach Derius Swinton for violating team policy",
-      "description": "The Steelers hired Derius Swinton as a senior assistant special teams coach this offseason, but he won't be with the team for the 2026 season.",
-      "url": "https://sports.yahoo.com/articles/report-steelers-dismiss-senior-assistant-155401898.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Steelers dismiss senior assistant ST coach Derius Swinton for violating team policy",
       "description": "The Steelers hired Derius Swinton as a senior assistant special teams coach this offseason, but he won't be with the team for the 2026 season.",
@@ -35,5 +29,5 @@
     "2026"
   ],
   "hash": "91475831e7dfe297",
-  "queuedAt": "2026-05-30T08:49:54.414Z"
+  "queuedAt": "2026-05-30T14:11:01.060Z"
 }
