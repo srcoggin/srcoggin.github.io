@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Steelers fired Derius Swinton for \"workplace misconduct\"",
-      "description": "On Friday morning, ESPN reported that the Steelers had fired seniors special-teams assistant Derius Swinton II for a violation of team policy.",
-      "url": "https://sports.yahoo.com/articles/report-steelers-fired-derius-swinton-153808093.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Steelers fired Derius Swinton for \"workplace misconduct\"",
       "description": "On Friday morning, ESPN reported that the Steelers had fired seniors special-teams assistant Derius Swinton II for a violation of team policy.",
@@ -35,5 +29,5 @@
     "policy"
   ],
   "hash": "365b6435bed2526b",
-  "queuedAt": "2026-05-31T09:15:00.315Z"
+  "queuedAt": "2026-05-31T14:21:44.702Z"
 }

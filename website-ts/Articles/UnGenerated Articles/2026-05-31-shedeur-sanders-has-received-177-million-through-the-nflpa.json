@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Shedeur Sanders has received $17.7 million through the NFLPA",
-      "description": "Sanders shatters Tom Brady's one-year record for royalties payments.",
-      "url": "https://sports.yahoo.com/articles/shedeur-sanders-received-17-7-130354390.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Shedeur Sanders has received $17.7 million through the NFLPA",
       "description": "Sanders shatters Tom Brady's one-year record for royalties payments.",
@@ -31,5 +25,5 @@
     "payments"
   ],
   "hash": "3d2cb8f48c1338e9",
-  "queuedAt": "2026-05-31T09:15:01.471Z"
+  "queuedAt": "2026-05-31T14:21:50.414Z"
 }
