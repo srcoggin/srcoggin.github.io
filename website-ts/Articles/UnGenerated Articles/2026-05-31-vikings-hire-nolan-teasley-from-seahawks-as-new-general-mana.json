@@ -3,51 +3,37 @@
   "category": "coaching",
   "sources": [
     {
+      "name": "ESPN NFL",
+      "title": "Sources: Vikings hire Seahawks' Teasley as GM",
+      "description": "The Vikings have hired Nolan Teasley as their general manager, sources told NFL Network, concluding an unusual chapter for the franchise.",
+      "url": "https://www.espn.com/nfl/story/_/id/48920534/sources-vikings-hire-seahawks-nolan-teasley-new-gm"
+    },
+    {
       "name": "Yahoo Sports NFL",
       "title": "Vikings hire Nolan Teasley from Seahawks as new general manager",
       "description": "The Vikings have their new general manager.",
       "url": "https://sports.yahoo.com/articles/vikings-hire-nolan-teasley-seahawks-201949883.html"
-    },
-    {
-      "name": "Yahoo Sports NFL",
-      "title": "Vikings Hire Nolan Teasley as New General Manager",
-      "description": "The Vikings hire someone from Vikings West",
-      "url": "https://sports.yahoo.com/articles/vikings-hire-nolan-teasley-general-190930962.html"
-    },
-    {
-      "name": "Yahoo Sports NFL",
-      "title": "Vikings agree to hire Nolan Teasley as their new GM",
-      "description": "The former Assistant General Manager of the Seahawks gets the top job in the Vikings' front office.",
-      "url": "https://sports.yahoo.com/articles/vikings-agree-hire-nolan-teasley-180411324.html"
-    },
-    {
-      "name": "Pro Football Talk",
-      "title": "Vikings agree to hire Nolan Teasley as their new GM",
-      "description": "The former Assistant General Manager of the Seahawks gets the top job in the Vikings' front office.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-agree-to-hire-nolan-teasley-as-their-new-gm"
     }
   ],
   "keywords": [
+    "sources",
     "vikings",
     "hire",
-    "nolan",
-    "teasley",
     "seahawks",
-    "new",
+    "teasley",
+    "hired",
+    "nolan",
+    "their",
     "general",
     "manager",
-    "their",
-    "someone",
-    "west",
-    "agree",
-    "former",
-    "assistant",
-    "gets",
-    "top",
-    "job",
-    "front",
-    "office"
+    "told",
+    "network",
+    "concluding",
+    "unusual",
+    "chapter",
+    "franchise",
+    "new"
   ],
-  "hash": "8cfdc7f747a272f7",
-  "queuedAt": "2026-05-31T04:48:30.727Z"
+  "hash": "e2d1ec7c5f70b083",
+  "queuedAt": "2026-05-31T09:15:00.243Z"
 }
