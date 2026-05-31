@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Travis Hunter earned $12.8 million from NFLPA in his first year",
-      "description": "It's unknown whether Travis Hunter will become an effective two-way player in the NFL.",
-      "url": "https://sports.yahoo.com/articles/travis-hunter-earned-12-8-172214656.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Travis Hunter earned $12.8 million from NFLPA in his first year",
       "description": "It's unknown whether Travis Hunter will become an effective two-way player in the NFL.",
@@ -32,5 +26,5 @@
     "twoway"
   ],
   "hash": "9047e137be0a0bf4",
-  "queuedAt": "2026-05-31T14:21:45.462Z"
+  "queuedAt": "2026-05-31T19:48:00.334Z"
 }
