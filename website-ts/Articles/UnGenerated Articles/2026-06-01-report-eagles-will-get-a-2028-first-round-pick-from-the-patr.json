@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Eagles will get a 2028 first-round pick from the Patriots for A.J. Brown",
-      "description": "As soon as 4:01 p.m.",
-      "url": "https://sports.yahoo.com/articles/report-eagles-2028-first-round-164749330.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Eagles will get a 2028 first-round pick from the Patriots for A.J. Brown",
       "description": "As soon as 4:01 p.m.",
@@ -28,5 +22,5 @@
     "401"
   ],
   "hash": "4a5a442d5abe0b81",
-  "queuedAt": "2026-06-01T18:09:26.103Z"
+  "queuedAt": "2026-06-01T21:55:18.316Z"
 }

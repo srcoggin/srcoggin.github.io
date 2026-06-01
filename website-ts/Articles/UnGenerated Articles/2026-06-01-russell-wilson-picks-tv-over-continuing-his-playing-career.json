@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Russell Wilson picks TV over continuing his playing career",
-      "description": "Wilson passes on chance to be Geno Smith's backup with the Jets.",
-      "url": "https://sports.yahoo.com/articles/russell-wilson-picks-tv-over-162538762.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Russell Wilson picks TV over continuing his playing career",
       "description": "Wilson passes on chance to be Geno Smith's backup with the Jets.",
@@ -32,5 +26,5 @@
     "jets"
   ],
   "hash": "576668f0c73858d9",
-  "queuedAt": "2026-06-01T18:09:27.039Z"
+  "queuedAt": "2026-06-01T21:55:22.497Z"
 }

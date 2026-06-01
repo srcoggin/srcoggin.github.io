@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys sign WR Romello Brinson",
-      "description": "The retirement of Parris Campbell opened a spot on the Cowboys' 90-man roster when he retired last week and the team filled it on Monday.",
-      "url": "https://sports.yahoo.com/articles/cowboys-sign-wr-romello-brinson-171639698.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys sign WR Romello Brinson",
       "description": "The retirement of Parris Campbell opened a spot on the Cowboys' 90-man roster when he retired last week and the team filled it on Monday.",
@@ -33,5 +27,5 @@
     "monday"
   ],
   "hash": "4e0c6b358850dccd",
-  "queuedAt": "2026-06-01T18:09:26.728Z"
+  "queuedAt": "2026-06-01T21:55:22.380Z"
 }

@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants agree to sign Braxton Berrios to one-year deal",
-      "description": "The Giants are looking at a few veteran receivers, but they already know one player at the position they want on their roster.",
-      "url": "https://sports.yahoo.com/articles/giants-agree-sign-braxton-berrios-155855972.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants agree to sign Braxton Berrios to one-year deal",
       "description": "The Giants are looking at a few veteran receivers, but they already know one player at the position they want on their roster.",
@@ -36,5 +30,5 @@
     "roster"
   ],
   "hash": "e980706b5972ec2b",
-  "queuedAt": "2026-06-01T18:09:27.142Z"
+  "queuedAt": "2026-06-01T21:55:22.778Z"
 }

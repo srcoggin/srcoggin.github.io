@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bills sign WR Mac Dalena, waive CB Daryl Porter",
-      "description": "The Bills announced a couple of roster moves on Monday.",
-      "url": "https://sports.yahoo.com/articles/bills-sign-wr-mac-dalena-170228504.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bills sign WR Mac Dalena, waive CB Daryl Porter",
       "description": "The Bills announced a couple of roster moves on Monday.",
@@ -30,5 +24,5 @@
     "monday"
   ],
   "hash": "40fd55b88a299a18",
-  "queuedAt": "2026-06-01T18:09:26.045Z"
+  "queuedAt": "2026-06-01T21:55:18.264Z"
 }
