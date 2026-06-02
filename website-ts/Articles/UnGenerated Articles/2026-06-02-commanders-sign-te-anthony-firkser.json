@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Commanders sign TE Anthony Firkser",
-      "description": "Veteran tight end Anthony Firkser has found a new team.",
-      "url": "https://sports.yahoo.com/articles/commanders-sign-te-anthony-firkser-164659737.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Commanders sign TE Anthony Firkser",
       "description": "Veteran tight end Anthony Firkser has found a new team.",
@@ -27,5 +21,5 @@
     "new"
   ],
   "hash": "9aa7bb6ee9ae6e0b",
-  "queuedAt": "2026-06-02T17:02:03.462Z"
+  "queuedAt": "2026-06-02T21:14:21.137Z"
 }

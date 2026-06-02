@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Vrabel calls Julian Hill's injury, \"Devastating. Awful.\"",
-      "description": "Patriots tight end Julian Hill's season ended before it began with an injury in a voluntary offseason practice, and head coach Mike Vrabel said today that he feels terrible about it.",
-      "url": "https://sports.yahoo.com/articles/mike-vrabel-calls-julian-hills-165405329.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Vrabel calls Julian Hill's injury, \"Devastating. Awful.\"",
       "description": "Patriots tight end Julian Hill's season ended before it began with an injury in a voluntary offseason practice, and head coach Mike Vrabel said today that he feels terrible about it.",
@@ -42,5 +36,5 @@
     "about"
   ],
   "hash": "cc5d70baba6baeb0",
-  "queuedAt": "2026-06-02T17:02:03.408Z"
+  "queuedAt": "2026-06-02T21:14:21.087Z"
 }

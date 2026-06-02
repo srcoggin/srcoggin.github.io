@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Odell Beckham Jr. and the other new Giants receivers got one-year minimum deals",
-      "description": "The Giants added a trio of veteran receivers on Monday, at a very minimal investment.",
-      "url": "https://sports.yahoo.com/articles/odell-beckham-jr-other-giants-164521039.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Odell Beckham Jr. and the other new Giants receivers got one-year minimum deals",
       "description": "The Giants added a trio of veteran receivers on Monday, at a very minimal investment.",
@@ -33,5 +27,5 @@
     "investment"
   ],
   "hash": "ebc3c328273baa18",
-  "queuedAt": "2026-06-02T17:02:03.527Z"
+  "queuedAt": "2026-06-02T21:14:20.999Z"
 }
