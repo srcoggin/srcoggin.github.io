@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "A.J. Brown says his knees are fine: Nothing to worry about",
-      "description": "Patriots wide receiver A.J.",
-      "url": "https://sports.yahoo.com/articles/j-brown-says-knees-fine-021750158.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "A.J. Brown says his knees are fine: Nothing to worry about",
       "description": "Patriots wide receiver A.J.",
@@ -29,5 +23,5 @@
     "receiver"
   ],
   "hash": "20b7f2d402b4f04f",
-  "queuedAt": "2026-06-03T11:58:15.683Z"
+  "queuedAt": "2026-06-03T17:17:44.586Z"
 }
