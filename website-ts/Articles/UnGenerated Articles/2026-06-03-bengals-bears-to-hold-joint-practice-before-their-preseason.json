@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bengals-Bears to hold joint practice before their preseason game",
-      "description": "The Bengals and Bears will hold a joint practice ahead of their Aug. 22 preseason game at Paycor Stadium.",
-      "url": "https://sports.yahoo.com/articles/bengals-bears-hold-joint-practice-204724461.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bengals-Bears to hold joint practice before their preseason game",
       "description": "The Bengals and Bears will hold a joint practice ahead of their Aug. 22 preseason game at Paycor Stadium.",
@@ -30,5 +24,5 @@
     "stadium"
   ],
   "hash": "428e4b61b9f62995",
-  "queuedAt": "2026-06-03T04:48:56.128Z"
+  "queuedAt": "2026-06-03T11:58:26.951Z"
 }

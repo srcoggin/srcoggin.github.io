@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers sign S Ashtyn Davis to a one-year deal",
-      "description": "The 49ers signed safety Ashtyn Davis to a one-year deal, the team announced Tuesday.",
-      "url": "https://sports.yahoo.com/articles/49ers-sign-ashtyn-davis-one-214813586.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers sign S Ashtyn Davis to a one-year deal",
       "description": "The 49ers signed safety Ashtyn Davis to a one-year deal, the team announced Tuesday.",
@@ -28,5 +22,5 @@
     "tuesday"
   ],
   "hash": "b8bdc9d07c5a179e",
-  "queuedAt": "2026-06-03T04:48:55.085Z"
+  "queuedAt": "2026-06-03T11:58:15.434Z"
 }

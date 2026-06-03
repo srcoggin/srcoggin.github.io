@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nick Herbig agrees to four-year extension with Steelers",
-      "description": "Nick Herbig is in the final year of his rookie deal, but the edge rusher won't be hitting free agency in 2027.",
-      "url": "https://sports.yahoo.com/articles/nick-herbig-agrees-four-extension-204135438.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nick Herbig agrees to four-year extension with Steelers",
       "description": "Nick Herbig is in the final year of his rookie deal, but the edge rusher won't be hitting free agency in 2027.",
@@ -35,5 +29,5 @@
     "2027"
   ],
   "hash": "ec8c09408f0ca5f5",
-  "queuedAt": "2026-06-03T04:48:56.199Z"
+  "queuedAt": "2026-06-03T11:58:27.088Z"
 }
