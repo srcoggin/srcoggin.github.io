@@ -4,6 +4,24 @@
   "sources": [
     {
       "name": "CBS Sports NFL",
+      "title": "Betting the Chiefs in 2026: See how Kansas City&#039;s win total, Super Bowl odds are trending and our best bets",
+      "description": "We&#039;re breaking down Chiefs futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-chiefs-in-2026-see-how-kansas-citys-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Betting the Cardinals in 2026: See how Arizona&#039;s win total, Super Bowl odds are trending and our best bets",
+      "description": "We&#039;re breaking down Cardinals futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-cardinals-in-2026-see-how-arizonas-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Betting the Broncos in 2026: See how Denver&#039;s win total, Super Bowl odds are trending and our best bets",
+      "description": "We&#039;re breaking down Broncos futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-broncos-in-2026-see-how-denvers-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "name": "CBS Sports NFL",
       "title": "Betting the Buccaneers in 2026: See how Tampa Bay&#039;s win total, Super Bowl odds are trending and our best bets",
       "description": "We&#039;re breaking down Buccaneers futures in our 2026 betting preview, featuring odds, trends, schedule and more",
       "url": "https://www.cbssports.com/nfl/news/betting-the-buccaneers-in-2026-see-how-tampa-bays-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
@@ -43,39 +61,15 @@
       "title": "Betting the Falcons in 2026: See how Atlanta&#039;s win total, Super Bowl odds are trending and our best bets",
       "description": "We&#039;re breaking down Falcons futures in our 2026 betting preview, featuring odds, trends, schedule and more",
       "url": "https://www.cbssports.com/nfl/news/betting-the-falcons-in-2026-see-how-atlantas-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "name": "CBS Sports NFL",
-      "title": "Betting the Texans in 2026: See how Houston&#039;s win total, Super Bowl odds are trending and our best bets",
-      "description": "We&#039;re breaking down Texans futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-texans-in-2026-see-how-houstons-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "name": "CBS Sports NFL",
-      "title": "Betting the Vikings in 2026: See how Minnesota&#039;s win total, Super Bowl odds are trending and our best bets",
-      "description": "We&#039;re breaking down Vikings futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-vikings-in-2026-see-how-minnesotas-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "name": "CBS Sports NFL",
-      "title": "Betting the Steelers in 2026: See how Pittsburgh&#039;s win total, Super Bowl odds are trending and our best bets",
-      "description": "We&#039;re breaking down Steelers futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-steelers-in-2026-see-how-pittsburghs-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "name": "CBS Sports NFL",
-      "title": "Betting the Packers in 2026: See how Green Bay&#039;s win total, Super Bowl odds are trending and our best bets",
-      "description": "We&#039;re breaking down Packers futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-packers-in-2026-see-how-green-bays-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
     }
   ],
   "keywords": [
     "betting",
-    "buccaneers",
+    "chiefs",
     "2026",
     "see",
-    "tampa",
-    "bay039s",
+    "kansas",
+    "city039s",
     "win",
     "total",
     "super",
@@ -93,6 +87,13 @@
     "featuring",
     "trends",
     "schedule",
+    "cardinals",
+    "arizona039s",
+    "broncos",
+    "denver039s",
+    "buccaneers",
+    "tampa",
+    "bay039s",
     "titans",
     "tennessee039s",
     "saints",
@@ -105,16 +106,8 @@
     "colts",
     "indianapolis039",
     "falcons",
-    "atlanta039s",
-    "texans",
-    "houston039s",
-    "vikings",
-    "minnesota039s",
-    "steelers",
-    "pittsburgh039s",
-    "packers",
-    "green"
+    "atlanta039s"
   ],
-  "hash": "0e3a13c5ebcd7cb4",
-  "queuedAt": "2026-06-04T10:44:18.330Z"
+  "hash": "a01863300e25a9db",
+  "queuedAt": "2026-06-04T15:52:06.187Z"
 }

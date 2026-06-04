@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "T.J. Watt indicates he will move around in Patrick Graham's defense",
-      "description": "Steelers edge rusher T.J.",
-      "url": "https://sports.yahoo.com/articles/t-j-watt-indicates-move-010344422.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "T.J. Watt indicates he will move around in Patrick Graham's defense",
       "description": "Steelers edge rusher T.J.",
@@ -28,5 +22,5 @@
     "rusher"
   ],
   "hash": "30802bfe9e72d8b7",
-  "queuedAt": "2026-06-04T10:44:20.692Z"
+  "queuedAt": "2026-06-04T15:52:14.972Z"
 }

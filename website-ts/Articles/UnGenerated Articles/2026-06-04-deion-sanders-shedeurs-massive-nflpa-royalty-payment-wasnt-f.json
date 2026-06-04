@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Deion Sanders: Shedeur's massive NFLPA royalty payment wasn't from jersey sales",
-      "description": "The recent federal LM-2 filing from the NFL Players Association including a stunning revelation regarding Browns quarterback Shedeur Sanders.",
-      "url": "https://sports.yahoo.com/articles/deion-sanders-shedeurs-massive-nflpa-000033041.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Deion Sanders: Shedeur's massive NFLPA royalty payment wasn't from jersey sales",
       "description": "The recent federal LM-2 filing from the NFL Players Association including a stunning revelation regarding Browns quarterback Shedeur Sanders.",
@@ -41,5 +35,5 @@
     "shedeur"
   ],
   "hash": "d6e05fcc38d21797",
-  "queuedAt": "2026-06-04T10:44:20.799Z"
+  "queuedAt": "2026-06-04T15:52:15.115Z"
 }
