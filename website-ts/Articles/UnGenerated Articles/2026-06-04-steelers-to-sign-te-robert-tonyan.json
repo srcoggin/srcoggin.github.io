@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers to sign TE Robert Tonyan",
-      "description": "The Steelers are bringing in a veteran tight end who will be a familiar face to some in the building.",
-      "url": "https://sports.yahoo.com/articles/steelers-sign-te-robert-tonyan-145911513.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers to sign TE Robert Tonyan",
       "description": "The Steelers are bringing in a veteran tight end who will be a familiar face to some in the building.",
@@ -30,5 +24,5 @@
     "building"
   ],
   "hash": "a0f272a75c5fa813",
-  "queuedAt": "2026-06-04T15:52:07.242Z"
+  "queuedAt": "2026-06-04T20:33:07.999Z"
 }

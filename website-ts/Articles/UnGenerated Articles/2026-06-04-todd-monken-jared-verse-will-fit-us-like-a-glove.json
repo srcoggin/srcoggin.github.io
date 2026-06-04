@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Todd Monken: Jared Verse will fit us like a glove",
-      "description": "New Browns head coach Todd Monken did not get to meet Myles Garrett in person before the club traded him to the Rams earlier this week.",
-      "url": "https://sports.yahoo.com/articles/todd-monken-jared-verse-fit-134113515.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Todd Monken: Jared Verse will fit us like a glove",
       "description": "New Browns head coach Todd Monken did not get to meet Myles Garrett in person before the club traded him to the Rams earlier this week.",
@@ -40,5 +34,5 @@
     "this"
   ],
   "hash": "addcc986b9453b9e",
-  "queuedAt": "2026-06-04T15:52:07.383Z"
+  "queuedAt": "2026-06-04T20:33:08.481Z"
 }

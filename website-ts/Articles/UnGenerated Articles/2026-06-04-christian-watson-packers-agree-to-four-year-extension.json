@@ -3,6 +3,12 @@
   "category": "trades",
   "sources": [
     {
+      "name": "Yahoo Sports NFL",
+      "title": "Christian Watson, Packers agree to four-year extension",
+      "description": "Watson's new deal is worth a reported $110.5 million with $31 million guaranteed.",
+      "url": "https://sports.yahoo.com/articles/christian-watson-packers-agree-four-154640361.html"
+    },
+    {
       "name": "Pro Football Talk",
       "title": "Christian Watson, Packers agree to four-year extension",
       "description": "Watson's new deal is worth a reported $110.5 million with $31 million guaranteed.",
@@ -26,5 +32,5 @@
     "guaranteed"
   ],
   "hash": "9279439049497c0b",
-  "queuedAt": "2026-06-04T15:52:06.941Z"
+  "queuedAt": "2026-06-04T20:33:02.948Z"
 }

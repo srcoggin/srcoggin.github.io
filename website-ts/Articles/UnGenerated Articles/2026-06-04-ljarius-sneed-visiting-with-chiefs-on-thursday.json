@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "L'Jarius Sneed visiting with Chiefs on Thursday",
-      "description": "There may be a reunion in Kansas City.",
-      "url": "https://sports.yahoo.com/articles/ljarius-sneed-visiting-chiefs-thursday-144223594.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "L'Jarius Sneed visiting with Chiefs on Thursday",
       "description": "There may be a reunion in Kansas City.",
@@ -26,5 +20,5 @@
     "city"
   ],
   "hash": "d4bbe94f04c3d691",
-  "queuedAt": "2026-06-04T15:52:07.314Z"
+  "queuedAt": "2026-06-04T20:33:08.052Z"
 }

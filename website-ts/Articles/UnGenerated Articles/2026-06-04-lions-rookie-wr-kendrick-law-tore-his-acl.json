@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions rookie WR Kendrick Law tore his ACL",
-      "description": "Lions rookie wideout Kendrick Law will have to wait until 2027 to make his NFL debut.",
-      "url": "https://sports.yahoo.com/articles/lions-rookie-wr-kendrick-law-152119832.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions rookie WR Kendrick Law tore his ACL",
       "description": "Lions rookie wideout Kendrick Law will have to wait until 2027 to make his NFL debut.",
@@ -31,5 +25,5 @@
     "debut"
   ],
   "hash": "ca412d2b60782fc5",
-  "queuedAt": "2026-06-04T15:52:07.170Z"
+  "queuedAt": "2026-06-04T20:33:07.934Z"
 }

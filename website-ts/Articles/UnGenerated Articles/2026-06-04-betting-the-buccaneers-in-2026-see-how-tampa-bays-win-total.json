@@ -4,6 +4,36 @@
   "sources": [
     {
       "name": "CBS Sports NFL",
+      "title": "Betting the Seahawks in 2026: See how Seattle&#039;s win total, Super Bowl odds are trending and our best bets",
+      "description": "We&#039;re breaking down Seahawks futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-seahawks-in-2026-see-how-seattles-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Betting the Chargers in 2026: See how Los Angeles&#039; win total, Super Bowl odds are trending and our best bets",
+      "description": "We&#039;re breaking down Chargers futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-chargers-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Betting the 49ers in 2026: See how San Francisco&#039;s win total, Super Bowl odds are trending and our best bets",
+      "description": "We&#039;re breaking down 49ers futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-49ers-in-2026-see-how-san-franciscos-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Betting the Raiders in 2026: See how Las Vegas&#039; win total, Super Bowl odds are trending and our best bets",
+      "description": "We&#039;re breaking down Raiders futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-raiders-in-2026-see-how-las-vegas-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Betting the Rams in 2026: See how Los Angeles&#039; win total, Super Bowl odds are trending and our best bets",
+      "description": "We&#039;re breaking down Rams futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "name": "CBS Sports NFL",
       "title": "Betting the Chiefs in 2026: See how Kansas City&#039;s win total, Super Bowl odds are trending and our best bets",
       "description": "We&#039;re breaking down Chiefs futures in our 2026 betting preview, featuring odds, trends, schedule and more",
       "url": "https://www.cbssports.com/nfl/news/betting-the-chiefs-in-2026-see-how-kansas-citys-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
@@ -31,45 +61,14 @@
       "title": "Betting the Titans in 2026: See how Tennessee&#039;s win total, Super Bowl odds are trending and our best bets",
       "description": "We&#039;re breaking down Titans futures in our 2026 betting preview, featuring odds, trends, schedule and more",
       "url": "https://www.cbssports.com/nfl/news/betting-the-titans-in-2026-see-how-tennessees-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "name": "CBS Sports NFL",
-      "title": "Betting the Saints in 2026: See how New Orleans&#039; win total, Super Bowl odds are trending and our best bets",
-      "description": "We&#039;re breaking down Saints futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-saints-in-2026-see-how-new-orleans-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "name": "CBS Sports NFL",
-      "title": "Betting the Jaguars in 2026: See how Jacksonville&#039;s win total, Super Bowl odds are trending and our best bets",
-      "description": "We&#039;re breaking down Jaguars futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-jaguars-in-2026-see-how-jacksonvilles-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "name": "CBS Sports NFL",
-      "title": "Betting the Panthers in 2026: See how Carolina&#039;s win total, Super Bowl odds are trending and our best bets",
-      "description": "We&#039;re breaking down Panthers futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-panthers-in-2026-see-how-carolinas-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "name": "CBS Sports NFL",
-      "title": "Betting the Colts in 2026: See how Indianapolis&#039; win total, Super Bowl odds are trending and our best bets",
-      "description": "We&#039;re breaking down Colts futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-colts-in-2026-see-how-indianapolis-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
-    },
-    {
-      "name": "CBS Sports NFL",
-      "title": "Betting the Falcons in 2026: See how Atlanta&#039;s win total, Super Bowl odds are trending and our best bets",
-      "description": "We&#039;re breaking down Falcons futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-falcons-in-2026-see-how-atlantas-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
     }
   ],
   "keywords": [
     "betting",
-    "chiefs",
+    "seahawks",
     "2026",
     "see",
-    "kansas",
-    "city039s",
+    "seattle039s",
     "win",
     "total",
     "super",
@@ -87,6 +86,19 @@
     "featuring",
     "trends",
     "schedule",
+    "chargers",
+    "los",
+    "angeles039",
+    "49ers",
+    "san",
+    "francisco039s",
+    "raiders",
+    "las",
+    "vegas039",
+    "rams",
+    "chiefs",
+    "kansas",
+    "city039s",
     "cardinals",
     "arizona039s",
     "broncos",
@@ -95,19 +107,8 @@
     "tampa",
     "bay039s",
     "titans",
-    "tennessee039s",
-    "saints",
-    "new",
-    "orleans039",
-    "jaguars",
-    "jacksonville039s",
-    "panthers",
-    "carolina039s",
-    "colts",
-    "indianapolis039",
-    "falcons",
-    "atlanta039s"
+    "tennessee039s"
   ],
-  "hash": "a01863300e25a9db",
-  "queuedAt": "2026-06-04T15:52:06.187Z"
+  "hash": "12b6d1230a2ca71b",
+  "queuedAt": "2026-06-04T20:33:02.742Z"
 }
