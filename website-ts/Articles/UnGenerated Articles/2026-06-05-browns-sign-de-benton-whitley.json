@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns sign DE Benton Whitley",
-      "description": "The Browns signed free agent defensive end Benton Whitley, the team announced on Thursday.",
-      "url": "https://sports.yahoo.com/articles/browns-sign-benton-whitley-223059610.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns sign DE Benton Whitley",
       "description": "The Browns signed free agent defensive end Benton Whitley, the team announced on Thursday.",
@@ -29,5 +23,5 @@
     "thursday"
   ],
   "hash": "e9edef9e2d9a045d",
-  "queuedAt": "2026-06-05T10:44:06.417Z"
+  "queuedAt": "2026-06-05T15:27:22.384Z"
 }

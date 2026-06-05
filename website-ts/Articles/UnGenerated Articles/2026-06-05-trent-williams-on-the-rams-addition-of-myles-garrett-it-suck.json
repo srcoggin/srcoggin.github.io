@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Trent Williams on the Rams' addition of Myles Garrett: It sucks",
-      "description": "The Rams' trade for Myles Garrett on Monday made the reigning Defensive Player of the Year the NFC West's problem.",
-      "url": "https://sports.yahoo.com/articles/trent-williams-rams-addition-myles-012352370.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Trent Williams on the Rams' addition of Myles Garrett: It sucks",
       "description": "The Rams' trade for Myles Garrett on Monday made the reigning Defensive Player of the Year the NFC West's problem.",
@@ -33,5 +27,5 @@
     "problem"
   ],
   "hash": "4251aba7eb7fc642",
-  "queuedAt": "2026-06-05T10:44:08.847Z"
+  "queuedAt": "2026-06-05T15:27:27.903Z"
 }

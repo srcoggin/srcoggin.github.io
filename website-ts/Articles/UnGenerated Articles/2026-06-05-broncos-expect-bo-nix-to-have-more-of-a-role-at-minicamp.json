@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos expect Bo Nix to have \"more of a role\" at minicamp",
-      "description": "Nix is recovering from the fractured ankle he suffered in the postseason.",
-      "url": "https://sports.yahoo.com/articles/broncos-expect-bo-nix-more-191834478.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos expect Bo Nix to have \"more of a role\" at minicamp",
       "description": "Nix is recovering from the fractured ankle he suffered in the postseason.",
@@ -28,5 +22,5 @@
     "postseason"
   ],
   "hash": "50117b543482a54a",
-  "queuedAt": "2026-06-05T10:44:10.077Z"
+  "queuedAt": "2026-06-05T15:27:28.692Z"
 }

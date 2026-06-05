@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brian Flores wins Halas Award from the PFWA for overcoming adversity",
-      "description": "The Pro Football Writers of America announced Vikings defensive coordinator Brian Flores as the 2026 George Halas Award winner.",
-      "url": "https://sports.yahoo.com/articles/brian-flores-wins-halas-award-195440753.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brian Flores wins Halas Award from the PFWA for overcoming adversity",
       "description": "The Pro Football Writers of America announced Vikings defensive coordinator Brian Flores as the 2026 George Halas Award winner.",
@@ -36,5 +30,5 @@
     "winner"
   ],
   "hash": "f65595f687e7def3",
-  "queuedAt": "2026-06-05T10:44:06.582Z"
+  "queuedAt": "2026-06-05T15:27:22.482Z"
 }

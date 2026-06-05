@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaguars sign CB Dane Jackson, OL Trystan Colon",
-      "description": "The Jaguars have added a pair of players on Thursday.",
-      "url": "https://sports.yahoo.com/articles/jaguars-sign-cb-dane-jackson-192352188.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaguars sign CB Dane Jackson, OL Trystan Colon",
       "description": "The Jaguars have added a pair of players on Thursday.",
@@ -28,5 +22,5 @@
     "thursday"
   ],
   "hash": "aa6eaa1ef0432bee",
-  "queuedAt": "2026-06-05T10:44:09.968Z"
+  "queuedAt": "2026-06-05T15:27:28.495Z"
 }
