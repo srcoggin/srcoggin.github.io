@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions don't know when Kerby Joseph will be healthy enough to return",
-      "description": "In 2024, Lions safety Kerby Joseph was a first-team All-Pro, and in early 2025 he was rewarded with a four–year, $86 million contract extension.",
-      "url": "https://sports.yahoo.com/articles/lions-dont-know-kerby-joseph-095952453.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions don't know when Kerby Joseph will be healthy enough to return",
       "description": "In 2024, Lions safety Kerby Joseph was a first-team All-Pro, and in early 2025 he was rewarded with a four–year, $86 million contract extension.",
@@ -37,5 +31,5 @@
     "extension"
   ],
   "hash": "cf2481df659e30fb",
-  "queuedAt": "2026-06-05T15:27:22.714Z"
+  "queuedAt": "2026-06-05T20:26:02.297Z"
 }
