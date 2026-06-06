@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Myles Garrett: I don't know Aaron Donald's plans, but I want to talk to him",
-      "description": "The Rams' defensive line has already added a two-time NFL Defensive Player of the Year this week in Myles Garrett.",
-      "url": "https://sports.yahoo.com/articles/myles-garrett-dont-know-aaron-204153662.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Myles Garrett: I don't know Aaron Donald's plans, but I want to talk to him",
       "description": "The Rams' defensive line has already added a two-time NFL Defensive Player of the Year this week in Myles Garrett.",
@@ -35,5 +29,5 @@
     "this"
   ],
   "hash": "d1475128b1d7fdf2",
-  "queuedAt": "2026-06-06T14:40:56.827Z"
+  "queuedAt": "2026-06-06T19:51:11.035Z"
 }

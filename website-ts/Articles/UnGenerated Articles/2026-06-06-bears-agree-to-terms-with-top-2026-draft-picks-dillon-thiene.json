@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chicago Bears sign draft picks Dillon Thieneman and Logan Jones",
-      "description": "The Chicago Bears have two more draft picks under contract, so they have one more to go.",
-      "url": "https://sports.yahoo.com/articles/chicago-bears-sign-draft-picks-192701327.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears agree to terms with top 2026 draft picks, Dillon Thieneman, Logan Jones",
       "description": "The Bears are getting their top two draft picks under contract.",
@@ -16,26 +10,22 @@
     }
   ],
   "keywords": [
-    "chicago",
     "bears",
-    "sign",
+    "agree",
+    "terms",
+    "top",
+    "2026",
     "draft",
     "picks",
     "dillon",
     "thieneman",
     "logan",
     "jones",
-    "two",
-    "contract",
-    "they",
-    "one",
-    "agree",
-    "terms",
-    "top",
-    "2026",
     "getting",
-    "their"
+    "their",
+    "two",
+    "contract"
   ],
-  "hash": "7f6eb9cc1e757c49",
-  "queuedAt": "2026-06-06T14:40:56.971Z"
+  "hash": "b9b4e1bc174a45ba",
+  "queuedAt": "2026-06-06T19:51:11.758Z"
 }
