@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Aiyuk has a message for the 49ers: \"Stop running from the belt\"",
-      "description": "49ers continue to squat on Aiyuk's contract, because they can.",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-message-49ers-stop-180541502.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Aiyuk has a message for the 49ers: \"Stop running from the belt\"",
       "description": "49ers continue to squat on Aiyuk's contract, because they can.",
@@ -30,5 +24,5 @@
     "they"
   ],
   "hash": "54c3fd7734a01345",
-  "queuedAt": "2026-06-08T11:42:27.812Z"
+  "queuedAt": "2026-06-08T16:51:47.126Z"
 }

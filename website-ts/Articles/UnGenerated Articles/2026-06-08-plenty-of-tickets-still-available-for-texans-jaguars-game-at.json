@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Plenty of tickets still available for Texans-Jaguars game at London's Wembley Stadium",
-      "description": "Ticket sales appear to be sluggish for the annual Jacksonville \"home\" game in London.",
-      "url": "https://sports.yahoo.com/articles/plenty-tickets-still-available-texans-083215771.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Plenty of tickets still available for Texans-Jaguars game at London's Wembley Stadium",
       "description": "Ticket sales appear to be sluggish for the annual Jacksonville \"home\" game in London.",
@@ -34,5 +28,5 @@
     "london"
   ],
   "hash": "50db44e95a92a46e",
-  "queuedAt": "2026-06-08T11:42:27.615Z"
+  "queuedAt": "2026-06-08T16:51:47.363Z"
 }
