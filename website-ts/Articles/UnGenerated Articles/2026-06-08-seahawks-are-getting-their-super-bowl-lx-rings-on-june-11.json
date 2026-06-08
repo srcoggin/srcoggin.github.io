@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks are getting their Super Bowl LX rings on June 11",
-      "description": "Super Bowl MVP Kenneth Walker III, now with the Chiefs, has said he'll be there.",
-      "url": "https://sports.yahoo.com/articles/seahawks-getting-super-bowl-lx-010834076.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks are getting their Super Bowl LX rings on June 11",
       "description": "Super Bowl MVP Kenneth Walker III, now with the Chiefs, has said he'll be there.",
@@ -33,5 +27,5 @@
     "hell"
   ],
   "hash": "f7999fce85088b15",
-  "queuedAt": "2026-06-08T04:45:48.871Z"
+  "queuedAt": "2026-06-08T11:42:34.408Z"
 }
