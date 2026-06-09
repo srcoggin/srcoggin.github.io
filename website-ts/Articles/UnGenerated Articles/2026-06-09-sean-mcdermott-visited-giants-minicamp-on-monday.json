@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McDermott visited Giants minicamp on Monday",
-      "description": "Sean McDermott has said that he's planning on spending his 2026 speaking with people about leadership in order to grow as a coach.",
-      "url": "https://sports.yahoo.com/articles/sean-mcdermott-visited-giants-minicamp-195153511.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McDermott visited Giants minicamp on Monday",
       "description": "Sean McDermott has said that he's planning on spending his 2026 speaking with people about leadership in order to grow as a coach.",
@@ -38,5 +32,5 @@
     "coach"
   ],
   "hash": "9db5d6d89084becc",
-  "queuedAt": "2026-06-09T10:26:59.588Z"
+  "queuedAt": "2026-06-09T15:28:43.436Z"
 }

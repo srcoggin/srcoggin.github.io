@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cam Skattebo moving well in Giants minicamp drills",
-      "description": "The Giants got an injury scare from edge rusher Abdul Carter at their first minicamp practice on Monday, but there was a more positive update on the medical front for another of their 2024 draft picks.",
-      "url": "https://sports.yahoo.com/articles/cam-skattebo-moving-well-giants-201140994.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cam Skattebo moving well in Giants minicamp drills",
       "description": "The Giants got an injury scare from edge rusher Abdul Carter at their first minicamp practice on Monday, but there was a more positive update on the medical front for another of their 2024 draft picks.",
@@ -44,5 +38,5 @@
     "picks"
   ],
   "hash": "4fc3253d6fbe6218",
-  "queuedAt": "2026-06-09T10:26:57.962Z"
+  "queuedAt": "2026-06-09T15:28:37.712Z"
 }

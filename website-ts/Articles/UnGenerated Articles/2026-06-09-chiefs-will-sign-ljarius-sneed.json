@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chiefs will sign L'Jarius Sneed",
-      "description": "Cornerback L'Jarius Sneed is headed back to Kansas City.",
-      "url": "https://sports.yahoo.com/articles/chiefs-sign-ljarius-sneed-203540131.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chiefs will sign L'Jarius Sneed",
       "description": "Cornerback L'Jarius Sneed is headed back to Kansas City.",
@@ -27,5 +21,5 @@
     "city"
   ],
   "hash": "812a2d595159f7c6",
-  "queuedAt": "2026-06-09T10:26:59.172Z"
+  "queuedAt": "2026-06-09T15:28:43.251Z"
 }

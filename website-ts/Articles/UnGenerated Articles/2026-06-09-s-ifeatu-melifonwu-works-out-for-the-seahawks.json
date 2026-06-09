@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "S Ifeatu Melifonwu works out for the Seahawks",
-      "description": "The Seahawks took a look at a possible veteran addition to their secondary on Monday.",
-      "url": "https://sports.yahoo.com/articles/ifeatu-melifonwu-works-seahawks-211545722.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "S Ifeatu Melifonwu works out for the Seahawks",
       "description": "The Seahawks took a look at a possible veteran addition to their secondary on Monday.",
@@ -31,5 +25,5 @@
     "monday"
   ],
   "hash": "24ae00bfbaf99570",
-  "queuedAt": "2026-06-09T10:26:59.087Z"
+  "queuedAt": "2026-06-09T15:28:43.175Z"
 }
