@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets sign WR Jalen Walthall",
-      "description": "The Jets made a change to their wide receiver group on Monday.",
-      "url": "https://sports.yahoo.com/articles/jets-sign-wr-jalen-walthall-185023036.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets sign WR Jalen Walthall",
       "description": "The Jets made a change to their wide receiver group on Monday.",
@@ -29,5 +23,5 @@
     "monday"
   ],
   "hash": "0fbe99a9fb0a9b0c",
-  "queuedAt": "2026-06-09T04:10:59.892Z"
+  "queuedAt": "2026-06-09T10:27:03.107Z"
 }
