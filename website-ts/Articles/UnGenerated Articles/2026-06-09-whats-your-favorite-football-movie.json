@@ -1,0 +1,23 @@
+{
+  "title": "What’s your favorite football movie?",
+  "category": "general",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "What’s your favorite football movie?",
+      "description": "Fifteen football movies. Which is your favorite?",
+      "url": "https://sports.yahoo.com/articles/favorite-football-movie-190200750.html"
+    }
+  ],
+  "keywords": [
+    "whats",
+    "your",
+    "favorite",
+    "movie",
+    "fifteen",
+    "movies",
+    "which"
+  ],
+  "hash": "8e150cdab701deb2",
+  "queuedAt": "2026-06-09T20:36:45.114Z"
+}

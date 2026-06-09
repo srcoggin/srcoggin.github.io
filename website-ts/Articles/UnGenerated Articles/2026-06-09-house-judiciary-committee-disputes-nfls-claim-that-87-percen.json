@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "House Judiciary Committee disputes NFL's claim that \"87 percent\" of games are on free TV",
-      "description": "Congress takes issue with one of NFL's top talking points regarding streaming.",
-      "url": "https://sports.yahoo.com/articles/house-judiciary-committee-disputes-nfls-145201175.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "House Judiciary Committee disputes NFL's claim that \"87 percent\" of games are on free TV",
       "description": "Congress takes issue with one of NFL's top talking points regarding streaming.",
@@ -37,5 +31,5 @@
     "streaming"
   ],
   "hash": "b59ad38eca0953c1",
-  "queuedAt": "2026-06-09T15:28:37.959Z"
+  "queuedAt": "2026-06-09T20:36:48.658Z"
 }
