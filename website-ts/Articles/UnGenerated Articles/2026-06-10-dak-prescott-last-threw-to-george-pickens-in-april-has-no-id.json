@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dak Prescott last threw to George Pickens in April, has no idea if the WR will attend minicamp",
-      "description": "Cowboys wide receiver George Pickens signed the franchise tag on April 29.",
-      "url": "https://sports.yahoo.com/articles/dak-prescott-last-threw-george-205055162.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dak Prescott last threw to George Pickens in April, has no idea if the WR will attend minicamp",
       "description": "Cowboys wide receiver George Pickens signed the franchise tag on April 29.",
@@ -34,5 +28,5 @@
     "tag"
   ],
   "hash": "2e50b18b2979b3f5",
-  "queuedAt": "2026-06-10T04:41:03.231Z"
+  "queuedAt": "2026-06-10T10:49:30.558Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "ESPN NFL",
-      "title": "Coach says Browns QB1 competition to continue",
-      "description": "Browns coach Todd Monken said he is unlikely to name a starting quarterback between Deshaun Watson and Shedeur Sanders at the conclusion of mandatory minicamp on Thursday.",
-      "url": "https://www.espn.com/nfl/story/_/id/49012830/browns-qb1-decision-end-minicamp-unlikely-monken-says"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Todd Monken not ready to name QB1, Shedeur Sanders, Deshaun Watson to continue competition",
       "description": "Browns head coach Todd Monken has said that he would prefer to have a starting quarterback named by the end of the offseason program.",
@@ -16,36 +10,30 @@
     }
   ],
   "keywords": [
-    "coach",
-    "says",
-    "browns",
-    "qb1",
-    "competition",
-    "continue",
     "todd",
     "monken",
-    "said",
-    "unlikely",
+    "ready",
     "name",
-    "starting",
-    "quarterback",
-    "deshaun",
-    "watson",
+    "qb1",
     "shedeur",
     "sanders",
-    "conclusion",
-    "mandatory",
-    "minicamp",
-    "thursday",
-    "ready",
+    "deshaun",
+    "watson",
+    "continue",
+    "competition",
+    "browns",
     "head",
+    "coach",
+    "said",
     "that",
     "prefer",
+    "starting",
+    "quarterback",
     "named",
     "end",
     "offseason",
     "program"
   ],
-  "hash": "80e4254953556726",
-  "queuedAt": "2026-06-10T04:41:02.453Z"
+  "hash": "3bc3e6ab3f4cda35",
+  "queuedAt": "2026-06-10T10:49:31.059Z"
 }
