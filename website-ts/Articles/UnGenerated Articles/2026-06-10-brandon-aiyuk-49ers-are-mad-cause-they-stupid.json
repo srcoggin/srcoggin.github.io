@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Aiyuk: 49ers are \"mad 'cause they stupid\"",
-      "description": "Aiyuk returns to social media with a new message.",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-49ers-mad-cause-003745168.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Aiyuk: 49ers are \"mad 'cause they stupid\"",
       "description": "Aiyuk returns to social media with a new message.",
@@ -30,5 +24,5 @@
     "message"
   ],
   "hash": "083ff40cee56bd0a",
-  "queuedAt": "2026-06-10T10:49:23.592Z"
+  "queuedAt": "2026-06-10T16:33:05.989Z"
 }

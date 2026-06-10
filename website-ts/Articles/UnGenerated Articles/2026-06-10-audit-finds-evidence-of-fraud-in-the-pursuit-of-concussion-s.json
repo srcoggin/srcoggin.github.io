@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Audit finds evidence of fraud in the pursuit of concussion settlement claims",
-      "description": "More than $87 million was lost due to allegedly fraudulent practices.",
-      "url": "https://sports.yahoo.com/articles/audit-finds-evidence-fraud-pursuit-034454585.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Audit finds evidence of fraud in the pursuit of concussion settlement claims",
       "description": "More than $87 million was lost due to allegedly fraudulent practices.",
@@ -32,5 +26,5 @@
     "practices"
   ],
   "hash": "49d22c573cd6c715",
-  "queuedAt": "2026-06-10T10:49:23.365Z"
+  "queuedAt": "2026-06-10T16:33:06.657Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McVay: I've seen improvement at OTAs, but it isn't real football until we put pads on",
-      "description": "Rams coach Sean McVay is liking what he's seeing at Organized Team Activities, but he's tempering his enthusiasm with a reminder that what he's seeing is not actually football.",
-      "url": "https://sports.yahoo.com/articles/sean-mcvay-ive-seen-improvement-092344948.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McVay: I've seen improvement at OTAs, but it isn't real football until we put pads on",
       "description": "Rams coach Sean McVay is liking what he's seeing at Organized Team Activities, but he's tempering his enthusiasm with a reminder that what he's seeing is not actually football.",
@@ -43,5 +37,5 @@
     "actually"
   ],
   "hash": "f3230be047f88ebf",
-  "queuedAt": "2026-06-10T10:49:23.169Z"
+  "queuedAt": "2026-06-10T16:33:06.514Z"
 }
