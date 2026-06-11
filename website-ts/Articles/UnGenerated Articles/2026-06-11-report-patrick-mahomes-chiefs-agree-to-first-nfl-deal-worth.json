@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Patrick Mahomes, Chiefs agree to first NFL deal worth over $500M",
-      "description": "Kansas City's QB1 is now under contract through 2033, with his new money also carrying a record AAV of $64M.",
-      "url": "https://sports.yahoo.com/articles/report-patrick-mahomes-chiefs-agree-204138728.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Patrick Mahomes, Chiefs agree to first NFL deal worth over $500M",
       "description": "Kansas City's QB1 is now under contract through 2033, with his new money also carrying a record AAV of $64M.",
@@ -42,5 +36,5 @@
     "64m"
   ],
   "hash": "62e423b0ddfd7ac1",
-  "queuedAt": "2026-06-11T04:44:51.261Z"
+  "queuedAt": "2026-06-11T11:25:21.190Z"
 }
