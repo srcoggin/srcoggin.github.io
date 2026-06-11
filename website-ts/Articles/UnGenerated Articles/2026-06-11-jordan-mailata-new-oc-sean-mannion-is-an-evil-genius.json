@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jordan Mailata: New OC Sean Mannion is an evil genius",
-      "description": "Eagles first-year offensive coordinator Sean Mannion has likely been called many things over the course of his professional career.",
-      "url": "https://sports.yahoo.com/articles/jordan-mailata-oc-sean-mannion-143910064.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jordan Mailata: New OC Sean Mannion is an evil genius",
       "description": "Eagles first-year offensive coordinator Sean Mannion has likely been called many things over the course of his professional career.",
@@ -38,5 +32,5 @@
     "career"
   ],
   "hash": "7e7bb8c5b1b93ac4",
-  "queuedAt": "2026-06-11T17:06:42.607Z"
+  "queuedAt": "2026-06-11T20:58:18.234Z"
 }

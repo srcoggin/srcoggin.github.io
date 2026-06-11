@@ -3,6 +3,12 @@
   "category": "free-agency",
   "sources": [
     {
+      "name": "Yahoo Sports NFL",
+      "title": "Sean Payton signs new five-year contract with Broncos",
+      "description": "Payton's new deal aligns him with G.M. George Paton, who also signed with Denver through 2030 last month.",
+      "url": "https://sports.yahoo.com/articles/sean-payton-signs-five-contract-170447882.html"
+    },
+    {
       "name": "Pro Football Talk",
       "title": "Sean Payton signs new five-year contract with Broncos",
       "description": "Payton's new deal aligns him with G.M. George Paton, who also signed with Denver through 2030 last month.",
@@ -32,5 +38,5 @@
     "month"
   ],
   "hash": "e22f82192e5e619d",
-  "queuedAt": "2026-06-11T17:06:51.217Z"
+  "queuedAt": "2026-06-11T20:58:13.448Z"
 }
