@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Macdonald is \"excited as heck\" to see what Rashid Shaheed does in 2026",
-      "description": "The Seahawks' Super Bowl run was fueled in part by the in-season trade that brought receiver Rashid Shaheed from New Orleans.",
-      "url": "https://sports.yahoo.com/articles/mike-macdonald-excited-heck-see-103811748.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Macdonald is \"excited as heck\" to see what Rashid Shaheed does in 2026",
       "description": "The Seahawks' Super Bowl run was fueled in part by the in-season trade that brought receiver Rashid Shaheed from New Orleans.",
@@ -40,5 +34,5 @@
     "orleans"
   ],
   "hash": "2d4670722e246f51",
-  "queuedAt": "2026-06-11T11:25:21.388Z"
+  "queuedAt": "2026-06-11T17:06:53.348Z"
 }

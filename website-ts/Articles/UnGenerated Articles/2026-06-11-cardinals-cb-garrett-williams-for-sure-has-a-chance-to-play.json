@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals CB Garrett Williams \"for sure\" has a chance to play Week 1",
-      "description": "The Cardinals received \"great news\" on cornerback Garrett Williams' recovery from a torn Achilles.",
-      "url": "https://sports.yahoo.com/articles/cardinals-cb-garrett-williams-sure-225304637.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals CB Garrett Williams \"for sure\" has a chance to play Week 1",
       "description": "The Cardinals received \"great news\" on cornerback Garrett Williams' recovery from a torn Achilles.",
@@ -31,5 +25,5 @@
     "achilles"
   ],
   "hash": "646d6d9c9e02dde8",
-  "queuedAt": "2026-06-11T11:25:21.681Z"
+  "queuedAt": "2026-06-11T17:06:54.234Z"
 }

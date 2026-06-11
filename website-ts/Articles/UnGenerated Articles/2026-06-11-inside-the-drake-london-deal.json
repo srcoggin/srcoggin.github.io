@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Inside the Drake London deal",
-      "description": "The Falcons have signed receiver Drake London to a long-term deal.",
-      "url": "https://sports.yahoo.com/articles/inside-drake-london-deal-003855393.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Inside the Drake London deal",
       "description": "The Falcons have signed receiver Drake London to a long-term deal.",
@@ -26,5 +20,5 @@
     "longterm"
   ],
   "hash": "763ed54bed11b0f7",
-  "queuedAt": "2026-06-11T11:25:21.488Z"
+  "queuedAt": "2026-06-11T17:06:53.975Z"
 }

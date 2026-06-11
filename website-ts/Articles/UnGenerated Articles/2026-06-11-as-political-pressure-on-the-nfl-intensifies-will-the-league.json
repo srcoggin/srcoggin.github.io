@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "As political pressure on the NFL intensifies, will the league eventually dump Fox as a partner?",
-      "description": "Regardless of how it happened, it's happening.",
-      "url": "https://sports.yahoo.com/articles/political-pressure-nfl-intensifies-league-231322777.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "As political pressure on the NFL intensifies, will the league eventually dump Fox as a partner?",
       "description": "Regardless of how it happened, it's happening.",
@@ -30,5 +24,5 @@
     "happening"
   ],
   "hash": "63f1ec3ec2d7088c",
-  "queuedAt": "2026-06-11T11:25:21.580Z"
+  "queuedAt": "2026-06-11T17:06:54.106Z"
 }
