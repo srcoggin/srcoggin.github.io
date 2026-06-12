@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bo Nix did some walkthrough work today, will participate in next week's minicamp",
-      "description": "Broncos quarterback Bo Nix is making progress in his recovery from the fractured ankle he suffered in the playoffs.",
-      "url": "https://sports.yahoo.com/articles/bo-nix-did-walkthrough-today-191622314.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bo Nix did some walkthrough work today, will participate in next week's minicamp",
       "description": "Broncos quarterback Bo Nix is making progress in his recovery from the fractured ankle he suffered in the playoffs.",
@@ -36,5 +30,5 @@
     "playoffs"
   ],
   "hash": "470d75249fe555cb",
-  "queuedAt": "2026-06-12T04:50:54.004Z"
+  "queuedAt": "2026-06-12T11:13:21.908Z"
 }
