@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Leonard Williams: Seahawks find \"a little extra motivation\" in not being favored to win the NFC West",
-      "description": "The defending Super Bowl champions aren't the betting favorites to repeat — either as NFL champions or as division winners.",
-      "url": "https://sports.yahoo.com/articles/leonard-williams-seahawks-little-extra-012227227.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Leonard Williams: Seahawks find \"a little extra motivation\" in not being favored to win the NFC West",
       "description": "The defending Super Bowl champions aren't the betting favorites to repeat — either as NFL champions or as division winners.",
@@ -40,5 +34,5 @@
     "winners"
   ],
   "hash": "adb2ba925b2c0d8b",
-  "queuedAt": "2026-06-12T11:13:12.365Z"
+  "queuedAt": "2026-06-12T16:20:04.010Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "WR Jalen Coker agrees to three-year extension with Panthers",
-      "description": "The Panthers and wide receiver Jalen Coker agreed to terms on a three-year, $35 million extension, Ian Rapoport of NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/wr-jalen-coker-agrees-three-233111553.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "WR Jalen Coker agrees to three-year extension with Panthers",
       "description": "The Panthers and wide receiver Jalen Coker agreed to terms on a three-year, $35 million extension, Ian Rapoport of NFL Media reports.",
@@ -33,5 +27,5 @@
     "reports"
   ],
   "hash": "4262ee66bc8fe866",
-  "queuedAt": "2026-06-12T11:13:10.186Z"
+  "queuedAt": "2026-06-12T16:19:49.727Z"
 }
