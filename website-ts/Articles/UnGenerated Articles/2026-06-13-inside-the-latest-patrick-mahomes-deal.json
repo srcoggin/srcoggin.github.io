@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Inside the latest Patrick Mahomes deal",
-      "description": "Mahomes received a $54.5 million signing bonus.",
-      "url": "https://sports.yahoo.com/articles/inside-latest-patrick-mahomes-deal-173504870.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Inside the latest Patrick Mahomes deal",
       "description": "Mahomes received a $54.5 million signing bonus.",
@@ -28,5 +22,5 @@
     "bonus"
   ],
   "hash": "3cefbbcfc81b2ac8",
-  "queuedAt": "2026-06-13T14:31:46.993Z"
+  "queuedAt": "2026-06-13T20:04:41.426Z"
 }

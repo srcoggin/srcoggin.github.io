@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL closes Personal Conduct Policy investigation of Stefon Diggs",
-      "description": "Veteran receiver remains a free agent.",
-      "url": "https://sports.yahoo.com/articles/nfl-closes-personal-conduct-policy-180559817.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL closes Personal Conduct Policy investigation of Stefon Diggs",
       "description": "Veteran receiver remains a free agent.",
@@ -30,5 +24,5 @@
     "agent"
   ],
   "hash": "811d258b77d0c79a",
-  "queuedAt": "2026-06-13T14:31:46.918Z"
+  "queuedAt": "2026-06-13T20:04:41.597Z"
 }
