@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Andre Rison is jailed for second offense DUI",
-      "description": "Former NFL receiver Andre Rison has been jailed after pleading guilty to second-offense DUI.",
-      "url": "https://sports.yahoo.com/articles/andre-rison-jailed-second-offense-233217508.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Andre Rison is jailed for second offense DUI",
       "description": "Former NFL receiver Andre Rison has been jailed after pleading guilty to second-offense DUI.",
@@ -29,5 +23,5 @@
     "secondoffense"
   ],
   "hash": "c073e4e6da68760b",
-  "queuedAt": "2026-06-14T14:37:24.817Z"
+  "queuedAt": "2026-06-14T20:13:53.072Z"
 }

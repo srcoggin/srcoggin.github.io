@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Former NFL DE Aldon Smith dies at 36",
-      "description": "Smith was a dominant pass rusher early in his career.",
-      "url": "https://sports.yahoo.com/articles/former-nfl-aldon-smith-dies-234620451.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Former NFL DE Aldon Smith dies at 36",
       "description": "Smith was a dominant pass rusher early in his career.",
@@ -28,5 +22,5 @@
     "career"
   ],
   "hash": "ca6561ef90ec656d",
-  "queuedAt": "2026-06-14T14:37:24.764Z"
+  "queuedAt": "2026-06-14T20:13:52.984Z"
 }

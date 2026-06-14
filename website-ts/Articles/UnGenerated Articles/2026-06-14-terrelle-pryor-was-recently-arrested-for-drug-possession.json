@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Terrelle Pryor was recently arrested for drug possession",
-      "description": "Former NFL quarterback and receiver Terrelle Pryor's name recently has been mentioned in connection with the Brendan Sorsby's case.",
-      "url": "https://sports.yahoo.com/articles/terrelle-pryor-recently-arrested-drug-203645327.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Terrelle Pryor was recently arrested for drug possession",
       "description": "Former NFL quarterback and receiver Terrelle Pryor's name recently has been mentioned in connection with the Brendan Sorsby's case.",
@@ -34,5 +28,5 @@
     "case"
   ],
   "hash": "9c04d5b234deda36",
-  "queuedAt": "2026-06-14T14:37:25.060Z"
+  "queuedAt": "2026-06-14T20:13:53.290Z"
 }

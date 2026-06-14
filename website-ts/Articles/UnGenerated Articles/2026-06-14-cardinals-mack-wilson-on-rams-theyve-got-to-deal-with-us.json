@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals' Mack Wilson on Rams: \"They've got to deal with us\"",
-      "description": "As a wise man once said (repeatedly), \"That's why they play the games.\"",
-      "url": "https://sports.yahoo.com/articles/cardinals-mack-wilson-rams-theyve-173843773.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals' Mack Wilson on Rams: \"They've got to deal with us\"",
       "description": "As a wise man once said (repeatedly), \"That's why they play the games.\"",
@@ -33,5 +27,5 @@
     "games"
   ],
   "hash": "a185c317890ec066",
-  "queuedAt": "2026-06-14T14:37:25.188Z"
+  "queuedAt": "2026-06-14T20:13:53.659Z"
 }

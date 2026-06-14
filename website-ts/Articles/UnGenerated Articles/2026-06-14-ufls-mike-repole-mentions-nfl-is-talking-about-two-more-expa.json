@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "UFL's Mike Repole mentions NFL is \"talking about two more expansion teams\"",
-      "description": "When UFL co-owner Mike Repole speaks, he often generates something newsworthy as to the spring pro football league.",
-      "url": "https://sports.yahoo.com/articles/ufls-mike-repole-mentions-nfl-184439694.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "UFL's Mike Repole mentions NFL is \"talking about two more expansion teams\"",
       "description": "When UFL co-owner Mike Repole speaks, he often generates something newsworthy as to the spring pro football league.",
@@ -37,5 +31,5 @@
     "league"
   ],
   "hash": "095f7abf12cf51b8",
-  "queuedAt": "2026-06-14T14:37:25.123Z"
+  "queuedAt": "2026-06-14T20:13:53.360Z"
 }

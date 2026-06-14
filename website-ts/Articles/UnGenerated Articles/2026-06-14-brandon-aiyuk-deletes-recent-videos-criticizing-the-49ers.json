@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Aiyuk deletes recent videos criticizing the 49ers",
-      "description": "Aiyuk has possibly extended an olive branch, in the hopes of being released.",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-deletes-recent-videos-205512769.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Aiyuk deletes recent videos criticizing the 49ers",
       "description": "Aiyuk has possibly extended an olive branch, in the hopes of being released.",
@@ -31,5 +25,5 @@
     "released"
   ],
   "hash": "6b5f0eef3a2c07ad",
-  "queuedAt": "2026-06-14T14:37:25.001Z"
+  "queuedAt": "2026-06-14T20:13:53.221Z"
 }
