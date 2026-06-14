@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Donovan McNabb Jr. commits to UNLV",
-      "description": "Yes, you're getting old.",
-      "url": "https://sports.yahoo.com/articles/donovan-mcnabb-jr-commits-unlv-144317792.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Donovan McNabb Jr. commits to UNLV",
       "description": "Yes, you're getting old.",
@@ -26,5 +20,5 @@
     "old"
   ],
   "hash": "bf2fefcccaa67382",
-  "queuedAt": "2026-06-14T10:04:13.183Z"
+  "queuedAt": "2026-06-14T14:37:28.953Z"
 }
