@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets agree to four-year extension with G Joe Tippmann",
-      "description": "The Jets want right guard Joe Tippmann on their offensive line for years to come.",
-      "url": "https://sports.yahoo.com/articles/jets-agree-four-extension-g-123556693.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets agree to four-year extension with G Joe Tippmann",
       "description": "The Jets want right guard Joe Tippmann on their offensive line for years to come.",
@@ -32,5 +26,5 @@
     "come"
   ],
   "hash": "99c7b64a5346fcc0",
-  "queuedAt": "2026-06-15T13:06:49.599Z"
+  "queuedAt": "2026-06-15T21:24:26.117Z"
 }

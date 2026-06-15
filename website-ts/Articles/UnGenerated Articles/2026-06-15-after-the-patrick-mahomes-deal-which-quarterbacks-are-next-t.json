@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "After the Patrick Mahomes deal, which quarterbacks are next to get paid?",
-      "description": "The list is led by Lamar Jackson.",
-      "url": "https://sports.yahoo.com/articles/patrick-mahomes-deal-quarterbacks-next-182208834.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "After the Patrick Mahomes deal, which quarterbacks are next to get paid?",
       "description": "The list is led by Lamar Jackson.",
@@ -30,5 +24,5 @@
     "jackson"
   ],
   "hash": "16b369ff988153e0",
-  "queuedAt": "2026-06-15T13:06:50.179Z"
+  "queuedAt": "2026-06-15T21:24:26.908Z"
 }

@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets are swapping speed for size",
-      "description": "The Jets may yet again go home without a playoff berth, but they're nevertheless going big.",
-      "url": "https://sports.yahoo.com/articles/jets-swapping-speed-size-224532729.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets are swapping speed for size",
       "description": "The Jets may yet again go home without a playoff berth, but they're nevertheless going big.",
@@ -31,5 +25,5 @@
     "big"
   ],
   "hash": "2a12c8be2dd011db",
-  "queuedAt": "2026-06-15T13:06:49.913Z"
+  "queuedAt": "2026-06-15T21:24:26.541Z"
 }

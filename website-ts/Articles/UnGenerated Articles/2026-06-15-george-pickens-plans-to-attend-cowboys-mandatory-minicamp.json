@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "George Pickens plans to attend Cowboys' mandatory minicamp",
-      "description": "Cowboys wide receiver George Pickens has not been participating in voluntary offseason work.",
-      "url": "https://sports.yahoo.com/articles/george-pickens-plans-attend-cowboys-121352108.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "George Pickens plans to attend Cowboys' mandatory minicamp",
       "description": "Cowboys wide receiver George Pickens has not been participating in voluntary offseason work.",
@@ -31,5 +25,5 @@
     "work"
   ],
   "hash": "004a24853842c78d",
-  "queuedAt": "2026-06-15T13:06:49.706Z"
+  "queuedAt": "2026-06-15T21:24:26.228Z"
 }

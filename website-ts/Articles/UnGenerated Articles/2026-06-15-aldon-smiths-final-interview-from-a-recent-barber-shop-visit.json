@@ -3,15 +3,9 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aldon Smith's final interview, from a recent barber shop visit, was posted last week",
-      "description": "A recent interview has emerged over the weekend of Aldon Smith, a former NFL defensive end up Aldon Smith died suddenly on Saturday.",
-      "url": "https://sports.yahoo.com/articles/aldon-smiths-final-interview-recent-111746533.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aldon Smith's final interview, from a recent barber shop visit, was posted last week",
-      "description": "A recent interview has emerged over the weekend of Aldon Smith, a former NFL defensive end up Aldon Smith died suddenly on Saturday.",
+      "description": "A recent interview has emergedof Aldon Smith, a former NFL defensive end who died suddenly on Saturday.",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aldon-smiths-final-interview-from-a-recent-barber-shop-visit-was-posted-last-week"
     }
   ],
@@ -26,17 +20,16 @@
     "visit",
     "posted",
     "last",
-    "emerged",
-    "over",
-    "weekend",
+    "emergedof",
     "smith",
     "former",
     "defensive",
     "end",
+    "who",
     "died",
     "suddenly",
     "saturday"
   ],
-  "hash": "acc400b18ca83338",
-  "queuedAt": "2026-06-15T13:06:49.792Z"
+  "hash": "e4e9065259e24038",
+  "queuedAt": "2026-06-15T21:24:25.977Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots hope to \"weaponize\" Drake Maye's mind",
-      "description": "As quarterback Drake Maye prepares for his second season in the Josh McDaniels offense, McDaniels knows Maye is in a much better spot than he was a year ago.",
-      "url": "https://sports.yahoo.com/articles/patriots-hope-weaponize-drake-mayes-222552118.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots hope to \"weaponize\" Drake Maye's mind",
       "description": "As quarterback Drake Maye prepares for his second season in the Josh McDaniels offense, McDaniels knows Maye is in a much better spot than he was a year ago.",
@@ -37,5 +31,5 @@
     "ago"
   ],
   "hash": "644dc867f0f62b74",
-  "queuedAt": "2026-06-15T13:06:50.000Z"
+  "queuedAt": "2026-06-15T21:24:26.790Z"
 }

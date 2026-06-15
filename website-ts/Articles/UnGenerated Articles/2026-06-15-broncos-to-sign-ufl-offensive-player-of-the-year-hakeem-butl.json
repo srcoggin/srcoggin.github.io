@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos to sign UFL offensive player of the year Hakeem Butler",
-      "description": "UFL offensive player of the year Hakeem Butler is getting another shot at the NFL.",
-      "url": "https://sports.yahoo.com/articles/broncos-sign-ufl-offensive-player-125014378.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos to sign UFL offensive player of the year Hakeem Butler",
       "description": "UFL offensive player of the year Hakeem Butler is getting another shot at the NFL.",
@@ -27,5 +21,5 @@
     "shot"
   ],
   "hash": "13e09143c6a537b5",
-  "queuedAt": "2026-06-15T13:06:49.503Z"
+  "queuedAt": "2026-06-15T21:24:26.059Z"
 }

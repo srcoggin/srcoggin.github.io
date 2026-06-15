@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Aiyuk posts a new video, hinting that he may soon be released",
-      "description": "Two days after deleting a pair of Instagram videos that criticized the 49ers for not releasing him, receiver Brandon Aiyuk is back on social media.",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-posts-video-hinting-190212579.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Aiyuk posts a new video, hinting that he may soon be released",
       "description": "Two days after deleting a pair of Instagram videos that criticized the 49ers for not releasing him, receiver Brandon Aiyuk is back on social media.",
@@ -41,5 +35,5 @@
     "media"
   ],
   "hash": "f93b3135e4c43815",
-  "queuedAt": "2026-06-15T13:06:50.086Z"
+  "queuedAt": "2026-06-15T21:24:26.846Z"
 }
