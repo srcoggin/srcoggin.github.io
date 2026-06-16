@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Matt LaFleur expects fifth-round guard Jager Burton to compete to play as a rookie",
-      "description": "Packers head coach Matt LaFleur thinks Green Bay may get an immediate impact on its offensive line from rookie fifth-round draft pick Jager Burton.",
-      "url": "https://sports.yahoo.com/articles/matt-lafleur-expects-fifth-round-160656579.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Matt LaFleur expects fifth-round guard Jager Burton to compete to play as a rookie",
       "description": "Packers head coach Matt LaFleur thinks Green Bay may get an immediate impact on its offensive line from rookie fifth-round draft pick Jager Burton.",
@@ -42,5 +36,5 @@
     "pick"
   ],
   "hash": "1c89097f1fff9ed4",
-  "queuedAt": "2026-06-16T17:36:43.681Z"
+  "queuedAt": "2026-06-16T21:22:45.655Z"
 }
