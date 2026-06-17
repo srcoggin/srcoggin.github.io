@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets rookie QB Cade Klubnik missed another practice with back soreness",
-      "description": "The Jets went into Organized Team Activities wanting to see what rookie quarterback Cade Klubnik could do.",
-      "url": "https://sports.yahoo.com/articles/jets-rookie-qb-cade-klubnik-123057311.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets rookie QB Cade Klubnik missed another practice with back soreness",
       "description": "The Jets went into Organized Team Activities wanting to see what rookie quarterback Cade Klubnik could do.",
@@ -34,5 +28,5 @@
     "quarterback"
   ],
   "hash": "78b54d417fd24f5b",
-  "queuedAt": "2026-06-17T16:09:19.696Z"
+  "queuedAt": "2026-06-17T21:11:18.756Z"
 }
