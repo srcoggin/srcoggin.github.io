@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brendan Sorsby officially applies for the supplemental draft",
-      "description": "As expected, Sorsby pursues a path to pro football.",
-      "url": "https://sports.yahoo.com/articles/brendan-sorsby-officially-applies-supplemental-225742217.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brendan Sorsby officially applies for the supplemental draft",
       "description": "As expected, Sorsby pursues a path to pro football.",
@@ -28,5 +22,5 @@
     "pro"
   ],
   "hash": "39a0e735506e9216",
-  "queuedAt": "2026-06-17T11:32:22.569Z"
+  "queuedAt": "2026-06-17T16:09:19.449Z"
 }
