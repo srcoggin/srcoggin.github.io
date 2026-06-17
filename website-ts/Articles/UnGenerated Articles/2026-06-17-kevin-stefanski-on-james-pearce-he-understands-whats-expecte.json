@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kevin Stefanski on James Pearce: He understands what's expected of him",
-      "description": "Falcons edge rusher James Pearce Jr. is participating in the team's mandatory minicamp this week, the first time he has returned since his arrest for a February incident with his former girlfriend.",
-      "url": "https://sports.yahoo.com/articles/kevin-stefanski-james-pearce-understands-193734101.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kevin Stefanski on James Pearce: He understands what's expected of him",
       "description": "Falcons edge rusher James Pearce Jr. is participating in the team's mandatory minicamp this week, the first time he has returned since his arrest for a February incident with his former girlfriend.",
@@ -44,5 +38,5 @@
     "girlfriend"
   ],
   "hash": "030a86af0349d2ff",
-  "queuedAt": "2026-06-17T04:55:50.181Z"
+  "queuedAt": "2026-06-17T11:32:29.239Z"
 }

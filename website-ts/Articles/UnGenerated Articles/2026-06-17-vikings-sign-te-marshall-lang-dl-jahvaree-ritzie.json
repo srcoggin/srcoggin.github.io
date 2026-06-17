@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Vikings sign TE Marshall Lang, DL Jahvaree Ritzie",
-      "description": "The Vikings did some roster shuffling on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/vikings-sign-te-marshall-lang-193809361.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Vikings sign TE Marshall Lang, DL Jahvaree Ritzie",
       "description": "The Vikings did some roster shuffling on Tuesday.",
@@ -27,5 +21,5 @@
     "tuesday"
   ],
   "hash": "b949e8d3829eb5b1",
-  "queuedAt": "2026-06-17T04:55:50.096Z"
+  "queuedAt": "2026-06-17T11:32:29.181Z"
 }
