@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Pat Surtain II: Jaylen Waddle's speed adds a whole different dynamic to the Broncos",
-      "description": "Broncos cornerback Pat Surtain II says he's lining up against a different Denver offense in offseason practices, thanks to the arrival of wide receiver Jaylen Waddle.",
-      "url": "https://sports.yahoo.com/articles/pat-surtain-ii-jaylen-waddles-213506001.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Pat Surtain II: Jaylen Waddle's speed adds a whole different dynamic to the Broncos",
       "description": "Broncos cornerback Pat Surtain II says he's lining up against a different Denver offense in offseason practices, thanks to the arrival of wide receiver Jaylen Waddle.",
@@ -42,5 +36,5 @@
     "waddle"
   ],
   "hash": "6195e748ffd52b85",
-  "queuedAt": "2026-06-18T10:50:37.529Z"
+  "queuedAt": "2026-06-18T16:03:00.084Z"
 }

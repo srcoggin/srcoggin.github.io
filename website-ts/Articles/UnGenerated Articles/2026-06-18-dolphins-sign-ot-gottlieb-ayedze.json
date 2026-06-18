@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dolphins sign OT Gottlieb Ayedze",
-      "description": "The Dolphins announced a roster move on Wednesday afternoon.",
-      "url": "https://sports.yahoo.com/articles/dolphins-sign-ot-gottlieb-ayedze-213709934.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dolphins sign OT Gottlieb Ayedze",
       "description": "The Dolphins announced a roster move on Wednesday afternoon.",
@@ -27,5 +21,5 @@
     "afternoon"
   ],
   "hash": "d77ea82cf3982eec",
-  "queuedAt": "2026-06-18T10:50:36.632Z"
+  "queuedAt": "2026-06-18T16:02:54.080Z"
 }

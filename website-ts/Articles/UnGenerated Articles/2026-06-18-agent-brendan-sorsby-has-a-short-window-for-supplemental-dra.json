@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Agent: Brendan Sorsby has a \"short window\" for supplemental draft, \"but we'll make it happen\"",
-      "description": "With quarterback Brendan Sorsby applying for the supplemental draft (and assuming the NFL lets him in), the clock is already ticking on the various things that need to be done before a team will be sufficiently comfortable to spend a 2027 draft pick early.",
-      "url": "https://sports.yahoo.com/articles/agent-brendan-sorsby-short-window-001335351.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Agent: Brendan Sorsby has a \"short window\" for supplemental draft, \"but we'll make it happen\"",
       "description": "With quarterback Brendan Sorsby applying for the supplemental draft (and assuming the NFL lets him in), the clock is already ticking on the various things that need to be done before a team will be sufficiently comfortable to spend a 2027 draft pick early.",
@@ -47,5 +41,5 @@
     "early"
   ],
   "hash": "628eb6566efcb9f9",
-  "queuedAt": "2026-06-18T10:50:37.316Z"
+  "queuedAt": "2026-06-18T16:02:59.568Z"
 }

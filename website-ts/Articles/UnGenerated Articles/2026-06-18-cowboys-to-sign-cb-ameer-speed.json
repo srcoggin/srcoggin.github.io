@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys to sign CB Ameer Speed",
-      "description": "The Cowboys are signing UFL defensive back Ameer Speed, James Larsen of PFN reports.",
-      "url": "https://sports.yahoo.com/articles/cowboys-sign-cb-ameer-speed-213016634.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys to sign CB Ameer Speed",
       "description": "The Cowboys are signing UFL defensive back Ameer Speed, James Larsen of PFN reports.",
@@ -30,5 +24,5 @@
     "reports"
   ],
   "hash": "75842b047d9073ec",
-  "queuedAt": "2026-06-18T10:50:36.695Z"
+  "queuedAt": "2026-06-18T16:02:54.155Z"
 }
