@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "On his way out, Jared Verse told his Rams teammates: \"Make sure you beat the Seahawks\"",
-      "description": "Linebacker Jared Verse has a new NFL team.",
-      "url": "https://sports.yahoo.com/articles/way-jared-verse-told-rams-181452822.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "On his way out, Jared Verse told his Rams teammates: \"Make sure you beat the Seahawks\"",
       "description": "Linebacker Jared Verse has a new NFL team.",
@@ -33,5 +27,5 @@
     "new"
   ],
   "hash": "174d33a3a8d15ae1",
-  "queuedAt": "2026-06-18T05:05:26.243Z"
+  "queuedAt": "2026-06-18T10:50:41.800Z"
 }
