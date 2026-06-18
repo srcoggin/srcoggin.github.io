@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sunday Ticket appeal ruling could come at any time",
-      "description": "The final outcome could be very problematic for the NFL.",
-      "url": "https://sports.yahoo.com/articles/sunday-ticket-appeal-ruling-could-024526689.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sunday Ticket appeal ruling could come at any time",
       "description": "The final outcome could be very problematic for the NFL.",
@@ -28,5 +22,5 @@
     "problematic"
   ],
   "hash": "5bb24c8f5dfcd4b4",
-  "queuedAt": "2026-06-18T16:02:54.590Z"
+  "queuedAt": "2026-06-18T21:14:43.421Z"
 }
