@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys put Matt Hennessy on season-ending injured reserve, sign three UFL players",
-      "description": "New Cowboys offensive lineman Matt Hennessy's season has ended before it began.",
-      "url": "https://sports.yahoo.com/articles/cowboys-put-matt-hennessy-season-164931767.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys put Matt Hennessy on season-ending injured reserve, sign three UFL players",
       "description": "New Cowboys offensive lineman Matt Hennessy's season has ended before it began.",
@@ -35,5 +29,5 @@
     "began"
   ],
   "hash": "9808db248dc1a942",
-  "queuedAt": "2026-06-19T05:13:38.134Z"
+  "queuedAt": "2026-06-19T11:09:59.667Z"
 }
