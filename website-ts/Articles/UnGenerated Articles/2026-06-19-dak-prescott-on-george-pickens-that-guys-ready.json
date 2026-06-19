@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dak Prescott on George Pickens: That guy's ready",
-      "description": "Pickens took part in this week's minicamp after missing the voluntary portions of the offseason program.",
-      "url": "https://sports.yahoo.com/articles/dak-prescott-george-pickens-guys-192913934.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dak Prescott on George Pickens: That guy's ready",
       "description": "Pickens took part in this week's minicamp after missing the voluntary portions of the offseason program.",
@@ -35,5 +29,5 @@
     "program"
   ],
   "hash": "3473a86a7646d93b",
-  "queuedAt": "2026-06-19T11:09:54.880Z"
+  "queuedAt": "2026-06-19T16:10:23.204Z"
 }

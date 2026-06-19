@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Joe Brady: I was broken when Bills fired Sean McDermott, wasn't thinking I'd be head coach",
-      "description": "\"I'm only in Buffalo because of Sean and the opportunities that he gave me,\" Brady said.",
-      "url": "https://sports.yahoo.com/articles/joe-brady-broken-bills-fired-074427903.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Joe Brady: I was broken when Bills fired Sean McDermott, wasn't thinking I'd be head coach",
       "description": "\"I'm only in Buffalo because of Sean and the opportunities that he gave me,\" Brady said.",
@@ -34,5 +28,5 @@
     "said"
   ],
   "hash": "d9f59d77dcd40678",
-  "queuedAt": "2026-06-19T11:09:54.595Z"
+  "queuedAt": "2026-06-19T16:10:21.907Z"
 }

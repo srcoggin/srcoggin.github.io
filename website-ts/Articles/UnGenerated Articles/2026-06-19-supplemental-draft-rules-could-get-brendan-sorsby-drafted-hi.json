@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Supplemental draft rules could get Brendan Sorsby drafted higher than expected",
-      "description": "A team that sits low on the priority list may try to get the jump on everyone else.",
-      "url": "https://sports.yahoo.com/articles/supplemental-draft-rules-could-brendan-101954612.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Supplemental draft rules could get Brendan Sorsby drafted higher than expected",
       "description": "A team that sits low on the priority list may try to get the jump on everyone else.",
@@ -36,5 +30,5 @@
     "else"
   ],
   "hash": "2c57a56d90aa8961",
-  "queuedAt": "2026-06-19T11:09:54.497Z"
+  "queuedAt": "2026-06-19T16:10:21.634Z"
 }
