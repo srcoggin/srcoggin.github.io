@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions sign WR Lawrence Keys",
-      "description": "The Lions have signed another wide receiver out of the UFL.",
-      "url": "https://sports.yahoo.com/articles/lions-sign-wr-lawrence-keys-160938738.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions sign WR Lawrence Keys",
       "description": "The Lions have signed another wide receiver out of the UFL.",
@@ -28,5 +22,5 @@
     "ufl"
   ],
   "hash": "e9353fc3505bb0b6",
-  "queuedAt": "2026-06-20T10:14:32.393Z"
+  "queuedAt": "2026-06-20T14:35:50.062Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Roger Goodell \"absolutely\" expects to see active and retired NFL players in 2028 Olympics",
-      "description": "In only two years, flag football will make its Olympic debut.",
-      "url": "https://sports.yahoo.com/articles/roger-goodell-absolutely-expects-see-162804483.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Roger Goodell \"absolutely\" expects to see active and retired NFL players in 2028 Olympics",
       "description": "In only two years, flag football will make its Olympic debut.",
@@ -35,5 +29,5 @@
     "debut"
   ],
   "hash": "ba4631a7382e5f81",
-  "queuedAt": "2026-06-20T10:14:32.264Z"
+  "queuedAt": "2026-06-20T14:35:49.909Z"
 }
