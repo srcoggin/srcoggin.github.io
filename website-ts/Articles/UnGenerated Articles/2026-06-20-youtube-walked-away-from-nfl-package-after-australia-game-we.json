@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "YouTube walked away from NFL package after Australia game went to Netflix",
-      "description": "At one point before Netflix landed a five-game package of NFL regular-season games for 2026, talks with YouTube and the NFL for the same set of games had progressed to a \"long-form contract review.\"",
-      "url": "https://sports.yahoo.com/articles/youtube-walked-away-nfl-package-223631699.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "YouTube walked away from NFL package after Australia game went to Netflix",
       "description": "At one point before Netflix landed a five-game package of NFL regular-season games for 2026, talks with YouTube and the NFL for the same set of games had progressed to a \"long-form contract review.\"",
@@ -38,5 +32,5 @@
     "review"
   ],
   "hash": "4a9da8f5e4267497",
-  "queuedAt": "2026-06-20T14:35:46.128Z"
+  "queuedAt": "2026-06-20T20:33:53.903Z"
 }

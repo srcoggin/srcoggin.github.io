@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kam Curl thinks Rams defense has a chance to be legendary",
-      "description": "Myles Garrett's addition has Curl thinking big in 2026.",
-      "url": "https://sports.yahoo.com/articles/kam-curl-thinks-rams-defense-185140891.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kam Curl thinks Rams defense has a chance to be legendary",
       "description": "Myles Garrett's addition has Curl thinking big in 2026.",
@@ -31,5 +25,5 @@
     "2026"
   ],
   "hash": "f745f6f528de6945",
-  "queuedAt": "2026-06-20T14:35:46.277Z"
+  "queuedAt": "2026-06-20T20:33:54.609Z"
 }

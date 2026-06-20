@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Gronk knows the right way for the Patriots to put distractions behind them: \"Win\"",
-      "description": "The Mike Vrabel-Dianna Russini situation has simmered.",
-      "url": "https://sports.yahoo.com/articles/gronk-knows-way-patriots-put-212716983.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Gronk knows the right way for the Patriots to put distractions behind them: \"Win\"",
       "description": "The Mike Vrabel-Dianna Russini situation has simmered.",
@@ -33,5 +27,5 @@
     "simmered"
   ],
   "hash": "6609ade6d0713eb1",
-  "queuedAt": "2026-06-20T14:35:46.177Z"
+  "queuedAt": "2026-06-20T20:33:54.020Z"
 }
