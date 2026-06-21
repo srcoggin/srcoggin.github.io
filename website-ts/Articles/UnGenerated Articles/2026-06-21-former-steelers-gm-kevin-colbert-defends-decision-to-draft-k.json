@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Former Steelers G.M. Kevin Colbert defends decision to draft Kenny Pickett",
-      "description": "Prior to what became the last year of Terry Bradshaw's career, the Steelers had a chance to select Pitt product Dan Marino with the 21st overall selection in the draft.",
-      "url": "https://sports.yahoo.com/articles/former-steelers-g-m-kevin-163920477.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Former Steelers G.M. Kevin Colbert defends decision to draft Kenny Pickett",
       "description": "Prior to what became the last year of Terry Bradshaw's career, the Steelers had a chance to select Pitt product Dan Marino with the 21st overall selection in the draft.",
@@ -43,5 +37,5 @@
     "selection"
   ],
   "hash": "902bc52021e86a4d",
-  "queuedAt": "2026-06-21T14:45:24.813Z"
+  "queuedAt": "2026-06-21T20:43:14.800Z"
 }

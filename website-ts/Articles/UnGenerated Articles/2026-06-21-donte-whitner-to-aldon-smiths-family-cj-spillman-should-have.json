@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Donte Whitner to Aldon Smith's family: \"C.J. Spillman should have a lot of answers for you\"",
-      "description": "Whitner addresses Smith's passing in podcast episode.",
-      "url": "https://sports.yahoo.com/articles/donte-whitner-aldon-smiths-family-180152172.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Donte Whitner to Aldon Smith's family: \"C.J. Spillman should have a lot of answers for you\"",
       "description": "Whitner addresses Smith's passing in podcast episode.",
@@ -31,5 +25,5 @@
     "episode"
   ],
   "hash": "eaaf9d583d3b04cb",
-  "queuedAt": "2026-06-21T14:45:24.763Z"
+  "queuedAt": "2026-06-21T20:43:14.573Z"
 }

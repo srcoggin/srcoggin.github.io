@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "New CBA for officials emphasizes competition, creates a \"practice squad\"",
-      "description": "NFL can have up to 12 extra officials, who'll be able to step in based on performance or injury.",
-      "url": "https://sports.yahoo.com/articles/cba-officials-emphasizes-competition-creates-145252777.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "New CBA for officials emphasizes competition, creates a \"practice squad\"",
       "description": "NFL can have up to 12 extra officials, who'll be able to step in based on performance or injury.",
@@ -33,5 +27,5 @@
     "injury"
   ],
   "hash": "c5e13ec4bedb18e0",
-  "queuedAt": "2026-06-21T14:45:24.533Z"
+  "queuedAt": "2026-06-21T20:43:07.692Z"
 }
