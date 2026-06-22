@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Fernando Mendoza getting more comfortable taking snaps under center",
-      "description": "\"It's a great offense. I really believe in coach Kubak's offense,\" Mendoza said.",
-      "url": "https://sports.yahoo.com/articles/fernando-mendoza-getting-more-comfortable-091027394.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Fernando Mendoza getting more comfortable taking snaps under center",
       "description": "\"It's a great offense. I really believe in coach Kubak's offense,\" Mendoza said.",
@@ -33,5 +27,5 @@
     "said"
   ],
   "hash": "874745af477e08fc",
-  "queuedAt": "2026-06-22T05:08:59.297Z"
+  "queuedAt": "2026-06-22T13:05:41.202Z"
 }

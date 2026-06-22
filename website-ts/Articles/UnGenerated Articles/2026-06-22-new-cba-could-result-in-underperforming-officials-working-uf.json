@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "New CBA could result in underperforming officials working UFL games",
-      "description": "The new Collective Bargaining Agreement between the NFL and the NFL Referees Association emphasizes competition.",
-      "url": "https://sports.yahoo.com/articles/cba-could-result-underperforming-officials-124500339.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "New CBA could result in underperforming officials working UFL games",
       "description": "The new Collective Bargaining Agreement between the NFL and the NFL Referees Association emphasizes competition.",
@@ -33,5 +27,5 @@
     "competition"
   ],
   "hash": "bdbcbf855c1c14fd",
-  "queuedAt": "2026-06-22T05:08:58.582Z"
+  "queuedAt": "2026-06-22T13:05:33.186Z"
 }
