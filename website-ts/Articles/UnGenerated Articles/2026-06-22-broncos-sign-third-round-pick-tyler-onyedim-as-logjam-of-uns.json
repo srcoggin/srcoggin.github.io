@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos sign third-round pick Tyler Onyedim as logjam of unsigned third-round picks breaks",
-      "description": "Two of the top draft picks in the third round signed their rookie contracts within hours of each other.",
-      "url": "https://sports.yahoo.com/articles/broncos-sign-third-round-pick-081402701.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos sign third-round pick Tyler Onyedim as logjam of unsigned third-round picks breaks",
       "description": "Two of the top draft picks in the third round signed their rookie contracts within hours of each other.",
@@ -39,5 +33,5 @@
     "hours"
   ],
   "hash": "0bb3d3eeafc38d7a",
-  "queuedAt": "2026-06-22T13:05:33.748Z"
+  "queuedAt": "2026-06-22T21:21:51.927Z"
 }

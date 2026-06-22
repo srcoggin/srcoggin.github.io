@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders sign third-round DE Keyron Crawford",
-      "description": "It's Father's Day, but there are truly no days off for the NFL.",
-      "url": "https://sports.yahoo.com/articles/raiders-sign-third-round-keyron-212141249.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders sign third-round DE Keyron Crawford",
       "description": "It's Father's Day, but there are truly no days off for the NFL.",
@@ -29,5 +23,5 @@
     "off"
   ],
   "hash": "796e4de21d8e874e",
-  "queuedAt": "2026-06-22T13:05:33.973Z"
+  "queuedAt": "2026-06-22T21:21:51.990Z"
 }

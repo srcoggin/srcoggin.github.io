@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "JC Tretter is in no rush to negotiate new CBA with NFL",
-      "description": "Everyone knows what the league wants; Tretter wants to know what the players want.",
-      "url": "https://sports.yahoo.com/articles/jc-tretter-no-rush-negotiate-123701904.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "JC Tretter is in no rush to negotiate new CBA with NFL",
       "description": "Everyone knows what the league wants; Tretter wants to know what the players want.",
@@ -31,5 +25,5 @@
     "want"
   ],
   "hash": "84543961feb390e7",
-  "queuedAt": "2026-06-22T13:05:33.404Z"
+  "queuedAt": "2026-06-22T21:21:51.343Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colton McKivitz hopes to be a 10-year 49er",
-      "description": "Colton McKivitz has a goal.",
-      "url": "https://sports.yahoo.com/articles/colton-mckivitz-hopes-10-49er-183047772.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colton McKivitz hopes to be a 10-year 49er",
       "description": "Colton McKivitz has a goal.",
@@ -24,5 +18,5 @@
     "goal"
   ],
   "hash": "a08a30a1998956d7",
-  "queuedAt": "2026-06-22T13:05:34.080Z"
+  "queuedAt": "2026-06-22T21:21:52.102Z"
 }
