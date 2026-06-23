@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Police investigated assault allegation against Geno Smith",
-      "description": "No one was taken into custody after officers were called to Smith's home in Florida.",
-      "url": "https://sports.yahoo.com/articles/police-investigated-assault-allegation-against-164728286.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Police investigated assault allegation against Geno Smith",
       "description": "No one was taken into custody after officers were called to Smith's home in Florida.",
@@ -33,5 +27,5 @@
     "florida"
   ],
   "hash": "90dbc5ba7b9e1fc7",
-  "queuedAt": "2026-06-23T04:45:32.129Z"
+  "queuedAt": "2026-06-23T10:16:23.520Z"
 }
