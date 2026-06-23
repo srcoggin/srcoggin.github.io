@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Harry Kane, a big NFL and Tom Brady fan, makes his Gillette Stadium debut today",
-      "description": "As the NFL tries to get more people from other countries to become passionate about American football, one English athlete got the bug many years ago.",
-      "url": "https://sports.yahoo.com/articles/harry-kane-big-nfl-tom-141051025.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Harry Kane, a big NFL and Tom Brady fan, makes his Gillette Stadium debut today",
       "description": "As the NFL tries to get more people from other countries to become passionate about American football, one English athlete got the bug many years ago.",
@@ -46,5 +40,5 @@
     "ago"
   ],
   "hash": "6ea3456fca730fce",
-  "queuedAt": "2026-06-23T15:50:04.249Z"
+  "queuedAt": "2026-06-23T21:07:01.224Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "23 UFL players have signed with NFL teams since conclusion of spring league's season",
-      "description": "There are several NFL teams that have taken notice of UFL players, bringing them onto their 90-man rosters.",
-      "url": "https://sports.yahoo.com/articles/23-ufl-players-signed-nfl-145945743.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "23 UFL players have signed with NFL teams since conclusion of spring league's season",
       "description": "There are several NFL teams that have taken notice of UFL players, bringing them onto their 90-man rosters.",
@@ -36,5 +30,5 @@
     "rosters"
   ],
   "hash": "23998b77fd0000d5",
-  "queuedAt": "2026-06-23T15:50:04.131Z"
+  "queuedAt": "2026-06-23T21:07:01.102Z"
 }
