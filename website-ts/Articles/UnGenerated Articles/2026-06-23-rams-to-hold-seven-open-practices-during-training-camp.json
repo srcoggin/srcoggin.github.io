@@ -4,26 +4,36 @@
   "sources": [
     {
       "name": "Pro Football Talk",
+      "title": "Colts to hold 13 open practices at training camp",
+      "description": "The Colts are the latest team to share their plans for open practices during this summer's training camp.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-to-hold-13-open-practices-at-training-camp"
+    },
+    {
+      "name": "Pro Football Talk",
       "title": "Rams to hold seven open practices during training camp",
       "description": "The Rams have announced their open practice schedule for this summer's training camp.",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-to-hold-seven-open-practices-during-training-camp"
     }
   ],
   "keywords": [
-    "rams",
+    "colts",
     "hold",
-    "seven",
     "open",
     "practices",
     "training",
     "camp",
-    "announced",
+    "latest",
+    "share",
     "their",
-    "practice",
-    "schedule",
+    "plans",
     "this",
-    "summers"
+    "summers",
+    "rams",
+    "seven",
+    "announced",
+    "practice",
+    "schedule"
   ],
-  "hash": "c9db6bf17c7ff593",
-  "queuedAt": "2026-06-23T10:16:17.918Z"
+  "hash": "f5452d4b0031036b",
+  "queuedAt": "2026-06-23T15:50:02.173Z"
 }

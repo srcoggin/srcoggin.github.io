@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tom Brady: \"There's no greater passer of the football than Aaron Rodgers\"",
-      "description": "Who does the GOAT consider to be the GOAT?",
-      "url": "https://sports.yahoo.com/articles/tom-brady-theres-no-greater-003554040.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tom Brady: \"There's no greater passer of the football than Aaron Rodgers\"",
       "description": "Who does the GOAT consider to be the GOAT?",
@@ -28,5 +22,5 @@
     "consider"
   ],
   "hash": "b301bc9612119b2f",
-  "queuedAt": "2026-06-23T10:16:18.088Z"
+  "queuedAt": "2026-06-23T15:50:13.039Z"
 }

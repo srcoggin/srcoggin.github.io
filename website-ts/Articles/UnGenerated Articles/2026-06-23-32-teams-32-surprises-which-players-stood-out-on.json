@@ -5,7 +5,7 @@
     {
       "name": "ESPN NFL",
       "title": "32 teams, 32 surprises: Which players stood out on...",
-      "description": "From rookies to veterans, here are the players who have made an early impression on every NFL team ahead of training camp.",
+      "description": "null",
       "url": "https://www.espn.com/nfl/story/_/id/49108128/nfl-2026-biggest-surprise-players-every-team-offseason"
     }
   ],
@@ -16,17 +16,8 @@
     "players",
     "stood",
     "out",
-    "rookies",
-    "veterans",
-    "who",
-    "made",
-    "early",
-    "impression",
-    "every",
-    "ahead",
-    "training",
-    "camp"
+    "null"
   ],
-  "hash": "30f8faaca1ff26d8",
-  "queuedAt": "2026-06-23T10:16:18.702Z"
+  "hash": "0fb3698be4337cd6",
+  "queuedAt": "2026-06-23T15:50:05.083Z"
 }

@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dak Prescott: Making the postseason in 2026 is \"the minimum\"",
-      "description": "The Cowboys have not made the postseason since 2023.",
-      "url": "https://sports.yahoo.com/articles/dak-prescott-making-postseason-2026-212118267.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dak Prescott: Making the postseason in 2026 is \"the minimum\"",
       "description": "The Cowboys have not made the postseason since 2023.",
@@ -28,5 +22,5 @@
     "2023"
   ],
   "hash": "c3d56d1098bc8440",
-  "queuedAt": "2026-06-23T10:16:18.354Z"
+  "queuedAt": "2026-06-23T15:50:13.644Z"
 }

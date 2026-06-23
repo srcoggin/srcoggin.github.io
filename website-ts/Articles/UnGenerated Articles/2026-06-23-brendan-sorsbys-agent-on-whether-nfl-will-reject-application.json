@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brendan Sorsby's agent on whether NFL will reject application for supplemental draft: \"I would hope not\"",
-      "description": "NFL has not yet indicated whether Sorsby will be welcomed into the draft.",
-      "url": "https://sports.yahoo.com/articles/brendan-sorsbys-agent-whether-nfl-232106692.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brendan Sorsby's agent on whether NFL will reject application for supplemental draft: \"I would hope not\"",
       "description": "NFL has not yet indicated whether Sorsby will be welcomed into the draft.",
@@ -31,5 +25,5 @@
     "welcomed"
   ],
   "hash": "21c740dc4a3f95a6",
-  "queuedAt": "2026-06-23T10:16:18.201Z"
+  "queuedAt": "2026-06-23T15:50:13.381Z"
 }
