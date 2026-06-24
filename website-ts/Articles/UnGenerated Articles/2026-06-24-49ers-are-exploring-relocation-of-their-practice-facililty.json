@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers are \"exploring\" relocation of their practice facililty",
-      "description": "Buried in a feature from Vic Tafur of The Athletic regarding 49ers CEO Al Guido is a comment that could eliminate the lingering electrical substation issue once and for all.",
-      "url": "https://sports.yahoo.com/articles/49ers-exploring-relocation-practice-facililty-234806104.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers are \"exploring\" relocation of their practice facililty",
       "description": "Buried in a feature from Vic Tafur of The Athletic regarding 49ers CEO Al Guido is a comment that could eliminate the lingering electrical substation issue once and for all.",
@@ -39,5 +33,5 @@
     "issue"
   ],
   "hash": "4d3ccc2357989a68",
-  "queuedAt": "2026-06-24T10:10:37.474Z"
+  "queuedAt": "2026-06-24T15:25:04.944Z"
 }

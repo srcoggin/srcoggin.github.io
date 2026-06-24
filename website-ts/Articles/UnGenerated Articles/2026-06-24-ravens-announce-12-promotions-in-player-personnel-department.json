@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ravens announce 12 promotions in player personnel department",
-      "description": "The Ravens promoted 12 members of their player personnel department, the team announced Tuesday.",
-      "url": "https://sports.yahoo.com/articles/ravens-announce-12-promotions-player-201255601.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ravens announce 12 promotions in player personnel department",
       "description": "The Ravens promoted 12 members of their player personnel department, the team announced Tuesday.",
@@ -28,5 +22,5 @@
     "tuesday"
   ],
   "hash": "1eb9284af730f43d",
-  "queuedAt": "2026-06-24T10:10:36.274Z"
+  "queuedAt": "2026-06-24T15:24:57.504Z"
 }

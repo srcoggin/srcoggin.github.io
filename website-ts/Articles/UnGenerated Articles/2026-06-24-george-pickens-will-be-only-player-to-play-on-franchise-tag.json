@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "George Pickens will be only player to play on franchise tag in 2026",
-      "description": "Then, there was one. . . .",
-      "url": "https://sports.yahoo.com/articles/george-pickens-only-player-play-205931056.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "George Pickens will be only player to play on franchise tag in 2026",
       "description": "Then, there was one. . . .",
@@ -25,5 +19,5 @@
     "one"
   ],
   "hash": "fcd00e3538c8cd6f",
-  "queuedAt": "2026-06-24T10:10:37.783Z"
+  "queuedAt": "2026-06-24T15:25:05.629Z"
 }

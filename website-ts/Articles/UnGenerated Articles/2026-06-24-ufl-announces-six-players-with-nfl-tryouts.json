@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "UFL announces six players with NFL tryouts",
-      "description": "Several UFL players already have found new homes in the NFL.",
-      "url": "https://sports.yahoo.com/articles/ufl-announces-six-players-nfl-204334508.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "UFL announces six players with NFL tryouts",
       "description": "Several UFL players already have found new homes in the NFL.",
@@ -28,5 +22,5 @@
     "homes"
   ],
   "hash": "94c1bd0084d02b4d",
-  "queuedAt": "2026-06-24T10:10:37.849Z"
+  "queuedAt": "2026-06-24T15:25:05.429Z"
 }

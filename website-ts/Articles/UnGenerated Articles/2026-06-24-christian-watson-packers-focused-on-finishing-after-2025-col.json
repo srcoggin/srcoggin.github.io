@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Christian Watson: Packers focused on finishing after 2025 collapse",
-      "description": "The Packers lost four consecutive games to close out the regular season.",
-      "url": "https://sports.yahoo.com/articles/christian-watson-packers-focused-finishing-000335655.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Christian Watson: Packers focused on finishing after 2025 collapse",
       "description": "The Packers lost four consecutive games to close out the regular season.",
@@ -32,5 +26,5 @@
     "regular"
   ],
   "hash": "e29db64d63e6b006",
-  "queuedAt": "2026-06-24T10:10:37.370Z"
+  "queuedAt": "2026-06-24T15:25:04.845Z"
 }

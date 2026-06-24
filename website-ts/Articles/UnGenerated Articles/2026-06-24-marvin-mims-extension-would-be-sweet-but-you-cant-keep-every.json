@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Marvin Mims: Extension would be sweet, but you can't keep everybody",
-      "description": "Broncos wide receiver Marvin Mims was part of Sean Payton's first draft class in Denver, but he doesn't know if this will be his final year playing for the head coach.",
-      "url": "https://sports.yahoo.com/articles/marvin-mims-extension-sweet-cant-184313808.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Marvin Mims: Extension would be sweet, but you can't keep everybody",
       "description": "Broncos wide receiver Marvin Mims was part of Sean Payton's first draft class in Denver, but he doesn't know if this will be his final year playing for the head coach.",
@@ -44,5 +38,5 @@
     "coach"
   ],
   "hash": "d7099a26b1606c30",
-  "queuedAt": "2026-06-24T10:10:38.072Z"
+  "queuedAt": "2026-06-24T15:25:06.756Z"
 }
