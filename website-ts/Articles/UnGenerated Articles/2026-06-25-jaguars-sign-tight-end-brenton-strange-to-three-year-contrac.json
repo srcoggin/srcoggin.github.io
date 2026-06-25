@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaguars sign tight end Brenton Strange to three-year contract extension",
-      "description": "The Jaguars will be keeping tight end Brenton Strange through what they expect to be the prime years of his career.",
-      "url": "https://sports.yahoo.com/articles/jaguars-sign-tight-end-brenton-191842648.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaguars sign tight end Brenton Strange to three-year contract extension",
       "description": "The Jaguars will be keeping tight end Brenton Strange through what they expect to be the prime years of his career.",
@@ -35,5 +29,5 @@
     "career"
   ],
   "hash": "afb1ea3d699c1b1b",
-  "queuedAt": "2026-06-25T09:54:20.012Z"
+  "queuedAt": "2026-06-25T15:42:56.949Z"
 }

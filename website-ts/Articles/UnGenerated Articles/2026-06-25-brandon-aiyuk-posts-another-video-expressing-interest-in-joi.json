@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Aiyuk posts another video expressing interest in joining the Commanders",
-      "description": "49ers receiver keeps talking about signing with Washington.",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-posts-another-video-201325994.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Aiyuk posts another video expressing interest in joining the Commanders",
       "description": "49ers receiver keeps talking about signing with Washington.",
@@ -34,5 +28,5 @@
     "washington"
   ],
   "hash": "6ad331b3a4851b27",
-  "queuedAt": "2026-06-25T09:54:19.950Z"
+  "queuedAt": "2026-06-25T15:42:56.011Z"
 }

@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brendan Sorsby's best play could be to prepare for 2027 draft",
-      "description": "Right or wrong, a short-term win in court could have longer-term ramifications.",
-      "url": "https://sports.yahoo.com/articles/brendan-sorsbys-best-play-could-183523020.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brendan Sorsby's best play could be to prepare for 2027 draft",
       "description": "Right or wrong, a short-term win in court could have longer-term ramifications.",
@@ -32,5 +26,5 @@
     "ramifications"
   ],
   "hash": "25e6d3a28b845f8e",
-  "queuedAt": "2026-06-25T09:54:20.057Z"
+  "queuedAt": "2026-06-25T15:42:57.081Z"
 }

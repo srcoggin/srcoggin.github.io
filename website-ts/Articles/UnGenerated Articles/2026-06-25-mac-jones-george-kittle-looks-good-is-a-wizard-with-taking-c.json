@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mac Jones: George Kittle looks good, is \"a wizard\" with taking care of his body",
-      "description": "49ers tight end George Kittle is on the mend after suffering a torn Achilles during San Francisco’s postseason victory over Philadelphia in January.",
-      "url": "https://sports.yahoo.com/articles/mac-jones-george-kittle-looks-180434543.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mac Jones: George Kittle looks good, is \"a wizard\" with taking care of his body",
       "description": "49ers tight end George Kittle is on the mend after suffering a torn Achilles during San Francisco’s postseason victory over Philadelphia in January.",
@@ -43,5 +37,5 @@
     "january"
   ],
   "hash": "2c66260decfc25f7",
-  "queuedAt": "2026-06-25T09:54:20.111Z"
+  "queuedAt": "2026-06-25T15:42:57.208Z"
 }
