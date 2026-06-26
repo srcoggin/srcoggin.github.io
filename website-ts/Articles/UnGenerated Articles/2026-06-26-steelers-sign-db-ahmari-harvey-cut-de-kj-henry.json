@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers sign DB Ahmari Harvey, cut DE K.J. Henry",
-      "description": "The Steelers signed defensive back Ahmari Harvey, the team announced Thursday.",
-      "url": "https://sports.yahoo.com/articles/steelers-sign-db-ahmari-harvey-193359337.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers sign DB Ahmari Harvey, cut DE K.J. Henry",
       "description": "The Steelers signed defensive back Ahmari Harvey, the team announced Thursday.",
@@ -29,5 +23,5 @@
     "thursday"
   ],
   "hash": "b6ec646c0b4722f6",
-  "queuedAt": "2026-06-26T10:25:57.908Z"
+  "queuedAt": "2026-06-26T15:18:10.547Z"
 }

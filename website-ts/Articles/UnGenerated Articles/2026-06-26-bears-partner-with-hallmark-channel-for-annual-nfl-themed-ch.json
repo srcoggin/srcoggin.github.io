@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears partner with Hallmark Channel for annual NFL-themed Christmas movie",
-      "description": "NFL-themed Christmas movies have become an annual staple for Hallmark Channel, and this year the Bears will be the featured team.",
-      "url": "https://sports.yahoo.com/articles/bears-partner-hallmark-channel-annual-164558629.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears partner with Hallmark Channel for annual NFL-themed Christmas movie",
       "description": "NFL-themed Christmas movies have become an annual staple for Hallmark Channel, and this year the Bears will be the featured team.",
@@ -31,5 +25,5 @@
     "featured"
   ],
   "hash": "1668269746f50eb9",
-  "queuedAt": "2026-06-26T10:25:59.158Z"
+  "queuedAt": "2026-06-26T15:18:22.148Z"
 }

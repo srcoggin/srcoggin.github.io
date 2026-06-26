@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Aiyuk posts yet another video (but this one is more cryptic)",
-      "description": "Brandon Aiyuk is back at it.",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-posts-yet-another-174708873.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Aiyuk posts yet another video (but this one is more cryptic)",
       "description": "Brandon Aiyuk is back at it.",
@@ -28,5 +22,5 @@
     "back"
   ],
   "hash": "73ee25eebcfd9613",
-  "queuedAt": "2026-06-26T10:25:59.051Z"
+  "queuedAt": "2026-06-26T15:18:21.324Z"
 }

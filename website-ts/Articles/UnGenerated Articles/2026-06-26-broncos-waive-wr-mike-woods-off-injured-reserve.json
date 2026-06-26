@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos waive WR Mike Woods off injured reserve",
-      "description": "The Broncos have let go of one of their offensive players.",
-      "url": "https://sports.yahoo.com/articles/broncos-waive-wr-mike-woods-211051229.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos waive WR Mike Woods off injured reserve",
       "description": "The Broncos have let go of one of their offensive players.",
@@ -30,5 +24,5 @@
     "players"
   ],
   "hash": "6098a60a65268340",
-  "queuedAt": "2026-06-26T10:25:58.936Z"
+  "queuedAt": "2026-06-26T15:18:21.012Z"
 }
