@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "C.J. Gardner-Johnson blames his release in Houston on confrontation with \"GM's friend\"",
-      "description": "Before the Texans nearly made it to the AFC Championship for the first time in franchise history, they started the year 0-3.",
-      "url": "https://sports.yahoo.com/articles/c-j-gardner-johnson-blames-112125348.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "C.J. Gardner-Johnson blames his release in Houston on confrontation with \"GM's friend\"",
       "description": "Before the Texans nearly made it to the AFC Championship for the first time in franchise history, they started the year 0-3.",
@@ -37,5 +31,5 @@
     "started"
   ],
   "hash": "fd548e292806a33b",
-  "queuedAt": "2026-06-26T15:18:11.215Z"
+  "queuedAt": "2026-06-26T20:45:32.768Z"
 }

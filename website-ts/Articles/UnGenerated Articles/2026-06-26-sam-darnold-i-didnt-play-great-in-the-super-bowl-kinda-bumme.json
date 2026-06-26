@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sam Darnold: I didn't play great in the Super Bowl, \"kinda bummed\" to win that way",
-      "description": "Winning the Super Bowl was the crowning achievement of Seahawks quarterback Sam Darnold's career, but that doesn't mean he was happy with the way he played.",
-      "url": "https://sports.yahoo.com/articles/sam-darnold-didnt-play-great-100425561.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sam Darnold: I didn't play great in the Super Bowl, \"kinda bummed\" to win that way",
       "description": "Winning the Super Bowl was the crowning achievement of Seahawks quarterback Sam Darnold's career, but that doesn't mean he was happy with the way he played.",
@@ -41,5 +35,5 @@
     "played"
   ],
   "hash": "5a9702c4cb172817",
-  "queuedAt": "2026-06-26T15:18:11.313Z"
+  "queuedAt": "2026-06-26T20:45:32.885Z"
 }
