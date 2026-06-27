@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Aiyuk says he hasn't had an agent since November 2025",
-      "description": "Aiyuk claims he terminated SRA last year.",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-says-hasnt-had-222737858.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Aiyuk says he hasn't had an agent since November 2025",
       "description": "Aiyuk claims he terminated SRA last year.",
@@ -30,5 +24,5 @@
     "last"
   ],
   "hash": "76334344b4b3b892",
-  "queuedAt": "2026-06-27T14:43:47.322Z"
+  "queuedAt": "2026-06-27T19:51:16.089Z"
 }

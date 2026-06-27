@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chris Shula: We're going to put Myles Garrett in his comfort zone",
-      "description": "The Rams don't yet know where or exactly how they will use Myles Garrett.",
-      "url": "https://sports.yahoo.com/articles/chris-shula-were-going-put-212142715.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chris Shula: We're going to put Myles Garrett in his comfort zone",
       "description": "The Rams don't yet know where or exactly how they will use Myles Garrett.",
@@ -34,5 +28,5 @@
     "use"
   ],
   "hash": "76c3e339bf581191",
-  "queuedAt": "2026-06-27T14:43:47.438Z"
+  "queuedAt": "2026-06-27T19:51:16.146Z"
 }
