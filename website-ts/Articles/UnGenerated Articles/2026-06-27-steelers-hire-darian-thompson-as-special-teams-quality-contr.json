@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers hire Darian Thompson as special teams quality control coach",
-      "description": "The Steelers have made an addition to their coaching staff.",
-      "url": "https://sports.yahoo.com/articles/steelers-hire-darian-thompson-special-181037350.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers hire Darian Thompson as special teams quality control coach",
       "description": "The Steelers have made an addition to their coaching staff.",
@@ -32,5 +26,5 @@
     "staff"
   ],
   "hash": "0033618f59f43425",
-  "queuedAt": "2026-06-27T09:14:24.606Z"
+  "queuedAt": "2026-06-27T14:43:57.201Z"
 }

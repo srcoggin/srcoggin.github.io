@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Before Brandon Aiyuk can force his release, he must apply for reinstatement",
-      "description": "It has become very well established that receiver Brandon Aiyuk wants the 49ers to release him, so that he can sign with the Commanders.",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-force-release-must-173449545.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Before Brandon Aiyuk can force his release, he must apply for reinstatement",
       "description": "It has become very well established that receiver Brandon Aiyuk wants the 49ers to release him, so that he can sign with the Commanders.",
@@ -35,5 +29,5 @@
     "commanders"
   ],
   "hash": "4d7680472c9e9661",
-  "queuedAt": "2026-06-27T09:14:24.678Z"
+  "queuedAt": "2026-06-27T14:43:57.434Z"
 }

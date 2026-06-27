@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Josh Allen: A lot of new this year, we'll really make our team during training camp",
-      "description": "The Bills held a ribbon-cutting ceremony for their new stadium this week and the timing fits the overall theme of the offseason in Buffalo.",
-      "url": "https://sports.yahoo.com/articles/josh-allen-lot-well-really-171006664.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Josh Allen: A lot of new this year, we'll really make our team during training camp",
       "description": "The Bills held a ribbon-cutting ceremony for their new stadium this week and the timing fits the overall theme of the offseason in Buffalo.",
@@ -41,5 +35,5 @@
     "buffalo"
   ],
   "hash": "0d32f18d923fe07d",
-  "queuedAt": "2026-06-27T09:14:24.764Z"
+  "queuedAt": "2026-06-27T14:43:57.546Z"
 }
