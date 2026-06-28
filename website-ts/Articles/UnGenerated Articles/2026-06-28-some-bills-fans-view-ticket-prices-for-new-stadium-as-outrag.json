@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Some Bills fans view ticket prices for new stadium as \"outrageous\"",
-      "description": "They recently cut the ribbon at the Bills' new stadium.",
-      "url": "https://sports.yahoo.com/articles/bills-fans-view-ticket-prices-135525451.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Some Bills fans view ticket prices for new stadium as \"outrageous\"",
       "description": "They recently cut the ribbon at the Bills' new stadium.",
@@ -30,5 +24,5 @@
     "ribbon"
   ],
   "hash": "7eaa60b07983c583",
-  "queuedAt": "2026-06-28T09:50:47.955Z"
+  "queuedAt": "2026-06-28T14:19:42.512Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "ESPN opts not to renew Will Blackmon's Good Morning Football contract",
-      "description": "Will Blackmon is out at ESPN.",
-      "url": "https://sports.yahoo.com/articles/espn-opts-not-renew-blackmons-131725004.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "ESPN opts not to renew Will Blackmon's Good Morning Football contract",
       "description": "Will Blackmon is out at ESPN.",
@@ -27,5 +21,5 @@
     "out"
   ],
   "hash": "0a593ee7da2562d4",
-  "queuedAt": "2026-06-28T09:50:48.067Z"
+  "queuedAt": "2026-06-28T14:19:42.567Z"
 }
