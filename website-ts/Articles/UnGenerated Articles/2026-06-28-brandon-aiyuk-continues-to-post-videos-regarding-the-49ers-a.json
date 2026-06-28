@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Aiyuk continues to post videos regarding the 49ers and Commanders",
-      "description": "Aiyuk vows not to return to the 49ers until the Commanders play there in October.",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-continues-post-videos-193450707.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Aiyuk continues to post videos regarding the 49ers and Commanders",
       "description": "Aiyuk vows not to return to the 49ers until the Commanders play there in October.",
@@ -31,5 +25,5 @@
     "october"
   ],
   "hash": "9a34e3d1edac05a8",
-  "queuedAt": "2026-06-28T14:19:37.275Z"
+  "queuedAt": "2026-06-28T19:57:32.434Z"
 }
