@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Aiyuk has complaints about the NFLPA, too",
-      "description": "In recent days, 49ers receiver Brandon Aiyuk has been posting complaints about his current team and his now-former agent.",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-complaints-nflpa-too-231326154.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Aiyuk has complaints about the NFLPA, too",
       "description": "In recent days, 49ers receiver Brandon Aiyuk has been posting complaints about his current team and his now-former agent.",
@@ -32,5 +26,5 @@
     "agent"
   ],
   "hash": "4beb2133f9ce7620",
-  "queuedAt": "2026-06-29T11:36:40.165Z"
+  "queuedAt": "2026-06-29T16:50:45.315Z"
 }

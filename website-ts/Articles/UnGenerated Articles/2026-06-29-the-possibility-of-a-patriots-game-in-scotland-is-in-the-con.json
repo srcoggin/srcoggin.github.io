@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "The possibility of a Patriots game in Scotland is in the \"conversation\" phase",
-      "description": "After the Tartan Army took over Boston for the World Cup, and drank all the beer, Patriots owner Robert Kraft expressed an interest to the NFL in playing a game in Scotland.",
-      "url": "https://sports.yahoo.com/articles/possibility-patriots-game-scotland-conversation-152655508.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "The possibility of a Patriots game in Scotland is in the \"conversation\" phase",
       "description": "After the Tartan Army took over Boston for the World Cup, and drank all the beer, Patriots owner Robert Kraft expressed an interest to the NFL in playing a game in Scotland.",
@@ -38,5 +32,5 @@
     "playing"
   ],
   "hash": "32803bc23e0b53a1",
-  "queuedAt": "2026-06-29T11:36:40.513Z"
+  "queuedAt": "2026-06-29T16:50:46.043Z"
 }

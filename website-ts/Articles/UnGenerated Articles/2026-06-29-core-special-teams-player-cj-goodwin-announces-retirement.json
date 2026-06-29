@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Core special teams player C.J. Goodwin announces retirement",
-      "description": "Core special teams player C.J.",
-      "url": "https://sports.yahoo.com/articles/core-special-teams-player-c-224416668.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Core special teams player C.J. Goodwin announces retirement",
       "description": "Core special teams player C.J.",
@@ -24,5 +18,5 @@
     "retirement"
   ],
   "hash": "acce38adf58be647",
-  "queuedAt": "2026-06-29T11:36:40.227Z"
+  "queuedAt": "2026-06-29T16:50:45.432Z"
 }

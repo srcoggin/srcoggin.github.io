@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tom Brady expects a \"massive improvement\" from the Raiders in 2026",
-      "description": "\"I would expect daily improvement,\" Brady said, \"and I'd expect hourly improvement.\"",
-      "url": "https://sports.yahoo.com/articles/tom-brady-expects-massive-improvement-233539014.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tom Brady expects a \"massive improvement\" from the Raiders in 2026",
       "description": "\"I would expect daily improvement,\" Brady said, \"and I'd expect hourly improvement.\"",
@@ -29,5 +23,5 @@
     "hourly"
   ],
   "hash": "427b530c6a5c1500",
-  "queuedAt": "2026-06-29T11:36:40.062Z"
+  "queuedAt": "2026-06-29T16:50:45.198Z"
 }

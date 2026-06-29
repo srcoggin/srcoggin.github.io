@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders minority owner Tom Brady bashes the NFL's fine system for on-field \"mistakes\"",
-      "description": "Brady's opinions may not be shared by his business partners.",
-      "url": "https://sports.yahoo.com/articles/raiders-minority-owner-tom-brady-175109058.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders minority owner Tom Brady bashes the NFL's fine system for on-field \"mistakes\"",
       "description": "Brady's opinions may not be shared by his business partners.",
@@ -35,5 +29,5 @@
     "partners"
   ],
   "hash": "d715875d22e47590",
-  "queuedAt": "2026-06-29T11:36:40.355Z"
+  "queuedAt": "2026-06-29T16:50:45.677Z"
 }

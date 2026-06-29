@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Aiyuk terminated SRA on Saturday",
-      "description": "In one of his recent social-media videos, 49ers receiver Brandon Aiyuk said he terminated a Standard Representation Agreement with Ryan Williams of Athletes First in November 2025.",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-terminated-sra-saturday-163856540.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Aiyuk terminated SRA on Saturday",
       "description": "In one of his recent social-media videos, 49ers receiver Brandon Aiyuk said he terminated a Standard Representation Agreement with Ryan Williams of Athletes First in November 2025.",
@@ -40,5 +34,5 @@
     "2025"
   ],
   "hash": "d4db0303e0d5ab37",
-  "queuedAt": "2026-06-29T11:36:40.416Z"
+  "queuedAt": "2026-06-29T16:50:45.802Z"
 }

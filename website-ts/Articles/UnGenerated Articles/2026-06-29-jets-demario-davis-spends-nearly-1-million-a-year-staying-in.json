@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets' Demario Davis spends nearly $1 million a year staying in shape to play at age 37",
-      "description": "Jets linebacker Demario Davis is heading into his 15th NFL season, and he has missed only one game in his NFL career, an impressive run of durability that he attributes to the way he takes care of his body throughout the year.",
-      "url": "https://sports.yahoo.com/articles/jets-demario-davis-spends-nearly-085002404.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets' Demario Davis spends nearly $1 million a year staying in shape to play at age 37",
       "description": "Jets linebacker Demario Davis is heading into his 15th NFL season, and he has missed only one game in his NFL career, an impressive run of durability that he attributes to the way he takes care of his body throughout the year.",
@@ -45,5 +39,5 @@
     "throughout"
   ],
   "hash": "df06b97bcc1aa72c",
-  "queuedAt": "2026-06-29T11:36:39.924Z"
+  "queuedAt": "2026-06-29T16:50:44.967Z"
 }
