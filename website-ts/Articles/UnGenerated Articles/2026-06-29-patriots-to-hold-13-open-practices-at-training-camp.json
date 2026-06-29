@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots to hold 13 open practices at training camp",
-      "description": "The Patriots will hold their first practice of training camp on July 25 and it will be the first of 13 sessions open to the public.",
-      "url": "https://sports.yahoo.com/articles/patriots-hold-13-open-practices-125415325.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots to hold 13 open practices at training camp",
       "description": "The Patriots will hold their first practice of training camp on July 25 and it will be the first of 13 sessions open to the public.",
@@ -30,5 +24,5 @@
     "public"
   ],
   "hash": "7a442cb3fd57f937",
-  "queuedAt": "2026-06-29T16:50:37.687Z"
+  "queuedAt": "2026-06-29T20:52:54.536Z"
 }
