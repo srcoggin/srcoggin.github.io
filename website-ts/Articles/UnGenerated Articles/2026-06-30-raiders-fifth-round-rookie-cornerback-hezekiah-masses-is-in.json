@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders' fifth-round rookie cornerback Hezekiah Masses is in the mix for a starting job",
-      "description": "The Raiders knew they needed help in the secondary in the 2026 NFL draft, which is why they selected four defensive backs.",
-      "url": "https://sports.yahoo.com/articles/raiders-fifth-round-rookie-cornerback-084320555.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders' fifth-round rookie cornerback Hezekiah Masses is in the mix for a starting job",
       "description": "The Raiders knew they needed help in the secondary in the 2026 NFL draft, which is why they selected four defensive backs.",
@@ -39,5 +33,5 @@
     "backs"
   ],
   "hash": "b3a1e46d1fb29278",
-  "queuedAt": "2026-06-30T14:55:37.655Z"
+  "queuedAt": "2026-06-30T20:33:36.375Z"
 }

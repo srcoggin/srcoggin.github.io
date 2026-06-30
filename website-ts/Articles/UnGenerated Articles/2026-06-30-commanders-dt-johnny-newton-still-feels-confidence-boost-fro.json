@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Commanders DT Johnny Newton still feels \"confidence boost\" from end of 2025 season",
-      "description": "Commanders head coach Dan Quinn said in April that he believes defensive tackle Johnny Newton is \"about to absolutely take off\" in his third season with the team and the close to his 2025 campaign has something to do with that.",
-      "url": "https://sports.yahoo.com/articles/commanders-dt-johnny-newton-still-122344355.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Commanders DT Johnny Newton still feels \"confidence boost\" from end of 2025 season",
       "description": "Commanders head coach Dan Quinn said in April that he believes defensive tackle Johnny Newton is \"about to absolutely take off\" in his third season with the team and the close to his 2025 campaign has something to do with that.",
@@ -46,5 +40,5 @@
     "something"
   ],
   "hash": "e66ad5f16117266f",
-  "queuedAt": "2026-06-30T14:55:37.587Z"
+  "queuedAt": "2026-06-30T20:33:36.195Z"
 }
