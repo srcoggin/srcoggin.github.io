@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Juszczyk: Mike Evans has been \"unguardable\" at practice",
-      "description": "Mike Evans can still play.",
-      "url": "https://sports.yahoo.com/articles/kyle-juszczyk-mike-evans-unguardable-200225860.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Juszczyk: Mike Evans has been \"unguardable\" at practice",
       "description": "Mike Evans can still play.",
@@ -26,5 +20,5 @@
     "play"
   ],
   "hash": "b06c6e3c1534b8bd",
-  "queuedAt": "2026-06-30T10:07:28.435Z"
+  "queuedAt": "2026-06-30T14:55:42.087Z"
 }

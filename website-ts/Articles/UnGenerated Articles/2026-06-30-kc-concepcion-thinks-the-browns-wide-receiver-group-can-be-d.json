@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "KC Concepcion thinks the Browns' wide receiver group can be dangerous",
-      "description": "The Browns are still sorting out who their quarterback will be in Week 1, but they have a better sense of who will be catching passes from either Deshaun Watson or Shedeur Sanders.",
-      "url": "https://sports.yahoo.com/articles/kc-concepcion-thinks-browns-wide-170420197.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "KC Concepcion thinks the Browns' wide receiver group can be dangerous",
       "description": "The Browns are still sorting out who their quarterback will be in Week 1, but they have a better sense of who will be catching passes from either Deshaun Watson or Shedeur Sanders.",
@@ -41,5 +35,5 @@
     "sanders"
   ],
   "hash": "14e66da99458ffbc",
-  "queuedAt": "2026-06-30T10:07:28.480Z"
+  "queuedAt": "2026-06-30T14:55:42.963Z"
 }
