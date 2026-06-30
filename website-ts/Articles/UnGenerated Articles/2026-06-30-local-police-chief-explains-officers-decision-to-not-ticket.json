@@ -5,7 +5,7 @@
     {
       "name": "Pro Football Talk",
       "title": "Local police chief explains officer's decision to not ticket Dianna Russini",
-      "description": "Now that the bodycam from the infamous traffic stop of former New York Times reporter Dianna Russini has emerged, the local authorities who pulled who didn't issue her a ticket have chimed in.",
+      "description": "Now that the bodycam from the infamous traffic stop of former New York Times reporter Dianna Russini has emerged, the local authorities who didn't issue her a ticket have chimed in.",
       "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/local-police-chief-explains-officers-decision-to-not-ticket-dianna-russini"
     }
   ],
@@ -33,12 +33,11 @@
     "emerged",
     "authorities",
     "who",
-    "pulled",
     "didnt",
     "issue",
     "her",
     "chimed"
   ],
-  "hash": "c082974a5569ae10",
-  "queuedAt": "2026-06-30T04:47:57.138Z"
+  "hash": "d6e6d86000ed7d16",
+  "queuedAt": "2026-06-30T10:07:28.041Z"
 }
