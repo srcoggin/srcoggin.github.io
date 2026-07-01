@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Deshaun Watson returned to Browns facility to train this week",
-      "description": "Watson is reportedly looking to get a leg up in the competition with Shedeur Sanders.",
-      "url": "https://sports.yahoo.com/articles/deshaun-watson-returned-browns-facility-175608560.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Deshaun Watson returned to Browns facility to train this week",
       "description": "Watson is reportedly looking to get a leg up in the competition with Shedeur Sanders.",
@@ -32,5 +26,5 @@
     "sanders"
   ],
   "hash": "5f688909eff8b614",
-  "queuedAt": "2026-07-01T10:54:07.655Z"
+  "queuedAt": "2026-07-01T15:18:49.487Z"
 }

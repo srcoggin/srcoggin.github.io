@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Drew Allar \"excited\" to learn from Aaron Rodgers",
-      "description": "Drew Allar has some familiarity with the West Coast offense, but the Steelers rookie quarterback doesn't know nearly as much about Mike McCarthy's offense as Aaron Rodgers.",
-      "url": "https://sports.yahoo.com/articles/drew-allar-excited-learn-aaron-201236746.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Drew Allar \"excited\" to learn from Aaron Rodgers",
       "description": "Drew Allar has some familiarity with the West Coast offense, but the Steelers rookie quarterback doesn't know nearly as much about Mike McCarthy's offense as Aaron Rodgers.",
@@ -38,5 +32,5 @@
     "mccarthys"
   ],
   "hash": "dc37e6c3c99bab8e",
-  "queuedAt": "2026-07-01T10:54:09.434Z"
+  "queuedAt": "2026-07-01T15:18:56.011Z"
 }

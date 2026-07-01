@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ron Rivera signs three-year deal to serve as Cal's G.M.",
-      "description": "Ron Rivera, who worked for 13 straight seasons as an NFL head coach (and who won the NFL's coach of the year award twice), will be staying put at his alma mater.",
-      "url": "https://sports.yahoo.com/articles/ron-rivera-signs-three-deal-190000286.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ron Rivera signs three-year deal to serve as Cal's G.M.",
       "description": "Ron Rivera, who worked for 13 straight seasons as an NFL head coach (and who won the NFL's coach of the year award twice), will be staying put at his alma mater.",
@@ -40,5 +34,5 @@
     "mater"
   ],
   "hash": "11510e871ae30455",
-  "queuedAt": "2026-07-01T10:54:09.551Z"
+  "queuedAt": "2026-07-01T15:18:56.214Z"
 }

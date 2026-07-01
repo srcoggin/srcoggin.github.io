@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals CB Will Johnson: We have a good opportunity to surprise people",
-      "description": "The NFC West won more games than any other division in the NFL last season, but the Cardinals didn't do much to contribute to the effort.",
-      "url": "https://sports.yahoo.com/articles/cardinals-cb-johnson-good-opportunity-182146956.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals CB Will Johnson: We have a good opportunity to surprise people",
       "description": "The NFC West won more games than any other division in the NFL last season, but the Cardinals didn't do much to contribute to the effort.",
@@ -35,5 +29,5 @@
     "effort"
   ],
   "hash": "0d5e9997331641fd",
-  "queuedAt": "2026-07-01T10:54:09.686Z"
+  "queuedAt": "2026-07-01T15:18:56.343Z"
 }

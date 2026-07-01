@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brendan Sorsby and NFL agree he'll be eligible for 2027 draft",
-      "description": "Sorsby, NFL, and NFLPA work out a settlement of his potential lawsuit against the league.",
-      "url": "https://sports.yahoo.com/articles/brendan-sorsby-nfl-agree-hell-211036732.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brendan Sorsby and NFL agree he'll be eligible for 2027 draft",
       "description": "Sorsby, NFL, and NFLPA work out a settlement of his potential lawsuit against the league.",
@@ -34,5 +28,5 @@
     "league"
   ],
   "hash": "c0a2d10b7768bc15",
-  "queuedAt": "2026-07-01T10:54:09.128Z"
+  "queuedAt": "2026-07-01T15:18:55.739Z"
 }
