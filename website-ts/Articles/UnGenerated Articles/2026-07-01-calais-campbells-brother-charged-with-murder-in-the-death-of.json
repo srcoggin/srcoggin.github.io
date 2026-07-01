@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Calais Campbell's brother charged with murder in the death of their mother",
-      "description": "Ciarre Campbell, brother of Calais Campbell, was booked early Wednesday morning in Fulton County Jail on charges of murder, aggravated assault and possession of a firearm or knife.",
-      "url": "https://sports.yahoo.com/articles/calais-campbells-brother-charged-murder-084423031.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Calais Campbell's brother charged with murder in the death of their mother",
       "description": "Ciarre Campbell, brother of Calais Campbell, was booked early Wednesday morning in Fulton County Jail on charges of murder, aggravated assault and possession of a firearm or knife.",
@@ -41,5 +35,5 @@
     "knife"
   ],
   "hash": "9dd03de0905cdca9",
-  "queuedAt": "2026-07-01T15:18:49.731Z"
+  "queuedAt": "2026-07-01T21:05:50.619Z"
 }

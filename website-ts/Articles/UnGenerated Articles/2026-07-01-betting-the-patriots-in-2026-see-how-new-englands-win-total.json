@@ -4,9 +4,33 @@
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Betting the Jets in 2026: See how New York&#039;s win total, Super Bowl odds are trending and our best bets",
-      "description": "We&#039;re breaking down Jets futures in our 2026 betting preview, featuring odds, trends, schedule and more",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-jets-in-2026-see-how-new-yorks-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+      "title": "Betting the Texans in 2026: See how Houston&#039;s win total, Super Bowl odds are trending and our best bets",
+      "description": "We&#039;re breaking down Texans futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-texans-in-2026-see-how-houstons-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Betting the Steelers in 2026: See how Pittsburgh&#039;s win total, Super Bowl odds are trending and our best bets",
+      "description": "We&#039;re breaking down Steelers futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-steelers-in-2026-see-how-pittsburghs-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Betting the Browns in 2026: See how Cleveland&#039;s win total, Super Bowl odds are trending and our best bets",
+      "description": "We&#039;re breaking down Browns futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-browns-in-2026-see-how-clevelands-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Betting the Bengals in 2026: See how Cincinnati&#039;s win total, Super Bowl odds are trending and our best bets",
+      "description": "We&#039;re breaking down Bengals futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-bengals-in-2026-see-how-cincinnatis-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Betting the Ravens in 2026: See how Baltimore&#039;s win total, Super Bowl odds are trending and our best bets",
+      "description": "We&#039;re breaking down Ravens futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-ravens-in-2026-see-how-baltimores-win-total-super-bowl-odds-are-trending-and-our-best-bets/"
     },
     {
       "name": "CBS Sports NFL",
@@ -29,11 +53,10 @@
   ],
   "keywords": [
     "betting",
-    "jets",
+    "texans",
     "2026",
     "see",
-    "new",
-    "york039s",
+    "houston039s",
     "win",
     "total",
     "super",
@@ -51,13 +74,22 @@
     "featuring",
     "trends",
     "schedule",
+    "steelers",
+    "pittsburgh039s",
+    "browns",
+    "cleveland039s",
+    "bengals",
+    "cincinnati039s",
+    "ravens",
+    "baltimore039s",
     "patriots",
+    "new",
     "england039s",
     "dolphins",
     "miami039s",
     "bills",
     "buffalo039s"
   ],
-  "hash": "1957e6e569770498",
-  "queuedAt": "2026-07-01T15:18:48.925Z"
+  "hash": "97db3433b5e062be",
+  "queuedAt": "2026-07-01T21:05:39.634Z"
 }

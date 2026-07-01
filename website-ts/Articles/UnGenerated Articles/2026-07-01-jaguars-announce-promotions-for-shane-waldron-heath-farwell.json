@@ -3,6 +3,12 @@
   "category": "coaching",
   "sources": [
     {
+      "name": "Yahoo Sports NFL",
+      "title": "Jaguars announce two promotions within coaching staff",
+      "description": "Shane Waldron and Heath Farwell added “Assistant Head Coach” to their job titles.",
+      "url": "https://sports.yahoo.com/articles/jaguars-announce-two-promotions-within-153000818.html"
+    },
+    {
       "name": "Pro Football Talk",
       "title": "Jaguars announce promotions for Shane Waldron, Heath Farwell",
       "description": "The Jaguars have announced a pair of promotions on their coaching staff.",
@@ -12,17 +18,25 @@
   "keywords": [
     "jaguars",
     "announce",
+    "two",
     "promotions",
+    "within",
+    "coaching",
+    "staff",
     "shane",
     "waldron",
     "heath",
     "farwell",
-    "announced",
-    "pair",
+    "added",
+    "assistant",
+    "head",
+    "coach",
     "their",
-    "coaching",
-    "staff"
+    "job",
+    "titles",
+    "announced",
+    "pair"
   ],
-  "hash": "e3b070238d04f6a8",
-  "queuedAt": "2026-07-01T15:18:49.346Z"
+  "hash": "660961c123c85603",
+  "queuedAt": "2026-07-01T21:05:39.779Z"
 }
