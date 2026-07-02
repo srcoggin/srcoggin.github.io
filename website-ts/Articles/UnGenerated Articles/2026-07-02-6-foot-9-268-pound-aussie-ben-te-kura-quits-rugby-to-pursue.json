@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "6-foot-9, 268-pound Aussie Ben Te Kura quits rugby to pursue NFL career",
-      "description": "The tallest player in the history of Australia's National Rugby League is walking away to pursue an NFL career.",
-      "url": "https://sports.yahoo.com/articles/6-foot-9-268-pound-111932604.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "6-foot-9, 268-pound Aussie Ben Te Kura quits rugby to pursue NFL career",
       "description": "The tallest player in the history of Australia's National Rugby League is walking away to pursue an NFL career.",
@@ -34,5 +28,5 @@
     "away"
   ],
   "hash": "d8b06a6803ec4fbd",
-  "queuedAt": "2026-07-02T15:13:29.654Z"
+  "queuedAt": "2026-07-02T20:30:11.725Z"
 }

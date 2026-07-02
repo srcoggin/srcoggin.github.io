@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL Network-Comcast standoff enters its third month",
-      "description": "Xfinity cable viewers still can't watch NFL Network, and won't have NFL RedZone if a deal isn't reached by Week One.",
-      "url": "https://sports.yahoo.com/articles/nfl-network-comcast-standoff-enters-085144543.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL Network-Comcast standoff enters its third month",
       "description": "Xfinity cable viewers still can't watch NFL Network, and won't have NFL RedZone if a deal isn't reached by Week One.",
@@ -37,5 +31,5 @@
     "one"
   ],
   "hash": "24d332f7d88118db",
-  "queuedAt": "2026-07-02T15:13:29.770Z"
+  "queuedAt": "2026-07-02T20:30:12.471Z"
 }
