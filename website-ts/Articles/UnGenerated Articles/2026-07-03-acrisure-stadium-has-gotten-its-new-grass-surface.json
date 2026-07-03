@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Acrisure Stadium has gotten its new grass surface",
-      "description": "Not all grass field are the same.",
-      "url": "https://sports.yahoo.com/articles/acrisure-stadium-gotten-grass-surface-003925261.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Acrisure Stadium has gotten its new grass surface",
       "description": "Not all grass field are the same.",
@@ -26,5 +20,5 @@
     "field"
   ],
   "hash": "81ff778013ce1081",
-  "queuedAt": "2026-07-03T14:42:48.938Z"
+  "queuedAt": "2026-07-03T20:26:15.832Z"
 }
