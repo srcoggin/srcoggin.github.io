@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Austin Schlottmann focused on himself as he competes for Titans' center job",
-      "description": "Austin Schlottmann followed Brian Daboll and Carmen Bricillo to the Titans, signing a three-year, $7 million deal in the offseason.",
-      "url": "https://sports.yahoo.com/articles/austin-schlottmann-focused-himself-competes-211705639.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Austin Schlottmann focused on himself as he competes for Titans' center job",
       "description": "Austin Schlottmann followed Brian Daboll and Carmen Bricillo to the Titans, signing a three-year, $7 million deal in the offseason.",
@@ -36,5 +30,5 @@
     "offseason"
   ],
   "hash": "8db1ae08e2e0d9d9",
-  "queuedAt": "2026-07-03T10:04:51.336Z"
+  "queuedAt": "2026-07-03T14:42:53.788Z"
 }
