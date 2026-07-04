@@ -5,7 +5,7 @@
     {
       "name": "Yahoo Sports NFL",
       "title": "ESPN predicts Commanders rookie WR Antonio Williams will win OROY in 2026 - Daily Slop",
-      "description": "Solak: “There are few middle-round rookies for whom I have rosier Year 1 projections than Williams”",
+      "description": "Ben Solak: “There are few middle-round rookies for whom I have rosier Year 1 projections than Williams”",
       "url": "https://sports.yahoo.com/articles/espn-predicts-commanders-rookie-wr-140000145.html"
     }
   ],
@@ -21,6 +21,7 @@
     "2026",
     "daily",
     "slop",
+    "ben",
     "solak",
     "middleround",
     "rookies",
@@ -28,6 +29,6 @@
     "rosier",
     "projections"
   ],
-  "hash": "493dbc05f017c5aa",
-  "queuedAt": "2026-07-04T14:23:59.054Z"
+  "hash": "60d00da729bad3d8",
+  "queuedAt": "2026-07-04T19:48:37.244Z"
 }
