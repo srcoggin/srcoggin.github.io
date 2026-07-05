@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Scot McCloughan dubs Ty Simpson a \"career backup\"",
-      "description": "Former G.M. compares Simpson to J.J. McCarthy, Mac Jones.",
-      "url": "https://sports.yahoo.com/articles/scot-mccloughan-dubs-ty-simpson-231029229.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Scot McCloughan dubs Ty Simpson a \"career backup\"",
       "description": "Former G.M. compares Simpson to J.J. McCarthy, Mac Jones.",
@@ -29,5 +23,5 @@
     "jones"
   ],
   "hash": "60325c3ea6b314a1",
-  "queuedAt": "2026-07-05T09:53:33.454Z"
+  "queuedAt": "2026-07-05T14:12:59.539Z"
 }
