@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Donald fuels speculation he'll return to the Rams",
-      "description": "Donald adds an intriguing comment to a social media post.",
-      "url": "https://sports.yahoo.com/articles/aaron-donald-fuels-speculation-hell-133052409.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Donald fuels speculation he'll return to the Rams",
       "description": "Donald adds an intriguing comment to a social media post.",
@@ -31,5 +25,5 @@
     "post"
   ],
   "hash": "b1fa883af9cca0a6",
-  "queuedAt": "2026-07-05T14:12:55.224Z"
+  "queuedAt": "2026-07-05T20:16:34.913Z"
 }
