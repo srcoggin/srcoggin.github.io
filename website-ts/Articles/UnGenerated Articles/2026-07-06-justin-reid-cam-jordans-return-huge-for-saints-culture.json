@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Justin Reid: Cam Jordan's return huge for Saints culture",
-      "description": "It took some time, but defensive end Cam Jordan and the Saints agreed on a contract that will keep the veteran in New Orleans for a 16th season.",
-      "url": "https://sports.yahoo.com/articles/justin-reid-cam-jordans-return-124001056.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Justin Reid: Cam Jordan's return huge for Saints culture",
       "description": "It took some time, but defensive end Cam Jordan and the Saints agreed on a contract that will keep the veteran in New Orleans for a 16th season.",
@@ -39,5 +33,5 @@
     "16th"
   ],
   "hash": "240556e21d2a6f72",
-  "queuedAt": "2026-07-06T16:36:53.489Z"
+  "queuedAt": "2026-07-06T20:35:10.304Z"
 }
