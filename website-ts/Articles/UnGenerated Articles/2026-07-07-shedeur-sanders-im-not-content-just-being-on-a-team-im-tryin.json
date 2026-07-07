@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Shedeur Sanders: I'm not content just being on a team, I'm trying to be one of the greatest",
-      "description": "Sanders wants to win a lot more than just his training camp competition with Deshaun Watson.",
-      "url": "https://sports.yahoo.com/articles/shedeur-sanders-im-not-content-082938076.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Shedeur Sanders: I'm not content just being on a team, I'm trying to be one of the greatest",
       "description": "Sanders wants to win a lot more than just his training camp competition with Deshaun Watson.",
@@ -33,5 +27,5 @@
     "watson"
   ],
   "hash": "5a081861bd01f56a",
-  "queuedAt": "2026-07-07T15:14:18.386Z"
+  "queuedAt": "2026-07-07T21:03:04.736Z"
 }

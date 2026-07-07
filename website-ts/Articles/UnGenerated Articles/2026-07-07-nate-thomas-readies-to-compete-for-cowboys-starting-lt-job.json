@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nate Thomas readies to compete for Cowboys' starting LT job",
-      "description": "Pro Bowl left guard Tyler Smith is the Cowboys' best left tackle, but he does not want a full-time move.",
-      "url": "https://sports.yahoo.com/articles/nate-thomas-readies-compete-cowboys-004418251.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nate Thomas readies to compete for Cowboys' starting LT job",
       "description": "Pro Bowl left guard Tyler Smith is the Cowboys' best left tackle, but he does not want a full-time move.",
@@ -36,5 +30,5 @@
     "move"
   ],
   "hash": "b77e5acb4a0d904a",
-  "queuedAt": "2026-07-07T15:14:18.446Z"
+  "queuedAt": "2026-07-07T21:03:04.858Z"
 }

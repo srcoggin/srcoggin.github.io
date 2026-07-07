@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Bucs in \"no rush\" to work out new deals with Baker Mayfield, Vita Vea",
-      "description": "The Buccaneers open up training camp in three weeks.",
-      "url": "https://sports.yahoo.com/articles/report-bucs-no-rush-deals-124002356.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Bucs in \"no rush\" to work out new deals with Baker Mayfield, Vita Vea",
       "description": "The Buccaneers open up training camp in three weeks.",
@@ -35,5 +29,5 @@
     "weeks"
   ],
   "hash": "7ecbf67c154c8a58",
-  "queuedAt": "2026-07-07T15:14:17.873Z"
+  "queuedAt": "2026-07-07T21:02:56.308Z"
 }
