@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Marcellus Willey \"completely and unequivocally\" denies allegation of domestic battery",
-      "description": "Former NFL defensive end and ESPN/Fox employee Marcellus Wiley has addressed the allegation of domestic battery that resulted in his arrest on July 4.",
-      "url": "https://sports.yahoo.com/articles/marcellus-willey-completely-unequivocally-denies-221420433.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Marcellus Willey \"completely and unequivocally\" denies allegation of domestic battery",
       "description": "Former NFL defensive end and ESPN/Fox employee Marcellus Wiley has addressed the allegation of domestic battery that resulted in his arrest on July 4.",
@@ -38,5 +32,5 @@
     "july"
   ],
   "hash": "dcccb1be965fc199",
-  "queuedAt": "2026-07-07T10:26:09.203Z"
+  "queuedAt": "2026-07-07T15:14:23.362Z"
 }

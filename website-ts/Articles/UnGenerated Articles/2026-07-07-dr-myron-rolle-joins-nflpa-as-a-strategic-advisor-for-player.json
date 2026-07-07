@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dr. Myron Rolle joins NFLPA as a strategic advisor for player health",
-      "description": "Former NFL safety Myron Rolle went to medical school after he completed his playing career and the pediatric neurosurgeon is now coming back to work with the NFL Players Association.",
-      "url": "https://sports.yahoo.com/articles/dr-myron-rolle-joins-nflpa-155455986.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dr. Myron Rolle joins NFLPA as a strategic advisor for player health",
       "description": "Former NFL safety Myron Rolle went to medical school after he completed his playing career and the pediatric neurosurgeon is now coming back to work with the NFL Players Association.",
@@ -42,5 +36,5 @@
     "association"
   ],
   "hash": "a03d7966f4520f0f",
-  "queuedAt": "2026-07-07T10:26:09.427Z"
+  "queuedAt": "2026-07-07T15:14:24.231Z"
 }

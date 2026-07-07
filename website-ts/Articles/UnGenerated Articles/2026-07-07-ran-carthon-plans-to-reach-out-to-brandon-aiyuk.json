@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ran Carthon plans to reach out to Brandon Aiyuk",
-      "description": "At a time when it's not clear whether receiver Brandon Aiyuk is getting any advice — or whether he's listening to the advice he's getting — a former NFL G.M. who knows Aiyuk plans to connect with him.",
-      "url": "https://sports.yahoo.com/articles/ran-carthon-plans-reach-brandon-193401834.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ran Carthon plans to reach out to Brandon Aiyuk",
       "description": "At a time when it's not clear whether receiver Brandon Aiyuk is getting any advice — or whether he's listening to the advice he's getting — a former NFL G.M. who knows Aiyuk plans to connect with him.",
@@ -40,5 +34,5 @@
     "him"
   ],
   "hash": "a14d82c77b454cdc",
-  "queuedAt": "2026-07-07T10:26:09.353Z"
+  "queuedAt": "2026-07-07T15:14:23.795Z"
 }

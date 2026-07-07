@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Commanders agree to sign CB Rasul Douglas",
-      "description": "The Commanders are adding a veteran cornerback.",
-      "url": "https://sports.yahoo.com/articles/commanders-agree-sign-cb-rasul-154919887.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Commanders agree to sign CB Rasul Douglas",
       "description": "The Commanders are adding a veteran cornerback.",
@@ -26,5 +20,5 @@
     "cornerback"
   ],
   "hash": "8b05dad22c8c7b6a",
-  "queuedAt": "2026-07-07T10:26:09.519Z"
+  "queuedAt": "2026-07-07T15:14:24.293Z"
 }
