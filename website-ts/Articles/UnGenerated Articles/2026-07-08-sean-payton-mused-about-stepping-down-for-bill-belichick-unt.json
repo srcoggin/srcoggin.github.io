@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean Payton mused about stepping down for Bill Belichick, until he broke wins record",
-      "description": "A new article from Seth Wickersham of ESPN takes a look at Broncos coach Sean Payton's hectic week before the AFC Championship.",
-      "url": "https://sports.yahoo.com/articles/sean-payton-mused-stepping-down-011759151.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean Payton mused about stepping down for Bill Belichick, until he broke wins record",
       "description": "A new article from Seth Wickersham of ESPN takes a look at Broncos coach Sean Payton's hectic week before the AFC Championship.",
@@ -43,5 +37,5 @@
     "championship"
   ],
   "hash": "b196db54b2262cae",
-  "queuedAt": "2026-07-08T09:08:59.742Z"
+  "queuedAt": "2026-07-08T14:48:28.167Z"
 }

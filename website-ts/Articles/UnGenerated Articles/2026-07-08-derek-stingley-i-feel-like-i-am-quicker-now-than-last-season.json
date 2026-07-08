@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Derek Stingley: I feel like I am quicker now than last season",
-      "description": "Derek Stingley became the first cornerback in Texans history to earn first-team All-Pro in 2024.",
-      "url": "https://sports.yahoo.com/articles/derek-stingley-feel-am-quicker-183514506.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Derek Stingley: I feel like I am quicker now than last season",
       "description": "Derek Stingley became the first cornerback in Texans history to earn first-team All-Pro in 2024.",
@@ -34,5 +28,5 @@
     "2024"
   ],
   "hash": "ce1272899a2446cf",
-  "queuedAt": "2026-07-08T09:09:00.082Z"
+  "queuedAt": "2026-07-08T14:48:28.704Z"
 }

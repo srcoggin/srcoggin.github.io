@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers passed on Mac Jones in 2021, but he's happy to be there now",
-      "description": "In 2021, Trey Lance went third overall to the 49ers, and Mac Jones followed 12 picks later to the Patriots.",
-      "url": "https://sports.yahoo.com/articles/49ers-passed-mac-jones-2021-220523449.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers passed on Mac Jones in 2021, but he's happy to be there now",
       "description": "In 2021, Trey Lance went third overall to the 49ers, and Mac Jones followed 12 picks later to the Patriots.",
@@ -35,5 +29,5 @@
     "patriots"
   ],
   "hash": "478415fe88503f77",
-  "queuedAt": "2026-07-08T09:08:59.813Z"
+  "queuedAt": "2026-07-08T14:48:28.293Z"
 }

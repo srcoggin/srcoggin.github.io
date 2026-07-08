@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants claim DL C.J. Ravenell off waivers",
-      "description": "The Giants added a player to their defensive line on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/giants-claim-dl-c-j-204528315.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants claim DL C.J. Ravenell off waivers",
       "description": "The Giants added a player to their defensive line on Tuesday.",
@@ -28,5 +22,5 @@
     "tuesday"
   ],
   "hash": "cf073e5dd35b5d3f",
-  "queuedAt": "2026-07-08T09:08:59.885Z"
+  "queuedAt": "2026-07-08T14:48:28.347Z"
 }

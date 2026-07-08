@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers sign fourth-round pick Gracen Halton",
-      "description": "The 49ers have gotten another draft pick under contract.",
-      "url": "https://sports.yahoo.com/articles/49ers-sign-fourth-round-pick-191917602.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers sign fourth-round pick Gracen Halton",
       "description": "The 49ers have gotten another draft pick under contract.",
@@ -28,5 +22,5 @@
     "contract"
   ],
   "hash": "fde36d4a3c946f24",
-  "queuedAt": "2026-07-08T09:09:00.016Z"
+  "queuedAt": "2026-07-08T14:48:28.644Z"
 }
