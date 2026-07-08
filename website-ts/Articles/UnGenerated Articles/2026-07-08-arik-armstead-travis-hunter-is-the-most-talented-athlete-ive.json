@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Arik Armstead: Travis Hunter is the most talented athlete I've been around",
-      "description": "Travis Hunter's rookie season came to an early end due to a knee injury, but one of the 2025 first-round pick's veteran teammates saw enough to know he believes the wide receiver/cornerback brings something special to the table.",
-      "url": "https://sports.yahoo.com/articles/arik-armstead-travis-hunter-most-131639765.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Arik Armstead: Travis Hunter is the most talented athlete I've been around",
       "description": "Travis Hunter's rookie season came to an early end due to a knee injury, but one of the 2025 first-round pick's veteran teammates saw enough to know he believes the wide receiver/cornerback brings something special to the table.",
@@ -50,5 +44,5 @@
     "table"
   ],
   "hash": "32dc6a0e07bdf1ce",
-  "queuedAt": "2026-07-08T14:48:23.964Z"
+  "queuedAt": "2026-07-08T20:30:55.435Z"
 }

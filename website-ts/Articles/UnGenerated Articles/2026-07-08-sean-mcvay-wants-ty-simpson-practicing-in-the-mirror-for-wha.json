@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McVay wants Ty Simpson practicing in the mirror for what he'll say in the huddle",
-      "description": "The plan for Rams quarterback Ty Simpson is to spend his rookie season standing on the sideline and observing Matthew Stafford.",
-      "url": "https://sports.yahoo.com/articles/sean-mcvay-wants-ty-simpson-125849212.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McVay wants Ty Simpson practicing in the mirror for what he'll say in the huddle",
       "description": "The plan for Rams quarterback Ty Simpson is to spend his rookie season standing on the sideline and observing Matthew Stafford.",
@@ -39,5 +33,5 @@
     "stafford"
   ],
   "hash": "d1ec0f2238271985",
-  "queuedAt": "2026-07-08T14:48:24.024Z"
+  "queuedAt": "2026-07-08T20:30:55.563Z"
 }
