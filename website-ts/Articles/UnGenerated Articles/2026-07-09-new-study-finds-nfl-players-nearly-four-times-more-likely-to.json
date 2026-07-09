@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "New study finds NFL players nearly four times more likely to die of neurodegenerative disease",
-      "description": "\"A fourfold increase in dementia rates from a presumed environmental cause is immense.\"",
-      "url": "https://sports.yahoo.com/articles/study-finds-nfl-players-nearly-170857929.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "New study finds NFL players nearly four times more likely to die of neurodegenerative disease",
       "description": "\"A fourfold increase in dementia rates from a presumed environmental cause is immense.\"",
@@ -37,5 +31,5 @@
     "immense"
   ],
   "hash": "2dbd49b6cd91fcce",
-  "queuedAt": "2026-07-09T10:54:11.072Z"
+  "queuedAt": "2026-07-09T20:30:12.474Z"
 }

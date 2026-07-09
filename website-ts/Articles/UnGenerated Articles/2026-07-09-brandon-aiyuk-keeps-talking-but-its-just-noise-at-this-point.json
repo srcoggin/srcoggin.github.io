@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Aiyuk keeps talking, but it's just noise at this point",
-      "description": "It's hard to miss the ongoing developments in the Brandon Aiyuk saga, especially since some of you send an email whenever he posts a new video on Instagram.",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-keeps-talking-just-123352891.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Aiyuk keeps talking, but it's just noise at this point",
       "description": "It's hard to miss the ongoing developments in the Brandon Aiyuk saga, especially since some of you send an email whenever he posts a new video on Instagram.",
@@ -41,5 +35,5 @@
     "instagram"
   ],
   "hash": "cb8163ac3277d2c2",
-  "queuedAt": "2026-07-09T16:25:19.528Z"
+  "queuedAt": "2026-07-09T20:30:12.925Z"
 }
