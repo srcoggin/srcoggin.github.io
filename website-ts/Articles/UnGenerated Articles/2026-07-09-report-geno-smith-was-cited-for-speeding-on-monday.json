@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Geno Smith was cited for speeding on Monday",
-      "description": "It's supposed to be a quiet time for NFL players.",
-      "url": "https://sports.yahoo.com/articles/report-geno-smith-cited-speeding-040735993.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Geno Smith was cited for speeding on Monday",
       "description": "It's supposed to be a quiet time for NFL players.",
@@ -29,5 +23,5 @@
     "players"
   ],
   "hash": "f72c5f33eb603a4b",
-  "queuedAt": "2026-07-09T10:54:09.783Z"
+  "queuedAt": "2026-07-09T16:25:18.579Z"
 }

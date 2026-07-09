@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "With NFL Network in the fold, ESPN increases its NFL preseason games",
-      "description": "The acquisition of NFL Network includes an uptick in preseason games televised by ESPN.",
-      "url": "https://sports.yahoo.com/articles/nfl-network-fold-espn-increases-000851262.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "With NFL Network in the fold, ESPN increases its NFL preseason games",
       "description": "The acquisition of NFL Network includes an uptick in preseason games televised by ESPN.",
@@ -29,5 +23,5 @@
     "televised"
   ],
   "hash": "7eca3f7b0bf66983",
-  "queuedAt": "2026-07-09T10:54:10.696Z"
+  "queuedAt": "2026-07-09T16:25:28.554Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saints announce nine open training camp practices",
-      "description": "The Saints will kick off training camp on July 29 and their first open practice of the summer will be held the next day.",
-      "url": "https://sports.yahoo.com/articles/saints-announce-nine-open-training-201805989.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saints announce nine open training camp practices",
       "description": "The Saints will kick off training camp on July 29 and their first open practice of the summer will be held the next day.",
@@ -35,5 +29,5 @@
     "day"
   ],
   "hash": "0f5223fea7fcf8bd",
-  "queuedAt": "2026-07-09T10:54:10.953Z"
+  "queuedAt": "2026-07-09T16:25:29.109Z"
 }

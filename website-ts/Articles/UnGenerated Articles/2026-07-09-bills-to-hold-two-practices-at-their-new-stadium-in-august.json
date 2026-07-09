@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bills to hold two practices at their new stadium in August",
-      "description": "The Bills announced that there will be seven open practice dates at this summer's training camp last month and they added a couple more to the schedule on Wednesday.",
-      "url": "https://sports.yahoo.com/articles/bills-hold-two-practices-stadium-205855600.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bills to hold two practices at their new stadium in August",
       "description": "The Bills announced that there will be seven open practice dates at this summer's training camp last month and they added a couple more to the schedule on Wednesday.",
@@ -43,5 +37,5 @@
     "wednesday"
   ],
   "hash": "3994f3730958daee",
-  "queuedAt": "2026-07-09T10:54:09.928Z"
+  "queuedAt": "2026-07-09T16:25:18.709Z"
 }

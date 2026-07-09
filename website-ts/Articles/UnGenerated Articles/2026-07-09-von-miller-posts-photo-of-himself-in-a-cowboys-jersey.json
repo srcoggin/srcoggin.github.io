@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Von Miller posts photo of himself in a Cowboys jersey",
-      "description": "Von Miller recently said he regretted choosing the Commanders over the Seahawks almost exactly a year ago.",
-      "url": "https://sports.yahoo.com/articles/von-miller-posts-photo-himself-221148053.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Von Miller posts photo of himself in a Cowboys jersey",
       "description": "Von Miller recently said he regretted choosing the Commanders over the Seahawks almost exactly a year ago.",
@@ -35,5 +29,5 @@
     "ago"
   ],
   "hash": "f17cdf37c284cdc6",
-  "queuedAt": "2026-07-09T10:54:10.823Z"
+  "queuedAt": "2026-07-09T16:25:28.978Z"
 }
