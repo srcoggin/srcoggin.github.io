@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jayden Daniels is working with his teammates in California",
-      "description": "Jayden Daniels has a social media feud with Brandon Aiyuk, who has expressed interest in playing in Washington.",
-      "url": "https://sports.yahoo.com/articles/jayden-daniels-working-teammates-california-204930535.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jayden Daniels is working with his teammates in California",
       "description": "Jayden Daniels has a social media feud with Brandon Aiyuk, who has expressed interest in playing in Washington.",
@@ -34,5 +28,5 @@
     "washington"
   ],
   "hash": "015fcbee73d5b69c",
-  "queuedAt": "2026-07-10T10:42:51.604Z"
+  "queuedAt": "2026-07-10T15:39:57.168Z"
 }

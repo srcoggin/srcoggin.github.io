@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers linebackers coach KJ Wright has his sights set on becoming a defensive coordinator",
-      "description": "The 49ers have promoted K.J.",
-      "url": "https://sports.yahoo.com/articles/49ers-linebackers-coach-kj-wright-080729225.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers linebackers coach KJ Wright has his sights set on becoming a defensive coordinator",
       "description": "The 49ers have promoted K.J.",
@@ -29,5 +23,5 @@
     "promoted"
   ],
   "hash": "6a4e2512b89c74cb",
-  "queuedAt": "2026-07-10T10:42:50.965Z"
+  "queuedAt": "2026-07-10T15:39:56.573Z"
 }

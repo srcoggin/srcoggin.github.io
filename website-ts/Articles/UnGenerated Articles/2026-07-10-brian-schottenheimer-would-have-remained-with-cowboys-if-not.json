@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brian Schottenheimer would have remained with Cowboys if not hired as head coach",
-      "description": "Cowboys owner Jerry Jones has long forced assistant coaches on his head coach.",
-      "url": "https://sports.yahoo.com/articles/brian-schottenheimer-remained-cowboys-not-012725916.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brian Schottenheimer would have remained with Cowboys if not hired as head coach",
       "description": "Cowboys owner Jerry Jones has long forced assistant coaches on his head coach.",
@@ -33,5 +27,5 @@
     "his"
   ],
   "hash": "5f2764cfa4cbbc0d",
-  "queuedAt": "2026-07-10T10:42:51.221Z"
+  "queuedAt": "2026-07-10T15:39:56.771Z"
 }

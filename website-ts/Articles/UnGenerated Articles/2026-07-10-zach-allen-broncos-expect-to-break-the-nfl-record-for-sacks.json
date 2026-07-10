@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Zach Allen: Broncos expect to break the NFL record for sacks this season",
-      "description": "Last year, the Broncos were on pace to break the NFL record for sacks for much of the season, before falling short late in the year.",
-      "url": "https://sports.yahoo.com/articles/zach-allen-broncos-expect-break-211809353.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Zach Allen: Broncos expect to break the NFL record for sacks this season",
       "description": "Last year, the Broncos were on pace to break the NFL record for sacks for much of the season, before falling short late in the year.",
@@ -32,5 +26,5 @@
     "late"
   ],
   "hash": "87259033e69e8d95",
-  "queuedAt": "2026-07-10T10:42:51.491Z"
+  "queuedAt": "2026-07-10T15:39:57.066Z"
 }

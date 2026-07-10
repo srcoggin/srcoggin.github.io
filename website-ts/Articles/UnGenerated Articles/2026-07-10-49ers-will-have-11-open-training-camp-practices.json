@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers will have 11 open training camp practices",
-      "description": "The 49ers will have 11 open practices during training camp, the team announced Thursday.",
-      "url": "https://sports.yahoo.com/articles/49ers-11-open-training-camp-202220020.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers will have 11 open training camp practices",
       "description": "The 49ers will have 11 open practices during training camp, the team announced Thursday.",
@@ -25,5 +19,5 @@
     "thursday"
   ],
   "hash": "2a5a4f582e6518b8",
-  "queuedAt": "2026-07-10T10:42:49.942Z"
+  "queuedAt": "2026-07-10T15:39:49.526Z"
 }

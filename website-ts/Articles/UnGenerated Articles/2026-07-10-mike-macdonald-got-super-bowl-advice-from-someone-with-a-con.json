@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Macdonald got Super Bowl advice from someone with a \"conflict of interest\"",
-      "description": "Remember when Tom Brady said before the Patriots-Seahawks Super Bowl that he didn't have a \"dog in the fight\"?",
-      "url": "https://sports.yahoo.com/articles/mike-macdonald-got-super-bowl-235850659.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Macdonald got Super Bowl advice from someone with a \"conflict of interest\"",
       "description": "Remember when Tom Brady said before the Patriots-Seahawks Super Bowl that he didn't have a \"dog in the fight\"?",
@@ -36,5 +30,5 @@
     "fight"
   ],
   "hash": "83e5c4e61f0fb04d",
-  "queuedAt": "2026-07-10T10:42:51.340Z"
+  "queuedAt": "2026-07-10T15:39:56.867Z"
 }

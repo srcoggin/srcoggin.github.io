@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams will give replica Super Bowl LXVI rings to fans who attend Week 6 game vs. Cardinals",
-      "description": "It's the five-year anniversary of the first championship the Rams have won while based in L.A.",
-      "url": "https://sports.yahoo.com/articles/rams-replica-super-bowl-lxvi-033416894.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams will give replica Super Bowl LXVI rings to fans who attend Week 6 game vs. Cardinals",
       "description": "It's the five-year anniversary of the first championship the Rams have won while based in L.A.",
@@ -37,5 +31,5 @@
     "based"
   ],
   "hash": "b0e81bf40d6a7928",
-  "queuedAt": "2026-07-10T10:42:51.078Z"
+  "queuedAt": "2026-07-10T15:39:56.671Z"
 }
