@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "At age 36, Cam Heyward led the NFL in snaps at defensive tackle",
-      "description": "It's not unusual for older players to get a reduced workload, but Steelers defensive tackle Cam Heyward accomplished something extremely impressive in 2025: He was both the NFL's oldest defensive tackle, and the defensive tackle who played the most snaps.",
-      "url": "https://sports.yahoo.com/articles/age-36-cam-heyward-led-124809115.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "At age 36, Cam Heyward led the NFL in snaps at defensive tackle",
       "description": "It's not unusual for older players to get a reduced workload, but Steelers defensive tackle Cam Heyward accomplished something extremely impressive in 2025: He was both the NFL's oldest defensive tackle, and the defensive tackle who played the most snaps.",
@@ -43,5 +37,5 @@
     "played"
   ],
   "hash": "d201c67f2e85979a",
-  "queuedAt": "2026-07-10T15:39:49.980Z"
+  "queuedAt": "2026-07-10T20:13:38.309Z"
 }
