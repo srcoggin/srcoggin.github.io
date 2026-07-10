@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandin Cooks expects to sign with some team before training camp, hopes it's the Bills",
-      "description": "\"Both sides are figuring things out. We’ll see, but hopefully something transpires because I love going to training camp,\" Cooks said.",
-      "url": "https://sports.yahoo.com/articles/brandin-cooks-expects-sign-team-160039915.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandin Cooks expects to sign with some team before training camp, hopes it's the Bills",
       "description": "\"Both sides are figuring things out. We’ll see, but hopefully something transpires because I love going to training camp,\" Cooks said.",
@@ -40,5 +34,5 @@
     "said"
   ],
   "hash": "53fc5256ec4252e4",
-  "queuedAt": "2026-07-10T04:25:57.460Z"
+  "queuedAt": "2026-07-10T10:42:59.721Z"
 }
