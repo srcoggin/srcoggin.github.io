@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: George Pickens among teammates working with Dak Prescott in Utah",
-      "description": "Cowboys wide receiver George Pickens skipped most of the team's offseason program, but he reportedly opted to get some more work in with his teammates this week.",
-      "url": "https://sports.yahoo.com/articles/report-george-pickens-among-teammates-163255815.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: George Pickens among teammates working with Dak Prescott in Utah",
       "description": "Cowboys wide receiver George Pickens skipped most of the team's offseason program, but he reportedly opted to get some more work in with his teammates this week.",
@@ -40,5 +34,5 @@
     "this"
   ],
   "hash": "056580664c84da02",
-  "queuedAt": "2026-07-11T08:59:35.183Z"
+  "queuedAt": "2026-07-11T13:55:47.321Z"
 }

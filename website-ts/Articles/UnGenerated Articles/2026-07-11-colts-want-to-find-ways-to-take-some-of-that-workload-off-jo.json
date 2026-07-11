@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts want to \"find ways to take some of that workload\" off Jonathan Taylor",
-      "description": "Only two running backs in the NFL have carried the ball more than 300 times in each of the last two seasons, but it sounds like the Colts wouldn't mind if Jonathan Taylor's streak ends there.",
-      "url": "https://sports.yahoo.com/articles/colts-want-ways-workload-off-161451191.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts want to \"find ways to take some of that workload\" off Jonathan Taylor",
       "description": "Only two running backs in the NFL have carried the ball more than 300 times in each of the last two seasons, but it sounds like the Colts wouldn't mind if Jonathan Taylor's streak ends there.",
@@ -44,5 +38,5 @@
     "ends"
   ],
   "hash": "3604d812e235e81d",
-  "queuedAt": "2026-07-11T08:59:36.485Z"
+  "queuedAt": "2026-07-11T13:55:52.252Z"
 }
