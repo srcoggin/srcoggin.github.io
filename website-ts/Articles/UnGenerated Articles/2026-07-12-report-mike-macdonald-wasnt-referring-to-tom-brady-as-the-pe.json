@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Mike Macdonald wasn't referring to Tom Brady as the person who provided Super Bowl help",
-      "description": "If it wasn't Brady, who was it?",
-      "url": "https://sports.yahoo.com/articles/report-mike-macdonald-wasnt-referring-131756776.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Mike Macdonald wasn't referring to Tom Brady as the person who provided Super Bowl help",
       "description": "If it wasn't Brady, who was it?",
@@ -31,5 +25,5 @@
     "help"
   ],
   "hash": "15086e1cde2c2b1c",
-  "queuedAt": "2026-07-12T08:50:58.526Z"
+  "queuedAt": "2026-07-12T14:15:53.038Z"
 }
