@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Free agent Stefon Diggs says no WR2 is better than him",
-      "description": "With training camp right around the corner, wide receiver Stefon Diggs is among several big-name players who remain without a home.",
-      "url": "https://sports.yahoo.com/articles/free-agent-stefon-diggs-says-181847270.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Free agent Stefon Diggs says no WR2 is better than him",
       "description": "With training camp right around the corner, wide receiver Stefon Diggs is among several big-name players who remain without a home.",
@@ -41,5 +35,5 @@
     "home"
   ],
   "hash": "ef7991c3ac1e212f",
-  "queuedAt": "2026-07-13T10:05:38.205Z"
+  "queuedAt": "2026-07-13T15:34:52.964Z"
 }
