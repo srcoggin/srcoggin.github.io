@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cam Ward on his \"We ass\" comment: I was raised to be honest, when I said that, I meant it",
-      "description": "\"That's how I've been my whole life,\" Ward said when reflecting on his harsh assessment of his own team.",
-      "url": "https://sports.yahoo.com/articles/cam-ward-ass-raised-honest-082532651.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cam Ward on his \"We ass\" comment: I was raised to be honest, when I said that, I meant it",
       "description": "\"That's how I've been my whole life,\" Ward said when reflecting on his harsh assessment of his own team.",
@@ -35,5 +29,5 @@
     "assessment"
   ],
   "hash": "975c4b28239885f7",
-  "queuedAt": "2026-07-14T08:59:58.345Z"
+  "queuedAt": "2026-07-14T15:06:28.584Z"
 }

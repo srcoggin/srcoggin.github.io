@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Micah Parsons not happy that Jordan Love was ranked as the No. 72 player in the NFL",
-      "description": "The NFL is currently unveiling the result of its annual Top 100 players survey, and Packers linebacker Micah Parsons is not happy with where his fellow players ranked his quarterback.",
-      "url": "https://sports.yahoo.com/articles/micah-parsons-not-happy-jordan-212553399.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Micah Parsons not happy that Jordan Love was ranked as the No. 72 player in the NFL",
       "description": "The NFL is currently unveiling the result of its annual Top 100 players survey, and Packers linebacker Micah Parsons is not happy with where his fellow players ranked his quarterback.",
@@ -39,5 +33,5 @@
     "quarterback"
   ],
   "hash": "ff494307019d8919",
-  "queuedAt": "2026-07-14T08:59:58.530Z"
+  "queuedAt": "2026-07-14T15:06:29.269Z"
 }

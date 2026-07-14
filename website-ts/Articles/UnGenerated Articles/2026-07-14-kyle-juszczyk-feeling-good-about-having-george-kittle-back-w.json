@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Juszczyk \"feeling good\" about having George Kittle back Week 1",
-      "description": "49ers tight end George Kittle has targeted Week 1 for his return since tearing his right Achilles in a Jan. 11 playoff game against the Eagles.",
-      "url": "https://sports.yahoo.com/articles/kyle-juszczyk-feeling-good-having-202503186.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Juszczyk \"feeling good\" about having George Kittle back Week 1",
       "description": "49ers tight end George Kittle has targeted Week 1 for his return since tearing his right Achilles in a Jan. 11 playoff game against the Eagles.",
@@ -41,5 +35,5 @@
     "eagles"
   ],
   "hash": "72a2d854bf6e3680",
-  "queuedAt": "2026-07-14T08:59:58.811Z"
+  "queuedAt": "2026-07-14T15:06:29.542Z"
 }

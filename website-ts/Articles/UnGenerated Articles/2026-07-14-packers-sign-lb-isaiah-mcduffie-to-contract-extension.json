@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers sign LB Isaiah McDuffie to contract extension",
-      "description": "The Packers have reached a new deal with one of their key defensive and special teams players.",
-      "url": "https://sports.yahoo.com/articles/packers-sign-lb-isaiah-mcduffie-175315989.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers sign LB Isaiah McDuffie to contract extension",
       "description": "The Packers have reached a new deal with one of their key defensive and special teams players.",
@@ -34,5 +28,5 @@
     "players"
   ],
   "hash": "a5f79964f042257f",
-  "queuedAt": "2026-07-14T08:59:58.899Z"
+  "queuedAt": "2026-07-14T15:06:30.118Z"
 }

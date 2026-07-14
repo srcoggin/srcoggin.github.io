@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "ESPN will end syndicated version of Good Morning Football",
-      "description": "ESPN is saying goodnight to the syndicated version of Good Morning Football.",
-      "url": "https://sports.yahoo.com/articles/espn-end-syndicated-version-good-172345059.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "ESPN will end syndicated version of Good Morning Football",
       "description": "ESPN is saying goodnight to the syndicated version of Good Morning Football.",
@@ -26,5 +20,5 @@
     "goodnight"
   ],
   "hash": "3ce96b02ad0ed356",
-  "queuedAt": "2026-07-14T08:59:58.989Z"
+  "queuedAt": "2026-07-14T15:06:30.266Z"
 }
