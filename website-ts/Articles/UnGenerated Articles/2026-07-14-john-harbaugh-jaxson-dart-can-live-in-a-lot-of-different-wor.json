@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "John Harbaugh: Jaxson Dart can live in a lot of different worlds offensively",
-      "description": "John Harbaugh coached Lamar Jackson to a pair of MVPs in Baltimore, but the duo couldn't find a way to navigate through the playoffs to a Super Bowl before Harbaugh was dismissed after the 2025 season.",
-      "url": "https://sports.yahoo.com/articles/john-harbaugh-jaxson-dart-live-123108067.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "John Harbaugh: Jaxson Dart can live in a lot of different worlds offensively",
       "description": "John Harbaugh coached Lamar Jackson to a pair of MVPs in Baltimore, but the duo couldn't find a way to navigate through the playoffs to a Super Bowl before Harbaugh was dismissed after the 2025 season.",
@@ -43,5 +37,5 @@
     "2025"
   ],
   "hash": "4c0c04531dee900a",
-  "queuedAt": "2026-07-14T15:06:17.242Z"
+  "queuedAt": "2026-07-14T20:34:27.131Z"
 }
