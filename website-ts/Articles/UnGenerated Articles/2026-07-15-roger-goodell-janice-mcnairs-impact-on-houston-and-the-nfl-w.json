@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Roger Goodell: Janice McNair's impact on Houston and the NFL will be felt for generations",
-      "description": "NFL Commissioner Roger Goodell is remembering Texans co-founder Janice McNair for her role in brining pro football back to Houston and her leadership during the quarter-century since the Texans joined the NFL.",
-      "url": "https://sports.yahoo.com/articles/roger-goodell-janice-mcnairs-impact-082314600.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Roger Goodell: Janice McNair's impact on Houston and the NFL will be felt for generations",
       "description": "NFL Commissioner Roger Goodell is remembering Texans co-founder Janice McNair for her role in brining pro football back to Houston and her leadership during the quarter-century since the Texans joined the NFL.",
@@ -40,5 +34,5 @@
     "joined"
   ],
   "hash": "1fb7489c954c6d59",
-  "queuedAt": "2026-07-15T09:24:15.473Z"
+  "queuedAt": "2026-07-15T14:47:08.603Z"
 }

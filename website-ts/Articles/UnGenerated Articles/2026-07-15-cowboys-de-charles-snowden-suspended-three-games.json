@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys DE Charles Snowden suspended three games",
-      "description": "Defensive end Charles Snowden won't be available for the Cowboys to open the 2026 season.",
-      "url": "https://sports.yahoo.com/articles/cowboys-charles-snowden-suspended-three-205249111.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys DE Charles Snowden suspended three games",
       "description": "Defensive end Charles Snowden won't be available for the Cowboys to open the 2026 season.",
@@ -30,5 +24,5 @@
     "2026"
   ],
   "hash": "39f4546974031bcb",
-  "queuedAt": "2026-07-15T09:24:15.706Z"
+  "queuedAt": "2026-07-15T14:47:09.572Z"
 }

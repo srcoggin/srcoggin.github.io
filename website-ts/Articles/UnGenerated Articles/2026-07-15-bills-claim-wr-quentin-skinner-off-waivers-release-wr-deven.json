@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bills claim WR Quentin Skinner off waivers, release WR Deven Thompkins",
-      "description": "The Bills have made a pair of roster moves on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/bills-claim-wr-quentin-skinner-205646491.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bills claim WR Quentin Skinner off waivers, release WR Deven Thompkins",
       "description": "The Bills have made a pair of roster moves on Tuesday.",
@@ -32,5 +26,5 @@
     "tuesday"
   ],
   "hash": "375bd8b7f1f3f9c3",
-  "queuedAt": "2026-07-15T09:24:15.589Z"
+  "queuedAt": "2026-07-15T14:47:09.463Z"
 }

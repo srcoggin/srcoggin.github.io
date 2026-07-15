@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jon Gruden will handle play-by-play for an NFL preseason game next month",
-      "description": "Jon Gruden wants to work play-by-play on an NFL broadcast.",
-      "url": "https://sports.yahoo.com/articles/jon-gruden-handle-play-play-203843889.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jon Gruden will handle play-by-play for an NFL preseason game next month",
       "description": "Jon Gruden wants to work play-by-play on an NFL broadcast.",
@@ -28,5 +22,5 @@
     "broadcast"
   ],
   "hash": "2c5957b7a639b65e",
-  "queuedAt": "2026-07-15T09:24:15.826Z"
+  "queuedAt": "2026-07-15T14:47:09.018Z"
 }
