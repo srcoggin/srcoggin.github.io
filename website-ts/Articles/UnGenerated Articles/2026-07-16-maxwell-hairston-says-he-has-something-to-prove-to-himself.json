@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Maxwell Hairston says he has something to prove to himself",
-      "description": "Entering the offseason, Bills General Manager Brandon Beane named cornerback as an area of need.",
-      "url": "https://sports.yahoo.com/articles/maxwell-hairston-says-something-prove-181734930.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Maxwell Hairston says he has something to prove to himself",
       "description": "Entering the offseason, Bills General Manager Brandon Beane named cornerback as an area of need.",
@@ -35,5 +29,5 @@
     "need"
   ],
   "hash": "5a8584c93f7aa21f",
-  "queuedAt": "2026-07-16T09:08:58.547Z"
+  "queuedAt": "2026-07-16T14:39:27.487Z"
 }

@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers QB Will Grier retires",
-      "description": "Panthers quarterback Will Grier has chosen to retire, the team announced on Wednesday.",
-      "url": "https://sports.yahoo.com/articles/panthers-qb-grier-retires-194204421.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers QB Will Grier retires",
       "description": "Panthers quarterback Will Grier has chosen to retire, the team announced on Wednesday.",
@@ -26,5 +20,5 @@
     "wednesday"
   ],
   "hash": "bb5d5a604b7d6c51",
-  "queuedAt": "2026-07-16T09:08:57.425Z"
+  "queuedAt": "2026-07-16T14:39:22.442Z"
 }
