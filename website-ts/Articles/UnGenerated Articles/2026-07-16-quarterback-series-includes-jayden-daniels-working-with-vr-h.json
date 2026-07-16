@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Quarterback series includes Jayden Daniels working with VR headset",
-      "description": "Ten years ago (or thereabouts), stories began to emerge about NFL quarterbacks using virtual reality to augment their training.",
-      "url": "https://sports.yahoo.com/articles/quarterback-series-includes-jayden-daniels-114626177.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Quarterback series includes Jayden Daniels working with VR headset",
       "description": "Ten years ago (or thereabouts), stories began to emerge about NFL quarterbacks using virtual reality to augment their training.",
@@ -40,5 +34,5 @@
     "training"
   ],
   "hash": "f505511857b590a9",
-  "queuedAt": "2026-07-16T14:39:22.645Z"
+  "queuedAt": "2026-07-16T20:28:05.288Z"
 }
