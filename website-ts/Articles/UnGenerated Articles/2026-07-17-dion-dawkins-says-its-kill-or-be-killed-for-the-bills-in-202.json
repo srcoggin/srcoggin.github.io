@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dion Dawkins says it's \"kill or be killed\" for the Bills in 2026",
-      "description": "Left tackle Dion Dawkins has been with the Bills since 2017, so he has never played a game in the NFL for a head coach other than Sean McDermott.",
-      "url": "https://sports.yahoo.com/articles/dion-dawkins-says-kill-killed-160948059.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dion Dawkins says it's \"kill or be killed\" for the Bills in 2026",
       "description": "Left tackle Dion Dawkins has been with the Bills since 2017, so he has never played a game in the NFL for a head coach other than Sean McDermott.",
@@ -36,5 +30,5 @@
     "mcdermott"
   ],
   "hash": "6c9a9393a2c1cfcd",
-  "queuedAt": "2026-07-17T03:34:36.911Z"
+  "queuedAt": "2026-07-17T09:23:17.178Z"
 }
