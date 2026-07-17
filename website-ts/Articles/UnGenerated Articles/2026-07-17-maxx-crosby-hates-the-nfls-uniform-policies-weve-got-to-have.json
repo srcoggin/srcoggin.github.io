@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Maxx Crosby hates the NFL's uniform policies: \"We've got to have more fun, Roger\"",
-      "description": "Crosby said that if he could change one rule, it would be to ease off on the restrictions on players' shoes.",
-      "url": "https://sports.yahoo.com/articles/maxx-crosby-hates-nfls-uniform-080543503.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Maxx Crosby hates the NFL's uniform policies: \"We've got to have more fun, Roger\"",
       "description": "Crosby said that if he could change one rule, it would be to ease off on the restrictions on players' shoes.",
@@ -38,5 +32,5 @@
     "shoes"
   ],
   "hash": "3f5d983d64fad650",
-  "queuedAt": "2026-07-17T14:25:58.046Z"
+  "queuedAt": "2026-07-17T19:53:22.815Z"
 }
