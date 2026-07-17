@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Roger Goodell has \"about 10\" more countries in mind for games, including Japan",
-      "description": "The intentional push continues.",
-      "url": "https://sports.yahoo.com/articles/roger-goodell-10-more-countries-043634932.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Roger Goodell has \"about 10\" more countries in mind for games, including Japan",
       "description": "The intentional push continues.",
@@ -29,5 +23,5 @@
     "continues"
   ],
   "hash": "746bd5ba52b0bab0",
-  "queuedAt": "2026-07-17T09:23:08.587Z"
+  "queuedAt": "2026-07-17T14:26:01.908Z"
 }

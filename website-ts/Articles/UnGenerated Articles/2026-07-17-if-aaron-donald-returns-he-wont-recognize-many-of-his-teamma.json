@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "If Aaron Donald returns, he won't recognize many of his teammates",
-      "description": "If/when future Hall of Fame defensive tackle Aaron Donald resets the five-year clock on his induction to zero, he'll join a team that has nearly zero defensive starters from the last time he played.",
-      "url": "https://sports.yahoo.com/articles/aaron-donald-returns-wont-recognize-172558789.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "If Aaron Donald returns, he won't recognize many of his teammates",
       "description": "If/when future Hall of Fame defensive tackle Aaron Donald resets the five-year clock on his induction to zero, he'll join a team that has nearly zero defensive starters from the last time he played.",
@@ -45,5 +39,5 @@
     "played"
   ],
   "hash": "17be7a27b46536a0",
-  "queuedAt": "2026-07-17T09:23:08.999Z"
+  "queuedAt": "2026-07-17T14:26:02.861Z"
 }

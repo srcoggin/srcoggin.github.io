@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nate Burleson wants to host The NFL Today, but will wait for James Brown",
-      "description": "James Brown, the long-time host of The NFL Today on CBS, has no plans to retire.",
-      "url": "https://sports.yahoo.com/articles/nate-burleson-wants-host-nfl-005404721.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nate Burleson wants to host The NFL Today, but will wait for James Brown",
       "description": "James Brown, the long-time host of The NFL Today on CBS, has no plans to retire.",
@@ -30,5 +24,5 @@
     "retire"
   ],
   "hash": "d9a97ea47f40956c",
-  "queuedAt": "2026-07-17T09:23:08.735Z"
+  "queuedAt": "2026-07-17T14:26:01.966Z"
 }
