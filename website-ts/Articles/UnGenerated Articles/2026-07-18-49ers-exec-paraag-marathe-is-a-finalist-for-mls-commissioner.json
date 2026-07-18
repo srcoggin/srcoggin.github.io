@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers exec Paraag Marathe is a finalist for MLS Commissioner",
-      "description": "Long-time 49ers executive Paraag Marathe, a key figure in the sustained success of the franchise, could be leaving.",
-      "url": "https://sports.yahoo.com/articles/49ers-exec-paraag-marathe-finalist-234812861.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers exec Paraag Marathe is a finalist for MLS Commissioner",
       "description": "Long-time 49ers executive Paraag Marathe, a key figure in the sustained success of the franchise, could be leaving.",
@@ -33,5 +27,5 @@
     "leaving"
   ],
   "hash": "ee00e6319874856d",
-  "queuedAt": "2026-07-18T14:30:36.538Z"
+  "queuedAt": "2026-07-18T20:15:25.960Z"
 }

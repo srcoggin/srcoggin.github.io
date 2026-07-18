@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Robert Griffin III hints at a Netflix documentary on the day he tore his ACL",
-      "description": "Five years after former Washington quarterback Robert Griffin III announced, then scrapped, a tell-all book about his time with an inherently dysfunctional franchise, Griffin is apparently ready to tell his story.",
-      "url": "https://sports.yahoo.com/articles/robert-griffin-iii-hints-netflix-001724337.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Robert Griffin III hints at a Netflix documentary on the day he tore his ACL",
       "description": "Five years after former Washington quarterback Robert Griffin III announced, then scrapped, a tell-all book about his time with an inherently dysfunctional franchise, Griffin is apparently ready to tell his story.",
@@ -46,5 +40,5 @@
     "story"
   ],
   "hash": "81dfa233f5cce1af",
-  "queuedAt": "2026-07-18T14:30:34.594Z"
+  "queuedAt": "2026-07-18T20:15:17.441Z"
 }

@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ravens agree to one-year deal with C Ethan Pocic",
-      "description": "Free agent center Ethan Pocic has agreed to a one-year deal with the Ravens, Adam Schefter of ESPN reports.",
-      "url": "https://sports.yahoo.com/articles/ravens-agree-one-deal-c-210958609.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ravens agree to one-year deal with C Ethan Pocic",
       "description": "Free agent center Ethan Pocic has agreed to a one-year deal with the Ravens, Adam Schefter of ESPN reports.",
@@ -32,5 +26,5 @@
     "reports"
   ],
   "hash": "056b07bb3dd188c1",
-  "queuedAt": "2026-07-18T14:30:34.712Z"
+  "queuedAt": "2026-07-18T20:15:17.572Z"
 }
