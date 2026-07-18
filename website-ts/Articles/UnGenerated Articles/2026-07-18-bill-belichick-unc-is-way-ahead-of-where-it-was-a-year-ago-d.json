@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bill Belichick: UNC is \"way ahead\" of where it was a year ago, difference is \"night and day\"",
-      "description": "Bill Belichick’s first season as North Carolina’s head coach did not go as well as anyone affiliated with the university would have liked, with the program finishing 4-8 in 2025.",
-      "url": "https://sports.yahoo.com/articles/bill-belichick-unc-way-ahead-174518190.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bill Belichick: UNC is \"way ahead\" of where it was a year ago, difference is \"night and day\"",
       "description": "Bill Belichick’s first season as North Carolina’s head coach did not go as well as anyone affiliated with the university would have liked, with the program finishing 4-8 in 2025.",
@@ -41,5 +35,5 @@
     "2025"
   ],
   "hash": "676fbfd84a6f9c58",
-  "queuedAt": "2026-07-18T08:59:48.717Z"
+  "queuedAt": "2026-07-18T14:30:44.859Z"
 }

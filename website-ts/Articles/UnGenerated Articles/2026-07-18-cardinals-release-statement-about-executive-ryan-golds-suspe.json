@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals release statement about executive Ryan Gold's suspension",
-      "description": "The Cardinals released a statement shortly after the NFL announced the indefinite suspension of Ryan Gold, the team's director of college scouting.",
-      "url": "https://sports.yahoo.com/articles/cardinals-release-statement-executive-ryan-203630473.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals release statement about executive Ryan Gold's suspension",
       "description": "The Cardinals released a statement shortly after the NFL announced the indefinite suspension of Ryan Gold, the team's director of college scouting.",
@@ -35,5 +29,5 @@
     "scouting"
   ],
   "hash": "1221f5448992f8ad",
-  "queuedAt": "2026-07-18T08:59:46.376Z"
+  "queuedAt": "2026-07-18T14:30:35.772Z"
 }

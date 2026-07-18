@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "CB Levi Wallace announces his retirement",
-      "description": "Veteran cornerback Levi Wallace did not play in the NFL after landing on Jacksonville's injured reserve list last summer and he won't be coming back to the field in 2026.",
-      "url": "https://sports.yahoo.com/articles/cb-levi-wallace-announces-retirement-182054414.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "CB Levi Wallace announces his retirement",
       "description": "Veteran cornerback Levi Wallace did not play in the NFL after landing on Jacksonville's injured reserve list last summer and he won't be coming back to the field in 2026.",
@@ -38,5 +32,5 @@
     "2026"
   ],
   "hash": "7c61d89775504005",
-  "queuedAt": "2026-07-18T08:59:48.582Z"
+  "queuedAt": "2026-07-18T14:30:44.539Z"
 }

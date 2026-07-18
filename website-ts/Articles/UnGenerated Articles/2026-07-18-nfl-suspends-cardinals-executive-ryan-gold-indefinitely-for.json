@@ -1,13 +1,7 @@
 {
   "title": "NFL suspends Cardinals executive Ryan Gold indefinitely for violating league's gambling policy",
-  "category": "draft",
+  "category": "free-agency",
   "sources": [
-    {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals personnel exec Ryan Gold suspended indefinitely by NFL for violating gambling policy",
-      "description": "A league investigation found that Gold had bet on both NFL and college games, and had leaked information on Arizona's picks in the 2026 draft.",
-      "url": "https://sports.yahoo.com/nfl/article/cardinals-personnel-exec-ryan-gold-suspended-indefinitely-by-nfl-for-violating-gambling-policy-202415145.html"
-    },
     {
       "name": "CBS Sports NFL",
       "title": "NFL suspends Cardinals executive Ryan Gold indefinitely for violating league&#039;s gambling policy",
@@ -16,34 +10,23 @@
     }
   ],
   "keywords": [
+    "suspends",
     "cardinals",
-    "personnel",
-    "exec",
+    "executive",
     "ryan",
     "gold",
-    "suspended",
     "indefinitely",
     "violating",
+    "league039s",
     "gambling",
     "policy",
-    "league",
     "investigation",
     "found",
     "that",
     "bet",
-    "both",
     "college",
-    "games",
-    "leaked",
-    "information",
-    "arizonas",
-    "picks",
-    "2026",
-    "draft",
-    "suspends",
-    "executive",
-    "league039s"
+    "games"
   ],
-  "hash": "333e0487d25f8ff3",
-  "queuedAt": "2026-07-18T08:59:48.327Z"
+  "hash": "3537ac552f433c05",
+  "queuedAt": "2026-07-18T14:30:42.314Z"
 }
