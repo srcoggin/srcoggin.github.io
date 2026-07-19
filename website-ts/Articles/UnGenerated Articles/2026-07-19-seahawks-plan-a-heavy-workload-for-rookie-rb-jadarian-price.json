@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks plan a heavy workload for rookie RB Jadarian Price, maybe including kick returns",
-      "description": "When the Seahawks' rookies reported to training camp on Friday, the highest-profile player in the group was first-round running back Jadarian Price, who projects to have a very big role as a rookie.",
-      "url": "https://sports.yahoo.com/articles/seahawks-plan-heavy-workload-rookie-131920925.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks plan a heavy workload for rookie RB Jadarian Price, maybe including kick returns",
       "description": "When the Seahawks' rookies reported to training camp on Friday, the highest-profile player in the group was first-round running back Jadarian Price, who projects to have a very big role as a rookie.",
@@ -43,5 +37,5 @@
     "role"
   ],
   "hash": "b9a2b3eacd5c7f44",
-  "queuedAt": "2026-07-19T08:52:36.816Z"
+  "queuedAt": "2026-07-19T14:30:44.473Z"
 }
