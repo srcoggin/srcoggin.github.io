@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Would the NFL adopt the UFL's four-point field goal rule?",
-      "description": "The UFL made an interesting tweak to the rules in 2026, boosting the points for a 60-yard field goal from three to four.",
-      "url": "https://sports.yahoo.com/articles/nfl-adopt-ufls-four-point-190355237.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Would the NFL adopt the UFL's four-point field goal rule?",
       "description": "The UFL made an interesting tweak to the rules in 2026, boosting the points for a 60-yard field goal from three to four.",
@@ -35,5 +29,5 @@
     "four"
   ],
   "hash": "5256cfbbb1ef6275",
-  "queuedAt": "2026-07-19T14:30:46.105Z"
+  "queuedAt": "2026-07-19T20:18:47.635Z"
 }

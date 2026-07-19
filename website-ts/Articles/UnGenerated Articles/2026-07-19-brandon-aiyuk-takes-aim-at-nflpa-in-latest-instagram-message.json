@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Aiyuk takes aim at NFLPA in latest Instagram message",
-      "description": "Did Aiyuk believe that, by not appealing the voiding of his guarantees, he'd be released?",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-takes-aim-nflpa-180626498.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Aiyuk takes aim at NFLPA in latest Instagram message",
       "description": "Did Aiyuk believe that, by not appealing the voiding of his guarantees, he'd be released?",
@@ -34,5 +28,5 @@
     "released"
   ],
   "hash": "dcc89a59ceaed260",
-  "queuedAt": "2026-07-19T14:30:46.228Z"
+  "queuedAt": "2026-07-19T20:18:47.769Z"
 }
