@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks G Grey Zabel: I hate the Rams, but love facing the best of the best",
-      "description": "Seahawks left guard Grey Zabel got to see plenty of the Rams during his rookie season.",
-      "url": "https://sports.yahoo.com/articles/seahawks-g-grey-zabel-hate-135527988.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks G Grey Zabel: I hate the Rams, but love facing the best of the best",
       "description": "Seahawks left guard Grey Zabel got to see plenty of the Rams during his rookie season.",
@@ -33,5 +27,5 @@
     "rookie"
   ],
   "hash": "fcaf608f1831de67",
-  "queuedAt": "2026-07-20T15:12:15.208Z"
+  "queuedAt": "2026-07-20T20:59:48.454Z"
 }

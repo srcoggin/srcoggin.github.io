@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Isaiah McDuffie: Packers have everything we need",
-      "description": "The Packers have made it to the playoffs in each of the last three seasons, but their stays in the postseason have not been long ones.",
-      "url": "https://sports.yahoo.com/articles/isaiah-mcduffie-packers-everything-115818431.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Isaiah McDuffie: Packers have everything we need",
       "description": "The Packers have made it to the playoffs in each of the last three seasons, but their stays in the postseason have not been long ones.",
@@ -33,5 +27,5 @@
     "ones"
   ],
   "hash": "7e874a6df8ce9a22",
-  "queuedAt": "2026-07-20T15:12:15.535Z"
+  "queuedAt": "2026-07-20T20:59:49.041Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Le'Veon Bell is jailed in Canton",
-      "description": "Former NFL running back Le'Veon Bell, who once seemed to be on track to have a bronze bust in Canton, is currently staying in town for a very different reason.",
-      "url": "https://sports.yahoo.com/articles/leveon-bell-jailed-canton-135450660.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Le'Veon Bell is jailed in Canton",
       "description": "Former NFL running back Le'Veon Bell, who once seemed to be on track to have a bronze bust in Canton, is currently staying in town for a very different reason.",
@@ -35,5 +29,5 @@
     "reason"
   ],
   "hash": "4792b6abd768bc8c",
-  "queuedAt": "2026-07-20T15:12:15.308Z"
+  "queuedAt": "2026-07-20T20:59:48.579Z"
 }

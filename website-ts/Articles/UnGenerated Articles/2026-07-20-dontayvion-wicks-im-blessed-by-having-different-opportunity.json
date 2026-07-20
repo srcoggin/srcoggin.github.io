@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dontayvion Wicks: I'm blessed by having \"different opportunity\" with Eagles",
-      "description": "The wait for the Eagles to trade A.J.",
-      "url": "https://sports.yahoo.com/articles/dontayvion-wicks-im-blessed-having-123214218.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dontayvion Wicks: I'm blessed by having \"different opportunity\" with Eagles",
       "description": "The wait for the Eagles to trade A.J.",
@@ -27,5 +21,5 @@
     "trade"
   ],
   "hash": "7c1a48c12cc96599",
-  "queuedAt": "2026-07-20T15:12:15.418Z"
+  "queuedAt": "2026-07-20T20:59:48.929Z"
 }
