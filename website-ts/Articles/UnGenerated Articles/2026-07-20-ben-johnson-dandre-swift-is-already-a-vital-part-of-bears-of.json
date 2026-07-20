@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ben Johnson: D'Andre Swift is already a vital part of Bears' offense, and capable of more",
-      "description": "\"He's a dynamic player,\" Johnson said. \"I've known that about him since he came into the league.\"",
-      "url": "https://sports.yahoo.com/articles/ben-johnson-dandre-swift-already-082123912.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ben Johnson: D'Andre Swift is already a vital part of Bears' offense, and capable of more",
       "description": "\"He's a dynamic player,\" Johnson said. \"I've known that about him since he came into the league.\"",
@@ -39,5 +33,5 @@
     "league"
   ],
   "hash": "72e2a6ea3bbb1804",
-  "queuedAt": "2026-07-20T09:50:58.980Z"
+  "queuedAt": "2026-07-20T15:12:21.471Z"
 }
