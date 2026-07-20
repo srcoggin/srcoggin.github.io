@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dak Prescott: It's Super Bowl or bust every year for the Cowboys",
-      "description": "Cowboys coach Brian Schottenheimer embraced Super Bowl expectations recently, saying, “I make no qualms that that’s the goal.",
-      "url": "https://sports.yahoo.com/articles/dak-prescott-super-bowl-bust-003635425.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dak Prescott: It's Super Bowl or bust every year for the Cowboys",
       "description": "Cowboys coach Brian Schottenheimer embraced Super Bowl expectations recently, saying, “I make no qualms that that’s the goal.",
@@ -38,5 +32,5 @@
     "goal"
   ],
   "hash": "d278a6613a5a7e6f",
-  "queuedAt": "2026-07-20T04:35:36.899Z"
+  "queuedAt": "2026-07-20T09:51:03.022Z"
 }
