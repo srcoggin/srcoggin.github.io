@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "L'Jarius Sneed plans to \"reclaim who I am\" in return to Chiefs",
-      "description": "Cornerback L'Jarius Sneed is back with the Chiefs and he hopes that isn't the only way he turns back the clock during the 2026 season.",
-      "url": "https://sports.yahoo.com/articles/ljarius-sneed-plans-reclaim-am-171527010.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "L'Jarius Sneed plans to \"reclaim who I am\" in return to Chiefs",
       "description": "Cornerback L'Jarius Sneed is back with the Chiefs and he hopes that isn't the only way he turns back the clock during the 2026 season.",
@@ -34,5 +28,5 @@
     "2026"
   ],
   "hash": "4ba18304f12b848b",
-  "queuedAt": "2026-07-21T04:04:12.088Z"
+  "queuedAt": "2026-07-21T09:40:32.798Z"
 }

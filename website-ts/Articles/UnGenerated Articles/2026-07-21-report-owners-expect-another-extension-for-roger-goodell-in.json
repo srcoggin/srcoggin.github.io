@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Owners expect another extension for Roger Goodell \"in the coming months\"",
-      "description": "Goodell's deal expires in March.",
-      "url": "https://sports.yahoo.com/articles/report-owners-expect-another-extension-175931532.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Owners expect another extension for Roger Goodell \"in the coming months\"",
       "description": "Goodell's deal expires in March.",
@@ -31,5 +25,5 @@
     "march"
   ],
   "hash": "759b285154708aa2",
-  "queuedAt": "2026-07-21T04:04:09.627Z"
+  "queuedAt": "2026-07-21T09:40:25.229Z"
 }
