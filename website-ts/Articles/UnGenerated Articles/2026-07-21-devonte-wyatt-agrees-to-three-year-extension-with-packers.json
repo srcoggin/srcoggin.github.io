@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Devonte Wyatt agrees to three-year extension with Packers",
-      "description": "Packers defensive tackle Devonte Wyatt is no longer in the final year of his contract.",
-      "url": "https://sports.yahoo.com/articles/devonte-wyatt-agrees-three-extension-192405706.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Devonte Wyatt agrees to three-year extension with Packers",
       "description": "Packers defensive tackle Devonte Wyatt is no longer in the final year of his contract.",
@@ -30,5 +24,5 @@
     "contract"
   ],
   "hash": "e23ff3f3a20616df",
-  "queuedAt": "2026-07-21T09:40:25.944Z"
+  "queuedAt": "2026-07-21T14:39:11.668Z"
 }

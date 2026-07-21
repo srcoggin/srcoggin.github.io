@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "More ESPN, NFL Network layoffs are coming Tuesday",
-      "description": "ESPN's clunky, on-air termination of NFL analyst Ryan Clark was just the beginning.",
-      "url": "https://finance.yahoo.com/media-advertising/articles/more-espn-nfl-network-layoffs-001148447.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "More ESPN, NFL Network layoffs are coming Tuesday",
       "description": "ESPN's clunky, on-air termination of NFL analyst Ryan Clark was just the beginning.",
@@ -31,5 +25,5 @@
     "beginning"
   ],
   "hash": "048e413bc039d652",
-  "queuedAt": "2026-07-21T09:40:25.710Z"
+  "queuedAt": "2026-07-21T14:39:11.155Z"
 }

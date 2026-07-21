@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks place Nick Emmanwori, Kenny McIntosh, Tyrone Broden on PUP list",
-      "description": "One of Seattle’s key defensive players is not yet ready to practice at training camp.",
-      "url": "https://sports.yahoo.com/articles/seahawks-place-nick-emmanwori-kenny-202538368.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks place Nick Emmanwori, Kenny McIntosh, Tyrone Broden on PUP list",
       "description": "One of Seattle’s key defensive players is not yet ready to practice at training camp.",
@@ -38,5 +32,5 @@
     "camp"
   ],
   "hash": "c6cf0844d0d3e54e",
-  "queuedAt": "2026-07-21T09:40:25.827Z"
+  "queuedAt": "2026-07-21T14:39:11.553Z"
 }

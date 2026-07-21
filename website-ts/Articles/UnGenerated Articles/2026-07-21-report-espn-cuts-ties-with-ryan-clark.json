@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: ESPN cuts ties with Ryan Clark",
-      "description": "Clark is reportedly the first in a coming wave of layoffs.",
-      "url": "https://sports.yahoo.com/articles/report-espn-cuts-ties-ryan-211942989.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: ESPN cuts ties with Ryan Clark",
       "description": "Clark is reportedly the first in a coming wave of layoffs.",
@@ -29,5 +23,5 @@
     "layoffs"
   ],
   "hash": "289a0ef5f64a990f",
-  "queuedAt": "2026-07-21T09:40:23.600Z"
+  "queuedAt": "2026-07-21T14:39:05.722Z"
 }

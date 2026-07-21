@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL uses free speech law in effort to defeat Jon Gruden's lawsuit",
-      "description": "The effort to delay getting to the merits of Gruden's case continues.",
-      "url": "https://sports.yahoo.com/articles/nfl-uses-free-speech-law-060440025.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL uses free speech law in effort to defeat Jon Gruden's lawsuit",
       "description": "The effort to delay getting to the merits of Gruden's case continues.",
@@ -32,5 +26,5 @@
     "continues"
   ],
   "hash": "20ee8817dd855644",
-  "queuedAt": "2026-07-21T09:40:25.591Z"
+  "queuedAt": "2026-07-21T14:39:10.902Z"
 }
