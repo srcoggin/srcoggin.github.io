@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Devon Witherspoon \"further along\" in contract talks than Christian Gonzalez",
-      "description": "Patriots cornerback Christian Gonzalez wants a long-term deal, and the Patriots want to sign him to a long-term deal.",
-      "url": "https://sports.yahoo.com/articles/report-devon-witherspoon-further-along-004602616.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Devon Witherspoon \"further along\" in contract talks than Christian Gonzalez",
       "description": "Patriots cornerback Christian Gonzalez wants a long-term deal, and the Patriots want to sign him to a long-term deal.",
@@ -34,5 +28,5 @@
     "him"
   ],
   "hash": "846648de2b512e89",
-  "queuedAt": "2026-07-22T09:21:57.892Z"
+  "queuedAt": "2026-07-22T14:44:17.204Z"
 }

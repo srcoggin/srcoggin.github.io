@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks sign CB Brandon Johnson, cut TE Harrison Bryant",
-      "description": "The Seahawks made a change to their 90-player roster on the eve of training camp.",
-      "url": "https://sports.yahoo.com/articles/seahawks-sign-cb-brandon-johnson-083623689.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks sign CB Brandon Johnson, cut TE Harrison Bryant",
       "description": "The Seahawks made a change to their 90-player roster on the eve of training camp.",
@@ -33,5 +27,5 @@
     "camp"
   ],
   "hash": "7b6972874a1148e9",
-  "queuedAt": "2026-07-22T09:21:59.446Z"
+  "queuedAt": "2026-07-22T14:44:23.161Z"
 }
