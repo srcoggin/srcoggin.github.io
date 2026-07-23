@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals' Travis Vokolek retires at age 28 because of neck injury",
-      "description": "During a game last season, Cardinals tight end Travis Vokolek was taken off the field on a stretcher after a collision while blocking on a kickoff.",
-      "url": "https://sports.yahoo.com/articles/cardinals-travis-vokolek-retires-age-080540497.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals' Travis Vokolek retires at age 28 because of neck injury",
       "description": "During a game last season, Cardinals tight end Travis Vokolek was taken off the field on a stretcher after a collision while blocking on a kickoff.",
@@ -36,5 +30,5 @@
     "kickoff"
   ],
   "hash": "78fdfc462f962b11",
-  "queuedAt": "2026-07-23T09:13:56.964Z"
+  "queuedAt": "2026-07-23T14:45:49.457Z"
 }

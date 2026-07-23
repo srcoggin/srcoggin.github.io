@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Undrafted free agent Riley Wilson to sign with Patriots",
-      "description": "The Patriots are signing undrafted free agent Riley Wilson, his representation, PM3 Sports Management, announced.",
-      "url": "https://sports.yahoo.com/articles/undrafted-free-agent-riley-wilson-205050147.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Undrafted free agent Riley Wilson to sign with Patriots",
       "description": "The Patriots are signing undrafted free agent Riley Wilson, his representation, PM3 Sports Management, announced.",
@@ -32,5 +26,5 @@
     "announced"
   ],
   "hash": "2a3bf95521529f0f",
-  "queuedAt": "2026-07-23T09:13:56.116Z"
+  "queuedAt": "2026-07-23T14:45:44.349Z"
 }

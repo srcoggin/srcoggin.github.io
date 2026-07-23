@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks S Nick Emmanwori underwent ankle surgery but expected back for Week 1",
-      "description": "The Seahawks announced Monday that they had placed safety Nick Emmanwori on the active/physically unable to perform list.",
-      "url": "https://sports.yahoo.com/articles/seahawks-nick-emmanwori-underwent-ankle-233745156.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks S Nick Emmanwori underwent ankle surgery but expected back for Week 1",
       "description": "The Seahawks announced Monday that they had placed safety Nick Emmanwori on the active/physically unable to perform list.",
@@ -36,5 +30,5 @@
     "list"
   ],
   "hash": "ca748ab9492973cc",
-  "queuedAt": "2026-07-23T09:13:55.813Z"
+  "queuedAt": "2026-07-23T14:45:43.998Z"
 }

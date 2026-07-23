@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jacoby Brissett reports to Cardinals training camp",
-      "description": "Brissett is looking for a revised contract in Arizona.",
-      "url": "https://sports.yahoo.com/articles/jacoby-brissett-reports-cardinals-training-230117089.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jacoby Brissett reports to Cardinals training camp",
       "description": "Brissett is looking for a revised contract in Arizona.",
@@ -28,5 +22,5 @@
     "arizona"
   ],
   "hash": "6cc76d53ebde8dbb",
-  "queuedAt": "2026-07-23T09:13:55.916Z"
+  "queuedAt": "2026-07-23T14:45:44.139Z"
 }

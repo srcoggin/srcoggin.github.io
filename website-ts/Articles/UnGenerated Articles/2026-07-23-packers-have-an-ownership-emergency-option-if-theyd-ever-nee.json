@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers have an ownership emergency option, if they'd ever need to use it",
-      "description": "The corporation could be dissolved and replaced with an expansion franchise.",
-      "url": "https://sports.yahoo.com/articles/packers-ownership-emergency-option-theyd-000940722.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers have an ownership emergency option, if they'd ever need to use it",
       "description": "The corporation could be dissolved and replaced with an expansion franchise.",
@@ -31,5 +25,5 @@
     "franchise"
   ],
   "hash": "825af4a319b44520",
-  "queuedAt": "2026-07-23T09:13:57.030Z"
+  "queuedAt": "2026-07-23T14:45:49.641Z"
 }
