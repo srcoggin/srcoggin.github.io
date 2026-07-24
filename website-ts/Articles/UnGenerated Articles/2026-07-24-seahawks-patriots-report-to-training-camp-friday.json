@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks, Patriots report to training camp Friday",
-      "description": "The last two teams standing in the 2025 season will kick off their 2026 training camps on Friday.",
-      "url": "https://sports.yahoo.com/articles/seahawks-patriots-report-training-camp-123907078.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks, Patriots report to training camp Friday",
       "description": "The last two teams standing in the 2025 season will kick off their 2026 training camps on Friday.",
@@ -34,5 +28,5 @@
     "camps"
   ],
   "hash": "35ad31c2dcd21d48",
-  "queuedAt": "2026-07-24T15:07:53.065Z"
+  "queuedAt": "2026-07-24T20:23:33.622Z"
 }

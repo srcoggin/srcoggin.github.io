@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "It's just a matter of time (and money) until NFL uniforms have ads",
-      "description": "The NFL probably wishes that, from the moment the founders of the league gathered at a Hupmobile Dealership, they had made the standard football uniform look like NASCAR overalls.",
-      "url": "https://sports.yahoo.com/articles/just-matter-time-money-until-134654001.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "It's just a matter of time (and money) until NFL uniforms have ads",
       "description": "The NFL probably wishes that, from the moment the founders of the league gathered at a Hupmobile Dealership, they had made the standard football uniform look like NASCAR overalls.",
@@ -42,5 +36,5 @@
     "overalls"
   ],
   "hash": "f1558bd934e1d002",
-  "queuedAt": "2026-07-24T15:07:54.386Z"
+  "queuedAt": "2026-07-24T20:23:40.736Z"
 }

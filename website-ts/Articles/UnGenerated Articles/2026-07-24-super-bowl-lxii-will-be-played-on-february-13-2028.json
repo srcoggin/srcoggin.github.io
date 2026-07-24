@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Super Bowl LXII will be played on February 13, 2028",
-      "description": "At long last, the NFL has set a date for the conclusion of the 2027 postseason in Atlanta.",
-      "url": "https://sports.yahoo.com/articles/super-bowl-lxii-played-february-144234872.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Super Bowl LXII will be played on February 13, 2028",
       "description": "At long last, the NFL has set a date for the conclusion of the 2027 postseason in Atlanta.",
@@ -32,5 +26,5 @@
     "atlanta"
   ],
   "hash": "4d6221e2c754a058",
-  "queuedAt": "2026-07-24T15:07:54.128Z"
+  "queuedAt": "2026-07-24T20:23:40.523Z"
 }

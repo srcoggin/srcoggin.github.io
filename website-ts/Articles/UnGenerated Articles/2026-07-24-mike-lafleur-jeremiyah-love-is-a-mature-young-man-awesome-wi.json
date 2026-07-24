@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike LaFleur: Jeremiyah Love is a mature young man, \"awesome with the locker room\"",
-      "description": "\"He's been awesome with the locker room. He is himself, but he also has some awareness that he's a rookie,\" LaFleur said.",
-      "url": "https://sports.yahoo.com/articles/mike-lafleur-jeremiyah-love-mature-122558147.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike LaFleur: Jeremiyah Love is a mature young man, \"awesome with the locker room\"",
       "description": "\"He's been awesome with the locker room. He is himself, but he also has some awareness that he's a rookie,\" LaFleur said.",
@@ -35,5 +29,5 @@
     "said"
   ],
   "hash": "c69b8ba2d3fb50a0",
-  "queuedAt": "2026-07-24T15:07:54.533Z"
+  "queuedAt": "2026-07-24T20:23:40.828Z"
 }

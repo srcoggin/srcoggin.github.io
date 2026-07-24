@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers put Nic Scourton on injured reserve",
-      "description": "Nic Scourton's 2026 season is over.",
-      "url": "https://sports.yahoo.com/articles/panthers-put-nic-scourton-injured-140657131.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers put Nic Scourton on injured reserve",
       "description": "Nic Scourton's 2026 season is over.",
@@ -27,5 +21,5 @@
     "over"
   ],
   "hash": "4637a1b53f9f0468",
-  "queuedAt": "2026-07-24T15:07:54.250Z"
+  "queuedAt": "2026-07-24T20:23:40.636Z"
 }
