@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dolphins place CBs Darrell Baker Jr., Storm Duck on active/PUP",
-      "description": "The Dolphins placed cornerbacks Darrell Baker Jr. and Storm Duck on the active/physically unable to perform list, the team announced Thursday.",
-      "url": "https://sports.yahoo.com/articles/dolphins-place-cbs-darrell-baker-203354435.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dolphins place CBs Darrell Baker Jr., Storm Duck on active/PUP",
       "description": "The Dolphins placed cornerbacks Darrell Baker Jr. and Storm Duck on the active/physically unable to perform list, the team announced Thursday.",
@@ -34,5 +28,5 @@
     "thursday"
   ],
   "hash": "cbf066926920341e",
-  "queuedAt": "2026-07-24T09:09:38.910Z"
+  "queuedAt": "2026-07-24T15:07:53.962Z"
 }

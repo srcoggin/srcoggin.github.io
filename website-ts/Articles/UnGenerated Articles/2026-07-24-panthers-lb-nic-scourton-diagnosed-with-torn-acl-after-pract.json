@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers LB Nic Scourton diagnosed with torn ACL after practice injury",
-      "description": "Scourton will get a second opinion but is expected to miss the entire 2026 season.",
-      "url": "https://sports.yahoo.com/articles/panthers-lb-nic-scourton-diagnosed-200926062.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers LB Nic Scourton diagnosed with torn ACL after practice injury",
       "description": "Scourton will get a second opinion but is expected to miss the entire 2026 season.",
@@ -33,5 +27,5 @@
     "2026"
   ],
   "hash": "49cad173b6b38aa6",
-  "queuedAt": "2026-07-24T09:09:40.304Z"
+  "queuedAt": "2026-07-24T15:08:06.197Z"
 }

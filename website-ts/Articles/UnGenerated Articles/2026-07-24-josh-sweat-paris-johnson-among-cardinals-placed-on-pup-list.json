@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Josh Sweat, Paris Johnson among Cardinals placed on PUP list",
-      "description": "The Cardinals added four players to their physically unable to perform list on their first day of training camp.",
-      "url": "https://sports.yahoo.com/articles/josh-sweat-paris-johnson-among-210816842.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Josh Sweat, Paris Johnson among Cardinals placed on PUP list",
       "description": "The Cardinals added four players to their physically unable to perform list on their first day of training camp.",
@@ -38,5 +32,5 @@
     "camp"
   ],
   "hash": "02a7422e2d1a87ea",
-  "queuedAt": "2026-07-24T09:09:40.067Z"
+  "queuedAt": "2026-07-24T15:08:05.496Z"
 }

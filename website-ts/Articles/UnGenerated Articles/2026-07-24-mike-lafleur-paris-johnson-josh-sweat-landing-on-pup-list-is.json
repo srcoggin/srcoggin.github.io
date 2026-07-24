@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike LaFleur: Paris Johnson, Josh Sweat landing on PUP list is \"just maintenance\"",
-      "description": "The Cardinals placed left tackle Paris Johnson and linebacker Josh Sweat on the physically unable to perform list on Thursday, but head coach Mike LaFleur didn't make it sound like either player is going to miss much time during training camp.",
-      "url": "https://sports.yahoo.com/articles/mike-lafleur-paris-johnson-josh-235647839.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike LaFleur: Paris Johnson, Josh Sweat landing on PUP list is \"just maintenance\"",
       "description": "The Cardinals placed left tackle Paris Johnson and linebacker Josh Sweat on the physically unable to perform list on Thursday, but head coach Mike LaFleur didn't make it sound like either player is going to miss much time during training camp.",
@@ -50,5 +44,5 @@
     "camp"
   ],
   "hash": "a259cee3f605b2ed",
-  "queuedAt": "2026-07-24T09:09:39.952Z"
+  "queuedAt": "2026-07-24T15:08:05.110Z"
 }

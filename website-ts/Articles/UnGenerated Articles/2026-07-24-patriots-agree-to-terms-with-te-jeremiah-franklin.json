@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots agree to terms with TE Jeremiah Franklin",
-      "description": "The Patriots agreed to terms with tight end Jeremiah Franklin, Matt Zenitz of CBS Sports reports.",
-      "url": "https://sports.yahoo.com/articles/patriots-agree-terms-te-jeremiah-222607081.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots agree to terms with TE Jeremiah Franklin",
       "description": "The Patriots agreed to terms with tight end Jeremiah Franklin, Matt Zenitz of CBS Sports reports.",
@@ -31,5 +25,5 @@
     "reports"
   ],
   "hash": "358e11c16b711435",
-  "queuedAt": "2026-07-24T09:09:38.841Z"
+  "queuedAt": "2026-07-24T15:07:53.715Z"
 }

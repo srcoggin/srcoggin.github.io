@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts owner Carlie Irsay-Gordon will present Adam Vinatieri at Hall of Fame induction",
-      "description": "Adam Vinatieri began his career with the Patriots and played 10 seasons in New England, but he left and went to the Colts for 14 more.",
-      "url": "https://sports.yahoo.com/articles/colts-owner-carlie-irsay-gordon-201137427.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts owner Carlie Irsay-Gordon will present Adam Vinatieri at Hall of Fame induction",
       "description": "Adam Vinatieri began his career with the Patriots and played 10 seasons in New England, but he left and went to the Colts for 14 more.",
@@ -38,5 +32,5 @@
     "went"
   ],
   "hash": "840f9f5e470e24c5",
-  "queuedAt": "2026-07-24T09:09:40.243Z"
+  "queuedAt": "2026-07-24T15:08:06.330Z"
 }

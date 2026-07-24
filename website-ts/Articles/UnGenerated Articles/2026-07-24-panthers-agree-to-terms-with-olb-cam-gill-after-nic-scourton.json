@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers agree to terms with OLB Cam Gill after Nic Scourton's injury",
-      "description": "The Panthers lost outside linebacker Nic Scourton to a right knee injury in the team's first training camp practice on Thursday.",
-      "url": "https://sports.yahoo.com/articles/panthers-agree-terms-olb-cam-193846803.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers agree to terms with OLB Cam Gill after Nic Scourton's injury",
       "description": "The Panthers lost outside linebacker Nic Scourton to a right knee injury in the team's first training camp practice on Thursday.",
@@ -39,5 +33,5 @@
     "thursday"
   ],
   "hash": "cc195a0df208d372",
-  "queuedAt": "2026-07-24T09:09:40.403Z"
+  "queuedAt": "2026-07-24T15:08:06.557Z"
 }
