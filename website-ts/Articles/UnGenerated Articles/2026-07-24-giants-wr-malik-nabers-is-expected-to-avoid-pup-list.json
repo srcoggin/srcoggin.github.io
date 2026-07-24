@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants WR Malik Nabers is expected to avoid PUP list",
-      "description": "The question remains about when Malik Nabers will return from rehab on his right knee, with the Giants hopeful he can play the season opener against the Cowboys.",
-      "url": "https://sports.yahoo.com/articles/giants-wr-malik-nabers-expected-192737687.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants WR Malik Nabers is expected to avoid PUP list",
       "description": "The question remains about when Malik Nabers will return from rehab on his right knee, with the Giants hopeful he can play the season opener against the Cowboys.",
@@ -38,5 +32,5 @@
     "cowboys"
   ],
   "hash": "d5903d097dc7a3ff",
-  "queuedAt": "2026-07-24T04:03:16.975Z"
+  "queuedAt": "2026-07-24T09:09:44.798Z"
 }
