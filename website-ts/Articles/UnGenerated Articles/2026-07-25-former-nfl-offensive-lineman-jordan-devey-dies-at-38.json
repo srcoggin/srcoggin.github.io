@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Former NFL offensive lineman Jordan Devey dies at 38",
-      "description": "Jordan Devey, who played for five NFL teams over eight years, has died.",
-      "url": "https://sports.yahoo.com/articles/former-nfl-offensive-lineman-jorday-125309553.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Former NFL offensive lineman Jordan Devey dies at 38",
       "description": "Jordan Devey, who played for five NFL teams over eight years, has died.",
@@ -32,5 +26,5 @@
     "died"
   ],
   "hash": "812c31baeba595c7",
-  "queuedAt": "2026-07-25T14:54:56.313Z"
+  "queuedAt": "2026-07-25T20:21:29.157Z"
 }

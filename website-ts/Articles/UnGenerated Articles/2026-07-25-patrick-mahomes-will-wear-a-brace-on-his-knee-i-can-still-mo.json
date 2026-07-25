@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patrick Mahomes will wear a brace on his knee, \"I can still move and be myself with it\"",
-      "description": "\"It's not like I've been told I have to wear it or how long I have to wear it. It's just going to be my comfortability how I feel,\" Mahomes said.",
-      "url": "https://sports.yahoo.com/articles/patrick-mahomes-wear-brace-knee-090638972.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patrick Mahomes will wear a brace on his knee, \"I can still move and be myself with it\"",
       "description": "\"It's not like I've been told I have to wear it or how long I have to wear it. It's just going to be my comfortability how I feel,\" Mahomes said.",
@@ -36,5 +30,5 @@
     "said"
   ],
   "hash": "7eb2c4169c14eabe",
-  "queuedAt": "2026-07-25T14:54:56.543Z"
+  "queuedAt": "2026-07-25T20:21:29.647Z"
 }

@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tony Romo's OWI arrest came after he participated in a golf tournament",
-      "description": "More details are emerging regarding the arrest of former Cowboys quarterback and current CBS analyst Tony Romo on suspicion of Operating While Intoxicated.",
-      "url": "https://sports.yahoo.com/articles/tony-romos-owi-arrest-came-123617139.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tony Romo's OWI arrest came after he participated in a golf tournament",
       "description": "More details are emerging regarding the arrest of former Cowboys quarterback and current CBS analyst Tony Romo on suspicion of Operating While Intoxicated.",
@@ -40,5 +34,5 @@
     "intoxicated"
   ],
   "hash": "b6dcc9d14f7907b4",
-  "queuedAt": "2026-07-25T14:54:56.429Z"
+  "queuedAt": "2026-07-25T20:21:28.880Z"
 }
