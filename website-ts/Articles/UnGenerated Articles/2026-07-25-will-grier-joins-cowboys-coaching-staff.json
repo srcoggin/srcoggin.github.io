@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Will Grier joins Cowboys' coaching staff",
-      "description": "A week after retiring as a player, Will Grier is embarking on his next career, as a coach.",
-      "url": "https://sports.yahoo.com/articles/grier-joins-cowboys-coaching-staff-193435003.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Will Grier joins Cowboys' coaching staff",
       "description": "A week after retiring as a player, Will Grier is embarking on his next career, as a coach.",
@@ -29,5 +23,5 @@
     "coach"
   ],
   "hash": "03d12e6ea6bb859a",
-  "queuedAt": "2026-07-25T08:56:42.581Z"
+  "queuedAt": "2026-07-25T14:55:06.585Z"
 }

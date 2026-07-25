@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots waive WR Jimmy Kibble with an injury designation",
-      "description": "The Patriots agreed to terms with tight end Jeremiah Franklin on Thursday.",
-      "url": "https://sports.yahoo.com/articles/patriots-waive-wr-jimmy-kibble-214455473.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots waive WR Jimmy Kibble with an injury designation",
       "description": "The Patriots agreed to terms with tight end Jeremiah Franklin on Thursday.",
@@ -31,5 +25,5 @@
     "thursday"
   ],
   "hash": "ae3daaa236abaa7b",
-  "queuedAt": "2026-07-25T08:56:42.284Z"
+  "queuedAt": "2026-07-25T14:55:05.617Z"
 }

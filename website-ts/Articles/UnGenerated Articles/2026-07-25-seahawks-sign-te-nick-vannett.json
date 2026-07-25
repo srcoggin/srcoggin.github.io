@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks sign TE Nick Vannett",
-      "description": "The Seahawks have brought back a veteran player on offense.",
-      "url": "https://sports.yahoo.com/articles/seahawks-sign-te-nick-vannett-210313005.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks sign TE Nick Vannett",
       "description": "The Seahawks have brought back a veteran player on offense.",
@@ -26,5 +20,5 @@
     "offense"
   ],
   "hash": "21e6ac5e7aa5df0a",
-  "queuedAt": "2026-07-25T08:56:42.428Z"
+  "queuedAt": "2026-07-25T14:55:05.988Z"
 }
