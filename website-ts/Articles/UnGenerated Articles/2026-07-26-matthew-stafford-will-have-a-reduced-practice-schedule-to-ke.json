@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Matthew Stafford will have a reduced practice schedule to keep him fresh",
-      "description": "Last year, after Rams quarterback Matthew Stafford didn't practice much in training camp due to a back problem, outsiders incorrectly assumed that coach Sean McVay was giving Stafford a break.",
-      "url": "https://sports.yahoo.com/articles/matthew-stafford-reduced-practice-schedule-200709746.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Matthew Stafford will have a reduced practice schedule to keep him fresh",
       "description": "Last year, after Rams quarterback Matthew Stafford didn't practice much in training camp due to a back problem, outsiders incorrectly assumed that coach Sean McVay was giving Stafford a break.",
@@ -45,5 +39,5 @@
     "break"
   ],
   "hash": "08db816d920cedb7",
-  "queuedAt": "2026-07-26T09:03:19.494Z"
+  "queuedAt": "2026-07-26T14:38:19.392Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots second-round LB Gabe Jacas agrees to terms",
-      "description": "Second-round linebacker Gabe Jacas did not report to training camp with his Patriots' teammates on Friday.",
-      "url": "https://sports.yahoo.com/articles/patriots-second-round-lb-gabe-202736795.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots second-round LB Gabe Jacas agrees to terms",
       "description": "Second-round linebacker Gabe Jacas did not report to training camp with his Patriots' teammates on Friday.",
@@ -31,5 +25,5 @@
     "friday"
   ],
   "hash": "9ce9d088203c4a3f",
-  "queuedAt": "2026-07-26T09:03:18.040Z"
+  "queuedAt": "2026-07-26T14:38:11.111Z"
 }

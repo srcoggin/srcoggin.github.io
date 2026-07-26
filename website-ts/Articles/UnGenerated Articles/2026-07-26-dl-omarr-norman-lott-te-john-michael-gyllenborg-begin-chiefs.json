@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "DL Omarr Norman-Lott, TE John Michael Gyllenborg begin Chiefs' camp on active/PUP",
-      "description": "Chiefs quarterback Patrick Mahomes and wide receiver Rashee Rice are cleared to participate in the opening of training camp.",
-      "url": "https://sports.yahoo.com/articles/dl-omarr-norman-lott-te-201545344.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "DL Omarr Norman-Lott, TE John Michael Gyllenborg begin Chiefs' camp on active/PUP",
       "description": "Chiefs quarterback Patrick Mahomes and wide receiver Rashee Rice are cleared to participate in the opening of training camp.",
@@ -38,5 +32,5 @@
     "training"
   ],
   "hash": "021037f26761b699",
-  "queuedAt": "2026-07-26T09:03:19.444Z"
+  "queuedAt": "2026-07-26T14:38:19.276Z"
 }

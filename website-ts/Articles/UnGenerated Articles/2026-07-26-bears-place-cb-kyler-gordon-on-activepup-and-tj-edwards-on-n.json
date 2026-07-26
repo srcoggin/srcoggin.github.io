@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears place CB Kyler Gordon on active/PUP and T.J. Edwards on NFI",
-      "description": "Bears slot cornerback Kyler Gordon played only three games last season, twice landing on injured reserve.",
-      "url": "https://sports.yahoo.com/articles/bears-place-cb-kyler-gordon-205201765.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears place CB Kyler Gordon on active/PUP and T.J. Edwards on NFI",
       "description": "Bears slot cornerback Kyler Gordon played only three games last season, twice landing on injured reserve.",
@@ -35,5 +29,5 @@
     "reserve"
   ],
   "hash": "ab85cdbbdfa9ab22",
-  "queuedAt": "2026-07-26T09:03:19.324Z"
+  "queuedAt": "2026-07-26T14:38:19.014Z"
 }

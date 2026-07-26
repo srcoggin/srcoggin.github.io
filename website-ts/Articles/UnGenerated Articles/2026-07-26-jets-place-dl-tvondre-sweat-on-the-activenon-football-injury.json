@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets place DL T'Vondre Sweat on the active/non-football injury list",
-      "description": "The Jets made three moves on Saturday ahead of the start of training camp next week.",
-      "url": "https://sports.yahoo.com/articles/jets-place-dl-tvondre-sweat-210448213.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets place DL T'Vondre Sweat on the active/non-football injury list",
       "description": "The Jets made three moves on Saturday ahead of the start of training camp next week.",
@@ -34,5 +28,5 @@
     "next"
   ],
   "hash": "e47755add5db98b1",
-  "queuedAt": "2026-07-26T09:03:19.271Z"
+  "queuedAt": "2026-07-26T14:38:18.902Z"
 }
