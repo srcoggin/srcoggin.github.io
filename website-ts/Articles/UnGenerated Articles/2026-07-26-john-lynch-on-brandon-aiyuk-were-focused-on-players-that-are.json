@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "John Lynch on Brandon Aiyuk: We're focused on players that are here",
-      "description": "Wide receiver Brandon Aiyuk has had a lot to say this offseason about his desire to play for the Commanders, but the 49ers have not released him and General Manager John Lynch did not make it sound like that is going to happen in the immediate future when he spoke to reporters from the team's training camp on Saturday.",
-      "url": "https://sports.yahoo.com/articles/john-lynch-brandon-aiyuk-were-191258904.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "John Lynch on Brandon Aiyuk: We're focused on players that are here",
       "description": "Wide receiver Brandon Aiyuk has had a lot to say this offseason about his desire to play for the Commanders, but the 49ers have not released him and General Manager John Lynch did not make it sound like that is going to happen in the immediate future when he spoke to reporters from the team's training camp on Saturday.",
@@ -54,5 +48,5 @@
     "saturday"
   ],
   "hash": "56a3d6ea9ff75b8b",
-  "queuedAt": "2026-07-26T03:57:26.813Z"
+  "queuedAt": "2026-07-26T09:03:18.907Z"
 }
