@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McVay on Kyle Shanahan accident: I talked to him, he's got an incredible perspective",
-      "description": "Shanahan suffered serious injuries in a car accident and is not able to perform his full coaching duties to start training camp.",
-      "url": "https://sports.yahoo.com/articles/sean-mcvay-kyle-shanahan-accident-093005158.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McVay on Kyle Shanahan accident: I talked to him, he's got an incredible perspective",
       "description": "Shanahan suffered serious injuries in a car accident and is not able to perform his full coaching duties to start training camp.",
@@ -42,5 +36,5 @@
     "camp"
   ],
   "hash": "93b81554896c7f46",
-  "queuedAt": "2026-07-26T14:38:11.860Z"
+  "queuedAt": "2026-07-26T19:53:30.122Z"
 }

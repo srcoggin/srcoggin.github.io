@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Macdonald noncommittal on S Nick Emmanwori's availability for Week 1",
-      "description": "Seahawks safety Nick Emmanwori required arthroscopic surgery on his right ankle earlier this month.",
-      "url": "https://sports.yahoo.com/articles/mike-macdonald-noncommittal-nick-emmanworis-001634891.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Macdonald noncommittal on S Nick Emmanwori's availability for Week 1",
       "description": "Seahawks safety Nick Emmanwori required arthroscopic surgery on his right ankle earlier this month.",
@@ -36,5 +30,5 @@
     "month"
   ],
   "hash": "985b4fe77fdae9bd",
-  "queuedAt": "2026-07-26T14:38:12.097Z"
+  "queuedAt": "2026-07-26T19:53:30.372Z"
 }

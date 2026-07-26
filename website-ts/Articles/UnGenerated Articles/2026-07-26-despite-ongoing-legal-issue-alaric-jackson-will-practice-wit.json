@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Despite ongoing legal issue, Alaric Jackson will practice with Rams",
-      "description": "Even though Rams tackle Alaric Jackson won't be charged with a felony following an offseason domestic battery accusation, he could be entering a diversion program in lieu of a misdemeanor prosecution.",
-      "url": "https://sports.yahoo.com/articles/despite-ongoing-legal-issue-alaric-230858962.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Despite ongoing legal issue, Alaric Jackson will practice with Rams",
       "description": "Even though Rams tackle Alaric Jackson won't be charged with a felony following an offseason domestic battery accusation, he could be entering a diversion program in lieu of a misdemeanor prosecution.",
@@ -43,5 +37,5 @@
     "prosecution"
   ],
   "hash": "a7d90ca4fddf6535",
-  "queuedAt": "2026-07-26T14:38:12.349Z"
+  "queuedAt": "2026-07-26T19:53:30.510Z"
 }

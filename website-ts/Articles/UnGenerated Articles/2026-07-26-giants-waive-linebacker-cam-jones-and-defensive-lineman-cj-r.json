@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants waive linebacker Cam Jones and defensive lineman C.J. Ravenell",
-      "description": "The Giants opened up two spots on their 90-player roster ahead of training camp.",
-      "url": "https://sports.yahoo.com/articles/giants-waive-linebacker-cam-jones-081114763.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants waive linebacker Cam Jones and defensive lineman C.J. Ravenell",
       "description": "The Giants opened up two spots on their 90-player roster ahead of training camp.",
@@ -35,5 +29,5 @@
     "camp"
   ],
   "hash": "5ac1e4ff751c448a",
-  "queuedAt": "2026-07-26T14:38:11.976Z"
+  "queuedAt": "2026-07-26T19:53:30.229Z"
 }
