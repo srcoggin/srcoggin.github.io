@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers bring back DL Kevin Givens",
-      "description": "Defensive lineman Kevin Givens spent the last seven seasons with the 49ers and he'll have a chance to make it eight in a row.",
-      "url": "https://sports.yahoo.com/articles/49ers-bring-back-dl-kevin-172025810.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers bring back DL Kevin Givens",
       "description": "Defensive lineman Kevin Givens spent the last seven seasons with the 49ers and he'll have a chance to make it eight in a row.",
@@ -34,5 +28,5 @@
     "row"
   ],
   "hash": "e5aba1fffa04215b",
-  "queuedAt": "2026-07-27T03:55:34.959Z"
+  "queuedAt": "2026-07-27T11:10:32.144Z"
 }
