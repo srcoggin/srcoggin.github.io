@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Daniel Jones says he feels \"really good\" and is ready to go for training camp",
-      "description": "Jones suffered a torn Achilles tendon on December 7.",
-      "url": "https://sports.yahoo.com/articles/daniel-jones-says-feels-really-080519772.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Daniel Jones says he feels \"really good\" and is ready to go for training camp",
       "description": "Jones suffered a torn Achilles tendon on December 7.",
@@ -32,5 +26,5 @@
     "december"
   ],
   "hash": "4ae2aa427f0b0ccd",
-  "queuedAt": "2026-07-27T11:10:24.443Z"
+  "queuedAt": "2026-07-27T15:21:15.720Z"
 }

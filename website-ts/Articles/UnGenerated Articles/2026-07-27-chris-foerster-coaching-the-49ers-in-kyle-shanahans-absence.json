@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chris Foerster: Coaching the 49ers in Kyle Shanahan's absence is \"really a group thing\"",
-      "description": "With 49ers coach Kyle Shanahan limited at training camp due to a severe concussion suffered in a recent car accident, assistant head coach/offensive line Chris Foerster is running the team.",
-      "url": "https://sports.yahoo.com/articles/chris-foerster-coaching-49ers-kyle-232731614.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chris Foerster: Coaching the 49ers in Kyle Shanahan's absence is \"really a group thing\"",
       "description": "With 49ers coach Kyle Shanahan limited at training camp due to a severe concussion suffered in a recent car accident, assistant head coach/offensive line Chris Foerster is running the team.",
@@ -45,5 +39,5 @@
     "running"
   ],
   "hash": "3ed0bc9d03ac674d",
-  "queuedAt": "2026-07-27T11:10:24.672Z"
+  "queuedAt": "2026-07-27T15:21:15.063Z"
 }

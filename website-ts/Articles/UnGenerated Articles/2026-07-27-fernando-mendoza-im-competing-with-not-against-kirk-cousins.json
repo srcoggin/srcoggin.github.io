@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Fernando Mendoza: I'm competing with, not against, Kirk Cousins",
-      "description": "Fernando Mendoza signed his rookie deal last week and that leaves the quarterback with nothing to focus on other than football when the Raiders open training camp this week.",
-      "url": "https://sports.yahoo.com/articles/fernando-mendoza-im-competing-not-191735839.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Fernando Mendoza: I'm competing with, not against, Kirk Cousins",
       "description": "Fernando Mendoza signed his rookie deal last week and that leaves the quarterback with nothing to focus on other than football when the Raiders open training camp this week.",
@@ -39,5 +33,5 @@
     "this"
   ],
   "hash": "c0e87a916d87d53a",
-  "queuedAt": "2026-07-27T11:10:25.463Z"
+  "queuedAt": "2026-07-27T15:21:14.256Z"
 }

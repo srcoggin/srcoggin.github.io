@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Drake Maye: Christian Gonzalez's main focus is football, not his contract",
-      "description": "Patriots cornerback Christian Gonzalez wants a new contract, but he's not sitting out training camp to get one.",
-      "url": "https://sports.yahoo.com/articles/drake-maye-christian-gonzalezs-main-104916200.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Drake Maye: Christian Gonzalez's main focus is football, not his contract",
       "description": "Patriots cornerback Christian Gonzalez wants a new contract, but he's not sitting out training camp to get one.",
@@ -38,5 +32,5 @@
     "one"
   ],
   "hash": "592ca5ac3aaa3fc7",
-  "queuedAt": "2026-07-27T11:10:24.301Z"
+  "queuedAt": "2026-07-27T15:21:15.565Z"
 }

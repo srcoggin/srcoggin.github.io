@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Shanahan attends roughly 30 minutes of 49ers' practice on Sunday",
-      "description": "49ers coach Kyle Shanahan is recovering from various injuries sustained in a July 14 car accident.",
-      "url": "https://sports.yahoo.com/articles/kyle-shanahan-attends-roughly-30-195213111.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Shanahan attends roughly 30 minutes of 49ers' practice on Sunday",
       "description": "49ers coach Kyle Shanahan is recovering from various injuries sustained in a July 14 car accident.",
@@ -34,5 +28,5 @@
     "accident"
   ],
   "hash": "b0ae631029468cc5",
-  "queuedAt": "2026-07-27T11:10:25.158Z"
+  "queuedAt": "2026-07-27T15:21:15.185Z"
 }
