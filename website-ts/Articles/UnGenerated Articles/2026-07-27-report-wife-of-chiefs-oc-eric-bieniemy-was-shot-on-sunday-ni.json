@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Son of Chiefs offensive coordinator Eric Bieniemy arrested for shooting mother",
-      "description": "The wife of Kansas City Chiefs offensive coordinator Eric Bieniemy was shot at the couple's home in Virginia the night of Sunday, according to a report.",
-      "url": "https://sports.yahoo.com/articles/eric-bieniemy-away-chiefs-incident-141704264.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Wife of Chiefs OC Eric Bieniemy was shot on Sunday night at their home in Virginia",
       "description": "The wife of Chiefs offensive coordinator Eric Bieniemy was reportedly shot on Sunday night at the couple's home in Virginia.",
@@ -16,29 +10,22 @@
     }
   ],
   "keywords": [
-    "son",
+    "report",
+    "wife",
     "chiefs",
-    "offensive",
-    "coordinator",
     "eric",
     "bieniemy",
-    "arrested",
-    "shooting",
-    "mother",
-    "wife",
-    "kansas",
-    "city",
     "shot",
-    "couples",
+    "sunday",
+    "night",
+    "their",
     "home",
     "virginia",
-    "night",
-    "sunday",
-    "according",
-    "report",
-    "their",
-    "reportedly"
+    "offensive",
+    "coordinator",
+    "reportedly",
+    "couples"
   ],
-  "hash": "b2c2c196e3af7dd3",
-  "queuedAt": "2026-07-27T15:21:09.836Z"
+  "hash": "839ebcdf62133a48",
+  "queuedAt": "2026-07-27T20:46:53.708Z"
 }
