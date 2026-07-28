@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants worked out LB Kenneth Murray, 17 others, on Monday",
-      "description": "The Giants worked out 18 players on Monday, including veteran linebacker Kenneth Murray.",
-      "url": "https://sports.yahoo.com/articles/giants-worked-lb-kenneth-murray-212729187.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants worked out LB Kenneth Murray, 17 others, on Monday",
       "description": "The Giants worked out 18 players on Monday, including veteran linebacker Kenneth Murray.",
@@ -29,5 +23,5 @@
     "linebacker"
   ],
   "hash": "9b15105dfed21683",
-  "queuedAt": "2026-07-28T09:25:53.165Z"
+  "queuedAt": "2026-07-28T15:13:31.994Z"
 }

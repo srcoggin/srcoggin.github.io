@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: OG Ben Powers takes a pay cut to stay with Broncos",
-      "description": "Left guard Ben Powers wanted to stay with the Broncos so much that he accepted a restructured, one-year contract, Mike Klis of 9News reports.",
-      "url": "https://sports.yahoo.com/articles/report-og-ben-powers-takes-005130612.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: OG Ben Powers takes a pay cut to stay with Broncos",
       "description": "Left guard Ben Powers wanted to stay with the Broncos so much that he accepted a restructured, one-year contract, Mike Klis of 9News reports.",
@@ -39,5 +33,5 @@
     "reports"
   ],
   "hash": "063264967a3af6bf",
-  "queuedAt": "2026-07-28T09:25:51.228Z"
+  "queuedAt": "2026-07-28T15:13:23.670Z"
 }

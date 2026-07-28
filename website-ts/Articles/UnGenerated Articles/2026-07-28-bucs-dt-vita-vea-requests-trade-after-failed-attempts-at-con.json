@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bucs DT Vita Vea requests trade after failed attempts at contract extension",
-      "description": "The two-time Pro Bowler is entering the final season of his contract.",
-      "url": "https://sports.yahoo.com/articles/bucs-dt-vita-vea-requests-223107289.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bucs DT Vita Vea requests trade after failed attempts at contract extension",
       "description": "The two-time Pro Bowler is entering the final season of his contract.",
@@ -33,5 +27,5 @@
     "his"
   ],
   "hash": "fe665ce82b06eeba",
-  "queuedAt": "2026-07-28T09:25:53.081Z"
+  "queuedAt": "2026-07-28T15:13:30.900Z"
 }

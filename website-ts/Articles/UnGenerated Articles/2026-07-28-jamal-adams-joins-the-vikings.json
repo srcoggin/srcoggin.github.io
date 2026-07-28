@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jamal Adams joins the Vikings",
-      "description": "The sixth overall pick in the 2017 draft will be joining his sixth team.",
-      "url": "https://sports.yahoo.com/articles/jamal-adams-joins-vikings-010630348.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jamal Adams joins the Vikings",
       "description": "The sixth overall pick in the 2017 draft will be joining his sixth team.",
@@ -29,5 +23,5 @@
     "his"
   ],
   "hash": "ab377dfdf70d9269",
-  "queuedAt": "2026-07-28T09:25:52.983Z"
+  "queuedAt": "2026-07-28T15:13:31.492Z"
 }
