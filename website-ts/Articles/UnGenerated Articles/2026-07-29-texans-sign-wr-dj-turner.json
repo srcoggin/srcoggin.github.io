@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Texans sign WR DJ Turner",
-      "description": "The Texans have a new wide receiver on their roster.",
-      "url": "https://sports.yahoo.com/articles/texans-sign-wr-dj-turner-144152998.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Texans sign WR DJ Turner",
       "description": "The Texans have a new wide receiver on their roster.",
@@ -26,5 +20,5 @@
     "roster"
   ],
   "hash": "267dc1346b821559",
-  "queuedAt": "2026-07-29T15:20:48.253Z"
+  "queuedAt": "2026-07-29T20:38:19.356Z"
 }
