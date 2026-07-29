@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Justin Dedich will return soon, Fourth of July injury was not fireworks-related",
-      "description": "When Rams head coach Sean McVay said today that guard Justin Dedich was out of training camp because he “had a hand accident around the Fourth of July,\" it was reasonable to infer that McVay was describing a fireworks accident.",
-      "url": "https://sports.yahoo.com/articles/report-justin-dedich-return-soon-215233200.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Justin Dedich will return soon, Fourth of July injury was not fireworks-related",
       "description": "When Rams head coach Sean McVay said today that guard Justin Dedich was out of training camp because he “had a hand accident around the Fourth of July,\" it was reasonable to infer that McVay was describing a fireworks accident.",
@@ -46,5 +40,5 @@
     "fireworks"
   ],
   "hash": "1ae71269e9c2ce19",
-  "queuedAt": "2026-07-29T03:25:12.613Z"
+  "queuedAt": "2026-07-29T09:24:43.861Z"
 }
