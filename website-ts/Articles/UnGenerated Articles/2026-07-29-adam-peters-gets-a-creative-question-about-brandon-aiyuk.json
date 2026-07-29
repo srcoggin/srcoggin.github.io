@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Adam Peters gets a creative question about Brandon Aiyuk",
-      "description": "When it comes to players under contract with one team, other teams generally shy away from saying anything about him.",
-      "url": "https://sports.yahoo.com/articles/adam-peters-gets-creative-brandon-001129989.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Adam Peters gets a creative question about Brandon Aiyuk",
       "description": "When it comes to players under contract with one team, other teams generally shy away from saying anything about him.",
@@ -37,5 +31,5 @@
     "him"
   ],
   "hash": "a61183492e437096",
-  "queuedAt": "2026-07-29T09:24:44.365Z"
+  "queuedAt": "2026-07-29T15:20:56.542Z"
 }

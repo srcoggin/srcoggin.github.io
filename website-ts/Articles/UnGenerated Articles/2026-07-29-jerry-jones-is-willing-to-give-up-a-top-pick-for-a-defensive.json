@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jerry Jones is willing to give up a top pick for a defensive playmaker",
-      "description": "The Cowboys owner said he talked to another owner about a trade as recently as Monday.",
-      "url": "https://sports.yahoo.com/articles/jerry-jones-willing-top-pick-225336000.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jerry Jones is willing to give up a top pick for a defensive playmaker",
       "description": "The Cowboys owner said he talked to another owner about a trade as recently as Monday.",
@@ -35,5 +29,5 @@
     "monday"
   ],
   "hash": "9da4142685d881cd",
-  "queuedAt": "2026-07-29T09:24:44.451Z"
+  "queuedAt": "2026-07-29T15:20:56.826Z"
 }
