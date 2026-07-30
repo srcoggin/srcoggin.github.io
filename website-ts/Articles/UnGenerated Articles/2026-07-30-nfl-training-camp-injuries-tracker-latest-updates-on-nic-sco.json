@@ -5,7 +5,7 @@
     {
       "name": "CBS Sports NFL",
       "title": "NFL training camp injuries tracker: Latest updates on Nic Scourton, Shemar Stewart, Chris Brazzell II and more",
-      "description": "Scourton is out for the season with a torn ACL, while Stewart and Brazzell were carted off the practice field Wednesday",
+      "description": "Scourton and Brazzell are out for the season with knee injuries, while Stewart was carted off the practice field Wednesday",
       "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/"
     }
   ],
@@ -23,8 +23,7 @@
     "chris",
     "brazzell",
     "out",
-    "torn",
-    "acl",
+    "knee",
     "while",
     "carted",
     "off",
@@ -32,6 +31,6 @@
     "field",
     "wednesday"
   ],
-  "hash": "bafc5243f9f4943e",
-  "queuedAt": "2026-07-30T15:46:02.209Z"
+  "hash": "b186b998085cedd2",
+  "queuedAt": "2026-07-30T20:44:54.867Z"
 }
