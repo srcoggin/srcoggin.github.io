@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kellen Moore confirms Bryan Bresee's knee injury \"doesn't look great\"",
-      "description": "Not long after defensive tackle Bryan Bresee went down with a knee injury came word that the Saints feared a torn ACL.",
-      "url": "https://sports.yahoo.com/articles/kellen-moore-confirms-bryan-bresees-235735081.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kellen Moore confirms Bryan Bresee's knee injury \"doesn't look great\"",
       "description": "Not long after defensive tackle Bryan Bresee went down with a knee injury came word that the Saints feared a torn ACL.",
@@ -41,5 +35,5 @@
     "acl"
   ],
   "hash": "30f941fb46c1e31d",
-  "queuedAt": "2026-07-30T09:42:51.996Z"
+  "queuedAt": "2026-07-30T15:46:19.695Z"
 }
