@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "George Pickens appreciates Jerry Jones' kind words",
-      "description": "George Pickens heard Jerry Jones' comment from Tuesday about the wide receiver potentially being \"a Cowboy for the rest of his career.\"",
-      "url": "https://sports.yahoo.com/articles/george-pickens-appreciates-jerry-jones-234413395.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "George Pickens appreciates Jerry Jones' kind words",
       "description": "George Pickens heard Jerry Jones' comment from Tuesday about the wide receiver potentially being \"a Cowboy for the rest of his career.\"",
@@ -36,5 +30,5 @@
     "career"
   ],
   "hash": "b0d71584698d6034",
-  "queuedAt": "2026-07-31T09:32:08.145Z"
+  "queuedAt": "2026-07-31T14:59:27.958Z"
 }
