@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ben Johnson on handling hype: We're the No. 1 regression candidate",
-      "description": "Liam Coen and Ben Johnson oversaw major turnarounds in their first seasons as NFL head coaches in 2025 and they've been linked again by the topic of motivating their teams for the coming season.",
-      "url": "https://sports.yahoo.com/articles/ben-johnson-handling-hype-were-133905164.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ben Johnson on handling hype: We're the No. 1 regression candidate",
       "description": "Liam Coen and Ben Johnson oversaw major turnarounds in their first seasons as NFL head coaches in 2025 and they've been linked again by the topic of motivating their teams for the coming season.",
@@ -41,5 +35,5 @@
     "coming"
   ],
   "hash": "f22bcfa90596a5af",
-  "queuedAt": "2026-07-31T14:59:21.118Z"
+  "queuedAt": "2026-07-31T20:47:57.472Z"
 }
