@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers to sign WR Kaden Prather",
-      "description": "Wide receiver Kaden Prather is going from the UFL to the NFL.",
-      "url": "https://sports.yahoo.com/articles/packers-sign-wr-kaden-prather-215826580.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers to sign WR Kaden Prather",
       "description": "Wide receiver Kaden Prather is going from the UFL to the NFL.",
@@ -26,5 +20,5 @@
     "ufl"
   ],
   "hash": "336c6a3bca922505",
-  "queuedAt": "2026-07-31T03:52:00.416Z"
+  "queuedAt": "2026-07-31T09:32:13.056Z"
 }

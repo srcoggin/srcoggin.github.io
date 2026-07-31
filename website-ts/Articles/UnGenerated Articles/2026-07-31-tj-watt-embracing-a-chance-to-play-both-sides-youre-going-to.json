@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "T.J. Watt embracing a chance to play both sides: You're going to see us move around",
-      "description": "Steelers outside linebacker T.J.",
-      "url": "https://sports.yahoo.com/articles/t-j-watt-embracing-chance-215214385.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "T.J. Watt embracing a chance to play both sides: You're going to see us move around",
       "description": "Steelers outside linebacker T.J.",
@@ -32,5 +26,5 @@
     "linebacker"
   ],
   "hash": "64f2c9324ef20aa2",
-  "queuedAt": "2026-07-31T03:52:00.470Z"
+  "queuedAt": "2026-07-31T09:32:13.175Z"
 }
