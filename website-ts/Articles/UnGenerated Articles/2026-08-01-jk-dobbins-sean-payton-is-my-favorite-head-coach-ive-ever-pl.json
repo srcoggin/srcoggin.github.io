@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "J.K. Dobbins: Sean Payton is my favorite head coach I've ever played for",
-      "description": "\"This organization is amazing,\" Dobbins said. \"I was born to be a Bronco.\"",
-      "url": "https://sports.yahoo.com/articles/j-k-dobbins-sean-payton-081457107.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "J.K. Dobbins: Sean Payton is my favorite head coach I've ever played for",
       "description": "\"This organization is amazing,\" Dobbins said. \"I was born to be a Bronco.\"",
@@ -33,5 +27,5 @@
     "bronco"
   ],
   "hash": "fead5560ff18ece6",
-  "queuedAt": "2026-08-01T14:36:19.999Z"
+  "queuedAt": "2026-08-01T20:21:55.180Z"
 }

@@ -3,10 +3,10 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
+      "name": "Pro Football Talk",
       "title": "Steelers add Kevin Colbert, J.T. Thomas, Craig Wolfley to Hall of Honor",
       "description": "The Steelers opened their Hall of Honor in 2017.",
-      "url": "https://sports.yahoo.com/articles/steelers-add-kevin-colbert-j-143141573.html"
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-add-kevin-colbert-j-t-thomas-craig-wolfley-to-hall-of-honor"
     }
   ],
   "keywords": [
@@ -24,5 +24,5 @@
     "2017"
   ],
   "hash": "68bd483fcbab9a0f",
-  "queuedAt": "2026-08-01T14:36:20.231Z"
+  "queuedAt": "2026-08-01T20:21:54.574Z"
 }
