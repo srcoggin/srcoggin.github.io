@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McVay on Aaron Donald: If there’s an arrow, it’s trending upward",
-      "description": "The Rams coach doesn't expect the defensive lineman to decide whether he returns until after the team's training camp ends.",
-      "url": "https://sports.yahoo.com/articles/sean-mcvay-aaron-donald-arrow-011840672.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McVay on Aaron Donald: If there’s an arrow, it’s trending upward",
       "description": "The Rams coach doesn't expect the defensive lineman to decide whether he returns until after the team's training camp ends.",
@@ -41,5 +35,5 @@
     "ends"
   ],
   "hash": "5548d322e741c102",
-  "queuedAt": "2026-08-01T09:17:07.105Z"
+  "queuedAt": "2026-08-01T14:36:27.475Z"
 }

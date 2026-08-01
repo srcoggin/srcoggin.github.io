@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Stephen Jones says Cowboys investigating trades, big-name veteran signings",
-      "description": "The Cowboys have been trade-happy the past year in rebuilding their defense.",
-      "url": "https://sports.yahoo.com/articles/stephen-jones-says-cowboys-investigating-220841566.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Stephen Jones says Cowboys investigating trades, big-name veteran signings",
       "description": "The Cowboys have been trade-happy the past year in rebuilding their defense.",
@@ -32,5 +26,5 @@
     "defense"
   ],
   "hash": "3e5532ba7fe26847",
-  "queuedAt": "2026-08-01T09:17:07.272Z"
+  "queuedAt": "2026-08-01T14:36:27.847Z"
 }

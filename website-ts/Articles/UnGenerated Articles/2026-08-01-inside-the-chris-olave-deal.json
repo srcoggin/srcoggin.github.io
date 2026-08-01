@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Inside the Chris Olave deal",
-      "description": "One of the various training-camp hold-ins ended on Thursday, when the Saints signed receiver Chris Olave to a new deal.",
-      "url": "https://sports.yahoo.com/articles/inside-chris-olave-deal-010050330.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Inside the Chris Olave deal",
       "description": "One of the various training-camp hold-ins ended on Thursday, when the Saints signed receiver Chris Olave to a new deal.",
@@ -32,5 +26,5 @@
     "new"
   ],
   "hash": "2dbcc91caaee54a9",
-  "queuedAt": "2026-08-01T09:17:07.196Z"
+  "queuedAt": "2026-08-01T14:36:27.586Z"
 }

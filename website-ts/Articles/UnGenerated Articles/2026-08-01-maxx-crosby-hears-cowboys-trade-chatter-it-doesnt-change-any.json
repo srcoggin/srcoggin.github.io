@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Maxx Crosby hears Cowboys' trade chatter: It doesn't change anything for me",
-      "description": "The Cowboys had interest in a trade for Raiders pass rusher Maxx Crosby.",
-      "url": "https://sports.yahoo.com/articles/maxx-crosby-hears-cowboys-trade-021730599.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Maxx Crosby hears Cowboys' trade chatter: It doesn't change anything for me",
       "description": "The Cowboys had interest in a trade for Raiders pass rusher Maxx Crosby.",
@@ -31,5 +25,5 @@
     "rusher"
   ],
   "hash": "bdad5b4aec42d1ab",
-  "queuedAt": "2026-08-01T09:17:07.009Z"
+  "queuedAt": "2026-08-01T14:36:27.115Z"
 }
