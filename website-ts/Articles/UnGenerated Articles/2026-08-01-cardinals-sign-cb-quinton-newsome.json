@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals sign CB Quinton Newsome",
-      "description": "The Cardinals signed cornerback Quinton Newsome, the team announced Friday.",
-      "url": "https://sports.yahoo.com/articles/cardinals-sign-cb-quinton-newsome-202411513.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals sign CB Quinton Newsome",
       "description": "The Cardinals signed cornerback Quinton Newsome, the team announced Friday.",
@@ -26,5 +20,5 @@
     "friday"
   ],
   "hash": "243fa6bf34731e8f",
-  "queuedAt": "2026-08-01T03:46:35.913Z"
+  "queuedAt": "2026-08-01T09:17:06.326Z"
 }
