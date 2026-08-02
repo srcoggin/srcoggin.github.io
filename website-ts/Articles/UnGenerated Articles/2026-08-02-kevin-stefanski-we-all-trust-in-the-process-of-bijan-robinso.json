@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kevin Stefanski: We all trust in the process of Bijan Robinson's contract negotiations",
-      "description": "Falcons running back Bijan Robinson is not fully participating in training camp as he seeks a new contract.",
-      "url": "https://sports.yahoo.com/articles/kevin-stefanski-trust-process-bijan-103518946.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kevin Stefanski: We all trust in the process of Bijan Robinson's contract negotiations",
       "description": "Falcons running back Bijan Robinson is not fully participating in training camp as he seeks a new contract.",
@@ -36,5 +30,5 @@
     "new"
   ],
   "hash": "7d34f73cf74040f4",
-  "queuedAt": "2026-08-02T14:43:01.538Z"
+  "queuedAt": "2026-08-02T19:52:46.066Z"
 }

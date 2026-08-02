@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaguars sign LB Jared Bartlett",
-      "description": "The Jaguars announced the signing of a linebacker on Sunday morning.",
-      "url": "https://sports.yahoo.com/articles/jaguars-sign-lb-jared-bartlett-124229744.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaguars sign LB Jared Bartlett",
       "description": "The Jaguars announced the signing of a linebacker on Sunday morning.",
@@ -27,5 +21,5 @@
     "morning"
   ],
   "hash": "e11ebc5d4dd52e21",
-  "queuedAt": "2026-08-02T14:43:00.034Z"
+  "queuedAt": "2026-08-02T19:52:41.930Z"
 }

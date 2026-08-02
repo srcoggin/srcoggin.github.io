@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders sign TE Zack Kuntz",
-      "description": "The Raiders added a tight end to their roster on Saturday.",
-      "url": "https://sports.yahoo.com/articles/raiders-sign-te-zack-kuntz-122327801.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders sign TE Zack Kuntz",
       "description": "The Raiders added a tight end to their roster on Saturday.",
@@ -28,5 +22,5 @@
     "saturday"
   ],
   "hash": "7a843031965b094f",
-  "queuedAt": "2026-08-02T14:43:01.287Z"
+  "queuedAt": "2026-08-02T19:52:45.865Z"
 }

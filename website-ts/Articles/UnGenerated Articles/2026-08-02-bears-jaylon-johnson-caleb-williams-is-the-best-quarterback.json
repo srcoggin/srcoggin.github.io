@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears' Jaylon Johnson: Caleb Williams is the best quarterback I've had since Nick Foles",
-      "description": "Johnson may have damned Williams with faint praise in suggesting that Williams is not the Bears' best quarterback during Johnson's seven years in Chicago.",
-      "url": "https://sports.yahoo.com/articles/bears-jaylon-johnson-caleb-williams-074259253.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears' Jaylon Johnson: Caleb Williams is the best quarterback I've had since Nick Foles",
       "description": "Johnson may have damned Williams with faint praise in suggesting that Williams is not the Bears' best quarterback during Johnson's seven years in Chicago.",
@@ -38,5 +32,5 @@
     "chicago"
   ],
   "hash": "eb9a36f05457ee9a",
-  "queuedAt": "2026-08-02T14:43:01.666Z"
+  "queuedAt": "2026-08-02T19:52:46.132Z"
 }
