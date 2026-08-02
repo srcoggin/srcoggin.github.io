@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "C.J. Gardner-Johnson diagnosed with a calf strain",
-      "description": "An MRI delivered good news to Bills safety C.J.",
-      "url": "https://sports.yahoo.com/articles/c-j-gardner-johnson-diagnosed-221243128.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "C.J. Gardner-Johnson diagnosed with a calf strain",
       "description": "An MRI delivered good news to Bills safety C.J.",
@@ -28,5 +22,5 @@
     "safety"
   ],
   "hash": "f09b4eeccd50e026",
-  "queuedAt": "2026-08-02T09:41:22.051Z"
+  "queuedAt": "2026-08-02T14:43:08.530Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers rookie DE Mikail Kamara carted off practice field with apparent knee injury",
-      "description": "San Francisco 49ers rookie defensive end Mikail Kamara was carted off the practice field at training camp today.",
-      "url": "https://sports.yahoo.com/articles/49ers-rookie-mikail-kamara-carted-200431476.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers rookie DE Mikail Kamara carted off practice field with apparent knee injury",
       "description": "San Francisco 49ers rookie defensive end Mikail Kamara was carted off the practice field at training camp today.",
@@ -36,5 +30,5 @@
     "today"
   ],
   "hash": "8c74d74dfd7e376c",
-  "queuedAt": "2026-08-02T09:41:22.328Z"
+  "queuedAt": "2026-08-02T14:43:09.171Z"
 }

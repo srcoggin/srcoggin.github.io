@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions agree to terms with LB Devin White",
-      "description": "The Lions have agreed to terms with free agent linebacker Devin White on a one-year deal, according to Jordan Schultz of The Schultz Report.",
-      "url": "https://sports.yahoo.com/articles/lions-agree-terms-lb-devin-193259042.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions agree to terms with LB Devin White",
       "description": "The Lions have agreed to terms with free agent linebacker Devin White on a one-year deal, according to Jordan Schultz of The Schultz Report.",
@@ -33,5 +27,5 @@
     "report"
   ],
   "hash": "3d965bee7d77a6d9",
-  "queuedAt": "2026-08-02T09:41:20.407Z"
+  "queuedAt": "2026-08-02T14:43:00.917Z"
 }

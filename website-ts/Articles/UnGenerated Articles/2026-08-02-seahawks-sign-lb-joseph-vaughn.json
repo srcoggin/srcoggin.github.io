@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks sign LB Joseph Vaughn",
-      "description": "The Seahawks added depth at linebacker on Saturday by signing Joseph Vaughn, the team announced.",
-      "url": "https://sports.yahoo.com/articles/seahawks-sign-lb-joseph-vaughn-212232242.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks sign LB Joseph Vaughn",
       "description": "The Seahawks added depth at linebacker on Saturday by signing Joseph Vaughn, the team announced.",
@@ -28,5 +22,5 @@
     "announced"
   ],
   "hash": "ca73eb74d88291dd",
-  "queuedAt": "2026-08-02T09:41:20.167Z"
+  "queuedAt": "2026-08-02T14:43:00.666Z"
 }
