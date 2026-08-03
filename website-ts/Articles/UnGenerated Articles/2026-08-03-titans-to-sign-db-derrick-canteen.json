@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans to sign DB Derrick Canteen",
-      "description": "The Titans have agreed to terms with defensive back Derrick Canteen, Matt Zenitz of CBS Sports reports.",
-      "url": "https://sports.yahoo.com/articles/titans-sign-db-derrick-canteen-190557808.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans to sign DB Derrick Canteen",
       "description": "The Titans have agreed to terms with defensive back Derrick Canteen, Matt Zenitz of CBS Sports reports.",
@@ -31,5 +25,5 @@
     "reports"
   ],
   "hash": "031840f01974b11c",
-  "queuedAt": "2026-08-03T04:13:31.813Z"
+  "queuedAt": "2026-08-03T10:59:26.113Z"
 }

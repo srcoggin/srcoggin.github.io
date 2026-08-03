@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "James Robinson gets a tryout with Raiders",
-      "description": "Six years after running back James Robinson rushed for 1,070 yards as a rookie in 2020 with the Jaguars, he's looking for a path back to the NFL.",
-      "url": "https://sports.yahoo.com/articles/james-robinson-gets-tryout-raiders-191149768.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "James Robinson gets a tryout with Raiders",
       "description": "Six years after running back James Robinson rushed for 1,070 yards as a rookie in 2020 with the Jaguars, he's looking for a path back to the NFL.",
@@ -36,5 +30,5 @@
     "path"
   ],
   "hash": "315b462c7cef8db0",
-  "queuedAt": "2026-08-03T04:13:34.254Z"
+  "queuedAt": "2026-08-03T10:59:32.049Z"
 }

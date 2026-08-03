@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Travis Hunter says he wants to play every snap after putting on a show in practice",
-      "description": "Travis Hunter played 324 offensive snaps and 162 defensive snaps in seven appearances last season before his knee injury.",
-      "url": "https://sports.yahoo.com/articles/travis-hunter-says-wants-play-195007087.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Travis Hunter says he wants to play every snap after putting on a show in practice",
       "description": "Travis Hunter played 324 offensive snaps and 162 defensive snaps in seven appearances last season before his knee injury.",
@@ -40,5 +34,5 @@
     "injury"
   ],
   "hash": "8674bd703c55b079",
-  "queuedAt": "2026-08-03T04:13:34.009Z"
+  "queuedAt": "2026-08-03T10:59:31.828Z"
 }
