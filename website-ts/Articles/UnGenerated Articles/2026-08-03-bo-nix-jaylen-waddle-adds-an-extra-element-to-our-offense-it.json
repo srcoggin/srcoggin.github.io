@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bo Nix: Jaylen Waddle adds an extra element to our offense, it's exciting",
-      "description": "The Broncos added some speed to their offense during the offseason by trading for receiver Jaylen Waddle.",
-      "url": "https://sports.yahoo.com/articles/bo-nix-jaylen-waddle-adds-140544095.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bo Nix: Jaylen Waddle adds an extra element to our offense, it's exciting",
       "description": "The Broncos added some speed to their offense during the offseason by trading for receiver Jaylen Waddle.",
@@ -35,5 +29,5 @@
     "receiver"
   ],
   "hash": "87f7687070b88aa1",
-  "queuedAt": "2026-08-03T15:38:48.681Z"
+  "queuedAt": "2026-08-03T20:34:23.767Z"
 }

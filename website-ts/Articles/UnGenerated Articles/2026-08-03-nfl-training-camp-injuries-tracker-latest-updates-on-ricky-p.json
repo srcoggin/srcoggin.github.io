@@ -1,10 +1,10 @@
 {
-  "title": "NFL training camp injuries tracker: Latest updates on Ricky Pearsall, C.J. Gardner-Johnson and more",
+  "title": "NFL training camp injuries tracker: Latest updates on Ricky Pearsall, Coby Bryant and more",
   "category": "injuries",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "NFL training camp injuries tracker: Latest updates on Ricky Pearsall, C.J. Gardner-Johnson and more",
+      "title": "NFL training camp injuries tracker: Latest updates on Ricky Pearsall, Coby Bryant and more",
       "description": "Pearsall is set to undergo season-ending knee surgery while Gardner-Johnson was injured during Saturday&#039;s Bills practice",
       "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/"
     }
@@ -18,18 +18,20 @@
     "updates",
     "ricky",
     "pearsall",
-    "gardnerjohnson",
+    "coby",
+    "bryant",
     "set",
     "undergo",
     "seasonending",
     "knee",
     "surgery",
     "while",
+    "gardnerjohnson",
     "injured",
     "saturday039s",
     "bills",
     "practice"
   ],
-  "hash": "97e6a0e15e7eb7bf",
-  "queuedAt": "2026-08-03T15:38:48.081Z"
+  "hash": "d9fc9cc595dd4781",
+  "queuedAt": "2026-08-03T20:34:17.330Z"
 }

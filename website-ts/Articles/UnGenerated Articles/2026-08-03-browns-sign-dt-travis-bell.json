@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns sign DT Travis Bell",
-      "description": "Defensive tackle Travis Bell won a championship in the UFL this year and he will now try to make the Browns.",
-      "url": "https://sports.yahoo.com/articles/browns-sign-dt-travis-bell-151404316.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns sign DT Travis Bell",
       "description": "Defensive tackle Travis Bell won a championship in the UFL this year and he will now try to make the Browns.",
@@ -31,5 +25,5 @@
     "make"
   ],
   "hash": "159f5b8536ccb0fa",
-  "queuedAt": "2026-08-03T15:38:48.282Z"
+  "queuedAt": "2026-08-03T20:34:23.019Z"
 }
