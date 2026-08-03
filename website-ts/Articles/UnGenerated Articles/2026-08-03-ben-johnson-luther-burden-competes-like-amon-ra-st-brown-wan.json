@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ben Johnson: Luther Burden competes like Amon-Ra St. Brown, wants to be the best",
-      "description": "Bears coach Ben Johnson says wide receiver Luther Burden is poised to build off his promising rookie season in 2025 and become one of the best receivers in the NFL.",
-      "url": "https://sports.yahoo.com/articles/ben-johnson-luther-burden-competes-093331304.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ben Johnson: Luther Burden competes like Amon-Ra St. Brown, wants to be the best",
       "description": "Bears coach Ben Johnson says wide receiver Luther Burden is poised to build off his promising rookie season in 2025 and become one of the best receivers in the NFL.",
@@ -43,5 +37,5 @@
     "receivers"
   ],
   "hash": "e80808bad0c85d3c",
-  "queuedAt": "2026-08-03T10:59:26.635Z"
+  "queuedAt": "2026-08-03T15:38:55.604Z"
 }
