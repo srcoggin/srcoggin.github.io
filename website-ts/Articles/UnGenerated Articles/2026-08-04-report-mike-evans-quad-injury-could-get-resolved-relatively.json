@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Mike Evans quad injury \"could get resolved relatively quickly\"",
-      "description": "The 49ers receiving corps has been hit by several injuries early on in camp, but one veteran may be back on the field sooner rather than later.",
-      "url": "https://sports.yahoo.com/articles/report-mike-evans-quad-injury-205001677.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Mike Evans quad injury \"could get resolved relatively quickly\"",
       "description": "The 49ers receiving corps has been hit by several injuries early on in camp, but one veteran may be back on the field sooner rather than later.",
@@ -42,5 +36,5 @@
     "later"
   ],
   "hash": "070ef14b27116d39",
-  "queuedAt": "2026-08-04T04:03:41.485Z"
+  "queuedAt": "2026-08-04T09:24:21.068Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean Payton: No hurry with Taysom Hill, I'll see him in Canton this week",
-      "description": "Broncos head coach Sean Payton will be in Canton, Ohio this week to take part in Drew Brees's induction into the Pro Football Hall of Fame and he'll also do a little work on a possible addition to his roster.",
-      "url": "https://sports.yahoo.com/articles/sean-payton-no-hurry-taysom-204703651.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean Payton: No hurry with Taysom Hill, I'll see him in Canton this week",
       "description": "Broncos head coach Sean Payton will be in Canton, Ohio this week to take part in Drew Brees's induction into the Pro Football Hall of Fame and he'll also do a little work on a possible addition to his roster.",
@@ -48,5 +42,5 @@
     "roster"
   ],
   "hash": "d144c06bf6dba320",
-  "queuedAt": "2026-08-04T04:03:43.874Z"
+  "queuedAt": "2026-08-04T09:24:26.310Z"
 }
