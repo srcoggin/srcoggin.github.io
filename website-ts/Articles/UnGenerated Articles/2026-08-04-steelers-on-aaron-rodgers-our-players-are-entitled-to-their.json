@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers on Aaron Rodgers: \"Our players are entitled to their own personal views\"",
-      "description": "Monday's rollicking, grievance-airing appearance by Steelers quarterback Aaron Rodgers on The Pat McAfee Show prompted ESPN, one of the targets of Rodgers's ire, to say nothing.",
-      "url": "https://sports.yahoo.com/articles/steelers-aaron-rodgers-players-entitled-030334956.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers on Aaron Rodgers: \"Our players are entitled to their own personal views\"",
       "description": "Monday's rollicking, grievance-airing appearance by Steelers quarterback Aaron Rodgers on The Pat McAfee Show prompted ESPN, one of the targets of Rodgers's ire, to say nothing.",
@@ -43,5 +37,5 @@
     "nothing"
   ],
   "hash": "8c27cd0f3d8aa8c6",
-  "queuedAt": "2026-08-04T09:24:21.354Z"
+  "queuedAt": "2026-08-04T15:40:59.271Z"
 }
