@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Shedeur Sanders, Deshaun Watson will each get a preseason start",
-      "description": "The leader after two preseason games is expected to start the third preseason game.",
-      "url": "https://sports.yahoo.com/articles/shedeur-sanders-deshaun-watson-preseason-025011656.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Shedeur Sanders, Deshaun Watson will each get a preseason start",
       "description": "The leader after two preseason games is expected to start the third preseason game.",
@@ -30,5 +24,5 @@
     "third"
   ],
   "hash": "05ab8297079c7b62",
-  "queuedAt": "2026-08-05T09:15:49.311Z"
+  "queuedAt": "2026-08-05T15:23:44.294Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Free agent TE Zach Ertz cleared for football activities",
-      "description": "Free agent tight end Zach Ertz said in April that he didn't want his torn ACL to be the final act of his NFL career.",
-      "url": "https://sports.yahoo.com/articles/free-agent-te-zach-ertz-011949385.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Free agent TE Zach Ertz cleared for football activities",
       "description": "Free agent tight end Zach Ertz said in April that he didn't want his torn ACL to be the final act of his NFL career.",
@@ -37,5 +31,5 @@
     "career"
   ],
   "hash": "827d46f5a45a21e7",
-  "queuedAt": "2026-08-05T09:15:49.409Z"
+  "queuedAt": "2026-08-05T15:23:44.866Z"
 }
