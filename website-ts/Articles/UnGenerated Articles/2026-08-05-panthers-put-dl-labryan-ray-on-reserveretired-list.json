@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers put DL LaBryan Ray on reserve/retired list",
-      "description": "The Panthers will be playing in the Hall of Fame Game on Thursday night, but defensive lineman LaBryan Ray won't be getting any snaps against the Cardinals.",
-      "url": "https://sports.yahoo.com/articles/panthers-put-dl-labryan-ray-204721366.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers put DL LaBryan Ray on reserve/retired list",
       "description": "The Panthers will be playing in the Hall of Fame Game on Thursday night, but defensive lineman LaBryan Ray won't be getting any snaps against the Cardinals.",
@@ -37,5 +31,5 @@
     "cardinals"
   ],
   "hash": "34d2b1994f8f856d",
-  "queuedAt": "2026-08-05T03:18:55.765Z"
+  "queuedAt": "2026-08-05T09:15:53.696Z"
 }

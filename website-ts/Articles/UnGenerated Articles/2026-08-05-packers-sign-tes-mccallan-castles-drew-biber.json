@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers sign TEs McCallan Castles, Drew Biber",
-      "description": "The Packers signed tight ends McCallan Castles and Drew Biber on Tuesday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/packers-sign-tes-mccallan-castles-204725944.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers sign TEs McCallan Castles, Drew Biber",
       "description": "The Packers signed tight ends McCallan Castles and Drew Biber on Tuesday, the team announced.",
@@ -30,5 +24,5 @@
     "announced"
   ],
   "hash": "3ec913eadbae0390",
-  "queuedAt": "2026-08-05T03:18:54.622Z"
+  "queuedAt": "2026-08-05T09:15:49.122Z"
 }
