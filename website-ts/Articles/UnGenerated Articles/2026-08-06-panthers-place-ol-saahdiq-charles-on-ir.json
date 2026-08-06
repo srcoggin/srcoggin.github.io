@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers place OL Saahdiq Charles on IR",
-      "description": "The Panthers placed offensive lineman Saahdiq Charles on injured reserve Wednesday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/panthers-place-ol-saahdiq-charles-201358373.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers place OL Saahdiq Charles on IR",
       "description": "The Panthers placed offensive lineman Saahdiq Charles on injured reserve Wednesday, the team announced.",
@@ -29,5 +23,5 @@
     "announced"
   ],
   "hash": "d035923caabaac54",
-  "queuedAt": "2026-08-06T03:22:19.614Z"
+  "queuedAt": "2026-08-06T10:02:09.083Z"
 }

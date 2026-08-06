@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders sign TE Chris Myarick",
-      "description": "The Raiders have added a tight end.",
-      "url": "https://sports.yahoo.com/articles/raiders-sign-te-chris-myarick-210900050.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders sign TE Chris Myarick",
       "description": "The Raiders have added a tight end.",
@@ -25,5 +19,5 @@
     "end"
   ],
   "hash": "9cd972b4390cd7b5",
-  "queuedAt": "2026-08-06T03:22:20.742Z"
+  "queuedAt": "2026-08-06T10:02:19.355Z"
 }
