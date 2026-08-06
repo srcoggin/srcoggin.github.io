@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Macdonald provides update on Zach Charbonnet's rehab",
-      "description": "Zach Charbonnet underwent surgery to repair the torn anterior cruciate ligament in his left knee on Feb. 20.",
-      "url": "https://sports.yahoo.com/articles/mike-macdonald-provides-zach-charbonnets-022140935.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Macdonald provides update on Zach Charbonnet's rehab",
       "description": "Zach Charbonnet underwent surgery to repair the torn anterior cruciate ligament in his left knee on Feb. 20.",
@@ -37,5 +31,5 @@
     "feb"
   ],
   "hash": "e1036f9f89350bff",
-  "queuedAt": "2026-08-06T10:02:06.152Z"
+  "queuedAt": "2026-08-06T15:38:56.326Z"
 }

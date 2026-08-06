@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McVay on Aaron Donald's tryout: I think he could make the team",
-      "description": "Aaron Donald did not intend to create more comeback speculation, but the defensive tackle did just that.",
-      "url": "https://sports.yahoo.com/articles/sean-mcvay-aaron-donalds-tryout-013217921.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McVay on Aaron Donald's tryout: I think he could make the team",
       "description": "Aaron Donald did not intend to create more comeback speculation, but the defensive tackle did just that.",
@@ -33,5 +27,5 @@
     "that"
   ],
   "hash": "dcf262b80adb6531",
-  "queuedAt": "2026-08-06T10:02:09.494Z"
+  "queuedAt": "2026-08-06T15:39:06.254Z"
 }

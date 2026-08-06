@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Deebo Samuel's deal has a $4.1 million base, and up to $2.9 million in incentives",
-      "description": "The initial reports as to many NFL player contracts focus on the \"up to\" amount, since it's a bigger number — and it's usually the number that gets attached to the deal.",
-      "url": "https://sports.yahoo.com/articles/deebo-samuels-deal-4-1-020142570.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Deebo Samuel's deal has a $4.1 million base, and up to $2.9 million in incentives",
       "description": "The initial reports as to many NFL player contracts focus on the \"up to\" amount, since it's a bigger number — and it's usually the number that gets attached to the deal.",
@@ -38,5 +32,5 @@
     "attached"
   ],
   "hash": "d38cf42b17183821",
-  "queuedAt": "2026-08-06T10:02:06.357Z"
+  "queuedAt": "2026-08-06T15:38:56.710Z"
 }
