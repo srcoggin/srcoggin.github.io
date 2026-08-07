@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts sign free agent TE Pharaoh Brown",
-      "description": "The Colts signed free agent tight end Pharaoh Brown on Thursday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/colts-sign-free-agent-te-213139896.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts sign free agent TE Pharaoh Brown",
       "description": "The Colts signed free agent tight end Pharaoh Brown on Thursday, the team announced.",
@@ -29,5 +23,5 @@
     "announced"
   ],
   "hash": "7c470d1c99d7a701",
-  "queuedAt": "2026-08-07T00:43:32.507Z"
+  "queuedAt": "2026-08-07T08:02:15.702Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets claim DT Junior Tafuna off waivers",
-      "description": "Defensive tackle Junior Tafuna was dropped by the Texans on Wednesday, but he didn't have to wait long to find a new team.",
-      "url": "https://sports.yahoo.com/articles/jets-claim-dt-junior-tafuna-205238491.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets claim DT Junior Tafuna off waivers",
       "description": "Defensive tackle Junior Tafuna was dropped by the Texans on Wednesday, but he didn't have to wait long to find a new team.",
@@ -34,5 +28,5 @@
     "new"
   ],
   "hash": "c9a1952747be074d",
-  "queuedAt": "2026-08-07T00:43:34.149Z"
+  "queuedAt": "2026-08-07T08:02:21.487Z"
 }

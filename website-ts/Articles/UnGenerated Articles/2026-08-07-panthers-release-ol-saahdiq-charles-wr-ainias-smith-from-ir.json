@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers release OL Saahdiq Charles, WR Ainias Smith from IR",
-      "description": "The Panthers waived wide receiver Ainias Smith with an injury settlement and released guard Saahdiq Charles with an injury settlement, the team announced Thursday.",
-      "url": "https://sports.yahoo.com/articles/panthers-release-ol-saahdiq-charles-210201612.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers release OL Saahdiq Charles, WR Ainias Smith from IR",
       "description": "The Panthers waived wide receiver Ainias Smith with an injury settlement and released guard Saahdiq Charles with an injury settlement, the team announced Thursday.",
@@ -33,5 +27,5 @@
     "thursday"
   ],
   "hash": "e09465f99e3e8f2a",
-  "queuedAt": "2026-08-07T00:43:32.583Z"
+  "queuedAt": "2026-08-07T08:02:15.801Z"
 }

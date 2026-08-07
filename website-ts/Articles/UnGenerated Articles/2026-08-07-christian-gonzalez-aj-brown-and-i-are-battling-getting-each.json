@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Christian Gonzalez: A.J. Brown and I are battling, getting each other better",
-      "description": "Thursday's practice at Patriots camp featured some fireworks between wide receiver A.J.",
-      "url": "https://sports.yahoo.com/articles/christian-gonzalez-j-brown-battling-210636724.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Christian Gonzalez: A.J. Brown and I are battling, getting each other better",
       "description": "Thursday's practice at Patriots camp featured some fireworks between wide receiver A.J.",
@@ -32,5 +26,5 @@
     "receiver"
   ],
   "hash": "ba750c91295e1eb4",
-  "queuedAt": "2026-08-07T00:43:34.084Z"
+  "queuedAt": "2026-08-07T08:02:21.351Z"
 }
