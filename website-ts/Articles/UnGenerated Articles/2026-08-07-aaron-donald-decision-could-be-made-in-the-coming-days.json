@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Donald decision could be made in the coming days",
-      "description": "Donald could be on the field for 30-40 snaps in Week 1 vs. 49ers.",
-      "url": "https://sports.yahoo.com/articles/aaron-donald-decision-could-made-001431590.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Donald decision could be made in the coming days",
       "description": "Donald could be on the field for 30-40 snaps in Week 1 vs. 49ers.",
@@ -28,5 +22,5 @@
     "49ers"
   ],
   "hash": "29d97f2feb353183",
-  "queuedAt": "2026-08-07T08:02:16.072Z"
+  "queuedAt": "2026-08-07T13:48:24.538Z"
 }
