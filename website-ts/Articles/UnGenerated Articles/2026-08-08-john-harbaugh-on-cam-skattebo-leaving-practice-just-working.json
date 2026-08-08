@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "John Harbaugh on Cam Skattebo leaving practice: Just working through the football shape part of it",
-      "description": "Running back Cam Skattebo made an early exit from Friday's practice, but Giants head coach John Harbaugh didn't show much concern about his condition after the workout.",
-      "url": "https://sports.yahoo.com/articles/john-harbaugh-cam-skattebo-leaving-221350794.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "John Harbaugh on Cam Skattebo leaving practice: Just working through the football shape part of it",
       "description": "Running back Cam Skattebo made an early exit from Friday's practice, but Giants head coach John Harbaugh didn't show much concern about his condition after the workout.",
@@ -44,5 +38,5 @@
     "workout"
   ],
   "hash": "25b5357fb10e2676",
-  "queuedAt": "2026-08-08T07:37:31.585Z"
+  "queuedAt": "2026-08-08T13:31:05.017Z"
 }

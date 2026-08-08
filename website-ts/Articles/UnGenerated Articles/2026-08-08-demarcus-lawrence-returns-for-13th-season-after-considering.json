@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "DeMarcus Lawrence returns for 13th season after considering retirement",
-      "description": "Seahawks defensive end DeMarcus Lawrence capped his 12th NFL season with his first Super Bowl ring.",
-      "url": "https://sports.yahoo.com/articles/demarcus-lawrence-returns-13th-season-211457052.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "DeMarcus Lawrence returns for 13th season after considering retirement",
       "description": "Seahawks defensive end DeMarcus Lawrence capped his 12th NFL season with his first Super Bowl ring.",
@@ -34,5 +28,5 @@
     "ring"
   ],
   "hash": "84c637745f3d19af",
-  "queuedAt": "2026-08-08T07:37:31.739Z"
+  "queuedAt": "2026-08-08T13:31:05.127Z"
 }
