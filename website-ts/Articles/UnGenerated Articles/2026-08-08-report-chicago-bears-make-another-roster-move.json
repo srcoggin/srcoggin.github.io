@@ -5,7 +5,7 @@
     {
       "name": "Yahoo Sports NFL",
       "title": "Report: Chicago Bears make another roster move",
-      "description": "Report: Chicago Bears bolster secondary again",
+      "description": "The Chicago Bears are reportedly bolstering their secondary again.",
       "url": "https://sports.yahoo.com/articles/report-chicago-bears-another-roster-014709132.html"
     }
   ],
@@ -17,9 +17,11 @@
     "another",
     "roster",
     "move",
-    "bolster",
+    "reportedly",
+    "bolstering",
+    "their",
     "secondary"
   ],
-  "hash": "f8519acc0502589e",
-  "queuedAt": "2026-08-08T02:47:16.738Z"
+  "hash": "fda94b0b91d1a28b",
+  "queuedAt": "2026-08-08T07:37:30.251Z"
 }

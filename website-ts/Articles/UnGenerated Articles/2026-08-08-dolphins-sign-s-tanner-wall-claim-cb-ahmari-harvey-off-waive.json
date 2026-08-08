@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dolphins sign S Tanner Wall, claim CB Ahmari Harvey off waivers",
-      "description": "The Dolphins doubled down on defensive back moves on Friday.",
-      "url": "https://sports.yahoo.com/articles/dolphins-sign-tanner-wall-claim-205819469.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dolphins sign S Tanner Wall, claim CB Ahmari Harvey off waivers",
       "description": "The Dolphins doubled down on defensive back moves on Friday.",
@@ -33,5 +27,5 @@
     "friday"
   ],
   "hash": "debd2f6002e909c3",
-  "queuedAt": "2026-08-08T02:47:18.747Z"
+  "queuedAt": "2026-08-08T07:37:35.961Z"
 }

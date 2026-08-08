@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears sign DB Xavier Woods, place DB Dallis Flowers on IR",
-      "description": "The Bears signed defensive back Xavier Woods, the team announced Friday.",
-      "url": "https://sports.yahoo.com/articles/bears-sign-db-xavier-woods-205311421.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears sign DB Xavier Woods, place DB Dallis Flowers on IR",
       "description": "The Bears signed defensive back Xavier Woods, the team announced Friday.",
@@ -30,5 +24,5 @@
     "friday"
   ],
   "hash": "71c436a985a34020",
-  "queuedAt": "2026-08-08T02:47:16.527Z"
+  "queuedAt": "2026-08-08T07:37:31.371Z"
 }
