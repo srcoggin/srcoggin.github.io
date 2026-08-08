@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Adam Vinatieri once chased down Herschel Walker",
-      "description": "The Hall of Fame career of former Patriots and Colts kicker Adam Vinatieri had many highlights.",
-      "url": "https://sports.yahoo.com/articles/adam-vinatieri-once-chased-down-115627912.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Adam Vinatieri once chased down Herschel Walker",
       "description": "The Hall of Fame career of former Patriots and Colts kicker Adam Vinatieri had many highlights.",
@@ -33,5 +27,5 @@
     "highlights"
   ],
   "hash": "84ec3f442f6cfcd7",
-  "queuedAt": "2026-08-08T13:31:00.546Z"
+  "queuedAt": "2026-08-08T19:17:20.059Z"
 }
