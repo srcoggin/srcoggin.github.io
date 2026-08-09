@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears sign defensive backs Brandon Hill and William Wright",
-      "description": "The Bears continued to shuffle their defensive backfield on Saturday.",
-      "url": "https://sports.yahoo.com/articles/bears-sign-defensive-backs-brandon-213515940.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears sign defensive backs Brandon Hill and William Wright",
       "description": "The Bears continued to shuffle their defensive backfield on Saturday.",
@@ -31,5 +25,5 @@
     "saturday"
   ],
   "hash": "beb2e725e017ab40",
-  "queuedAt": "2026-08-09T08:15:17.816Z"
+  "queuedAt": "2026-08-09T13:33:52.770Z"
 }

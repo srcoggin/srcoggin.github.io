@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Luther Burden limped to locker room during Bears practice",
-      "description": "Bears wide receiver Luther Burden had to make an early exit from Saturday's practice at training camp.",
-      "url": "https://sports.yahoo.com/articles/luther-burden-limped-locker-room-203105890.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Luther Burden limped to locker room during Bears practice",
       "description": "Bears wide receiver Luther Burden had to make an early exit from Saturday's practice at training camp.",
@@ -33,5 +27,5 @@
     "camp"
   ],
   "hash": "b3a6b67a1941be0f",
-  "queuedAt": "2026-08-09T08:15:18.184Z"
+  "queuedAt": "2026-08-09T13:33:53.148Z"
 }

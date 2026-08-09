@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos put DL Matt Henningsen on IR, release DB Sam Webb",
-      "description": "Broncos defensive lineman Matt Henningsen tore his Achilles at practice this week and the team officially brought his season to an end on Saturday.",
-      "url": "https://sports.yahoo.com/articles/broncos-put-dl-matt-henningsen-214106252.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos put DL Matt Henningsen on IR, release DB Sam Webb",
       "description": "Broncos defensive lineman Matt Henningsen tore his Achilles at practice this week and the team officially brought his season to an end on Saturday.",
@@ -36,5 +30,5 @@
     "saturday"
   ],
   "hash": "a0a87dc5f58f9545",
-  "queuedAt": "2026-08-09T08:15:15.324Z"
+  "queuedAt": "2026-08-09T13:33:48.234Z"
 }

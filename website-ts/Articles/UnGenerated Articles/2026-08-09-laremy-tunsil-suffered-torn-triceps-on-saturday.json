@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Laremy Tunsil suffered torn triceps on Saturday",
-      "description": "Tunsil is expected to miss significant regular-season time.",
-      "url": "https://sports.yahoo.com/articles/laremy-tunsil-suffered-torn-triceps-003556714.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Laremy Tunsil suffered torn triceps on Saturday",
       "description": "Tunsil is expected to miss significant regular-season time.",
@@ -29,5 +23,5 @@
     "time"
   ],
   "hash": "c5d0fd7791b82398",
-  "queuedAt": "2026-08-09T08:15:17.712Z"
+  "queuedAt": "2026-08-09T13:33:52.716Z"
 }
