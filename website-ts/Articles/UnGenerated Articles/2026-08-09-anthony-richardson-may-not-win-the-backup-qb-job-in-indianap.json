@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Anthony Richardson may not win the backup QB job in Indianapolis",
-      "description": "The fourth overall pick in the 2023 draft is in danger of landing third on the Indianapolis depth chart.",
-      "url": "https://sports.yahoo.com/articles/anthony-richardson-may-not-win-130338858.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Anthony Richardson may not win the backup QB job in Indianapolis",
       "description": "The fourth overall pick in the 2023 draft is in danger of landing third on the Indianapolis depth chart.",
@@ -34,5 +28,5 @@
     "chart"
   ],
   "hash": "6fbb11f58f988df3",
-  "queuedAt": "2026-08-09T13:33:48.568Z"
+  "queuedAt": "2026-08-09T20:01:22.503Z"
 }

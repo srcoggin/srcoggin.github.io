@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ty Simpson will play in the preseason; no decision has been made about Stetson Bennett playing",
-      "description": "As the Rams prepare for the first of their three preseason games, coach Sean McVay has made a decision as to whether one of his top backup quarterbacks will play.",
-      "url": "https://sports.yahoo.com/articles/ty-simpson-play-preseason-no-044239985.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ty Simpson will play in the preseason; no decision has been made about Stetson Bennett playing",
       "description": "As the Rams prepare for the first of their three preseason games, coach Sean McVay has made a decision as to whether one of his top backup quarterbacks will play.",
@@ -42,5 +36,5 @@
     "quarterbacks"
   ],
   "hash": "98d215dcf6e4e93a",
-  "queuedAt": "2026-08-09T13:33:48.747Z"
+  "queuedAt": "2026-08-09T20:01:23.129Z"
 }

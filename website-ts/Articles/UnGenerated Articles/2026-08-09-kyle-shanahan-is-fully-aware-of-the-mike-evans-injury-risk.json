@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Shanahan is fully aware of the Mike Evans injury risk",
-      "description": "Veteran receiver Mike Evans missed nine games last year due to injury.",
-      "url": "https://sports.yahoo.com/articles/kyle-shanahan-fully-aware-mike-124046672.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Shanahan is fully aware of the Mike Evans injury risk",
       "description": "Veteran receiver Mike Evans missed nine games last year due to injury.",
@@ -33,5 +27,5 @@
     "due"
   ],
   "hash": "7fbf4337ba1b4c67",
-  "queuedAt": "2026-08-09T13:33:48.621Z"
+  "queuedAt": "2026-08-09T20:01:22.753Z"
 }
