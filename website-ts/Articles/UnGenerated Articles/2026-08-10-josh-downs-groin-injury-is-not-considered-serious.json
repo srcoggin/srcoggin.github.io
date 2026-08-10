@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Josh Downs' groin injury is not considered serious",
-      "description": "There is some positive news on the injury front for the Colts.",
-      "url": "https://sports.yahoo.com/articles/josh-downs-groin-injury-not-175818003.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Josh Downs' groin injury is not considered serious",
       "description": "There is some positive news on the injury front for the Colts.",
@@ -28,5 +22,5 @@
     "colts"
   ],
   "hash": "64c3c53bdb34d50d",
-  "queuedAt": "2026-08-10T02:37:00.108Z"
+  "queuedAt": "2026-08-10T08:37:31.686Z"
 }

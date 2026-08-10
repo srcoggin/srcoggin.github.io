@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Luther Burden to miss time with groin injury",
-      "description": "Bears receiver Luther Burden exited practice early on Saturday, and now there is more information about his status.",
-      "url": "https://sports.yahoo.com/articles/report-luther-burden-miss-time-180647410.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Luther Burden to miss time with groin injury",
       "description": "Bears receiver Luther Burden exited practice early on Saturday, and now there is more information about his status.",
@@ -36,5 +30,5 @@
     "status"
   ],
   "hash": "6b362ad59e91576b",
-  "queuedAt": "2026-08-10T02:36:58.539Z"
+  "queuedAt": "2026-08-10T08:37:26.797Z"
 }

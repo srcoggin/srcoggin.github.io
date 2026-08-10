@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Teddy Bridgewater steps away from Lions, retirement likely",
-      "description": "Detroit needs a new backup QB, with HC Dan Campbell saying the team may bring someone in as soon as Monday.",
-      "url": "https://sports.yahoo.com/articles/teddy-bridgewater-steps-away-lions-171203640.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Teddy Bridgewater steps away from Lions, retirement likely",
       "description": "Detroit needs a new backup QB, with HC Dan Campbell saying the team may bring someone in as soon as Monday.",
@@ -36,5 +30,5 @@
     "monday"
   ],
   "hash": "2593e1faba00907f",
-  "queuedAt": "2026-08-10T02:37:00.188Z"
+  "queuedAt": "2026-08-10T08:37:31.833Z"
 }

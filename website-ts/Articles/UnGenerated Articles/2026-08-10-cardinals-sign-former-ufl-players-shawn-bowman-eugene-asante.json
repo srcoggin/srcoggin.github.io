@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals sign former UFL players Shawn Bowman, Eugene Asante",
-      "description": "The Cardinals signed tight end Shawn Bowman and linebacker Eugene Asante on Sunday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/cardinals-sign-former-ufl-players-182922706.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals sign former UFL players Shawn Bowman, Eugene Asante",
       "description": "The Cardinals signed tight end Shawn Bowman and linebacker Eugene Asante on Sunday, the team announced.",
@@ -33,5 +27,5 @@
     "announced"
   ],
   "hash": "dda8690d2b514390",
-  "queuedAt": "2026-08-10T02:36:58.451Z"
+  "queuedAt": "2026-08-10T08:37:26.718Z"
 }
