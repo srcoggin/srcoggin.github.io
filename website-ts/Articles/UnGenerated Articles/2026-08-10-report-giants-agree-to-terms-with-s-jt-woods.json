@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Giants agree to terms with S JT Woods",
-      "description": "The Giants are signing safety JT Woods, Aaron Wilson of KPRC reports.",
-      "url": "https://sports.yahoo.com/articles/report-giants-agree-terms-jt-000650724.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Giants agree to terms with S JT Woods",
       "description": "The Giants are signing safety JT Woods, Aaron Wilson of KPRC reports.",
@@ -29,5 +23,5 @@
     "reports"
   ],
   "hash": "020b8d4cb12f16b3",
-  "queuedAt": "2026-08-10T08:37:25.376Z"
+  "queuedAt": "2026-08-10T13:56:08.393Z"
 }

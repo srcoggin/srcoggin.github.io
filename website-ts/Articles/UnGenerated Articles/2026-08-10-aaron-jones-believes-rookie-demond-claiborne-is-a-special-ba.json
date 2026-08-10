@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Jones believes rookie Demond Claiborne is a \"special back\"",
-      "description": "The running game has largely been an afterthought during Kevin O'Connell's first four years as the Vikings' head coach.",
-      "url": "https://sports.yahoo.com/articles/aaron-jones-believes-rookie-demond-225750645.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Jones believes rookie Demond Claiborne is a \"special back\"",
       "description": "The running game has largely been an afterthought during Kevin O'Connell's first four years as the Vikings' head coach.",
@@ -37,5 +31,5 @@
     "coach"
   ],
   "hash": "87d81bd4d3762e27",
-  "queuedAt": "2026-08-10T08:37:27.156Z"
+  "queuedAt": "2026-08-10T13:56:13.836Z"
 }

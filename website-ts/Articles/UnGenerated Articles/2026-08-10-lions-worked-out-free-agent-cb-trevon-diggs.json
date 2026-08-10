@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions worked out free agent CB Trevon Diggs",
-      "description": "The Lions worked out free agent cornerback Trevon Diggs, according to the NFL's personnel notice.",
-      "url": "https://sports.yahoo.com/articles/lions-worked-free-agent-cb-003223802.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions worked out free agent CB Trevon Diggs",
       "description": "The Lions worked out free agent cornerback Trevon Diggs, according to the NFL's personnel notice.",
@@ -30,5 +24,5 @@
     "notice"
   ],
   "hash": "43e58a825be393be",
-  "queuedAt": "2026-08-10T08:37:27.080Z"
+  "queuedAt": "2026-08-10T13:56:13.771Z"
 }

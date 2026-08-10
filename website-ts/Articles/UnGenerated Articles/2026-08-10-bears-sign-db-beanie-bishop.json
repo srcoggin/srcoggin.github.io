@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears sign DB Beanie Bishop",
-      "description": "The Bears continue to be busy adding defensive backs to their roster.",
-      "url": "https://sports.yahoo.com/articles/bears-sign-db-beanie-bishop-204409684.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears sign DB Beanie Bishop",
       "description": "The Bears continue to be busy adding defensive backs to their roster.",
@@ -29,5 +23,5 @@
     "roster"
   ],
   "hash": "f79244d443f2f12e",
-  "queuedAt": "2026-08-10T08:37:27.338Z"
+  "queuedAt": "2026-08-10T13:56:13.978Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers starters will play Saturday night against the Bills",
-      "description": "The Panthers opened their preseason slate in the Pro Football Hall of Fame.",
-      "url": "https://sports.yahoo.com/articles/panthers-starters-play-saturday-night-185510964.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers starters will play Saturday night against the Bills",
       "description": "The Panthers opened their preseason slate in the Pro Football Hall of Fame.",
@@ -32,5 +26,5 @@
     "fame"
   ],
   "hash": "7fea72124d715dca",
-  "queuedAt": "2026-08-10T08:37:27.602Z"
+  "queuedAt": "2026-08-10T13:56:14.188Z"
 }

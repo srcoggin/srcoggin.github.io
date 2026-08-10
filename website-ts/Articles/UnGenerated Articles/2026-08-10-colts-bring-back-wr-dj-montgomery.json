@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts bring back WR D.J. Montgomery",
-      "description": "The Colts signed free agent wide receiver D.J.",
-      "url": "https://sports.yahoo.com/articles/colts-bring-back-wr-d-184627129.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts bring back WR D.J. Montgomery",
       "description": "The Colts signed free agent wide receiver D.J.",
@@ -27,5 +21,5 @@
     "receiver"
   ],
   "hash": "3d09e7265202ebeb",
-  "queuedAt": "2026-08-10T08:37:27.675Z"
+  "queuedAt": "2026-08-10T13:56:14.265Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers sign WR Kisean Johnson",
-      "description": "The Packers announced three roster on Sunday.",
-      "url": "https://sports.yahoo.com/articles/packers-sign-wr-kisean-johnson-233100614.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers sign WR Kisean Johnson",
       "description": "The Packers announced three roster on Sunday.",
@@ -26,5 +20,5 @@
     "sunday"
   ],
   "hash": "424f399612119308",
-  "queuedAt": "2026-08-10T08:37:25.479Z"
+  "queuedAt": "2026-08-10T13:56:08.448Z"
 }
