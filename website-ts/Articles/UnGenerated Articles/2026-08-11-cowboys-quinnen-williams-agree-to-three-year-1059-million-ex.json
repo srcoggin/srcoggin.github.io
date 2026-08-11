@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys, Quinnen Williams agree to three-year, $105.9 million extension",
-      "description": "Williams, who had two years left on his deal, is guaranteed $101 million.",
-      "url": "https://sports.yahoo.com/articles/cowboys-quinnen-williams-agree-three-210106262.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys, Quinnen Williams agree to three-year, $105.9 million extension",
       "description": "Williams, who had two years left on his deal, is guaranteed $101 million.",
@@ -34,5 +28,5 @@
     "101"
   ],
   "hash": "f56b4bead3d0cb09",
-  "queuedAt": "2026-08-11T03:13:08.814Z"
+  "queuedAt": "2026-08-11T08:14:50.688Z"
 }
