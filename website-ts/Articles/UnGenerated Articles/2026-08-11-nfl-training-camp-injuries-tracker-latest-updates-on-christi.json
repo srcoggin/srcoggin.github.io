@@ -1,10 +1,10 @@
 {
-  "title": "NFL training camp injuries tracker: Latest updates on Christian McCaffrey, Luther Burden III and more",
+  "title": "NFL training camp injuries tracker: Latest updates on Christian McCaffrey, Alec Pierce and more",
   "category": "injuries",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "NFL training camp injuries tracker: Latest updates on Christian McCaffrey, Luther Burden III and more",
+      "title": "NFL training camp injuries tracker: Latest updates on Christian McCaffrey, Alec Pierce and more",
       "description": "Keep track of every major injury, setback, and recovery timeline across the league as teams prepare for the upcoming season",
       "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/"
     }
@@ -18,9 +18,8 @@
     "updates",
     "christian",
     "mccaffrey",
-    "luther",
-    "burden",
-    "iii",
+    "alec",
+    "pierce",
     "keep",
     "track",
     "every",
@@ -35,6 +34,6 @@
     "prepare",
     "upcoming"
   ],
-  "hash": "ee575b84f05ede64",
-  "queuedAt": "2026-08-11T14:29:46.870Z"
+  "hash": "197c83997b3e4167",
+  "queuedAt": "2026-08-11T20:30:14.981Z"
 }
