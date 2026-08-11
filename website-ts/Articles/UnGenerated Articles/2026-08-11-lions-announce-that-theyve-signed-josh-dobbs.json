@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions announce that they've signed Josh Dobbs",
-      "description": "Quarterback Josh Dobbs is officially a member of the Lions.",
-      "url": "https://sports.yahoo.com/articles/lions-announce-theyve-signed-josh-214422997.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions announce that they've signed Josh Dobbs",
       "description": "Quarterback Josh Dobbs is officially a member of the Lions.",
@@ -28,5 +22,5 @@
     "member"
   ],
   "hash": "eea938cc49b5de85",
-  "queuedAt": "2026-08-11T08:14:42.555Z"
+  "queuedAt": "2026-08-11T14:29:47.776Z"
 }
