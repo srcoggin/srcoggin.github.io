@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "CEO Greg Penner say Broncos have yet to consider whether new stadium will have PSLs",
-      "description": "The Denver Broncos hope to build a new stadium by 2031.",
-      "url": "https://sports.yahoo.com/articles/ceo-greg-penner-broncos-yet-235351738.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "CEO Greg Penner say Broncos have yet to consider whether new stadium will have PSLs",
       "description": "The Denver Broncos hope to build a new stadium by 2031.",
@@ -33,5 +27,5 @@
     "2031"
   ],
   "hash": "fe07b942550142b5",
-  "queuedAt": "2026-08-12T08:06:29.571Z"
+  "queuedAt": "2026-08-12T14:32:36.253Z"
 }

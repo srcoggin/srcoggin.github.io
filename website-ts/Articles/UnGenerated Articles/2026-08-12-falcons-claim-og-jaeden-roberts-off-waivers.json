@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons claim OG Jaeden Roberts off waivers",
-      "description": "The Falcons claimed offensive guard Jaeden Roberts off waivers, the team announced Tuesday.",
-      "url": "https://sports.yahoo.com/articles/falcons-claim-og-jaeden-roberts-214847635.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons claim OG Jaeden Roberts off waivers",
       "description": "The Falcons claimed offensive guard Jaeden Roberts off waivers, the team announced Tuesday.",
@@ -29,5 +23,5 @@
     "tuesday"
   ],
   "hash": "32d548e4e7e5ade0",
-  "queuedAt": "2026-08-12T08:06:28.329Z"
+  "queuedAt": "2026-08-12T14:32:24.415Z"
 }
