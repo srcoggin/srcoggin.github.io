@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets CB Qwan'tez Stiggers transported to the hospital after passing out at practice",
-      "description": "Jets cornerback Qwan'tez Stiggers was transported in an ambulance to a local hospital after losing consciousness during a joint practice with the Buccaneers.",
-      "url": "https://sports.yahoo.com/articles/jets-cb-qwantez-stiggers-transported-205849773.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets CB Qwan'tez Stiggers transported to the hospital after passing out at practice",
       "description": "Jets cornerback Qwan'tez Stiggers was transported in an ambulance to a local hospital after losing consciousness during a joint practice with the Buccaneers.",
@@ -33,5 +27,5 @@
     "buccaneers"
   ],
   "hash": "f35fc86ca7583e8d",
-  "queuedAt": "2026-08-12T02:45:56.112Z"
+  "queuedAt": "2026-08-12T08:06:34.473Z"
 }

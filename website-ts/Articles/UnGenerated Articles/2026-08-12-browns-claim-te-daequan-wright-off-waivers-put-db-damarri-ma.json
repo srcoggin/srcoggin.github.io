@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns claim TE Dae'Quan Wright off waivers, put DB Damarri Mathis on IR",
-      "description": "The Browns made a pair of roster moves on Tuesday afternoon.",
-      "url": "https://sports.yahoo.com/articles/browns-claim-te-daequan-wright-210259538.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns claim TE Dae'Quan Wright off waivers, put DB Damarri Mathis on IR",
       "description": "The Browns made a pair of roster moves on Tuesday afternoon.",
@@ -33,5 +27,5 @@
     "afternoon"
   ],
   "hash": "28ac20f964371057",
-  "queuedAt": "2026-08-12T02:45:56.047Z"
+  "queuedAt": "2026-08-12T08:06:34.371Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Josh Dobbs on leaving New England: “That was very frustrating, the way they handled that\"",
-      "description": "New Lions backup quarterback Joshua Dobbs says he's happy to be in Detroit — but not happy with his former team, the Patriots.",
-      "url": "https://sports.yahoo.com/articles/josh-dobbs-leaving-england-very-211453431.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Josh Dobbs on leaving New England: “That was very frustrating, the way they handled that\"",
       "description": "New Lions backup quarterback Joshua Dobbs says he's happy to be in Detroit — but not happy with his former team, the Patriots.",
@@ -39,5 +33,5 @@
     "patriots"
   ],
   "hash": "bce22ae9b0b214d1",
-  "queuedAt": "2026-08-12T02:45:55.950Z"
+  "queuedAt": "2026-08-12T08:06:34.320Z"
 }
