@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets CB Qwan'tez Stiggers in concussion protocol",
-      "description": "Jets cornerback Qwan'tez Stiggers, who lost consciousness during a joint practice on Tuesday, is in the NFL's concussion protocol.",
-      "url": "https://sports.yahoo.com/articles/jets-cb-qwantez-stiggers-concussion-005442381.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets CB Qwan'tez Stiggers in concussion protocol",
       "description": "Jets cornerback Qwan'tez Stiggers, who lost consciousness during a joint practice on Tuesday, is in the NFL's concussion protocol.",
@@ -31,5 +25,5 @@
     "nfls"
   ],
   "hash": "21ca5762f19105b8",
-  "queuedAt": "2026-08-13T08:16:37.613Z"
+  "queuedAt": "2026-08-13T14:51:22.920Z"
 }

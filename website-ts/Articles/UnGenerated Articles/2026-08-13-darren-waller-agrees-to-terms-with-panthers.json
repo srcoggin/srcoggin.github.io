@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Darren Waller agrees to terms with Panthers",
-      "description": "A year after he ended his retirement to play for the Dolphins, veteran tight end Darren Waller is heading to Carolina.",
-      "url": "https://sports.yahoo.com/articles/darren-waller-agrees-terms-panthers-005245649.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Darren Waller agrees to terms with Panthers",
       "description": "A year after he ended his retirement to play for the Dolphins, veteran tight end Darren Waller is heading to Carolina.",
@@ -33,5 +27,5 @@
     "carolina"
   ],
   "hash": "9b8796ccf98a002f",
-  "queuedAt": "2026-08-13T08:16:37.669Z"
+  "queuedAt": "2026-08-13T14:51:23.064Z"
 }

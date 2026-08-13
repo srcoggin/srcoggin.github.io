@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ben Johnson wants to have the highest-scoring offense ever",
-      "description": "Anyone can aspire to win a championship, something that happens every year.",
-      "url": "https://sports.yahoo.com/articles/ben-johnson-wants-highest-scoring-014228633.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ben Johnson wants to have the highest-scoring offense ever",
       "description": "Anyone can aspire to win a championship, something that happens every year.",
@@ -32,5 +26,5 @@
     "every"
   ],
   "hash": "d9ae979bd11d172c",
-  "queuedAt": "2026-08-13T08:16:37.499Z"
+  "queuedAt": "2026-08-13T14:51:22.502Z"
 }

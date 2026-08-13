@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL says new \"Move the Sticks\" podcast was not AI-generated or hosted",
-      "description": "The NFL found itself in the middle of a bizarre AI controversy on Wednesday, given the suspicions that new content posted on the Move The Sticks podcast feed seemed to be machine-generated.",
-      "url": "https://sports.yahoo.com/articles/nfl-says-move-sticks-podcast-010826517.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL says new \"Move the Sticks\" podcast was not AI-generated or hosted",
       "description": "The NFL found itself in the middle of a bizarre AI controversy on Wednesday, given the suspicions that new content posted on the Move The Sticks podcast feed seemed to be machine-generated.",
@@ -39,5 +33,5 @@
     "machinegenerated"
   ],
   "hash": "689ffefb5122fb36",
-  "queuedAt": "2026-08-13T08:16:37.553Z"
+  "queuedAt": "2026-08-13T14:51:22.641Z"
 }
