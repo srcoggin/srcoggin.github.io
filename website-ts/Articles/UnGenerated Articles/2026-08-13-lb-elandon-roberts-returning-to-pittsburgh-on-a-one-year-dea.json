@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "LB Elandon Roberts returning to Pittsburgh on a one-year deal",
-      "description": "Free agent linebacker Elandon Roberts is returning to Pittsburgh.",
-      "url": "https://sports.yahoo.com/articles/lb-elandon-roberts-returning-pittsburgh-004334139.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "LB Elandon Roberts returning to Pittsburgh on a one-year deal",
       "description": "Free agent linebacker Elandon Roberts is returning to Pittsburgh.",
@@ -27,5 +21,5 @@
     "linebacker"
   ],
   "hash": "15efc2d3a77b63a8",
-  "queuedAt": "2026-08-13T03:28:15.644Z"
+  "queuedAt": "2026-08-13T08:16:40.543Z"
 }

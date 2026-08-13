@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Deshaun Watson will start the Browns' preseason opener",
-      "description": "Shedeur Sanders is also going to play and is in line to start the second preseason game.",
-      "url": "https://sports.yahoo.com/articles/deshaun-watson-start-browns-preseason-220823106.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Deshaun Watson will start the Browns' preseason opener",
       "description": "Shedeur Sanders is also going to play and is in line to start the second preseason game.",
@@ -31,5 +25,5 @@
     "second"
   ],
   "hash": "f09a53c23b40eed5",
-  "queuedAt": "2026-08-13T03:28:15.890Z"
+  "queuedAt": "2026-08-13T08:16:40.755Z"
 }

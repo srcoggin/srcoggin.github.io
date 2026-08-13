@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jordan Love has \"nothing but great things to say\" about Aaron Rodgers",
-      "description": "Jordan Love will play in the Packers' first preseason game on Thursday night.",
-      "url": "https://sports.yahoo.com/articles/jordan-love-nothing-great-things-231233913.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jordan Love has \"nothing but great things to say\" about Aaron Rodgers",
       "description": "Jordan Love will play in the Packers' first preseason game on Thursday night.",
@@ -33,5 +27,5 @@
     "night"
   ],
   "hash": "96fe9eb6580cc583",
-  "queuedAt": "2026-08-13T03:28:15.778Z"
+  "queuedAt": "2026-08-13T08:16:40.598Z"
 }

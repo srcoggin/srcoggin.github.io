@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "John Harbaugh: Terrion Arnold is a player that can help us",
-      "description": "Arnold visited the Giants on Wednesday.",
-      "url": "https://sports.yahoo.com/articles/john-harbaugh-terrion-arnold-player-213729641.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "John Harbaugh: Terrion Arnold is a player that can help us",
       "description": "Arnold visited the Giants on Wednesday.",
@@ -27,5 +21,5 @@
     "wednesday"
   ],
   "hash": "cb6ea9614810c669",
-  "queuedAt": "2026-08-13T03:28:16.152Z"
+  "queuedAt": "2026-08-13T08:16:40.912Z"
 }
