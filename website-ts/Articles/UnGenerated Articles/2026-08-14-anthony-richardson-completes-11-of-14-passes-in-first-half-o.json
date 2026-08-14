@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Anthony Richardson completes 11 of 14 passes in first half of preseason opener",
-      "description": "As Colts quarterback Anthony Richardson prepares for his fourth season, he's fighting to avoid falling to third on the Indy depth chart behind Daniel Jones and Riley Leonard.",
-      "url": "https://sports.yahoo.com/articles/anthony-richardson-completes-11-14-010729467.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Anthony Richardson completes 11 of 14 passes in first half of preseason opener",
       "description": "As Colts quarterback Anthony Richardson prepares for his fourth season, he's fighting to avoid falling to third on the Indy depth chart behind Daniel Jones and Riley Leonard.",
@@ -44,5 +38,5 @@
     "leonard"
   ],
   "hash": "a0a5c3cbca0581f2",
-  "queuedAt": "2026-08-14T02:49:22.917Z"
+  "queuedAt": "2026-08-14T08:18:38.376Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jordan Love plays one series, leads Packers to a field goal",
-      "description": "The Packers made a different choice than the Steelers when it came to playing their starting quarterback on Thursday night, but they didn't leave Jordan Love in the game for long.",
-      "url": "https://sports.yahoo.com/articles/jordan-love-plays-one-series-235722435.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jordan Love plays one series, leads Packers to a field goal",
       "description": "The Packers made a different choice than the Steelers when it came to playing their starting quarterback on Thursday night, but they didn't leave Jordan Love in the game for long.",
@@ -42,5 +36,5 @@
     "long"
   ],
   "hash": "f849f2693a47ebea",
-  "queuedAt": "2026-08-14T02:49:23.100Z"
+  "queuedAt": "2026-08-14T08:18:38.610Z"
 }

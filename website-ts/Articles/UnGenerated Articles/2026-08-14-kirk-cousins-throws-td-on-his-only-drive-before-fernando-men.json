@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kirk Cousins throws TD on his only drive before Fernando Mendoza replaces him",
-      "description": "Kirk Cousins will start the season opener for the Raiders as No. 1 overall pick Fernando Mendoza begins his career on the bench.",
-      "url": "https://sports.yahoo.com/articles/kirk-cousins-throws-td-only-004247996.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kirk Cousins throws TD on his only drive before Fernando Mendoza replaces him",
       "description": "Kirk Cousins will start the season opener for the Raiders as No. 1 overall pick Fernando Mendoza begins his career on the bench.",
@@ -35,5 +29,5 @@
     "bench"
   ],
   "hash": "675344af4789a3ae",
-  "queuedAt": "2026-08-14T02:49:22.983Z"
+  "queuedAt": "2026-08-14T08:18:38.454Z"
 }

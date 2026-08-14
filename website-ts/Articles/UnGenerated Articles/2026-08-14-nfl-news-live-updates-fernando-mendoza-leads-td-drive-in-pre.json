@@ -1,10 +1,10 @@
 {
-  "title": "NFL news, live updates: Fernando Mendoza leads TD drive in preseason opener; Joe Burrow, Ja'Marr Chase see action; Terrion Arnold plans to sign with Seahawks",
+  "title": "NFL news, live updates: Fernando Mendoza leads TD drive in preseason opener; Drew Allar shines in Steelers debut; Terrion Arnold to sign with Seahawks",
   "category": "general",
   "sources": [
     {
       "name": "Yahoo Sports NFL",
-      "title": "NFL news, live updates: Fernando Mendoza leads TD drive in preseason opener; Joe Burrow, Ja'Marr Chase see action; Terrion Arnold plans to sign with Seahawks",
+      "title": "NFL news, live updates: Fernando Mendoza leads TD drive in preseason opener; Drew Allar shines in Steelers debut; Terrion Arnold to sign with Seahawks",
       "description": "Follow along with the latest NFL news and updates as the preseason plays out.",
       "url": "https://sports.yahoo.com/nfl/live/nfl-news-preseason-schedule-whos-playing-live-updates-today-152512676.html"
     }
@@ -19,15 +19,13 @@
     "drive",
     "preseason",
     "opener",
-    "joe",
-    "burrow",
-    "jamarr",
-    "chase",
-    "see",
-    "action",
+    "drew",
+    "allar",
+    "shines",
+    "steelers",
+    "debut",
     "terrion",
     "arnold",
-    "plans",
     "sign",
     "seahawks",
     "follow",
@@ -36,6 +34,6 @@
     "plays",
     "out"
   ],
-  "hash": "b5e437b6bcc91814",
-  "queuedAt": "2026-08-14T02:49:21.953Z"
+  "hash": "cde19c4e633883d0",
+  "queuedAt": "2026-08-14T08:18:30.581Z"
 }
