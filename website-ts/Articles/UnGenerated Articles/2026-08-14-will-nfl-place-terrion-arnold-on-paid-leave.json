@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Will NFL place Terrion Arnold on paid leave?",
-      "description": "Now that Arnold is on a team again, the league put him on the Commissioner Exempt list.",
-      "url": "https://sports.yahoo.com/articles/nfl-place-terrion-arnold-paid-020233931.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Will NFL place Terrion Arnold on paid leave?",
       "description": "Now that Arnold is on a team again, the league put him on the Commissioner Exempt list.",
@@ -31,5 +25,5 @@
     "list"
   ],
   "hash": "30149d3b659d6614",
-  "queuedAt": "2026-08-14T08:18:32.108Z"
+  "queuedAt": "2026-08-14T14:09:19.065Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers QB Kurtis Rourke taken to hospital for tests after struggling to breathe",
-      "description": "Kyle Shanahan said Rourke appeared to be OK after suffering a rib injury, but the medical staff wanted to rule out anything serious.",
-      "url": "https://sports.yahoo.com/articles/49ers-qb-kurtis-rourke-taken-075247880.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers QB Kurtis Rourke taken to hospital for tests after struggling to breathe",
       "description": "Kyle Shanahan said Rourke appeared to be OK after suffering a rib injury, but the medical staff wanted to rule out anything serious.",
@@ -40,5 +34,5 @@
     "serious"
   ],
   "hash": "e7f3e7e0ab05dba2",
-  "queuedAt": "2026-08-14T08:18:31.641Z"
+  "queuedAt": "2026-08-14T14:09:20.043Z"
 }

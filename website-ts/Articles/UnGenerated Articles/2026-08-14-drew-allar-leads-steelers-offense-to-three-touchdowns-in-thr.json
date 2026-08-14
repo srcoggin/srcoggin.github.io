@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Drew Allar leads Steelers' offense to three touchdowns in three drives",
-      "description": "Third-rounder looks the part in his preseason debut.",
-      "url": "https://sports.yahoo.com/articles/drew-allar-leads-steelers-offense-030426335.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Drew Allar leads Steelers' offense to three touchdowns in three drives",
       "description": "Third-rounder looks the part in his preseason debut.",
@@ -32,5 +26,5 @@
     "debut"
   ],
   "hash": "cf4d67b945068ca2",
-  "queuedAt": "2026-08-14T08:18:31.812Z"
+  "queuedAt": "2026-08-14T14:09:20.253Z"
 }

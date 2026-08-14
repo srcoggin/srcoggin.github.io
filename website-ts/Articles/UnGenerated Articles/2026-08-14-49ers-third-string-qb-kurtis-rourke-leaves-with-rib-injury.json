@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers third-string QB Kurtis Rourke leaves with rib injury",
-      "description": "The 49ers have four quarterbacks on their roster, but only two dressed Thursday night.",
-      "url": "https://sports.yahoo.com/articles/49ers-third-string-qb-kurtis-021923880.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers third-string QB Kurtis Rourke leaves with rib injury",
       "description": "The 49ers have four quarterbacks on their roster, but only two dressed Thursday night.",
@@ -33,5 +27,5 @@
     "night"
   ],
   "hash": "24762312037b6220",
-  "queuedAt": "2026-08-14T08:18:32.031Z"
+  "queuedAt": "2026-08-14T14:09:20.779Z"
 }

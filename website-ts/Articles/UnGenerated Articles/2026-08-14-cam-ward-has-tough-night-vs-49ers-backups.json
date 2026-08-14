@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cam Ward has tough night vs. 49ers backups",
-      "description": "Cam Ward completed 59.8 percent of his passes for 3,169 yards with 15 touchdowns and seven interceptions as a rookie.",
-      "url": "https://sports.yahoo.com/articles/cam-ward-tough-night-vs-023704948.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cam Ward has tough night vs. 49ers backups",
       "description": "Cam Ward completed 59.8 percent of his passes for 3,169 yards with 15 touchdowns and seven interceptions as a rookie.",
@@ -35,5 +29,5 @@
     "rookie"
   ],
   "hash": "889ffa9bc4197d3f",
-  "queuedAt": "2026-08-14T08:18:31.885Z"
+  "queuedAt": "2026-08-14T14:09:20.438Z"
 }

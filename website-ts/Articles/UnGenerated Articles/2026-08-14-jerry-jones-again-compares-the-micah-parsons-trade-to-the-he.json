@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jerry Jones again compares the Micah Parsons trade to the Herschel Walker trade",
-      "description": "After the Cowboys traded Micah Parsons to the Packers last year, Dallas owner and G.M.",
-      "url": "https://sports.yahoo.com/articles/jerry-jones-again-compares-micah-043520173.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jerry Jones again compares the Micah Parsons trade to the Herschel Walker trade",
       "description": "After the Cowboys traded Micah Parsons to the Packers last year, Dallas owner and G.M.",
@@ -32,5 +26,5 @@
     "owner"
   ],
   "hash": "3d75c82c84ca159a",
-  "queuedAt": "2026-08-14T08:18:31.719Z"
+  "queuedAt": "2026-08-14T14:09:20.157Z"
 }

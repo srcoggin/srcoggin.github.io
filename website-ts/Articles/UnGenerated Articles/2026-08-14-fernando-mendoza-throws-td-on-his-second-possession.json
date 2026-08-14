@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Fernando Mendoza throws TD on his second possession",
-      "description": "Fernando Mendoza threw his first completion to Jack Bech, and now has thrown his first touchdown pass to the second-year wide receiver.",
-      "url": "https://sports.yahoo.com/articles/fernando-mendoza-throws-td-second-012209105.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Fernando Mendoza throws TD on his second possession",
       "description": "Fernando Mendoza threw his first completion to Jack Bech, and now has thrown his first touchdown pass to the second-year wide receiver.",
@@ -36,5 +30,5 @@
     "receiver"
   ],
   "hash": "f6ea78b4f9d37c56",
-  "queuedAt": "2026-08-14T08:18:32.194Z"
+  "queuedAt": "2026-08-14T14:09:20.987Z"
 }
