@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Geno Smith out on Friday due to foot soreness, Cade Klubnik will start for Jets",
-      "description": "Jets head coach Aaron Glenn said this week that the team's starters would play against the Buccaneers on Friday night, but there's one significant change to that plan.",
-      "url": "https://sports.yahoo.com/articles/geno-smith-friday-due-foot-215436776.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Geno Smith out on Friday due to foot soreness, Cade Klubnik will start for Jets",
       "description": "Jets head coach Aaron Glenn said this week that the team's starters would play against the Buccaneers on Friday night, but there's one significant change to that plan.",
@@ -47,5 +41,5 @@
     "plan"
   ],
   "hash": "0f63168fa6e3ce88",
-  "queuedAt": "2026-08-15T01:56:39.742Z"
+  "queuedAt": "2026-08-15T07:20:17.300Z"
 }

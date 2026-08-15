@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Deebo Samuel is officially back to wearing No. 19 in San Francisco",
-      "description": "New 49ers wide receiver Deebo Samuel's new number will be the same as old 49ers wide receiver Deebo Samuel's old number.",
-      "url": "https://sports.yahoo.com/articles/deebo-samuel-officially-back-wearing-213650926.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Deebo Samuel is officially back to wearing No. 19 in San Francisco",
       "description": "New 49ers wide receiver Deebo Samuel's new number will be the same as old 49ers wide receiver Deebo Samuel's old number.",
@@ -32,5 +26,5 @@
     "old"
   ],
   "hash": "a26ba22cad2371c1",
-  "queuedAt": "2026-08-15T01:56:38.295Z"
+  "queuedAt": "2026-08-15T07:20:12.658Z"
 }
