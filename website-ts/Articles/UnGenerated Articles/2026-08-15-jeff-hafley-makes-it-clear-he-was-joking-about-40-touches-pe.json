@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jeff Hafley makes it clear he was joking about 40 touches per game for De'Von Achane",
-      "description": "Earlier this week, Dolphins coach Jeff Hafley talked about the workload he has planned for running back De'Von Achane.",
-      "url": "https://sports.yahoo.com/articles/jeff-hafley-makes-clear-joking-124113078.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jeff Hafley makes it clear he was joking about 40 touches per game for De'Von Achane",
       "description": "Earlier this week, Dolphins coach Jeff Hafley talked about the workload he has planned for running back De'Von Achane.",
@@ -37,5 +31,5 @@
     "back"
   ],
   "hash": "d8673dc698ea275f",
-  "queuedAt": "2026-08-15T13:46:26.916Z"
+  "queuedAt": "2026-08-15T19:16:32.689Z"
 }
