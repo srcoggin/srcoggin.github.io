@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers, DT Keeanu Benton agree to four-year extension",
-      "description": "The Steelers and defensive tackle Keeanu Benton have agreed to a long-term extension.",
-      "url": "https://sports.yahoo.com/articles/steelers-dt-keeanu-benton-agree-021510061.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers, DT Keeanu Benton agree to four-year extension",
       "description": "The Steelers and defensive tackle Keeanu Benton have agreed to a long-term extension.",
@@ -28,5 +22,5 @@
     "longterm"
   ],
   "hash": "cfbf049fc6f53548",
-  "queuedAt": "2026-08-15T07:20:12.974Z"
+  "queuedAt": "2026-08-15T13:46:34.737Z"
 }

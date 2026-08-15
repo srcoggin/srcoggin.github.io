@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals rookie OL Chase Bisontis tears MCL",
-      "description": "Cardinals second-round offensive guard Chase Bisontis will miss most, or possibly all, of his rookie season.",
-      "url": "https://sports.yahoo.com/articles/cardinals-rookie-ol-chase-bisontis-002320925.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals rookie OL Chase Bisontis tears MCL",
       "description": "Cardinals second-round offensive guard Chase Bisontis will miss most, or possibly all, of his rookie season.",
@@ -30,5 +24,5 @@
     "his"
   ],
   "hash": "0103cd877befe843",
-  "queuedAt": "2026-08-15T07:20:13.026Z"
+  "queuedAt": "2026-08-15T13:46:34.835Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Malik Willis, De'Von Achane play one series, score TD",
-      "description": "Malik Willis made his Miami debut in the team's first preseason game.",
-      "url": "https://sports.yahoo.com/articles/malik-willis-devon-achane-play-234327135.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Malik Willis, De'Von Achane play one series, score TD",
       "description": "Malik Willis made his Miami debut in the team's first preseason game.",
@@ -33,5 +27,5 @@
     "preseason"
   ],
   "hash": "8454e43e9edcfdd5",
-  "queuedAt": "2026-08-15T07:20:13.205Z"
+  "queuedAt": "2026-08-15T13:46:35.205Z"
 }

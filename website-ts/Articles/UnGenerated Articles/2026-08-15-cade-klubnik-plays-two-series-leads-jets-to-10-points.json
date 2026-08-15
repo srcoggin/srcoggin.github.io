@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cade Klubnik plays two series, leads Jets to 10 points",
-      "description": "The Jets made a late change at quarterback on Friday and rookie Cade Klubnik got the start against the Buccaneers as a result.",
-      "url": "https://sports.yahoo.com/articles/cade-klubnik-plays-two-series-000927914.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cade Klubnik plays two series, leads Jets to 10 points",
       "description": "The Jets made a late change at quarterback on Friday and rookie Cade Klubnik got the start against the Buccaneers as a result.",
@@ -37,5 +31,5 @@
     "result"
   ],
   "hash": "76236d93dde54fd4",
-  "queuedAt": "2026-08-15T07:20:13.144Z"
+  "queuedAt": "2026-08-15T13:46:35.014Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Two drives, two punts for Tua Tagovailoa in Falcons debut",
-      "description": "Quarterback Tua Tagovailoa made his preseason debut with the Falcons on Friday night against the Broncos.",
-      "url": "https://sports.yahoo.com/articles/two-drives-two-punts-tua-000936796.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Two drives, two punts for Tua Tagovailoa in Falcons debut",
       "description": "Quarterback Tua Tagovailoa made his preseason debut with the Falcons on Friday night against the Broncos.",
@@ -33,5 +27,5 @@
     "broncos"
   ],
   "hash": "307740db0bb562cd",
-  "queuedAt": "2026-08-15T07:20:13.089Z"
+  "queuedAt": "2026-08-15T13:46:34.923Z"
 }
