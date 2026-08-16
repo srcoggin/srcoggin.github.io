@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans TE Jaren Kanak, DE Jaylen Harrell out for season with injuries",
-      "description": "The Titans lost a pair of players to season-ending injuries in their preseason opener on Thursday.",
-      "url": "https://sports.yahoo.com/articles/titans-te-jaren-kanak-jaylen-223643282.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans TE Jaren Kanak, DE Jaylen Harrell out for season with injuries",
       "description": "The Titans lost a pair of players to season-ending injuries in their preseason opener on Thursday.",
@@ -33,5 +27,5 @@
     "thursday"
   ],
   "hash": "d7d5844366868be1",
-  "queuedAt": "2026-08-16T07:53:27.633Z"
+  "queuedAt": "2026-08-16T13:20:37.031Z"
 }
