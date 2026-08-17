@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears activate LT Ozzy Trapilo from active/PUP",
-      "description": "The Bears activated offensive tackle Ozzy Trapilo from active/physically unable to perform, the team announced.",
-      "url": "https://sports.yahoo.com/articles/bears-activate-lt-ozzy-trapilo-203145152.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears activate LT Ozzy Trapilo from active/PUP",
       "description": "The Bears activated offensive tackle Ozzy Trapilo from active/physically unable to perform, the team announced.",
@@ -30,5 +24,5 @@
     "announced"
   ],
   "hash": "0a00c5cf1a4e3ba9",
-  "queuedAt": "2026-08-17T01:59:48.608Z"
+  "queuedAt": "2026-08-17T08:21:33.845Z"
 }

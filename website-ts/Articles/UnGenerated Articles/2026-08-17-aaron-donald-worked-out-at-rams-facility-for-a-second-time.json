@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Donald worked out at Rams facility for a second time",
-      "description": "Aaron Donald initially worked out at the Rams team facility on Aug. 5 to evaluate how he felt.",
-      "url": "https://sports.yahoo.com/articles/aaron-donald-worked-rams-facility-211829182.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Donald worked out at Rams facility for a second time",
       "description": "Aaron Donald initially worked out at the Rams team facility on Aug. 5 to evaluate how he felt.",
@@ -30,5 +24,5 @@
     "felt"
   ],
   "hash": "ecb7b5a05e17269c",
-  "queuedAt": "2026-08-17T01:59:49.789Z"
+  "queuedAt": "2026-08-17T08:21:41.987Z"
 }
