@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Former Cowboys OG John Niland dies at 82",
-      "description": "Former Cowboys offensive guard John Niland died Saturday morning in McKinney, Texas, his family announced Sunday.",
-      "url": "https://sports.yahoo.com/articles/former-cowboys-og-john-niland-010149127.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Former Cowboys OG John Niland dies at 82",
       "description": "Former Cowboys offensive guard John Niland died Saturday morning in McKinney, Texas, his family announced Sunday.",
@@ -34,5 +28,5 @@
     "sunday"
   ],
   "hash": "f43001a452ce358b",
-  "queuedAt": "2026-08-17T08:21:32.241Z"
+  "queuedAt": "2026-08-17T14:13:11.319Z"
 }

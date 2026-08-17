@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Von Miller agrees to deal with Cowboys",
-      "description": "Miller finally gets to play at home, having grown up in DeSoto, Texas, 24 miles from AT&T Stadium.",
-      "url": "https://sports.yahoo.com/articles/von-miller-agrees-deal-cowboys-011427807.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Von Miller agrees to deal with Cowboys",
       "description": "Miller finally gets to play at home, having grown up in DeSoto, Texas, 24 miles from AT&T Stadium.",
@@ -34,5 +28,5 @@
     "stadium"
   ],
   "hash": "c2a13fd478bec8ee",
-  "queuedAt": "2026-08-17T08:21:34.460Z"
+  "queuedAt": "2026-08-17T14:13:21.579Z"
 }

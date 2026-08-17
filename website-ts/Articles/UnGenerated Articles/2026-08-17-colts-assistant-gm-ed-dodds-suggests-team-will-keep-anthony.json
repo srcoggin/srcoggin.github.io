@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts assistant G.M. Ed Dodds suggests team will keep Anthony Richardson",
-      "description": "The Colts haven't found a trade partner for fourth-year quarterback Anthony Richardson Sr.",
-      "url": "https://sports.yahoo.com/articles/colts-assistant-g-m-ed-010203515.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts assistant G.M. Ed Dodds suggests team will keep Anthony Richardson",
       "description": "The Colts haven't found a trade partner for fourth-year quarterback Anthony Richardson Sr.",
@@ -31,5 +25,5 @@
     "quarterback"
   ],
   "hash": "6130b627aa466125",
-  "queuedAt": "2026-08-17T08:21:34.572Z"
+  "queuedAt": "2026-08-17T14:13:22.844Z"
 }

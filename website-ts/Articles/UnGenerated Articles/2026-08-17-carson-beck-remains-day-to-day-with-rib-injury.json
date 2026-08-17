@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Carson Beck remains day-to-day with rib injury",
-      "description": "Cardinals rookie quarterback Carson Beck is not yet ready to practice.",
-      "url": "https://sports.yahoo.com/articles/carson-beck-remains-day-day-011655457.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Carson Beck remains day-to-day with rib injury",
       "description": "Cardinals rookie quarterback Carson Beck is not yet ready to practice.",
@@ -30,5 +24,5 @@
     "practice"
   ],
   "hash": "947e6105b0d9c734",
-  "queuedAt": "2026-08-17T08:21:34.344Z"
+  "queuedAt": "2026-08-17T14:13:22.726Z"
 }

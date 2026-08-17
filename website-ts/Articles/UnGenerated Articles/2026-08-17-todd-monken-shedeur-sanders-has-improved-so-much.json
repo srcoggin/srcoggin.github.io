@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Todd Monken: Shedeur Sanders has \"improved so much\"",
-      "description": "After Deshaun Watson started against the Bears on Saturday, Browns head coach Todd Monken detailed how he'll divide the QB reps between Watson and second-year signal-caller Shedeur Sanders on Sunday.",
-      "url": "https://sports.yahoo.com/articles/todd-monken-shedeur-sanders-improved-213717002.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Todd Monken: Shedeur Sanders has \"improved so much\"",
       "description": "After Deshaun Watson started against the Bears on Saturday, Browns head coach Todd Monken detailed how he'll divide the QB reps between Watson and second-year signal-caller Shedeur Sanders on Sunday.",
@@ -40,5 +34,5 @@
     "sunday"
   ],
   "hash": "c26a50acff525b3b",
-  "queuedAt": "2026-08-17T08:21:35.288Z"
+  "queuedAt": "2026-08-17T14:13:21.225Z"
 }
