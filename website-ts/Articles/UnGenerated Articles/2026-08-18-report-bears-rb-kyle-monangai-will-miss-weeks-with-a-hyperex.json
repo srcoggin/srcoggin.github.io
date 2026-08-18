@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Bears RB Kyle Monangai will miss weeks with a hyperextended knee",
-      "description": "The MRI of Bears running back Kyle Monangai's injured knee diagnosed a hyperextension, Jeremy Fowler of ESPN reports.",
-      "url": "https://sports.yahoo.com/articles/report-bears-rb-kyle-monangai-223209906.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Bears RB Kyle Monangai will miss weeks with a hyperextended knee",
       "description": "The MRI of Bears running back Kyle Monangai's injured knee diagnosed a hyperextension, Jeremy Fowler of ESPN reports.",
@@ -37,5 +31,5 @@
     "reports"
   ],
   "hash": "7428008598431396",
-  "queuedAt": "2026-08-18T02:29:21.918Z"
+  "queuedAt": "2026-08-18T08:09:12.509Z"
 }

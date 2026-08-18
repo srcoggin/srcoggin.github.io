@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Saints first-round pick Jordyn Tyson to miss two months with hamstring injury",
-      "description": "Tyson could open the season on the injured reserve list.",
-      "url": "https://sports.yahoo.com/articles/report-saints-first-round-pick-223104026.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Saints first-round pick Jordyn Tyson to miss two months with hamstring injury",
       "description": "Tyson could open the season on the injured reserve list.",
@@ -33,5 +27,5 @@
     "list"
   ],
   "hash": "74a99afe31379190",
-  "queuedAt": "2026-08-18T02:29:22.029Z"
+  "queuedAt": "2026-08-18T08:09:12.386Z"
 }

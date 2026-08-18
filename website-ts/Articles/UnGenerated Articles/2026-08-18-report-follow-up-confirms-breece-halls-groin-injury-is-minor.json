@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Follow-up confirms Breece Hall's groin injury is minor",
-      "description": "Jets running back Breece Hall received good news Monday: A follow-up confirmed his groin injury is minor, Connor Hughes of SNY TV reports.",
-      "url": "https://sports.yahoo.com/articles/report-confirms-breece-halls-groin-220938189.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Follow-up confirms Breece Hall's groin injury is minor",
       "description": "Jets running back Breece Hall received good news Monday: A follow-up confirmed his groin injury is minor, Connor Hughes of SNY TV reports.",
@@ -40,5 +34,5 @@
     "reports"
   ],
   "hash": "847026d829c85fdf",
-  "queuedAt": "2026-08-18T02:29:22.129Z"
+  "queuedAt": "2026-08-18T08:09:12.623Z"
 }
