@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Commanders agree to terms with LB Krys Barnes",
-      "description": "The Commanders have agreed to terms with linebacker Krys Barnes, Matt Zenitz of CBS Sports reports.",
-      "url": "https://sports.yahoo.com/articles/commanders-agree-terms-lb-krys-232654305.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Commanders agree to terms with LB Krys Barnes",
       "description": "The Commanders have agreed to terms with linebacker Krys Barnes, Matt Zenitz of CBS Sports reports.",
@@ -30,5 +24,5 @@
     "reports"
   ],
   "hash": "1767e178e51660ce",
-  "queuedAt": "2026-08-18T08:09:10.185Z"
+  "queuedAt": "2026-08-18T14:14:21.509Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaguars OG Patrick Mekari recently underwent back procedure",
-      "description": "Jaguars right guard Patrick Mekari recently underwent surgery on his back and will miss some time, NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/jaguars-og-patrick-mekari-recently-003551762.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaguars OG Patrick Mekari recently underwent back procedure",
       "description": "Jaguars right guard Patrick Mekari recently underwent surgery on his back and will miss some time, NFL Media reports.",
@@ -33,5 +27,5 @@
     "reports"
   ],
   "hash": "8a5438fe81ea543e",
-  "queuedAt": "2026-08-18T08:09:09.947Z"
+  "queuedAt": "2026-08-18T14:14:21.124Z"
 }

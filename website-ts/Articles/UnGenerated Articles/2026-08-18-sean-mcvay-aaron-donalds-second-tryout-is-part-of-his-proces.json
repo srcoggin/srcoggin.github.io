@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McVay: Aaron Donald's second \"tryout\" is part of his process",
-      "description": "Aaron Donald had a second workout at the Rams' team facility as he continues to decide whether to unretire.",
-      "url": "https://sports.yahoo.com/articles/sean-mcvay-aaron-donalds-second-000443071.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McVay: Aaron Donald's second \"tryout\" is part of his process",
       "description": "Aaron Donald had a second workout at the Rams' team facility as he continues to decide whether to unretire.",
@@ -35,5 +29,5 @@
     "unretire"
   ],
   "hash": "2ddd6e93d7a013b3",
-  "queuedAt": "2026-08-18T08:09:13.035Z"
+  "queuedAt": "2026-08-18T14:14:32.677Z"
 }

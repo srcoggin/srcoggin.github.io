@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: CBS won't replace insider Jonathan Jones",
-      "description": "CBS has gotten out of the NFL Insider business.",
-      "url": "https://sports.yahoo.com/articles/report-cbs-wont-replace-insider-001656367.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: CBS won't replace insider Jonathan Jones",
       "description": "CBS has gotten out of the NFL Insider business.",
@@ -28,5 +22,5 @@
     "business"
   ],
   "hash": "60c3d33234d2cded",
-  "queuedAt": "2026-08-18T08:09:10.059Z"
+  "queuedAt": "2026-08-18T14:14:21.257Z"
 }
