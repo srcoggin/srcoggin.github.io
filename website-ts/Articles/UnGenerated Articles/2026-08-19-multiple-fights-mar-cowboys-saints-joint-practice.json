@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Multiple fights mar Cowboys-Saints joint practice",
-      "description": "Cowboys coach Brian Schottenheimer was upset with his team after double-digit fights broke out during a joint practice with the Saints.",
-      "url": "https://sports.yahoo.com/articles/multiple-fights-mar-cowboys-saints-013354717.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Multiple fights mar Cowboys-Saints joint practice",
       "description": "Cowboys coach Brian Schottenheimer was upset with his team after double-digit fights broke out during a joint practice with the Saints.",
@@ -34,5 +28,5 @@
     "saints"
   ],
   "hash": "c515d4fe07aca422",
-  "queuedAt": "2026-08-19T07:53:52.112Z"
+  "queuedAt": "2026-08-19T14:31:55.690Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Shanahan says Nick Bosa is \"making a lot of progress\" in rehab",
-      "description": "49ers defensive end Nick Bosa has not practiced since Aug. 3 with soreness and tendinitis in his surgically repaired right knee. 49ers coach Kyle Shanahan did not provide a timeline for Bosa on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/kyle-shanahan-says-nick-bosa-015152040.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Shanahan says Nick Bosa is \"making a lot of progress\" in rehab",
       "description": "49ers defensive end Nick Bosa has not practiced since Aug. 3 with soreness and tendinitis in his surgically repaired right knee. 49ers coach Kyle Shanahan did not provide a timeline for Bosa on Tuesday.",
@@ -44,5 +38,5 @@
     "tuesday"
   ],
   "hash": "6c503ec156c16f3b",
-  "queuedAt": "2026-08-19T07:53:52.015Z"
+  "queuedAt": "2026-08-19T14:31:55.179Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Todd Monken gets upset, ends physical Browns practice early",
-      "description": "Browns head coach Todd Monken found himself \"emotionally hijacked\" during a practice early in training camp and he was hot under the collar again on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/todd-monken-gets-upset-ends-213315881.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Todd Monken gets upset, ends physical Browns practice early",
       "description": "Browns head coach Todd Monken found himself \"emotionally hijacked\" during a practice early in training camp and he was hot under the collar again on Tuesday.",
@@ -38,5 +32,5 @@
     "tuesday"
   ],
   "hash": "d0696ee1e032682d",
-  "queuedAt": "2026-08-19T07:53:52.638Z"
+  "queuedAt": "2026-08-19T14:31:55.560Z"
 }

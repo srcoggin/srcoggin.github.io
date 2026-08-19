@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saints WR Chris Olave exits joint practice with Cowboys",
-      "description": "Saints wide receiver Chris Olave left Tuesday's joint practice with the Cowboys early.",
-      "url": "https://sports.yahoo.com/articles/saints-wr-chris-olave-exits-225152337.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saints WR Chris Olave exits joint practice with Cowboys",
       "description": "Saints wide receiver Chris Olave left Tuesday's joint practice with the Cowboys early.",
@@ -30,5 +24,5 @@
     "early"
   ],
   "hash": "b3d5fc91fb2c0b2d",
-  "queuedAt": "2026-08-19T07:53:52.399Z"
+  "queuedAt": "2026-08-19T14:31:57.189Z"
 }

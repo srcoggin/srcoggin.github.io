@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brian Flores's lawyers seek information from NFL about Jon Gruden, Colin Kaepernick cases",
-      "description": "The lawsuit filed by Vikings defensive coordinator Brian Flores against the NFL and various teams has finally moved forward (as to several of the pending claims) to the discovery process.",
-      "url": "https://sports.yahoo.com/articles/brian-floress-lawyers-seek-information-015532307.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brian Flores's lawyers seek information from NFL about Jon Gruden, Colin Kaepernick cases",
       "description": "The lawsuit filed by Vikings defensive coordinator Brian Flores against the NFL and various teams has finally moved forward (as to several of the pending claims) to the discovery process.",
@@ -46,5 +40,5 @@
     "process"
   ],
   "hash": "a12ca50f4aef7fcc",
-  "queuedAt": "2026-08-19T07:53:51.908Z"
+  "queuedAt": "2026-08-19T14:31:56.723Z"
 }
