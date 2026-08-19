@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks work out free agent CB Trevon Diggs",
-      "description": "The Seahawks agreed to terms with free agent cornerback Terrion Arnold, but he has not signed and the NFL reportedly will place him on the commissioner’s exempt list if he does.",
-      "url": "https://sports.yahoo.com/articles/seahawks-free-agent-cb-trevon-211839085.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks work out free agent CB Trevon Diggs",
       "description": "The Seahawks agreed to terms with free agent cornerback Terrion Arnold, but he has not signed and the NFL reportedly will place him on the commissioner’s exempt list if he does.",
@@ -37,5 +31,5 @@
     "list"
   ],
   "hash": "42f94b00ed57e40b",
-  "queuedAt": "2026-08-19T02:06:31.723Z"
+  "queuedAt": "2026-08-19T07:53:51.412Z"
 }

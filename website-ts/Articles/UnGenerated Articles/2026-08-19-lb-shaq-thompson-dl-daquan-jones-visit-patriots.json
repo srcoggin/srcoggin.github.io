@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "LB Shaq Thompson, DL DaQuan Jones visit Patriots",
-      "description": "The Patriots met with a pair of veteran defensive free agents on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/lb-shaq-thompson-dl-daquan-211614669.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "LB Shaq Thompson, DL DaQuan Jones visit Patriots",
       "description": "The Patriots met with a pair of veteran defensive free agents on Tuesday.",
@@ -31,5 +25,5 @@
     "tuesday"
   ],
   "hash": "4952215c7bb0b987",
-  "queuedAt": "2026-08-19T02:06:33.139Z"
+  "queuedAt": "2026-08-19T07:53:59.711Z"
 }

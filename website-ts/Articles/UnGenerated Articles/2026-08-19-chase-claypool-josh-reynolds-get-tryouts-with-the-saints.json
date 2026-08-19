@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chase Claypool, Josh Reynolds get tryouts with the Saints",
-      "description": "Six years ago, it appeared that the Steelers had found a keeper in second-round receiver Chase Claypool.",
-      "url": "https://sports.yahoo.com/articles/chase-claypool-josh-reynolds-tryouts-211358726.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chase Claypool, Josh Reynolds get tryouts with the Saints",
       "description": "Six years ago, it appeared that the Steelers had found a keeper in second-round receiver Chase Claypool.",
@@ -35,5 +29,5 @@
     "receiver"
   ],
   "hash": "7253a75a57d25c88",
-  "queuedAt": "2026-08-19T02:06:33.198Z"
+  "queuedAt": "2026-08-19T07:53:59.805Z"
 }

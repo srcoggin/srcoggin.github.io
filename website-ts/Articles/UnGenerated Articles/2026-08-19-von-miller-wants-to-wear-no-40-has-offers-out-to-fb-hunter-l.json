@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Von Miller wants to wear No. 40, has offers out to FB Hunter Luepke",
-      "description": "Von Miller doesn't currently have a number on the Cowboys' official roster, and a day after signing a one-year deal with the team, he doesn't know what his number will be.",
-      "url": "https://sports.yahoo.com/articles/von-miller-wants-wear-no-205523250.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Von Miller wants to wear No. 40, has offers out to FB Hunter Luepke",
       "description": "Von Miller doesn't currently have a number on the Cowboys' official roster, and a day after signing a one-year deal with the team, he doesn't know what his number will be.",
@@ -39,5 +33,5 @@
     "his"
   ],
   "hash": "e11221ba5ef92edd",
-  "queuedAt": "2026-08-19T02:06:31.794Z"
+  "queuedAt": "2026-08-19T07:53:51.518Z"
 }
