@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Christian Gonzalez won't take part in joint practice with Eagles",
-      "description": "The Patriots will have a joint practice with the Eagles on Wednesday, but they won't have their top cornerback on the field.",
-      "url": "https://sports.yahoo.com/articles/christian-gonzalez-wont-part-joint-134318739.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Christian Gonzalez won't take part in joint practice with Eagles",
       "description": "The Patriots will have a joint practice with the Eagles on Wednesday, but they won't have their top cornerback on the field.",
@@ -33,5 +27,5 @@
     "field"
   ],
   "hash": "654c0ef5e55fef10",
-  "queuedAt": "2026-08-19T14:31:43.998Z"
+  "queuedAt": "2026-08-19T20:13:52.702Z"
 }

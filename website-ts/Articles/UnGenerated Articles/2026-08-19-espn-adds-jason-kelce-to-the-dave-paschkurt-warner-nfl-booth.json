@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "ESPN adds Jason Kelce to the Dave Pasch/Kurt Warner NFL booth",
-      "description": "When Travis Kelce retires from the NFL, he'll likely land in an NFL broadcast booth.",
-      "url": "https://sports.yahoo.com/articles/espn-adds-jason-kelce-dave-140857272.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "ESPN adds Jason Kelce to the Dave Pasch/Kurt Warner NFL booth",
       "description": "When Travis Kelce retires from the NFL, he'll likely land in an NFL broadcast booth.",
@@ -32,5 +26,5 @@
     "broadcast"
   ],
   "hash": "260a03cd2297a10c",
-  "queuedAt": "2026-08-19T14:31:43.875Z"
+  "queuedAt": "2026-08-19T20:13:52.195Z"
 }
