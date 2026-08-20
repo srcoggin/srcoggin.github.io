@@ -5,7 +5,7 @@
     {
       "name": "CBS Sports NFL",
       "title": "Vita Vea, Buccaneers agree to $30 million extension after trade request, per report",
-      "description": "Vea&#039;s new contract ends a contentious stretch that included a hold-in, a trade request and public doubt that he would remain in Tampa Bay",
+      "description": "Vea&#039;s new contract ends a contentious stretch that included a hold-in, a trade request and public doubt that he would remain in Tampa",
       "url": "https://www.cbssports.com/nfl/news/vita-vea-contract-buccaneers-extension-trade/"
     }
   ],
@@ -32,9 +32,8 @@
     "public",
     "doubt",
     "remain",
-    "tampa",
-    "bay"
+    "tampa"
   ],
-  "hash": "a0708e14a3585339",
-  "queuedAt": "2026-08-20T07:28:52.963Z"
+  "hash": "a98fbf75ef008b47",
+  "queuedAt": "2026-08-20T14:28:45.590Z"
 }

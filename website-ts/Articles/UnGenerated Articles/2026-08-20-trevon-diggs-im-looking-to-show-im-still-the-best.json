@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Trevon Diggs: I'm looking to show I'm still the best",
-      "description": "Trevon Diggs led the league with 11 interceptions in 2021 and earned All-Pro honors, becoming one of the top cornerbacks in the NFL in his second season.",
-      "url": "https://sports.yahoo.com/articles/trevon-diggs-im-looking-show-214822073.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Trevon Diggs: I'm looking to show I'm still the best",
       "description": "Trevon Diggs led the league with 11 interceptions in 2021 and earned All-Pro honors, becoming one of the top cornerbacks in the NFL in his second season.",
@@ -37,5 +31,5 @@
     "second"
   ],
   "hash": "b1090d231956620f",
-  "queuedAt": "2026-08-20T07:28:53.892Z"
+  "queuedAt": "2026-08-20T14:28:58.266Z"
 }

@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "If NFL issued fines for fights during joint practices, the fights would stop",
-      "description": "It's joint practice fighting season, with Tuesday's all-out brawl between the Saints and Cowboys making its way to NBC Nightly News.",
-      "url": "https://sports.yahoo.com/articles/nfl-issued-fines-fights-during-232454008.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "If NFL issued fines for fights during joint practices, the fights would stop",
       "description": "It's joint practice fighting season, with Tuesday's all-out brawl between the Saints and Cowboys making its way to NBC Nightly News.",
@@ -37,5 +31,5 @@
     "news"
   ],
   "hash": "c6f931359300698a",
-  "queuedAt": "2026-08-20T07:28:53.755Z"
+  "queuedAt": "2026-08-20T14:29:00.657Z"
 }

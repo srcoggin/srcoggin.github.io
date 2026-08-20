@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jameson Williams practiced, Sam LaPorta did not for Lions today",
-      "description": "The Lions got wide receiver Jameson Williams back on the practice field today, but they didn't have their whole first-string offense.",
-      "url": "https://sports.yahoo.com/articles/jameson-williams-practiced-sam-laporta-224140776.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jameson Williams practiced, Sam LaPorta did not for Lions today",
       "description": "The Lions got wide receiver Jameson Williams back on the practice field today, but they didn't have their whole first-string offense.",
@@ -37,5 +31,5 @@
     "offense"
   ],
   "hash": "82de2b672e0a1c42",
-  "queuedAt": "2026-08-20T07:28:53.836Z"
+  "queuedAt": "2026-08-20T14:29:00.800Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: One-year extension for Bucs DT Vita Vea",
-      "description": "Vea gets a $6 million raise for 2026.",
-      "url": "https://sports.yahoo.com/articles/report-one-extension-bucs-dt-230158560.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: One-year extension for Bucs DT Vita Vea",
       "description": "Vea gets a $6 million raise for 2026.",
@@ -28,5 +22,5 @@
     "2026"
   ],
   "hash": "3f35d7ae134d9522",
-  "queuedAt": "2026-08-20T07:28:52.689Z"
+  "queuedAt": "2026-08-20T14:28:46.412Z"
 }
