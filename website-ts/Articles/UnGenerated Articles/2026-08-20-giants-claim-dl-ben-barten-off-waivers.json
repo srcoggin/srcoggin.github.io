@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants claim DL Ben Barten off waivers",
-      "description": "The Giants claimed defensive lineman Ben Barten off waivers, according to the NFL's transaction report.",
-      "url": "https://sports.yahoo.com/articles/giants-claim-dl-ben-barten-210651626.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants claim DL Ben Barten off waivers",
       "description": "The Giants claimed defensive lineman Ben Barten off waivers, according to the NFL's transaction report.",
@@ -31,5 +25,5 @@
     "report"
   ],
   "hash": "35296f9f0d4e91ca",
-  "queuedAt": "2026-08-20T02:00:40.853Z"
+  "queuedAt": "2026-08-20T07:28:53.470Z"
 }

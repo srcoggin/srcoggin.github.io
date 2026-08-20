@@ -3,6 +3,12 @@
   "category": "injuries",
   "sources": [
     {
+      "name": "Yahoo Sports NFL",
+      "title": "Saints lose Alvin Kamara for at least a month in injury blow",
+      "description": "The star suffered an MCL sprain during a joint practice with the Cowboys on Tuesday and is expected to miss at least one month, ESPN reported Wednesday.",
+      "url": "https://sports.yahoo.com/articles/saints-lose-alvin-kamara-least-233938941.html"
+    },
+    {
       "name": "CBS Sports NFL",
       "title": "Alvin Kamara injury: Saints star expected to miss at least a month with MCL sprain, per report",
       "description": "Kamara, who suffered the injury in a joint practice with the Cowboys, is set to miss Week 1 for just the second time in his career",
@@ -10,30 +16,37 @@
     }
   ],
   "keywords": [
+    "saints",
+    "lose",
     "alvin",
     "kamara",
-    "injury",
-    "saints",
-    "star",
-    "expected",
-    "miss",
     "least",
     "month",
+    "injury",
+    "blow",
+    "star",
+    "suffered",
     "mcl",
     "sprain",
-    "per",
-    "report",
-    "who",
-    "suffered",
     "joint",
     "practice",
     "cowboys",
+    "tuesday",
+    "expected",
+    "miss",
+    "one",
+    "espn",
+    "reported",
+    "wednesday",
+    "per",
+    "report",
+    "who",
     "set",
     "second",
     "time",
     "his",
     "career"
   ],
-  "hash": "00717f20a8af568f",
-  "queuedAt": "2026-08-20T02:00:41.412Z"
+  "hash": "c863c7be730c2853",
+  "queuedAt": "2026-08-20T07:28:52.611Z"
 }
