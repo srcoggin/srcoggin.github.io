@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chiefs sign OL Kellen Dietsch",
-      "description": "The Chiefs worked out offensive lineman Kellen Diesch earlier this week and they liked what they saw.",
-      "url": "https://sports.yahoo.com/articles/chiefs-sign-ol-kellen-dietsch-133040507.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chiefs sign OL Kellen Dietsch",
       "description": "The Chiefs worked out offensive lineman Kellen Diesch earlier this week and they liked what they saw.",
@@ -33,5 +27,5 @@
     "saw"
   ],
   "hash": "a0b3c3aac53a8951",
-  "queuedAt": "2026-08-20T14:28:47.110Z"
+  "queuedAt": "2026-08-20T20:00:01.787Z"
 }

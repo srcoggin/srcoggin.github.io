@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaguars have Travis Hunter practicing mostly at cornerback",
-      "description": "It appears that Hunter will primarily play defense when the regular season starts.",
-      "url": "https://sports.yahoo.com/articles/jaguars-travis-hunter-practicing-mostly-134001953.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaguars have Travis Hunter practicing mostly at cornerback",
       "description": "It appears that Hunter will primarily play defense when the regular season starts.",
@@ -31,5 +25,5 @@
     "starts"
   ],
   "hash": "d05a13bfffd956c7",
-  "queuedAt": "2026-08-20T14:28:46.971Z"
+  "queuedAt": "2026-08-20T20:00:01.679Z"
 }
