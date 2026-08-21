@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Austin Jackson, Jermaine Eluemunor pulled from Dolphins-Giants practice after fights",
-      "description": "The Cowboys and Saints were fined after players from the two teams fought at a joint practice this week and two other clubs could be hearing from the league as well.",
-      "url": "https://sports.yahoo.com/articles/austin-jackson-jermaine-eluemunor-pulled-214003659.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Austin Jackson, Jermaine Eluemunor pulled from Dolphins-Giants practice after fights",
       "description": "The Cowboys and Saints were fined after players from the two teams fought at a joint practice this week and two other clubs could be hearing from the league as well.",
@@ -39,5 +33,5 @@
     "well"
   ],
   "hash": "57da113608ed12a1",
-  "queuedAt": "2026-08-21T02:05:25.274Z"
+  "queuedAt": "2026-08-21T08:22:12.374Z"
 }

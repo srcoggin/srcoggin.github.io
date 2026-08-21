@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "The NFL fining teams won't stop joint practice fights",
-      "description": "The NFL has cracked down on fighting at joint practices.",
-      "url": "https://sports.yahoo.com/articles/nfl-fining-teams-wont-stop-211941761.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "The NFL fining teams won't stop joint practice fights",
       "description": "The NFL has cracked down on fighting at joint practices.",
@@ -29,5 +23,5 @@
     "practices"
   ],
   "hash": "b046b02d724442d9",
-  "queuedAt": "2026-08-21T02:05:25.396Z"
+  "queuedAt": "2026-08-21T08:22:12.941Z"
 }

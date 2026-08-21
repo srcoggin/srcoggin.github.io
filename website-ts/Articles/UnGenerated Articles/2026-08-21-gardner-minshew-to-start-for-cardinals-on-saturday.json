@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Gardner Minshew to start for Cardinals on Saturday",
-      "description": "The Cardinals will have their third starting quarterback in as many preseason games when they face the Cowboys on Saturday.",
-      "url": "https://sports.yahoo.com/articles/gardner-minshew-start-cardinals-saturday-220246559.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Gardner Minshew to start for Cardinals on Saturday",
       "description": "The Cardinals will have their third starting quarterback in as many preseason games when they face the Cowboys on Saturday.",
@@ -33,5 +27,5 @@
     "cowboys"
   ],
   "hash": "105e233cae652d6d",
-  "queuedAt": "2026-08-21T02:05:25.156Z"
+  "queuedAt": "2026-08-21T08:22:11.937Z"
 }
