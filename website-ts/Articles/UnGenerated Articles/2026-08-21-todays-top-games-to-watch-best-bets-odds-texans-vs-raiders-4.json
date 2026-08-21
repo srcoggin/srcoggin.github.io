@@ -4,6 +4,12 @@
   "sources": [
     {
       "name": "CBS Sports NFL",
+      "title": "Today&#039;s top games to watch, best bets, odds: Misiorowski vs. Sale, Jets at Steelers and more",
+      "description": "Find best bets and props for the biggest games in sports on Friday from the SportsLine Projection Model and top CBS Sports experts",
+      "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-misiorowski-vs-sale-jets-at-steelers-and-more/"
+    },
+    {
+      "name": "CBS Sports NFL",
       "title": "Today&#039;s top games to watch, best bets, odds: Texans vs. Raiders, 49ers vs. Chargers, MLB and more",
       "description": "Find best bets and props for the biggest games in sports on Thursday from the SportsLine Projection Model and top CBS Sports experts",
       "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-texans-vs-raiders-49ers-vs-chargers-mlb-and-more/"
@@ -17,22 +23,27 @@
     "best",
     "bets",
     "odds",
+    "misiorowski",
+    "sale",
+    "jets",
+    "steelers",
+    "find",
+    "props",
+    "biggest",
+    "sports",
+    "friday",
+    "sportsline",
+    "projection",
+    "model",
+    "cbs",
+    "experts",
     "texans",
     "raiders",
     "49ers",
     "chargers",
     "mlb",
-    "find",
-    "props",
-    "biggest",
-    "sports",
-    "thursday",
-    "sportsline",
-    "projection",
-    "model",
-    "cbs",
-    "experts"
+    "thursday"
   ],
-  "hash": "f1caa4ffd14d1473",
-  "queuedAt": "2026-08-21T13:38:51.622Z"
+  "hash": "5c8efc90da5b0fd2",
+  "queuedAt": "2026-08-21T20:17:10.735Z"
 }
