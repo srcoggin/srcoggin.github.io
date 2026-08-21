@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Fernando Mendoza throws pick-six, leads Raiders to three points",
-      "description": "Fernando Mendoza took a sack, was hit four other times, threw a pick-six and led the Raiders to only three points.",
-      "url": "https://sports.yahoo.com/articles/fernando-mendoza-throws-pick-six-015001208.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Fernando Mendoza throws pick-six, leads Raiders to three points",
       "description": "Fernando Mendoza took a sack, was hit four other times, threw a pick-six and led the Raiders to only three points.",
@@ -33,5 +27,5 @@
     "led"
   ],
   "hash": "c48ccbdc5817cfea",
-  "queuedAt": "2026-08-21T08:22:01.109Z"
+  "queuedAt": "2026-08-21T13:38:53.463Z"
 }

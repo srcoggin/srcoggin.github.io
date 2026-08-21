@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Justin Herbert plays just three snaps in preseason game vs. 49ers",
-      "description": "Chargers quarterback Justin Herbert was on the field for Thursday night’s preseason game against the 49ers.",
-      "url": "https://sports.yahoo.com/articles/justin-herbert-plays-just-three-022603180.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Justin Herbert plays just three snaps in preseason game vs. 49ers",
       "description": "Chargers quarterback Justin Herbert was on the field for Thursday night’s preseason game against the 49ers.",
@@ -31,5 +25,5 @@
     "against"
   ],
   "hash": "aebeb9b3114cf188",
-  "queuedAt": "2026-08-21T08:22:00.840Z"
+  "queuedAt": "2026-08-21T13:38:53.981Z"
 }

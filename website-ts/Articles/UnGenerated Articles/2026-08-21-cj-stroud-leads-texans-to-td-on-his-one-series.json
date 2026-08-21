@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "C.J. Stroud leads Texans to TD on his one series",
-      "description": "Texans quarterback C.J.",
-      "url": "https://sports.yahoo.com/articles/c-j-stroud-leads-texans-005505826.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "C.J. Stroud leads Texans to TD on his one series",
       "description": "Texans quarterback C.J.",
@@ -25,5 +19,5 @@
     "quarterback"
   ],
   "hash": "d78215c9f3398ab2",
-  "queuedAt": "2026-08-21T08:22:01.250Z"
+  "queuedAt": "2026-08-21T13:38:54.207Z"
 }

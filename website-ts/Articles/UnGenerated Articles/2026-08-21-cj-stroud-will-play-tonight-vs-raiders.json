@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "C.J. Stroud will play tonight vs. Raiders",
-      "description": "DeMeco Ryans has changed his mind yet again.",
-      "url": "https://sports.yahoo.com/articles/c-j-stroud-play-tonight-233841959.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "C.J. Stroud will play tonight vs. Raiders",
       "description": "DeMeco Ryans has changed his mind yet again.",
@@ -28,5 +22,5 @@
     "yet"
   ],
   "hash": "7159d0d0a00ae2d1",
-  "queuedAt": "2026-08-21T08:22:01.373Z"
+  "queuedAt": "2026-08-21T13:38:54.354Z"
 }

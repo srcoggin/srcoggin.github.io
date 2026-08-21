@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders CB Chigozie Anusiem carted off with leg injury",
-      "description": "Raiders cornerback Chigozie Anusiem appeared to be seriously injured in the third quarter of Thursday night's preseason game against the Texans.",
-      "url": "https://sports.yahoo.com/articles/raiders-cb-chigozie-anusiem-carted-020050483.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders CB Chigozie Anusiem carted off with leg injury",
       "description": "Raiders cornerback Chigozie Anusiem appeared to be seriously injured in the third quarter of Thursday night's preseason game against the Texans.",
@@ -36,5 +30,5 @@
     "texans"
   ],
   "hash": "0402c655cf791245",
-  "queuedAt": "2026-08-21T08:22:00.993Z"
+  "queuedAt": "2026-08-21T13:38:54.135Z"
 }
