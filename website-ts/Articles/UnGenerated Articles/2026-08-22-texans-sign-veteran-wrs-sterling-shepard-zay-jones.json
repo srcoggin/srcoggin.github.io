@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Texans sign veteran WRs Sterling Shepard, Zay Jones",
-      "description": "With Jayden Higgins now out for the season, the Texans are adding a pair of veteran receivers.",
-      "url": "https://sports.yahoo.com/articles/texans-sign-veteran-wrs-sterling-205933388.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Texans sign veteran WRs Sterling Shepard, Zay Jones",
       "description": "With Jayden Higgins now out for the season, the Texans are adding a pair of veteran receivers.",
@@ -33,5 +27,5 @@
     "receivers"
   ],
   "hash": "a3682d6bb647a003",
-  "queuedAt": "2026-08-22T02:49:43.885Z"
+  "queuedAt": "2026-08-22T07:19:53.561Z"
 }
