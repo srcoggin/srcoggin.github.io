@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nick Chubb retires from the NFL",
-      "description": "Running back Nick Chubb, a four-time Pro Bowler, has announced his retirement.",
-      "url": "https://sports.yahoo.com/articles/nick-chubb-retires-nfl-013659361.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nick Chubb retires from the NFL",
       "description": "Running back Nick Chubb, a four-time Pro Bowler, has announced his retirement.",
@@ -29,5 +23,5 @@
     "retirement"
   ],
   "hash": "688aef61f0f946ed",
-  "queuedAt": "2026-08-22T07:19:48.265Z"
+  "queuedAt": "2026-08-22T14:03:00.519Z"
 }

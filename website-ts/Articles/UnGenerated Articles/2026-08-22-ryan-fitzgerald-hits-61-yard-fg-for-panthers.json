@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ryan Fitzgerald hits 61-yard FG for Panthers",
-      "description": "Panthers starting quarterback Bryce Young played 11 snaps on Friday against the Jaguars.",
-      "url": "https://sports.yahoo.com/articles/ryan-fitzgerald-hits-61-yard-013206430.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ryan Fitzgerald hits 61-yard FG for Panthers",
       "description": "Panthers starting quarterback Bryce Young played 11 snaps on Friday against the Jaguars.",
@@ -32,5 +26,5 @@
     "jaguars"
   ],
   "hash": "431b2b9e1d0da635",
-  "queuedAt": "2026-08-22T07:19:49.429Z"
+  "queuedAt": "2026-08-22T14:03:11.324Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jordan Love plays one series, throws TD pass",
-      "description": "Packers coach Matt LaFleur's plan was to play his starting offense more than one drive in Denver.",
-      "url": "https://sports.yahoo.com/articles/jordan-love-plays-one-series-014904646.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jordan Love plays one series, throws TD pass",
       "description": "Packers coach Matt LaFleur's plan was to play his starting offense more than one drive in Denver.",
@@ -36,5 +30,5 @@
     "denver"
   ],
   "hash": "24c2dca270666da4",
-  "queuedAt": "2026-08-22T07:19:49.381Z"
+  "queuedAt": "2026-08-22T14:03:11.212Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Former Steelers, Chiefs WR Barry Pearson dies at 76",
-      "description": "Former Steelers wide receiver Barry Pearson died Aug. 16, Chris Ward of steelersnow.com reports.",
-      "url": "https://sports.yahoo.com/articles/former-steelers-chiefs-wr-barry-231657652.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Former Steelers, Chiefs WR Barry Pearson dies at 76",
       "description": "Former Steelers wide receiver Barry Pearson died Aug. 16, Chris Ward of steelersnow.com reports.",
@@ -32,5 +26,5 @@
     "reports"
   ],
   "hash": "ddb8452636f861c9",
-  "queuedAt": "2026-08-22T07:19:48.336Z"
+  "queuedAt": "2026-08-22T14:03:00.637Z"
 }
