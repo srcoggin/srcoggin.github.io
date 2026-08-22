@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nick Chubb is the fourth RB ever to retire with over 1,000 carries, over 5 yards a carry",
-      "description": "Chubb retired with 7,349 yards on 1,462 carries, an average of 5.03 yards per carry.",
-      "url": "https://sports.yahoo.com/articles/nick-chubb-fourth-rb-ever-110913949.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nick Chubb is the fourth RB ever to retire with over 1,000 carries, over 5 yards a carry",
       "description": "Chubb retired with 7,349 yards on 1,462 carries, an average of 5.03 yards per carry.",
@@ -34,5 +28,5 @@
     "per"
   ],
   "hash": "274da68e2dad9fb9",
-  "queuedAt": "2026-08-22T14:03:01.903Z"
+  "queuedAt": "2026-08-22T19:14:46.801Z"
 }

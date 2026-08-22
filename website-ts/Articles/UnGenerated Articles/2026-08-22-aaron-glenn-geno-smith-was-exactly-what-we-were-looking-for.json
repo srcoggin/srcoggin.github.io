@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Glenn: Geno Smith was exactly what we were looking for",
-      "description": "Quarterback Geno Smith's first game action since returning to the Jets couldn't have gone much better.",
-      "url": "https://sports.yahoo.com/articles/aaron-glenn-geno-smith-exactly-122027463.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Glenn: Geno Smith was exactly what we were looking for",
       "description": "Quarterback Geno Smith's first game action since returning to the Jets couldn't have gone much better.",
@@ -36,5 +30,5 @@
     "better"
   ],
   "hash": "bf368a74249ea4f2",
-  "queuedAt": "2026-08-22T14:03:01.671Z"
+  "queuedAt": "2026-08-22T19:14:46.748Z"
 }

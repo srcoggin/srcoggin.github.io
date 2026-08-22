@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sam Darnold: Jadarian Price is a really special player",
-      "description": "The Seahawks made a big change at running back this offseason and quarterback Sam Darnold likes how things are shaping up in the backfield.",
-      "url": "https://sports.yahoo.com/articles/sam-darnold-jadarian-price-really-124119790.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sam Darnold: Jadarian Price is a really special player",
       "description": "The Seahawks made a big change at running back this offseason and quarterback Sam Darnold likes how things are shaping up in the backfield.",
@@ -37,5 +31,5 @@
     "backfield"
   ],
   "hash": "503ee3dc8837a59f",
-  "queuedAt": "2026-08-22T14:03:01.493Z"
+  "queuedAt": "2026-08-22T19:14:46.603Z"
 }
