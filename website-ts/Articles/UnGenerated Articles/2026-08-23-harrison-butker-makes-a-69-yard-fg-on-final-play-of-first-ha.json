@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Harrison Butker makes a 69-yard FG on final play of first half",
-      "description": "Chiefs kicker Harrison Butker kicked a 69-yard field goal on the final play of the first half Saturday night.",
-      "url": "https://sports.yahoo.com/articles/harrison-butker-makes-69-yard-011749922.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Harrison Butker makes a 69-yard FG on final play of first half",
       "description": "Chiefs kicker Harrison Butker kicked a 69-yard field goal on the final play of the first half Saturday night.",
@@ -33,5 +27,5 @@
     "night"
   ],
   "hash": "e7d159bb003b46ef",
-  "queuedAt": "2026-08-23T08:08:57.491Z"
+  "queuedAt": "2026-08-23T14:06:50.892Z"
 }

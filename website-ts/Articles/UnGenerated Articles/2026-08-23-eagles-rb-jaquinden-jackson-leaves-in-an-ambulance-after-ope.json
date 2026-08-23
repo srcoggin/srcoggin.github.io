@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles RB Ja’Quinden Jackson leaves in an ambulance after opening kickoff",
-      "description": "Eagles running back Ja’Quinden Jackson left Gillette Stadium in an ambulance during Saturday night's preseason game.",
-      "url": "https://sports.yahoo.com/articles/eagles-rb-ja-quinden-jackson-232848000.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles RB Ja’Quinden Jackson leaves in an ambulance after opening kickoff",
       "description": "Eagles running back Ja’Quinden Jackson left Gillette Stadium in an ambulance during Saturday night's preseason game.",
@@ -33,5 +27,5 @@
     "preseason"
   ],
   "hash": "906e6e653e2a520b",
-  "queuedAt": "2026-08-23T02:33:12.639Z"
+  "queuedAt": "2026-08-23T14:06:51.264Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots OT Marcus Bryant out with an ankle injury",
-      "description": "Patriots offensive tackle Marcus Bryant was injured on the fourth official play from scrimmage in Saturday night's preseason game against the Eagles.",
-      "url": "https://sports.yahoo.com/articles/patriots-ot-marcus-bryant-ankle-235718373.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots OT Marcus Bryant out with an ankle injury",
       "description": "Patriots offensive tackle Marcus Bryant was injured on the fourth official play from scrimmage in Saturday night's preseason game against the Eagles.",
@@ -36,5 +30,5 @@
     "eagles"
   ],
   "hash": "1ba4e95a341d1045",
-  "queuedAt": "2026-08-23T08:08:55.526Z"
+  "queuedAt": "2026-08-23T14:06:40.179Z"
 }

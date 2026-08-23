@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears LB Nephi Sewell carted off with leg injury",
-      "description": "Bears linebacker Nephi Sewell was carted off the field during Saturday's preseason game against the Bengals.",
-      "url": "https://sports.yahoo.com/articles/bears-lb-nephi-sewell-carted-004521430.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears LB Nephi Sewell carted off with leg injury",
       "description": "Bears linebacker Nephi Sewell was carted off the field during Saturday's preseason game against the Bengals.",
@@ -31,5 +25,5 @@
     "bengals"
   ],
   "hash": "9d5dbaefda09a9a9",
-  "queuedAt": "2026-08-23T08:08:57.611Z"
+  "queuedAt": "2026-08-23T14:06:51.013Z"
 }
