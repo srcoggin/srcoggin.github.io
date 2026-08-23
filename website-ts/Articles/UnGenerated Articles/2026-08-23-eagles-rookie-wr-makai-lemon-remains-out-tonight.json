@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles rookie WR Makai Lemon remains out tonight",
-      "description": "Rookie wide receiver Makai Lemon is among the Eagles players not suited up for tonight's preseason game against the Patriots, Jeff McLane of the Philadelphia Inquirer reports.",
-      "url": "https://sports.yahoo.com/articles/eagles-rookie-wr-makai-lemon-225521441.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles rookie WR Makai Lemon remains out tonight",
       "description": "Rookie wide receiver Makai Lemon is among the Eagles players not suited up for tonight's preseason game against the Patriots, Jeff McLane of the Philadelphia Inquirer reports.",
@@ -39,5 +33,5 @@
     "reports"
   ],
   "hash": "8d3d2a13ee948d41",
-  "queuedAt": "2026-08-23T02:33:11.123Z"
+  "queuedAt": "2026-08-23T08:08:56.803Z"
 }
