@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eliot Wolf on Christian Gonzalez: \"Each side is trying to do what's right for them\"",
-      "description": "When the Falcons signed running back Bijan Robinson to a new contract, the Lions and running back Jahmyr Gibbs used the Robinson deal as the template for quickly getting their own contract done.",
-      "url": "https://sports.yahoo.com/articles/eliot-wolf-christian-gonzalez-side-105200109.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eliot Wolf on Christian Gonzalez: \"Each side is trying to do what's right for them\"",
       "description": "When the Falcons signed running back Bijan Robinson to a new contract, the Lions and running back Jahmyr Gibbs used the Robinson deal as the template for quickly getting their own contract done.",
@@ -45,5 +39,5 @@
     "done"
   ],
   "hash": "d5f55594cfad38e4",
-  "queuedAt": "2026-08-23T14:06:41.020Z"
+  "queuedAt": "2026-08-23T19:40:01.976Z"
 }

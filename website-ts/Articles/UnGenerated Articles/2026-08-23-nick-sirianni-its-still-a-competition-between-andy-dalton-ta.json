@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nick Sirianni: \"It's still a competition\" between Andy Dalton, Tanner McKee for QB2",
-      "description": "As the Browns and Raiders work through their starting quarterbacks for Week 1, the Eagles are still trying to figure out their QB2.",
-      "url": "https://sports.yahoo.com/articles/nick-sirianni-still-competition-between-114924770.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nick Sirianni: \"It's still a competition\" between Andy Dalton, Tanner McKee for QB2",
       "description": "As the Browns and Raiders work through their starting quarterbacks for Week 1, the Eagles are still trying to figure out their QB2.",
@@ -38,5 +32,5 @@
     "out"
   ],
   "hash": "13395a0666b6e651",
-  "queuedAt": "2026-08-23T14:06:40.856Z"
+  "queuedAt": "2026-08-23T19:40:01.865Z"
 }
