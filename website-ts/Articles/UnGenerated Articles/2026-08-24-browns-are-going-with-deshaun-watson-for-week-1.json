@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns are going with Deshaun Watson for Week 1",
-      "description": "Is it a two-week road audition for Watson?",
-      "url": "https://sports.yahoo.com/articles/browns-going-deshaun-watson-week-141049534.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns are going with Deshaun Watson for Week 1",
       "description": "Is it a two-week road audition for Watson?",
@@ -25,5 +19,5 @@
     "audition"
   ],
   "hash": "975000c231b2ed19",
-  "queuedAt": "2026-08-24T14:41:10.760Z"
+  "queuedAt": "2026-08-24T20:15:55.384Z"
 }
