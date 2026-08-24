@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaguars sign DT Tommy Akingbesote, waive CB Devon Marshall",
-      "description": "The Jaguars have made a pair of roster moves on Sunday.",
-      "url": "https://sports.yahoo.com/articles/jaguars-sign-dt-tommy-akingbesote-201833694.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaguars sign DT Tommy Akingbesote, waive CB Devon Marshall",
       "description": "The Jaguars have made a pair of roster moves on Sunday.",
@@ -30,5 +24,5 @@
     "sunday"
   ],
   "hash": "d892e351173b5ccd",
-  "queuedAt": "2026-08-24T02:06:27.913Z"
+  "queuedAt": "2026-08-24T08:11:26.361Z"
 }
