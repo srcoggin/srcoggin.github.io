@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks second-round S Bud Clark carted off with leg injury",
-      "description": "Seahawks rookie safety Bud Clark was carted off with a right leg injury in Sunday night's preseason game against the Titans.",
-      "url": "https://sports.yahoo.com/articles/seahawks-second-round-bud-clark-014532416.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks second-round S Bud Clark carted off with leg injury",
       "description": "Seahawks rookie safety Bud Clark was carted off with a right leg injury in Sunday night's preseason game against the Titans.",
@@ -34,5 +28,5 @@
     "titans"
   ],
   "hash": "bdce9be130109fee",
-  "queuedAt": "2026-08-24T08:11:19.712Z"
+  "queuedAt": "2026-08-24T14:41:23.187Z"
 }

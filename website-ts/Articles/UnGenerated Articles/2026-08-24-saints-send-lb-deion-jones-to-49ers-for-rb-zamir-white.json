@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saints send LB Deion Jones to 49ers for RB Zamir White",
-      "description": "The Saints are trading veteran linebacker Deion Jones to the 49ers in exchange for running back Zamir White, Adam Schefter of ESPN reports.",
-      "url": "https://sports.yahoo.com/articles/saints-send-lb-deion-jones-030542958.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saints send LB Deion Jones to 49ers for RB Zamir White",
       "description": "The Saints are trading veteran linebacker Deion Jones to the 49ers in exchange for running back Zamir White, Adam Schefter of ESPN reports.",
@@ -35,5 +29,5 @@
     "reports"
   ],
   "hash": "6fb85c4c7d53d527",
-  "queuedAt": "2026-08-24T08:11:18.345Z"
+  "queuedAt": "2026-08-24T14:41:10.472Z"
 }

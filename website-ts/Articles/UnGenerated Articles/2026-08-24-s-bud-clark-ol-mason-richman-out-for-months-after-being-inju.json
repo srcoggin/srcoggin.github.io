@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "S Bud Clark, OL Mason Richman out for months after being injured Sunday night",
-      "description": "The Seahawks have taken three big losses before the season even starts.",
-      "url": "https://sports.yahoo.com/articles/bud-clark-ol-mason-richman-034737376.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "S Bud Clark, OL Mason Richman out for months after being injured Sunday night",
       "description": "The Seahawks have taken three big losses before the season even starts.",
@@ -34,5 +28,5 @@
     "starts"
   ],
   "hash": "6924cb28d134b1db",
-  "queuedAt": "2026-08-24T08:11:19.404Z"
+  "queuedAt": "2026-08-24T14:41:23.059Z"
 }

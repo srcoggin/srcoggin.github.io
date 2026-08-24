@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders RB Ashton Jeanty diagnosed with sprained ankle",
-      "description": "Raiders running back Ashton Jeanty needed help off the practice field on Sunday after injuring his right leg.",
-      "url": "https://sports.yahoo.com/articles/raiders-rb-ashton-jeanty-diagnosed-032503843.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders RB Ashton Jeanty diagnosed with sprained ankle",
       "description": "Raiders running back Ashton Jeanty needed help off the practice field on Sunday after injuring his right leg.",
@@ -36,5 +30,5 @@
     "leg"
   ],
   "hash": "c3fb83f00503614a",
-  "queuedAt": "2026-08-24T08:11:19.501Z"
+  "queuedAt": "2026-08-24T14:41:21.305Z"
 }
