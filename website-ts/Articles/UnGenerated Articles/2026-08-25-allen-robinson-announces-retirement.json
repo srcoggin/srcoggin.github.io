@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Allen Robinson announces retirement",
-      "description": "Former NFL wide receiver Allen Robinson II announced his retirement on Monday.",
-      "url": "https://sports.yahoo.com/articles/allen-robinson-announces-retirement-232818289.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Allen Robinson announces retirement",
       "description": "Former NFL wide receiver Allen Robinson II announced his retirement on Monday.",
@@ -28,5 +22,5 @@
     "monday"
   ],
   "hash": "b58b21a6e784443f",
-  "queuedAt": "2026-08-25T07:37:23.804Z"
+  "queuedAt": "2026-08-25T13:48:19.451Z"
 }

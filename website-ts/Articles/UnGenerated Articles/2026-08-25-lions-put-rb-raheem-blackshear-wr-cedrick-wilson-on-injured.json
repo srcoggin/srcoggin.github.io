@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions put RB Raheem Blackshear, WR Cedrick Wilson on injured reserve",
-      "description": "The Lions placed a couple of veterans on injured reserve Monday.",
-      "url": "https://sports.yahoo.com/articles/lions-put-rb-raheem-blackshear-221657217.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions put RB Raheem Blackshear, WR Cedrick Wilson on injured reserve",
       "description": "The Lions placed a couple of veterans on injured reserve Monday.",
@@ -30,5 +24,5 @@
     "monday"
   ],
   "hash": "e59112df3ecb57af",
-  "queuedAt": "2026-08-25T07:37:25.944Z"
+  "queuedAt": "2026-08-25T13:48:26.975Z"
 }

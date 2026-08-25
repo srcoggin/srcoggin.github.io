@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers sign DE Viliami Fehoko",
-      "description": "The 49ers added pass rush help on Monday, signing defensive end Viliami Fehoko, according to the NFL's transaction wire.",
-      "url": "https://sports.yahoo.com/articles/49ers-sign-viliami-fehoko-223357282.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers sign DE Viliami Fehoko",
       "description": "The 49ers added pass rush help on Monday, signing defensive end Viliami Fehoko, according to the NFL's transaction wire.",
@@ -34,5 +28,5 @@
     "wire"
   ],
   "hash": "cd7380bf9bafc955",
-  "queuedAt": "2026-08-25T07:37:25.886Z"
+  "queuedAt": "2026-08-25T13:48:26.901Z"
 }
