@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals activate Josh Sweat from active/PUP among several moves",
-      "description": "The Cardinals activated pass rusher Josh Sweat from the active/physically unable to perform list on Monday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/cardinals-activate-josh-sweat-active-210032866.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals activate Josh Sweat from active/PUP among several moves",
       "description": "The Cardinals activated pass rusher Josh Sweat from the active/physically unable to perform list on Monday, the team announced.",
@@ -35,5 +29,5 @@
     "announced"
   ],
   "hash": "778d553348debac3",
-  "queuedAt": "2026-08-25T02:34:43.906Z"
+  "queuedAt": "2026-08-25T07:37:25.265Z"
 }
