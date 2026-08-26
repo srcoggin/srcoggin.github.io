@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dae'Quan Wright clears waivers, paving way to join LSU",
-      "description": "Dae'Quan Wright is going back to school.",
-      "url": "https://sports.yahoo.com/articles/daequan-wright-clears-waivers-paving-223430622.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dae'Quan Wright clears waivers, paving way to join LSU",
       "description": "Dae'Quan Wright is going back to school.",
@@ -29,5 +23,5 @@
     "school"
   ],
   "hash": "79c1a14185cba3a7",
-  "queuedAt": "2026-08-26T08:23:40.930Z"
+  "queuedAt": "2026-08-26T13:50:06.567Z"
 }

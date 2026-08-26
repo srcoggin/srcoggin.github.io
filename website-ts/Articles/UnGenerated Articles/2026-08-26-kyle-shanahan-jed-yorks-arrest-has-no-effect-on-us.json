@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Shanahan: Jed York's arrest \"has no effect on us\"",
-      "description": "Shanahan insists owners legal issue won't be a distraction.",
-      "url": "https://sports.yahoo.com/articles/kyle-shanahan-jed-yorks-arrest-000841138.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Shanahan: Jed York's arrest \"has no effect on us\"",
       "description": "Shanahan insists owners legal issue won't be a distraction.",
@@ -30,5 +24,5 @@
     "distraction"
   ],
   "hash": "ae5e9719c8c06eab",
-  "queuedAt": "2026-08-26T08:23:40.690Z"
+  "queuedAt": "2026-08-26T13:50:04.375Z"
 }

@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants trade OG Joshua Ezeudu to the Chiefs",
-      "description": "The Giants traded offensive guard Joshua Ezeudu to the Chiefs on Tuesday night, Mike Garafolo of NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/giants-trade-og-joshua-ezeudu-011125035.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants trade OG Joshua Ezeudu to the Chiefs",
       "description": "The Giants traded offensive guard Joshua Ezeudu to the Chiefs on Tuesday night, Mike Garafolo of NFL Media reports.",
@@ -32,5 +26,5 @@
     "reports"
   ],
   "hash": "9bd331a41daf3bfc",
-  "queuedAt": "2026-08-26T08:23:38.410Z"
+  "queuedAt": "2026-08-26T13:49:57.591Z"
 }

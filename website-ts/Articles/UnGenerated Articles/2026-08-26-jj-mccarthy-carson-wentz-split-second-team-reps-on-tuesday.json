@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "J.J. McCarthy, Carson Wentz split second-team reps on Tuesday",
-      "description": "If McCarthy slips to No. 3, he could be gone by Sunday's roster cuts.",
-      "url": "https://sports.yahoo.com/articles/j-j-mccarthy-carson-wentz-224521689.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "J.J. McCarthy, Carson Wentz split second-team reps on Tuesday",
       "description": "If McCarthy slips to No. 3, he could be gone by Sunday's roster cuts.",
@@ -30,5 +24,5 @@
     "cuts"
   ],
   "hash": "cabd80e2485391b8",
-  "queuedAt": "2026-08-26T08:23:40.805Z"
+  "queuedAt": "2026-08-26T13:50:06.493Z"
 }
