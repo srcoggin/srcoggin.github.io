@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bills cut receiver Mecole Hardman, punter Mitch Wishnowsky",
-      "description": "As the Bills pare down their roster from 90 to 53 players, they're getting rid of a well-known veteran wide receiver and picking a winner in their punter competition.",
-      "url": "https://sports.yahoo.com/articles/bills-cut-receiver-mecole-hardman-153845880.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bills cut receiver Mecole Hardman, punter Mitch Wishnowsky",
       "description": "As the Bills pare down their roster from 90 to 53 players, they're getting rid of a well-known veteran wide receiver and picking a winner in their punter competition.",
@@ -40,5 +34,5 @@
     "competition"
   ],
   "hash": "9c3e8ab77182120f",
-  "queuedAt": "2026-08-29T17:06:03.285Z"
+  "queuedAt": "2026-08-29T22:13:23.401Z"
 }

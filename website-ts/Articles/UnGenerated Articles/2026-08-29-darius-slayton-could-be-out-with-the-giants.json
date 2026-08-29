@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Darius Slayton could be out with the Giants",
-      "description": "With so much focus on whether former Giants star receiver Odell Beckham Jr. will make the team in his first year back on the roster since 2018, a receiver drafted a month after OBJ would traded is in danger of not surviving Sunday's cuts.",
-      "url": "https://sports.yahoo.com/articles/darius-slayton-could-giants-163520975.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Darius Slayton could be out with the Giants",
       "description": "With so much focus on whether former Giants star receiver Odell Beckham Jr. will make the team in his first year back on the roster since 2018, a receiver drafted a month after OBJ would traded is in danger of not surviving Sunday's cuts.",
@@ -45,5 +39,5 @@
     "cuts"
   ],
   "hash": "bc3f6490f4816d4d",
-  "queuedAt": "2026-08-29T17:06:03.135Z"
+  "queuedAt": "2026-08-29T22:13:22.942Z"
 }

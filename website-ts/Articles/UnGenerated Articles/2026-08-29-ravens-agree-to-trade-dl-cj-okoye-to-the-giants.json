@@ -1,19 +1,7 @@
 {
   "title": "Ravens agree to trade DL C.J. Okoye to the Giants",
-  "category": "trades",
+  "category": "coaching",
   "sources": [
-    {
-      "name": "Yahoo Sports NFL",
-      "title": "Ravens trade DT C.J. Okoye to Giants",
-      "description": "John Harbaugh is bringing another one of his former Ravens players to the Giants.",
-      "url": "https://sports.yahoo.com/articles/ravens-trade-dt-c-j-152254343.html"
-    },
-    {
-      "name": "Yahoo Sports NFL",
-      "title": "Ravens agree to trade DL C.J. Okoye to the Giants",
-      "description": "Giants head coach John Harbaugh is bringing another Raven with him to his new team.",
-      "url": "https://sports.yahoo.com/articles/ravens-agree-trade-dl-c-135702808.html"
-    },
     {
       "name": "Pro Football Talk",
       "title": "Ravens agree to trade DL C.J. Okoye to the Giants",
@@ -23,24 +11,21 @@
   ],
   "keywords": [
     "ravens",
+    "agree",
     "trade",
     "okoye",
     "giants",
+    "head",
+    "coach",
     "john",
     "harbaugh",
     "bringing",
     "another",
-    "one",
-    "his",
-    "former",
-    "players",
-    "agree",
-    "head",
-    "coach",
     "raven",
     "him",
+    "his",
     "new"
   ],
-  "hash": "45e3ca395846f013",
-  "queuedAt": "2026-08-29T17:06:03.065Z"
+  "hash": "93463ef4f3891206",
+  "queuedAt": "2026-08-29T22:13:23.542Z"
 }

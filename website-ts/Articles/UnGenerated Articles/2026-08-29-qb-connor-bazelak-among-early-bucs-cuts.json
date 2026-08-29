@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "QB Connor Bazelak among early Bucs cuts",
-      "description": "Quarterback Connor Bazelak fell behind rookie Jalon Daniels on the Buccaneers' depth chart this offseason and he's now off the roster altogether.",
-      "url": "https://sports.yahoo.com/articles/qb-connor-bazelak-among-early-161748802.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "QB Connor Bazelak among early Bucs cuts",
       "description": "Quarterback Connor Bazelak fell behind rookie Jalon Daniels on the Buccaneers' depth chart this offseason and he's now off the roster altogether.",
@@ -40,5 +34,5 @@
     "altogether"
   ],
   "hash": "96d61d5b8346ea2e",
-  "queuedAt": "2026-08-29T17:06:03.227Z"
+  "queuedAt": "2026-08-29T22:13:23.089Z"
 }
