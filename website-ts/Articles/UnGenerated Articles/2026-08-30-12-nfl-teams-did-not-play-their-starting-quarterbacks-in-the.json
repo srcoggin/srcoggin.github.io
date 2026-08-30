@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "12 NFL teams did not play their starting quarterbacks in the preseason",
-      "description": "The growing trend of NFL teams keeping their quarterbacks out of the preseason has reached the point where more than one-third of starting quarterbacks did not take a single snap in this year's preseason.",
-      "url": "https://sports.yahoo.com/articles/12-nfl-teams-did-not-111021313.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "12 NFL teams did not play their starting quarterbacks in the preseason",
       "description": "The growing trend of NFL teams keeping their quarterbacks out of the preseason has reached the point where more than one-third of starting quarterbacks did not take a single snap in this year's preseason.",
@@ -36,5 +30,5 @@
     "years"
   ],
   "hash": "65d1fcc0505ba93f",
-  "queuedAt": "2026-08-30T12:09:53.073Z"
+  "queuedAt": "2026-08-30T17:49:48.568Z"
 }

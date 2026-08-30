@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dan Campbell not worried about his kicker after Jake Bates misses two extra points",
-      "description": "Lions kicker Jake Bates did not finish the preseason strong on Saturday.",
-      "url": "https://sports.yahoo.com/articles/dan-campbell-not-worried-kicker-090850151.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dan Campbell not worried about his kicker after Jake Bates misses two extra points",
       "description": "Lions kicker Jake Bates did not finish the preseason strong on Saturday.",
@@ -35,5 +29,5 @@
     "saturday"
   ],
   "hash": "1f0cf4e29a1284e1",
-  "queuedAt": "2026-08-30T12:09:53.181Z"
+  "queuedAt": "2026-08-30T17:49:48.824Z"
 }

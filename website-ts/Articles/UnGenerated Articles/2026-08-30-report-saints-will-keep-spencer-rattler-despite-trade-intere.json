@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Saints will keep Spencer Rattler despite trade interest",
-      "description": "The Saints waived fourth quarterback Hunter Dekkers on Saturday, leaving Spencer Rattler and Zach Wilson behind Tyler Shough.",
-      "url": "https://sports.yahoo.com/articles/report-saints-keep-spencer-rattler-024206201.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Saints will keep Spencer Rattler despite trade interest",
       "description": "The Saints waived fourth quarterback Hunter Dekkers on Saturday, leaving Spencer Rattler and Zach Wilson behind Tyler Shough.",
@@ -38,5 +32,5 @@
     "shough"
   ],
   "hash": "61aa9c8a05d2919e",
-  "queuedAt": "2026-08-30T12:09:52.052Z"
+  "queuedAt": "2026-08-30T17:49:37.074Z"
 }

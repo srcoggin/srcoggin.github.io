@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears third-round pick Zavion Thomas scores 97-yard touchdown on his first NFL play",
-      "description": "Thomas made his preseason debut on Saturday and put on a show.",
-      "url": "https://sports.yahoo.com/articles/bears-third-round-pick-zavion-095824792.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears third-round pick Zavion Thomas scores 97-yard touchdown on his first NFL play",
       "description": "Thomas made his preseason debut on Saturday and put on a show.",
@@ -35,5 +29,5 @@
     "show"
   ],
   "hash": "048486f168680156",
-  "queuedAt": "2026-08-30T12:09:53.123Z"
+  "queuedAt": "2026-08-30T17:49:48.693Z"
 }
