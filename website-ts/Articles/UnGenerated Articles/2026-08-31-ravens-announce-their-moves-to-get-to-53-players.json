@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ravens announce their moves to get to 53 players",
-      "description": "The Ravens reached the 53-player limit on Sunday, but their biggest story was who they kept.",
-      "url": "https://sports.yahoo.com/articles/ravens-announce-moves-53-players-014310946.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ravens announce their moves to get to 53 players",
       "description": "The Ravens reached the 53-player limit on Sunday, but their biggest story was who they kept.",
@@ -33,5 +27,5 @@
     "kept"
   ],
   "hash": "54baea9c034bb058",
-  "queuedAt": "2026-08-31T05:52:45.153Z"
+  "queuedAt": "2026-08-31T14:33:12.280Z"
 }

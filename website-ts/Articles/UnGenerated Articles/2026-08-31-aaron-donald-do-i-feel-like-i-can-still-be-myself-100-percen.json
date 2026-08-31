@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Donald: \"Do I feel like I can still be myself? 100 percent\"",
-      "description": "Donald told reporters after his first practice back with the Rams that he's known for about two weeks that he would be returning to the field in 2026.",
-      "url": "https://sports.yahoo.com/articles/aaron-donald-feel-still-myself-012208292.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Donald: \"Do I feel like I can still be myself? 100 percent\"",
       "description": "Donald told reporters after his first practice back with the Rams that he's known for about two weeks that he would be returning to the field in 2026.",
@@ -42,5 +36,5 @@
     "2026"
   ],
   "hash": "31c77807892bb475",
-  "queuedAt": "2026-08-31T05:52:43.070Z"
+  "queuedAt": "2026-08-31T14:32:58.230Z"
 }

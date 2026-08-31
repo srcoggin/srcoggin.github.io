@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McVay on Aaron Donald: We'll see if we think it’s best to play him in Australia",
-      "description": "Now that Aaron Donald is officially back with the Rams, when will he play?",
-      "url": "https://sports.yahoo.com/articles/sean-mcvay-aaron-donald-well-014145064.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McVay on Aaron Donald: We'll see if we think it’s best to play him in Australia",
       "description": "Now that Aaron Donald is officially back with the Rams, when will he play?",
@@ -35,5 +29,5 @@
     "rams"
   ],
   "hash": "23e3488c03137bff",
-  "queuedAt": "2026-08-31T05:52:42.910Z"
+  "queuedAt": "2026-08-31T14:32:58.066Z"
 }

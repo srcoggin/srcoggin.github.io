@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Buccaneers set initial 53-man roster",
-      "description": "The biggest news of cutdown day in Tampa was that rookie Jalon Daniels has won the backup quarterback job behind Baker Mayfield.",
-      "url": "https://sports.yahoo.com/articles/buccaneers-set-initial-53-man-011505774.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Buccaneers set initial 53-man roster",
       "description": "The biggest news of cutdown day in Tampa was that rookie Jalon Daniels has won the backup quarterback job behind Baker Mayfield.",
@@ -39,5 +33,5 @@
     "mayfield"
   ],
   "hash": "c6541fe2ae0a5495",
-  "queuedAt": "2026-08-31T05:52:45.348Z"
+  "queuedAt": "2026-08-31T14:33:12.651Z"
 }
