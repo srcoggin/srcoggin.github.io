@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "QB Shane Buechele, OL Jedrick Willis among Bills' practice squad signings",
-      "description": "The Bills announced their practice squad additions on Monday.",
-      "url": "https://sports.yahoo.com/articles/qb-shane-buechele-ol-jedrick-002342669.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "QB Shane Buechele, OL Jedrick Willis among Bills' practice squad signings",
       "description": "The Bills announced their practice squad additions on Monday.",
@@ -31,5 +25,5 @@
     "monday"
   ],
   "hash": "21e0f81f61faf4be",
-  "queuedAt": "2026-09-01T05:18:21.214Z"
+  "queuedAt": "2026-09-01T12:12:42.229Z"
 }
