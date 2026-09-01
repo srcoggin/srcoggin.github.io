@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bucs add QB Easton Stick to the practice squad",
-      "description": "The Bucs kept only two quarterbacks on their active roster, but added another to the practice squad on Monday.",
-      "url": "https://sports.yahoo.com/articles/bucs-add-qb-easton-stick-212816032.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bucs add QB Easton Stick to the practice squad",
       "description": "The Bucs kept only two quarterbacks on their active roster, but added another to the practice squad on Monday.",
@@ -33,5 +27,5 @@
     "monday"
   ],
   "hash": "028b2dd391dc0d76",
-  "queuedAt": "2026-09-01T00:19:28.694Z"
+  "queuedAt": "2026-09-01T05:18:32.052Z"
 }

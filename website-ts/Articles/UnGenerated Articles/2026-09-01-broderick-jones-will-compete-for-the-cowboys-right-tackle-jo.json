@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broderick Jones will compete for the Cowboys' right tackle job",
-      "description": "Cowboys head coach Brian Schottenheimer shared the team's plan for the newly acquired Broderick Jones during a Monday press conference.",
-      "url": "https://sports.yahoo.com/articles/broderick-jones-compete-cowboys-tackle-224230240.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broderick Jones will compete for the Cowboys' right tackle job",
       "description": "Cowboys head coach Brian Schottenheimer shared the team's plan for the newly acquired Broderick Jones during a Monday press conference.",
@@ -37,5 +31,5 @@
     "conference"
   ],
   "hash": "cd4f69bd7d3f9c9a",
-  "queuedAt": "2026-09-01T00:19:27.789Z"
+  "queuedAt": "2026-09-01T05:18:31.027Z"
 }

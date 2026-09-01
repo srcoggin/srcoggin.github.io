@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders waive 2024 fourth-round pick Decamerion Richardson",
-      "description": "Two years after drafting him in the fourth round of the 2024 NFL Draft, the Raiders are saying goodbye to Decamerion Richardson.",
-      "url": "https://sports.yahoo.com/articles/raiders-waive-2024-fourth-round-215914555.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders waive 2024 fourth-round pick Decamerion Richardson",
       "description": "Two years after drafting him in the fourth round of the 2024 NFL Draft, the Raiders are saying goodbye to Decamerion Richardson.",
@@ -34,5 +28,5 @@
     "goodbye"
   ],
   "hash": "49073bcb9eb1a791",
-  "queuedAt": "2026-09-01T00:19:28.394Z"
+  "queuedAt": "2026-09-01T05:18:31.586Z"
 }

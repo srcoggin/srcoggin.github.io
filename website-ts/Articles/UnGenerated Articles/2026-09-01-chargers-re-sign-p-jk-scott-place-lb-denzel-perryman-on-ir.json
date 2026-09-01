@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chargers re-sign P JK Scott, place LB Denzel Perryman on IR",
-      "description": "The Chargers terminated the contract of punter JK Scott in a procedural move Sunday.",
-      "url": "https://sports.yahoo.com/articles/chargers-sign-p-jk-scott-215648018.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chargers re-sign P JK Scott, place LB Denzel Perryman on IR",
       "description": "The Chargers terminated the contract of punter JK Scott in a procedural move Sunday.",
@@ -30,5 +24,5 @@
     "sunday"
   ],
   "hash": "a8b0306c4850ff33",
-  "queuedAt": "2026-09-01T00:19:28.535Z"
+  "queuedAt": "2026-09-01T05:18:31.806Z"
 }
