@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Odell Beckham Jr. is back in No. 13",
-      "description": "Jalin Hyatt, now on the practice squad, gives 13 back to OBJ.",
-      "url": "https://sports.yahoo.com/articles/odell-beckham-jr-back-no-161850211.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Odell Beckham Jr. is back in No. 13",
       "description": "Jalin Hyatt, now on the practice squad, gives 13 back to OBJ.",
@@ -28,5 +22,5 @@
     "obj"
   ],
   "hash": "b39c6f10e9617c29",
-  "queuedAt": "2026-09-01T17:49:16.498Z"
+  "queuedAt": "2026-09-01T22:13:25.229Z"
 }

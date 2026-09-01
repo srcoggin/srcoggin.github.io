@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Trent McDuffie never believed he could be teammates with Myles Garrett and Aaron Donald",
-      "description": "Six months ago, Trent McDuffie was on the Chiefs, Myles Garrett was on the Browns and Aaron Donald was retired.",
-      "url": "https://sports.yahoo.com/articles/trent-mcduffie-never-believed-could-161933666.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Trent McDuffie never believed he could be teammates with Myles Garrett and Aaron Donald",
       "description": "Six months ago, Trent McDuffie was on the Chiefs, Myles Garrett was on the Browns and Aaron Donald was retired.",
@@ -33,5 +27,5 @@
     "retired"
   ],
   "hash": "d7dc0a794f1c7676",
-  "queuedAt": "2026-09-01T17:49:16.368Z"
+  "queuedAt": "2026-09-01T22:13:25.386Z"
 }

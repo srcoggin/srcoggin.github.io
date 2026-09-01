@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Reports: Browns plan to sign DE Sam Williams",
-      "description": "The Browns are planning to make an addition to their defensive line.",
-      "url": "https://sports.yahoo.com/articles/reports-browns-plan-sign-sam-160752349.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Reports: Browns plan to sign DE Sam Williams",
       "description": "The Browns are planning to make an addition to their defensive line.",
@@ -30,5 +24,5 @@
     "line"
   ],
   "hash": "5fb3e2a5060d34b5",
-  "queuedAt": "2026-09-01T17:49:14.408Z"
+  "queuedAt": "2026-09-01T22:13:17.022Z"
 }
