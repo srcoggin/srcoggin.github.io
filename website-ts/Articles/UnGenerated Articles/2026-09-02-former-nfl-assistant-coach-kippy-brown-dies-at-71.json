@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Former NFL assistant coach Kippy Brown dies at 71",
-      "description": "Former NFL assistant coach Kippy Brown died this week, Matt Young of the Houston Chronicle reports.",
-      "url": "https://sports.yahoo.com/articles/former-nfl-assistant-coach-kippy-234253457.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Former NFL assistant coach Kippy Brown dies at 71",
       "description": "Former NFL assistant coach Kippy Brown died this week, Matt Young of the Houston Chronicle reports.",
@@ -31,5 +25,5 @@
     "reports"
   ],
   "hash": "b5e96ccb64e16d60",
-  "queuedAt": "2026-09-02T05:16:33.292Z"
+  "queuedAt": "2026-09-02T12:44:06.762Z"
 }

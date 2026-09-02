@@ -3,18 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bucs claim CB Kevin Knowles off waivers",
-      "description": "The Buccaneers claimed cornerback Kevin Knowles off waivers on Tuesday, according to the NFL's personnel notice.",
-      "url": "https://sports.yahoo.com/articles/bucs-claim-cb-kevin-knowles-215748132.html"
-    },
-    {
-      "name": "Yahoo Sports NFL",
-      "title": "Saints claim CB Decamerion Richardson off waivers",
-      "description": "The Saints claimed cornerback Decamerion Richardson off waivers, according to the NFL's personnel notice.",
-      "url": "https://sports.yahoo.com/articles/saints-claim-cb-decamerion-richardson-211934045.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bucs claim CB Kevin Knowles off waivers",
       "description": "The Buccaneers claimed cornerback Kevin Knowles off waivers on Tuesday, according to the NFL's personnel notice.",
@@ -47,5 +35,5 @@
     "richardson"
   ],
   "hash": "6b97903a205079f8",
-  "queuedAt": "2026-09-02T05:16:34.040Z"
+  "queuedAt": "2026-09-02T12:44:08.241Z"
 }
