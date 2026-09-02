@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders officially name Kirk Cousins their starting quarterback",
-      "description": "Cousins will officially begin the season as Las Vegas' QB1 over rookie Fernando Mendoza.",
-      "url": "https://sports.yahoo.com/articles/raiders-officially-name-kirk-cousins-164518988.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders officially name Kirk Cousins their starting quarterback",
       "description": "Cousins will officially begin the season as Las Vegas' QB1 over rookie Fernando Mendoza.",
@@ -34,5 +28,5 @@
     "mendoza"
   ],
   "hash": "5d129dbd66efb258",
-  "queuedAt": "2026-09-02T17:02:35.638Z"
+  "queuedAt": "2026-09-02T21:34:02.907Z"
 }

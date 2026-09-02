@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots devised perfect way to mess with opposing field-goal kickers",
-      "description": "Football fans with end zone seats have tried over the years to come up with ways to distract a kicker who is attempting a field goal.",
-      "url": "https://sports.yahoo.com/articles/patriots-devised-perfect-way-mess-145553783.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots devised perfect way to mess with opposing field-goal kickers",
       "description": "Football fans with end zone seats have tried over the years to come up with ways to distract a kicker who is attempting a field goal.",
@@ -41,5 +35,5 @@
     "goal"
   ],
   "hash": "654fc7255ee25424",
-  "queuedAt": "2026-09-02T17:02:36.793Z"
+  "queuedAt": "2026-09-02T21:34:07.940Z"
 }

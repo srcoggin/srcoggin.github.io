@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kirk Cousins, Ashton Jeanty not participating in Wednesday's practice",
-      "description": "Jeanty is still recovering from an ankle injury, while the reason for Cousins' absence is currently unknown.",
-      "url": "https://sports.yahoo.com/articles/kirk-cousins-ashton-jeanty-not-155629609.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kirk Cousins, Ashton Jeanty not participating in Wednesday's practice",
       "description": "Jeanty is still recovering from an ankle injury, while the reason for Cousins' absence is currently unknown.",
@@ -34,5 +28,5 @@
     "unknown"
   ],
   "hash": "885a2e69ba363125",
-  "queuedAt": "2026-09-02T17:02:36.649Z"
+  "queuedAt": "2026-09-02T21:34:07.868Z"
 }
