@@ -1,0 +1,23 @@
+{
+  "title": "Predict the Titans win total",
+  "category": "general",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Predict the Titans win total",
+      "description": "Put your name on it.",
+      "url": "https://sports.yahoo.com/articles/predict-titans-win-total-145122997.html"
+    }
+  ],
+  "keywords": [
+    "predict",
+    "titans",
+    "win",
+    "total",
+    "put",
+    "your",
+    "name"
+  ],
+  "hash": "76b599392e62b56b",
+  "queuedAt": "2026-09-02T17:02:38.539Z"
+}

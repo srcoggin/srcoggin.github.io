@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Todd Monken hasn't watched much past film from Deshaun Watson",
-      "description": "Browns coach Todd Monken had a big decision to make at quarterback.",
-      "url": "https://sports.yahoo.com/articles/todd-monken-hasnt-watched-much-005350910.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Todd Monken hasn't watched much past film from Deshaun Watson",
       "description": "Browns coach Todd Monken had a big decision to make at quarterback.",
@@ -33,5 +27,5 @@
     "quarterback"
   ],
   "hash": "fa91eb5e98c7095c",
-  "queuedAt": "2026-09-02T12:44:07.896Z"
+  "queuedAt": "2026-09-02T17:02:41.284Z"
 }

@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brian Gutekunst: Talks with Cardinals about Josh Sweat never happened",
-      "description": "The offseason consisted of a rumor that the Cardinals would be trading linebacker Josh Sweat to the Packers.",
-      "url": "https://sports.yahoo.com/articles/brian-gutekunst-talks-cardinals-josh-003427434.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brian Gutekunst: Talks with Cardinals about Josh Sweat never happened",
       "description": "The offseason consisted of a rumor that the Cardinals would be trading linebacker Josh Sweat to the Packers.",
@@ -34,5 +28,5 @@
     "packers"
   ],
   "hash": "de9a7f0529b63b26",
-  "queuedAt": "2026-09-02T12:44:08.040Z"
+  "queuedAt": "2026-09-02T17:02:41.593Z"
 }

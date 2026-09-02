@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jon-Eric Sullivan on Quinn Ewers: This is a performance business and it was not getting done",
-      "description": "The Dolphins traded Ewers to the Jaguars for a 2028 sixth-round draft pick.",
-      "url": "https://sports.yahoo.com/articles/jon-eric-sullivan-quinn-ewers-080236497.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jon-Eric Sullivan on Quinn Ewers: This is a performance business and it was not getting done",
       "description": "The Dolphins traded Ewers to the Jaguars for a 2028 sixth-round draft pick.",
@@ -34,5 +28,5 @@
     "pick"
   ],
   "hash": "8d77e466f3810f9b",
-  "queuedAt": "2026-09-02T12:44:07.589Z"
+  "queuedAt": "2026-09-02T17:02:41.419Z"
 }
