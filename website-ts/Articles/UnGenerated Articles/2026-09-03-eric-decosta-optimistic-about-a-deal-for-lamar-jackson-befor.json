@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eric DeCosta \"optimistic\" about a deal for Lamar Jackson before March",
-      "description": "The Ravens quarterback has two seasons left on his deal, with a cap hit of $84.340 million for 2027.",
-      "url": "https://sports.yahoo.com/articles/eric-decosta-optimistic-deal-lamar-223302607.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eric DeCosta \"optimistic\" about a deal for Lamar Jackson before March",
       "description": "The Ravens quarterback has two seasons left on his deal, with a cap hit of $84.340 million for 2027.",
@@ -37,5 +31,5 @@
     "2027"
   ],
   "hash": "54f125414ed8769f",
-  "queuedAt": "2026-09-03T05:16:24.565Z"
+  "queuedAt": "2026-09-03T12:00:52.782Z"
 }

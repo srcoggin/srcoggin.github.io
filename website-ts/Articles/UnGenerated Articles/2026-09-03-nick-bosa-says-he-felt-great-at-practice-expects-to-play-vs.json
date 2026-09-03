@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nick Bosa says he felt great at practice, expects to play vs. Rams in Australia",
-      "description": "\"Today was a great day,\" Bosa said.",
-      "url": "https://sports.yahoo.com/articles/nick-bosa-says-felt-great-201806028.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nick Bosa says he felt great at practice, expects to play vs. Rams in Australia",
       "description": "\"Today was a great day,\" Bosa said.",
@@ -31,5 +25,5 @@
     "said"
   ],
   "hash": "2f2b3b35bc21ac44",
-  "queuedAt": "2026-09-03T05:16:25.229Z"
+  "queuedAt": "2026-09-03T12:00:53.094Z"
 }

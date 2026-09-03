@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mason Rudolph is happy Myles Garrett has left the AFC North",
-      "description": "Defensive end Myles Garrett and quarterback Mason Rudolph became forever linked in NFL lore on the night of November 14, 2019, when Garrett ripped away Rudolph's helmet and struck him over the head with it.",
-      "url": "https://sports.yahoo.com/articles/mason-rudolph-happy-myles-garrett-203932700.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mason Rudolph is happy Myles Garrett has left the AFC North",
       "description": "Defensive end Myles Garrett and quarterback Mason Rudolph became forever linked in NFL lore on the night of November 14, 2019, when Garrett ripped away Rudolph's helmet and struck him over the head with it.",
@@ -44,5 +38,5 @@
     "head"
   ],
   "hash": "9c4617f0fa183c2f",
-  "queuedAt": "2026-09-03T05:16:24.838Z"
+  "queuedAt": "2026-09-03T12:00:53.687Z"
 }

@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Robert Saleh: Cam Ward isn't going to fail, he's special",
-      "description": "The Titans selected quarterback Cam Ward at No. 1 overall last year with the idea that he would become the club’s franchise quarterback.",
-      "url": "https://sports.yahoo.com/articles/robert-saleh-cam-ward-isnt-202425129.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Robert Saleh: Cam Ward isn't going to fail, he's special",
       "description": "The Titans selected quarterback Cam Ward at No. 1 overall last year with the idea that he would become the club’s franchise quarterback.",
@@ -37,5 +31,5 @@
     "franchise"
   ],
   "hash": "28513efd0849c836",
-  "queuedAt": "2026-09-03T05:16:25.090Z"
+  "queuedAt": "2026-09-03T12:00:54.010Z"
 }
