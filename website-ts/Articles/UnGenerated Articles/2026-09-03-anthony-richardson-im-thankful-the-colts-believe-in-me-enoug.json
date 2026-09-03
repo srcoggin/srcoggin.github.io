@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Anthony Richardson: I'm thankful the Colts believe in me enough to make me QB2",
-      "description": "Anthony Richardson was named the Colts' No. 2 quarterback today, and while that's a far cry from what he was expected to be when the Colts made him the fourth overall pick in the 2023 NFL draft, it's a role Richardson said he's happy to have.",
-      "url": "https://sports.yahoo.com/articles/anthony-richardson-im-thankful-colts-155316162.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Anthony Richardson: I'm thankful the Colts believe in me enough to make me QB2",
       "description": "Anthony Richardson was named the Colts' No. 2 quarterback today, and while that's a far cry from what he was expected to be when the Colts made him the fourth overall pick in the 2023 NFL draft, it's a role Richardson said he's happy to have.",
@@ -47,5 +41,5 @@
     "happy"
   ],
   "hash": "152412d6cbb660c5",
-  "queuedAt": "2026-09-03T17:45:08.277Z"
+  "queuedAt": "2026-09-03T21:32:36.171Z"
 }
