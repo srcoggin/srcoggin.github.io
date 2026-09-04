@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Vrabel: Christian Gonzalez situation hasn't been a distraction",
-      "description": "With the season opener rapidly approaching, it's still unclear whether Gonzalez will get a new deal — or if he'll play if he doesn't.",
-      "url": "https://sports.yahoo.com/articles/mike-vrabel-christian-gonzalez-situation-143336515.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Vrabel: Christian Gonzalez situation hasn't been a distraction",
       "description": "With the season opener rapidly approaching, it's still unclear whether Gonzalez will get a new deal — or if he'll play if he doesn't.",
@@ -38,5 +32,5 @@
     "doesnt"
   ],
   "hash": "a4f151d8e95118c8",
-  "queuedAt": "2026-09-04T17:09:11.047Z"
+  "queuedAt": "2026-09-04T21:57:12.838Z"
 }

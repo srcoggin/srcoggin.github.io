@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brian Schottenheimer says he's \"elated\" to have Joe Milton on Cowboys' practice squad",
-      "description": "When the Cowboys waived quarterback Joe Milton, they knew they wanted him back on the practice squad, but they weren't sure if another team would claim him on waivers, or persuade him to join a different practice squad.",
-      "url": "https://sports.yahoo.com/articles/brian-schottenheimer-says-hes-elated-153548037.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brian Schottenheimer says he's \"elated\" to have Joe Milton on Cowboys' practice squad",
       "description": "When the Cowboys waived quarterback Joe Milton, they knew they wanted him back on the practice squad, but they weren't sure if another team would claim him on waivers, or persuade him to join a different practice squad.",
@@ -43,5 +37,5 @@
     "different"
   ],
   "hash": "e11308ca96589356",
-  "queuedAt": "2026-09-04T17:09:10.950Z"
+  "queuedAt": "2026-09-04T21:57:12.712Z"
 }
