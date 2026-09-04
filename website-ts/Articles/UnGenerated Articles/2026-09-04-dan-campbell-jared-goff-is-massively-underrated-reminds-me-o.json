@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dan Campbell: Jared Goff is massively underrated, reminds me of Drew Brees",
-      "description": "Lions head coach Dan Campbell was briefly Drew Brees' teammate in New Orleans, and was on the Saints' coaching staff for the last five seasons of Brees' career.",
-      "url": "https://sports.yahoo.com/articles/dan-campbell-jared-goff-massively-105228015.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dan Campbell: Jared Goff is massively underrated, reminds me of Drew Brees",
       "description": "Lions head coach Dan Campbell was briefly Drew Brees' teammate in New Orleans, and was on the Saints' coaching staff for the last five seasons of Brees' career.",
@@ -41,5 +35,5 @@
     "career"
   ],
   "hash": "c90cccb5d816a0ce",
-  "queuedAt": "2026-09-04T12:46:08.855Z"
+  "queuedAt": "2026-09-04T17:09:19.188Z"
 }

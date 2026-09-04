@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: D'Andre Swift left Thursday's practice due to a cramp",
-      "description": "The Bears saw two offensive players leave practice early on Thursday and a report updates the reason why one of them left the field.",
-      "url": "https://sports.yahoo.com/articles/report-dandre-swift-left-thursdays-115505546.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: D'Andre Swift left Thursday's practice due to a cramp",
       "description": "The Bears saw two offensive players leave practice early on Thursday and a report updates the reason why one of them left the field.",
@@ -39,5 +33,5 @@
     "field"
   ],
   "hash": "231087f8b6950088",
-  "queuedAt": "2026-09-04T12:46:07.474Z"
+  "queuedAt": "2026-09-04T17:09:10.622Z"
 }
