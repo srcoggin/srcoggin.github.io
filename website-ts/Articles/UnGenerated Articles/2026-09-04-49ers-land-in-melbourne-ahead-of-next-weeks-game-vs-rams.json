@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers land in Melbourne ahead of next week's game vs. Rams",
-      "description": "The 49ers are Down Under, having landed in Australia.",
-      "url": "https://sports.yahoo.com/articles/49ers-land-melbourne-ahead-next-220906800.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers land in Melbourne ahead of next week's game vs. Rams",
       "description": "The 49ers are Down Under, having landed in Australia.",
@@ -29,5 +23,5 @@
     "australia"
   ],
   "hash": "db3e97eac0df142b",
-  "queuedAt": "2026-09-04T05:22:19.702Z"
+  "queuedAt": "2026-09-04T12:46:20.269Z"
 }

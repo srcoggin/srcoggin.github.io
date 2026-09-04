@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders work out 16 players, including OL Evan Neal, WR Marquez Valdes-Scantling",
-      "description": "The Raiders worked out 16 players on Thursday, and the group of tryout players included offensive lineman Evan Neal and wide receiver Marquez Valdes-Scantling.",
-      "url": "https://sports.yahoo.com/articles/raiders-16-players-including-ol-224241773.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders work out 16 players, including OL Evan Neal, WR Marquez Valdes-Scantling",
       "description": "The Raiders worked out 16 players on Thursday, and the group of tryout players included offensive lineman Evan Neal and wide receiver Marquez Valdes-Scantling.",
@@ -36,5 +30,5 @@
     "receiver"
   ],
   "hash": "2043b43e344be2b2",
-  "queuedAt": "2026-09-04T05:22:19.559Z"
+  "queuedAt": "2026-09-04T12:46:20.113Z"
 }

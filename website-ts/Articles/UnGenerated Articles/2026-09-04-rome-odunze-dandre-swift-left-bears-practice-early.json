@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rome Odunze, D'Andre Swift left Bears practice early",
-      "description": "Bears fans will be monitoring the status of two offensive players heading into the team's Week 1 game against the Panthers.",
-      "url": "https://sports.yahoo.com/articles/rome-odunze-dandre-swift-left-212738386.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rome Odunze, D'Andre Swift left Bears practice early",
       "description": "Bears fans will be monitoring the status of two offensive players heading into the team's Week 1 game against the Panthers.",
@@ -36,5 +30,5 @@
     "panthers"
   ],
   "hash": "4a02e6996935623b",
-  "queuedAt": "2026-09-04T05:22:19.843Z"
+  "queuedAt": "2026-09-04T12:46:20.694Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nnamdi Madubuike did team drills at Ravens practice Thursday",
-      "description": "Ravens head coach Jesse Minter said earlier this week that he does not see defensive tackle Nnamdi Madubuike \"missing that many games\" as he finishes his comeback from last season's neck injury and a development on Thursday suggests he may not miss any games at all.",
-      "url": "https://sports.yahoo.com/articles/nnamdi-madubuike-did-team-drills-204858143.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nnamdi Madubuike did team drills at Ravens practice Thursday",
       "description": "Ravens head coach Jesse Minter said earlier this week that he does not see defensive tackle Nnamdi Madubuike \"missing that many games\" as he finishes his comeback from last season's neck injury and a development on Thursday suggests he may not miss any games at all.",
@@ -49,5 +43,5 @@
     "any"
   ],
   "hash": "e5b20210510fcd5d",
-  "queuedAt": "2026-09-04T05:22:20.141Z"
+  "queuedAt": "2026-09-04T12:46:21.057Z"
 }
