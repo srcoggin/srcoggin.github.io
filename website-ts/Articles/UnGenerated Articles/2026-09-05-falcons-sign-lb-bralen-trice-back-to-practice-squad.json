@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons sign LB Bralen Trice back to practice squad",
-      "description": "The Falcons signed linebacker Bralen Trice to the practice squad, the team announced.",
-      "url": "https://sports.yahoo.com/articles/falcons-sign-lb-bralen-trice-204411077.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons sign LB Bralen Trice back to practice squad",
       "description": "The Falcons signed linebacker Bralen Trice to the practice squad, the team announced.",
@@ -28,5 +22,5 @@
     "announced"
   ],
   "hash": "9fe263337fbb1016",
-  "queuedAt": "2026-09-05T11:25:31.631Z"
+  "queuedAt": "2026-09-05T15:47:31.669Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McVay: I look at Stetson Bennett, Ty Simpson as \"2A, 2B\"",
-      "description": "The Rams released a depth chart that shows Stetson Bennett as the team's second quarterback and first-round pick Ty Simpson as their third quarterback, but head coach Sean McVay said things are less clear cut than that would make it appear.",
-      "url": "https://sports.yahoo.com/articles/sean-mcvay-look-stetson-bennett-204136352.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McVay: I look at Stetson Bennett, Ty Simpson as \"2A, 2B\"",
       "description": "The Rams released a depth chart that shows Stetson Bennett as the team's second quarterback and first-round pick Ty Simpson as their third quarterback, but head coach Sean McVay said things are less clear cut than that would make it appear.",
@@ -46,5 +40,5 @@
     "appear"
   ],
   "hash": "808527b7cd1d302d",
-  "queuedAt": "2026-09-05T11:25:32.846Z"
+  "queuedAt": "2026-09-05T15:47:40.140Z"
 }

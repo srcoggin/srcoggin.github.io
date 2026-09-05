@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: 49ers to sign DE Khalid Kareem to active roster",
-      "description": "The 49ers are adding some help at defensive end ahead of their season opener in Australia.",
-      "url": "https://sports.yahoo.com/articles/report-49ers-sign-khalid-kareem-215911003.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: 49ers to sign DE Khalid Kareem to active roster",
       "description": "The 49ers are adding some help at defensive end ahead of their season opener in Australia.",
@@ -33,5 +27,5 @@
     "australia"
   ],
   "hash": "ef30889ffff74c38",
-  "queuedAt": "2026-09-05T11:25:31.501Z"
+  "queuedAt": "2026-09-05T15:47:31.546Z"
 }

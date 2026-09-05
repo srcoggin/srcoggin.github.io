@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles have seven captains, with none from special teams",
-      "description": "Like last year, the Eagles have five offensive captains.",
-      "url": "https://sports.yahoo.com/articles/eagles-seven-captains-none-special-232019943.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles have seven captains, with none from special teams",
       "description": "Like last year, the Eagles have five offensive captains.",
@@ -28,5 +22,5 @@
     "offensive"
   ],
   "hash": "d214eaf952e15e6b",
-  "queuedAt": "2026-09-05T11:25:32.506Z"
+  "queuedAt": "2026-09-05T15:47:39.673Z"
 }
