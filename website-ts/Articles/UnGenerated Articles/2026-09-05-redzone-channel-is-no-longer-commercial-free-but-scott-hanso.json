@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "RedZone Channel is no longer commercial-free, but Scott Hanson promises fewer commercials",
-      "description": "For years, host Scott Hanson introduced NFL RedZone Channel by welcoming viewers to \"Seven hours of commercial-free football.\"",
-      "url": "https://sports.yahoo.com/articles/redzone-channel-no-longer-commercial-082027551.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "RedZone Channel is no longer commercial-free, but Scott Hanson promises fewer commercials",
       "description": "For years, host Scott Hanson introduced NFL RedZone Channel by welcoming viewers to \"Seven hours of commercial-free football.\"",
@@ -34,5 +28,5 @@
     "hours"
   ],
   "hash": "ad7d5ad83387dc03",
-  "queuedAt": "2026-09-05T15:47:31.960Z"
+  "queuedAt": "2026-09-05T21:19:07.244Z"
 }
