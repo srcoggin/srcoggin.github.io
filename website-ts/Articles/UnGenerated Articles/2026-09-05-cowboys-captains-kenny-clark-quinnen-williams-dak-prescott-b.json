@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys' captains: Kenny Clark, Quinnen Williams, Dak Prescott, Brandon Aubrey",
-      "description": "The Cowboys have two defensive captains this season, and both were acquired by trading Micah Parsons.",
-      "url": "https://sports.yahoo.com/articles/cowboys-captains-kenny-clark-quinnen-191152563.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys' captains: Kenny Clark, Quinnen Williams, Dak Prescott, Brandon Aubrey",
       "description": "The Cowboys have two defensive captains this season, and both were acquired by trading Micah Parsons.",
@@ -36,5 +30,5 @@
     "parsons"
   ],
   "hash": "7352e9b8959da948",
-  "queuedAt": "2026-09-05T05:03:42.135Z"
+  "queuedAt": "2026-09-05T11:25:41.596Z"
 }

@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Shaq Mason won't be disciplined after 2025 arrest, remains a free agent",
-      "description": "Shaq Mason is ready to resume his career.",
-      "url": "https://sports.yahoo.com/articles/shaq-mason-wont-disciplined-2025-185825362.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Shaq Mason won't be disciplined after 2025 arrest, remains a free agent",
       "description": "Shaq Mason is ready to resume his career.",
@@ -31,5 +25,5 @@
     "career"
   ],
   "hash": "3b54c6c708a88133",
-  "queuedAt": "2026-09-05T05:03:42.391Z"
+  "queuedAt": "2026-09-05T11:25:41.807Z"
 }

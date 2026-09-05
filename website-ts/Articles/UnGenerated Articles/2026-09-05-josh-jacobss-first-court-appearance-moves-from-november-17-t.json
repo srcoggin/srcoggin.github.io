@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Josh Jacobs's first court appearance moves from November 17 to September 10",
-      "description": "Paid leave puts a premium on expediting the prosecuion.",
-      "url": "https://sports.yahoo.com/articles/josh-jacobss-first-court-appearance-190450320.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Josh Jacobs's first court appearance moves from November 17 to September 10",
       "description": "Paid leave puts a premium on expediting the prosecuion.",
@@ -32,5 +26,5 @@
     "prosecuion"
   ],
   "hash": "53cfd8faf0a52430",
-  "queuedAt": "2026-09-05T05:03:42.255Z"
+  "queuedAt": "2026-09-05T11:25:41.711Z"
 }
