@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Harrison Smith returning to Vikings on one-year deal",
-      "description": "The veteran safety will be back with Minnesota for his 15th pro season.",
-      "url": "https://sports.yahoo.com/articles/harrison-smith-returning-vikings-one-232931784.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Harrison Smith returning to Vikings on one-year deal",
       "description": "The veteran safety will be back with Minnesota for his 15th pro season.",
@@ -31,5 +25,5 @@
     "pro"
   ],
   "hash": "52acf15990b1034d",
-  "queuedAt": "2026-09-06T11:17:58.568Z"
+  "queuedAt": "2026-09-06T16:37:31.567Z"
 }

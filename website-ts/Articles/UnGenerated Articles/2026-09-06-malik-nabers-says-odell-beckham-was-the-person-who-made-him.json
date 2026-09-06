@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Malik Nabers says Odell Beckham was the person who made him start watching football",
-      "description": "Nabers says it's \"surreal\" and \"amazing\" to have Beckham for a teammate.",
-      "url": "https://sports.yahoo.com/articles/malik-nabers-says-odell-beckham-173129636.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Malik Nabers says Odell Beckham was the person who made him start watching football",
       "description": "Nabers says it's \"surreal\" and \"amazing\" to have Beckham for a teammate.",
@@ -33,5 +27,5 @@
     "teammate"
   ],
   "hash": "6a5712388623b857",
-  "queuedAt": "2026-09-06T11:17:58.852Z"
+  "queuedAt": "2026-09-06T16:37:32.288Z"
 }

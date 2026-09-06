@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers place DE Sam Okuayinonu on IR",
-      "description": "49ers defensive end Sam Okuayinonu won't play against the Rams on Thursday and he will miss at least three more games as well.",
-      "url": "https://sports.yahoo.com/articles/49ers-place-sam-okuayinonu-ir-202528121.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers place DE Sam Okuayinonu on IR",
       "description": "49ers defensive end Sam Okuayinonu won't play against the Rams on Thursday and he will miss at least three more games as well.",
@@ -34,5 +28,5 @@
     "well"
   ],
   "hash": "44c6df44dc1e60df",
-  "queuedAt": "2026-09-06T11:17:58.620Z"
+  "queuedAt": "2026-09-06T16:37:32.046Z"
 }
