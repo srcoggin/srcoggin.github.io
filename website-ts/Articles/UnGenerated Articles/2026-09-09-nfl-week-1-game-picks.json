@@ -1,0 +1,22 @@
+{
+  "title": "NFL Week 1 Game Picks",
+  "category": "draft",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "NFL Week 1 Game Picks",
+      "description": "Predicting the winners of this week’s football matchups.",
+      "url": "https://sports.yahoo.com/articles/nfl-week-1-game-picks-165645314.html"
+    }
+  ],
+  "keywords": [
+    "picks",
+    "predicting",
+    "winners",
+    "this",
+    "weeks",
+    "matchups"
+  ],
+  "hash": "96fbf9734ec5719a",
+  "queuedAt": "2026-09-09T17:52:45.087Z"
+}

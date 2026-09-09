@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants list Darnell Mooney as starting WR next to Malik Nabers",
-      "description": "The Giants released longtime starting wideout Darius Slayton this week and they released a depth chart showing who is now on the first team on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/giants-list-darnell-mooney-starting-110324385.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants list Darnell Mooney as starting WR next to Malik Nabers",
       "description": "The Giants released longtime starting wideout Darius Slayton this week and they released a depth chart showing who is now on the first team on Tuesday.",
@@ -40,5 +34,5 @@
     "tuesday"
   ],
   "hash": "adea956eace39dc0",
-  "queuedAt": "2026-09-09T12:18:10.752Z"
+  "queuedAt": "2026-09-09T17:52:54.631Z"
 }
