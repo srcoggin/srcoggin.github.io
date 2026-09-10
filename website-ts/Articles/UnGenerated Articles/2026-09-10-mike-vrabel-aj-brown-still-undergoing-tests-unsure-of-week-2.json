@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Vrabel: A.J. Brown still undergoing tests, unsure of Week 2 availability",
-      "description": "While a report indicated Patriots receiver A.J.",
-      "url": "https://sports.yahoo.com/articles/mike-vrabel-j-brown-still-172921648.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Vrabel: A.J. Brown still undergoing tests, unsure of Week 2 availability",
       "description": "While a report indicated Patriots receiver A.J.",
@@ -31,5 +25,5 @@
     "receiver"
   ],
   "hash": "939e23a34370d4be",
-  "queuedAt": "2026-09-10T18:01:22.895Z"
+  "queuedAt": "2026-09-10T21:51:56.925Z"
 }

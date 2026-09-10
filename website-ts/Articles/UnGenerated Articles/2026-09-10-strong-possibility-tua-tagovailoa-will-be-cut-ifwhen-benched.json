@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "\"Strong possibility\" Tua Tagovailoa will be cut, if/when benched",
-      "description": "On Sunday, Falcons quarterback Tua Tagovailoa returns to the place where he made his last start with the Dolphins.",
-      "url": "https://sports.yahoo.com/articles/strong-possibility-tua-tagovailoa-cut-153748386.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "\"Strong possibility\" Tua Tagovailoa will be cut, if/when benched",
       "description": "On Sunday, Falcons quarterback Tua Tagovailoa returns to the place where he made his last start with the Dolphins.",
@@ -35,5 +29,5 @@
     "dolphins"
   ],
   "hash": "eede6256046daac2",
-  "queuedAt": "2026-09-10T18:01:26.086Z"
+  "queuedAt": "2026-09-10T21:52:04.952Z"
 }
