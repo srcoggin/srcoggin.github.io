@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Drew Lock on TD pass to Jaxon Smith-Njigba: Definitely never practiced that play",
-      "description": "One of the realities of life as an NFL backup quarterback is that you get fewer opportunities in practice and that means there are some plays that you never get to rehearse ahead of time.",
-      "url": "https://sports.yahoo.com/articles/drew-lock-td-pass-jaxon-102418347.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Drew Lock on TD pass to Jaxon Smith-Njigba: Definitely never practiced that play",
       "description": "One of the realities of life as an NFL backup quarterback is that you get fewer opportunities in practice and that means there are some plays that you never get to rehearse ahead of time.",
@@ -43,5 +37,5 @@
     "time"
   ],
   "hash": "6bb9b1b9cb481e78",
-  "queuedAt": "2026-09-10T11:48:20.164Z"
+  "queuedAt": "2026-09-10T18:01:37.918Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ernest Jones: When you think about Seattle, we want you to think about defense",
-      "description": "The Seahawks didn't put any points on the board until the fourth quarter on Wednesday night, but waiting to get the scoring started didn't keep them from coming up with a win.",
-      "url": "https://sports.yahoo.com/articles/ernest-jones-think-seattle-want-104548730.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ernest Jones: When you think about Seattle, we want you to think about defense",
       "description": "The Seahawks didn't put any points on the board until the fourth quarter on Wednesday night, but waiting to get the scoring started didn't keep them from coming up with a win.",
@@ -45,5 +39,5 @@
     "win"
   ],
   "hash": "38ad93a71cccc91e",
-  "queuedAt": "2026-09-10T11:48:20.026Z"
+  "queuedAt": "2026-09-10T18:01:39.159Z"
 }

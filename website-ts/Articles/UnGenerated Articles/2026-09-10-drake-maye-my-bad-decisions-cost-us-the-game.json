@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Drake Maye: My bad decisions cost us the game",
-      "description": "\"That wasn't how I play football and how I want to represent my game and playing quarterback for the Patriots,\" Maye said after losing to the Seahawks.",
-      "url": "https://sports.yahoo.com/articles/drake-maye-bad-decisions-cost-081106249.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Drake Maye: My bad decisions cost us the game",
       "description": "\"That wasn't how I play football and how I want to represent my game and playing quarterback for the Patriots,\" Maye said after losing to the Seahawks.",
@@ -34,5 +28,5 @@
     "seahawks"
   ],
   "hash": "caaf5b174fc4fbef",
-  "queuedAt": "2026-09-10T11:48:20.396Z"
+  "queuedAt": "2026-09-10T18:01:39.004Z"
 }

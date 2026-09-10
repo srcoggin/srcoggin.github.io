@@ -4,14 +4,20 @@
   "sources": [
     {
       "name": "CBS Sports NFL",
+      "title": "Rams vs. 49ers picks, odds, predictions, best bets: Betting preview for 2026 NFL Australia Game",
+      "description": "Best bets and betting preview for 49ers vs. Rams on Thursday in Australia",
+      "url": "https://www.cbssports.com/betting/news/rams-vs-49ers-picks-odds-predictions-best-bets-betting-preview-for-2026-nfl-australia-game/"
+    },
+    {
+      "name": "CBS Sports NFL",
       "title": "Patriots vs. Seahawks picks, odds, predictions, best bets: Betting preview for 2026 NFL Kickoff Game",
       "description": "Best bets and betting preview for Patriots vs. Seahawks in 2026 NFL Kickoff Game on Wednesday",
       "url": "https://www.cbssports.com/betting/news/patriots-seahawks-picks-odds-predictions-best-bets-betting-preview-2026-nfl-kickoff-game/"
     }
   ],
   "keywords": [
-    "patriots",
-    "seahawks",
+    "rams",
+    "49ers",
     "picks",
     "odds",
     "predictions",
@@ -20,9 +26,13 @@
     "betting",
     "preview",
     "2026",
+    "australia",
+    "thursday",
+    "patriots",
+    "seahawks",
     "kickoff",
     "wednesday"
   ],
-  "hash": "3e57687fab333175",
-  "queuedAt": "2026-09-10T11:48:23.592Z"
+  "hash": "6cc27aa0d609093b",
+  "queuedAt": "2026-09-10T18:01:26.365Z"
 }

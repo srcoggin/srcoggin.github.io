@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Harrison Smith: I kind of knew I'd be back the whole time",
-      "description": "Vikings fans saluted Harrison Smith's entire career when he walked off the field at the end of Week 18 last season, but thoughts that it was the final time the safety would be on the field were premature.",
-      "url": "https://sports.yahoo.com/articles/harrison-smith-kind-knew-id-111447444.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Harrison Smith: I kind of knew I'd be back the whole time",
       "description": "Vikings fans saluted Harrison Smith's entire career when he walked off the field at the end of Week 18 last season, but thoughts that it was the final time the safety would be on the field were premature.",
@@ -41,5 +35,5 @@
     "premature"
   ],
   "hash": "8e9d635895f3f22f",
-  "queuedAt": "2026-09-10T11:48:19.958Z"
+  "queuedAt": "2026-09-10T18:01:39.466Z"
 }

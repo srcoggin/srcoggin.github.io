@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaxon Smith-Njigba had 122 of the Seahawks' 200 receiving yards, and Seattle's only TD",
-      "description": "\"It's not all on me,\" Smith-Njigba said. \"It's a team effort.\"",
-      "url": "https://sports.yahoo.com/articles/jaxon-smith-njigba-had-122-094542945.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaxon Smith-Njigba had 122 of the Seahawks' 200 receiving yards, and Seattle's only TD",
       "description": "\"It's not all on me,\" Smith-Njigba said. \"It's a team effort.\"",
@@ -29,5 +23,5 @@
     "effort"
   ],
   "hash": "15c2b4836c2beabe",
-  "queuedAt": "2026-09-10T11:48:20.226Z"
+  "queuedAt": "2026-09-10T18:01:38.223Z"
 }
