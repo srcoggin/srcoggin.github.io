@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL Kickoff 2026: Patriots lead Seahawks 7-0 at halftime",
-      "description": "The Patriots lead the Seahawks 7-0 at halftime, but Seattle has a bigger concern moving forward.",
-      "url": "https://sports.yahoo.com/articles/nfl-kickoff-2026-patriots-lead-014115398.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL Kickoff 2026: Patriots lead Seahawks 7-0 at halftime",
       "description": "The Patriots lead the Seahawks 7-0 at halftime, but Seattle has a bigger concern moving forward.",
@@ -29,5 +23,5 @@
     "forward"
   ],
   "hash": "26f1e2e30feefd3a",
-  "queuedAt": "2026-09-10T05:05:23.302Z"
+  "queuedAt": "2026-09-10T11:48:26.083Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaxon Smith-Njigba 45-yard TD ties Seahawks-Patriots at 10-10 in fourth quarter",
-      "description": "The reigning AP offensive player of the year just showed why he earned the honor.",
-      "url": "https://sports.yahoo.com/articles/jaxon-smith-njigba-45-yard-025010468.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaxon Smith-Njigba 45-yard TD ties Seahawks-Patriots at 10-10 in fourth quarter",
       "description": "The reigning AP offensive player of the year just showed why he earned the honor.",
@@ -31,5 +25,5 @@
     "honor"
   ],
   "hash": "5e21a6aa9c4d1cc3",
-  "queuedAt": "2026-09-10T05:05:22.755Z"
+  "queuedAt": "2026-09-10T11:48:25.791Z"
 }

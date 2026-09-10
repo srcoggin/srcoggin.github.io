@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Myles Garrett estimated as a full participant Wednesday",
-      "description": "The Rams flew all night, so they did not practice Wednesday.",
-      "url": "https://sports.yahoo.com/articles/myles-garrett-estimated-full-participant-012819092.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Myles Garrett estimated as a full participant Wednesday",
       "description": "The Rams flew all night, so they did not practice Wednesday.",
@@ -29,5 +23,5 @@
     "practice"
   ],
   "hash": "8417006d949cc3cf",
-  "queuedAt": "2026-09-10T05:05:23.411Z"
+  "queuedAt": "2026-09-10T11:48:26.166Z"
 }

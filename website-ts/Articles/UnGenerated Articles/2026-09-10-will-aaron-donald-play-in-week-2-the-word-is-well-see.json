@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Will Aaron Donald play in Week 2? The word is \"we'll see\"",
-      "description": "Rams defensive tackle Aaron Donald didn't make the trip to Australia, which obviously means he won't play in the Week 1 game against the 49ers.",
-      "url": "https://sports.yahoo.com/articles/aaron-donald-play-week-2-010854013.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Will Aaron Donald play in Week 2? The word is \"we'll see\"",
       "description": "Rams defensive tackle Aaron Donald didn't make the trip to Australia, which obviously means he won't play in the Week 1 game against the 49ers.",
@@ -37,5 +31,5 @@
     "49ers"
   ],
   "hash": "2bc94d3811a56146",
-  "queuedAt": "2026-09-10T05:05:23.657Z"
+  "queuedAt": "2026-09-10T11:48:26.304Z"
 }

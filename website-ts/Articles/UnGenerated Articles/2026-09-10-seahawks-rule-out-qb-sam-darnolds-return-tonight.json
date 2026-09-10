@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks rule out QB Sam Darnold's return tonight",
-      "description": "The Seahawks quarterback injured his right hip on the first drive.",
-      "url": "https://sports.yahoo.com/articles/seahawks-rule-qb-sam-darnolds-014457432.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks rule out QB Sam Darnold's return tonight",
       "description": "The Seahawks quarterback injured his right hip on the first drive.",
@@ -32,5 +26,5 @@
     "drive"
   ],
   "hash": "e119845b9def4ebb",
-  "queuedAt": "2026-09-10T05:05:23.084Z"
+  "queuedAt": "2026-09-10T11:48:26.026Z"
 }

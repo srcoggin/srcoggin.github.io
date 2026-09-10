@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots take 7-0 lead on Drake Maye 2-yard touchdown pass",
-      "description": "The Patriots have scored the first touchdown of the 2026 season.",
-      "url": "https://sports.yahoo.com/articles/patriots-7-0-lead-drake-011219139.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots take 7-0 lead on Drake Maye 2-yard touchdown pass",
       "description": "The Patriots have scored the first touchdown of the 2026 season.",
@@ -29,5 +23,5 @@
     "2026"
   ],
   "hash": "5b1126f23c7a00db",
-  "queuedAt": "2026-09-10T05:05:23.548Z"
+  "queuedAt": "2026-09-10T11:48:26.244Z"
 }
