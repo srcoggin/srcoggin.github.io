@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Evans scores first TD as a 49er, 109th of his career",
-      "description": "Mike Evans scored 108 touchdowns for the Buccaneers.",
-      "url": "https://sports.yahoo.com/articles/mike-evans-scores-first-td-022550569.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Evans scores first TD as a 49er, 109th of his career",
       "description": "Mike Evans scored 108 touchdowns for the Buccaneers.",
@@ -30,5 +24,5 @@
     "buccaneers"
   ],
   "hash": "57a50ee5f4e22668",
-  "queuedAt": "2026-09-11T04:49:05.328Z"
+  "queuedAt": "2026-09-11T11:44:32.216Z"
 }

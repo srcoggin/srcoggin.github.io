@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers WR De'Zhaun Stribling's Achilles is intact, to undergo MRI on ankle",
-      "description": "The way 49ers wide receiver De'Zhaun Stribling suddenly ended his route and started limping on one leg had everyone thinking the worst.",
-      "url": "https://sports.yahoo.com/articles/49ers-wr-dezhaun-striblings-achilles-042335998.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers WR De'Zhaun Stribling's Achilles is intact, to undergo MRI on ankle",
       "description": "The way 49ers wide receiver De'Zhaun Stribling suddenly ended his route and started limping on one leg had everyone thinking the worst.",
@@ -41,5 +35,5 @@
     "worst"
   ],
   "hash": "6a249867d0c445ac",
-  "queuedAt": "2026-09-11T04:49:04.860Z"
+  "queuedAt": "2026-09-11T11:44:31.885Z"
 }

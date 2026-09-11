@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Deebo Samuel's TD catch has 49ers up 24-7 in fourth quarter",
-      "description": "The 49ers have a big lead in the fourth quarter, having dominated the first three plus quarters.",
-      "url": "https://sports.yahoo.com/articles/deebo-samuels-td-catch-49ers-025325034.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Deebo Samuel's TD catch has 49ers up 24-7 in fourth quarter",
       "description": "The 49ers have a big lead in the fourth quarter, having dominated the first three plus quarters.",
@@ -33,5 +27,5 @@
     "quarters"
   ],
   "hash": "15bf506ee252f9a3",
-  "queuedAt": "2026-09-11T04:49:05.251Z"
+  "queuedAt": "2026-09-11T11:44:32.148Z"
 }

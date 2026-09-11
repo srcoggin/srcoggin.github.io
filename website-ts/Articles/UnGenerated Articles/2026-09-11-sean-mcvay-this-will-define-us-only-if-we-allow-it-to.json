@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McVay: \"This will define us only if we allow it to\"",
-      "description": "Something happened on the road to a perfect season for the Rams.",
-      "url": "https://sports.yahoo.com/articles/sean-mcvay-define-us-only-035716502.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McVay: \"This will define us only if we allow it to\"",
       "description": "Something happened on the road to a perfect season for the Rams.",
@@ -28,5 +22,5 @@
     "rams"
   ],
   "hash": "384c1f9cf803dc5a",
-  "queuedAt": "2026-09-11T04:49:04.952Z"
+  "queuedAt": "2026-09-11T11:44:31.822Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brock Purdy, 49ers dominate Rams 27-7 in Australia",
-      "description": "The 49ers quarterback outplayed Matthew Stafford, completing 25 of 34 passes for 205 yards with three touchdowns and an interception.",
-      "url": "https://sports.yahoo.com/articles/brock-purdy-49ers-dominate-rams-033353772.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brock Purdy, 49ers dominate Rams 27-7 in Australia",
       "description": "The 49ers quarterback outplayed Matthew Stafford, completing 25 of 34 passes for 205 yards with three touchdowns and an interception.",
@@ -36,5 +30,5 @@
     "interception"
   ],
   "hash": "93a244cd783f6879",
-  "queuedAt": "2026-09-11T04:49:05.175Z"
+  "queuedAt": "2026-09-11T11:44:31.999Z"
 }
