@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Fred Warner felt the Rams \"withered away\" as game went on",
-      "description": "The Rams took a 7-3 lead over the 49ers on the first play of the second quarter on Thursday night, but it was not a sign that things were going to go their way for the rest of their time in Melbourne, Australia.",
-      "url": "https://sports.yahoo.com/articles/fred-warner-felt-rams-withered-105848816.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Fred Warner felt the Rams \"withered away\" as game went on",
       "description": "The Rams took a 7-3 lead over the 49ers on the first play of the second quarter on Thursday night, but it was not a sign that things were going to go their way for the rest of their time in Melbourne, Australia.",
@@ -45,5 +39,5 @@
     "australia"
   ],
   "hash": "154919be1bceb26f",
-  "queuedAt": "2026-09-11T11:44:26.407Z"
+  "queuedAt": "2026-09-11T18:11:39.821Z"
 }

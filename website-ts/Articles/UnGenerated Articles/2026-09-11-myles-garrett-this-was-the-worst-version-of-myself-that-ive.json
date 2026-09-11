@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Myles Garrett: \"This was the worst version of myself that I've put out there\"",
-      "description": "Garrett said he needs to get healthy after missing most of training camp with a knee injury.",
-      "url": "https://sports.yahoo.com/articles/myles-garrett-worst-version-myself-084149640.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Myles Garrett: \"This was the worst version of myself that I've put out there\"",
       "description": "Garrett said he needs to get healthy after missing most of training camp with a knee injury.",
@@ -37,5 +31,5 @@
     "injury"
   ],
   "hash": "59aa2805de132aa7",
-  "queuedAt": "2026-09-11T11:44:26.636Z"
+  "queuedAt": "2026-09-11T18:11:39.710Z"
 }

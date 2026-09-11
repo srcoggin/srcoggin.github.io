@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Shanahan: Win or lose, everyone would make a big deal about our travel schedules",
-      "description": "The 49ers and Rams took opposite approaches to the longest road trip in NFL history: The 49ers arrived in Australia a full week early to give themselves time to acclimate.",
-      "url": "https://sports.yahoo.com/articles/kyle-shanahan-win-lose-everyone-095950098.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Shanahan: Win or lose, everyone would make a big deal about our travel schedules",
       "description": "The 49ers and Rams took opposite approaches to the longest road trip in NFL history: The 49ers arrived in Australia a full week early to give themselves time to acclimate.",
@@ -47,5 +41,5 @@
     "acclimate"
   ],
   "hash": "276068deb7f68d81",
-  "queuedAt": "2026-09-11T11:44:26.561Z"
+  "queuedAt": "2026-09-11T18:11:40.156Z"
 }
