@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans claim G Atonio Mafi off of waivers",
-      "description": "The Titans tweaked their offensive line ahead of Sunday's game against the Jets.",
-      "url": "https://sports.yahoo.com/articles/titans-claim-g-atonio-mafi-222946728.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans claim G Atonio Mafi off of waivers",
       "description": "The Titans tweaked their offensive line ahead of Sunday's game against the Jets.",
@@ -32,5 +26,5 @@
     "jets"
   ],
   "hash": "a5944db3e7cac59e",
-  "queuedAt": "2026-09-12T11:32:08.770Z"
+  "queuedAt": "2026-09-12T16:12:50.644Z"
 }

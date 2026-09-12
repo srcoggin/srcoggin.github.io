@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Vikings convert CB Isaiah Rodgers's playing-time incentives into a signing bonus",
-      "description": "Cornerback Isaiah Rodgers had a solid 2025 season for the Vikings.",
-      "url": "https://sports.yahoo.com/articles/vikings-convert-cb-isaiah-rodgerss-005153839.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Vikings convert CB Isaiah Rodgers's playing-time incentives into a signing bonus",
       "description": "Cornerback Isaiah Rodgers had a solid 2025 season for the Vikings.",
@@ -30,5 +24,5 @@
     "2025"
   ],
   "hash": "275195a53e4f581e",
-  "queuedAt": "2026-09-12T11:32:08.579Z"
+  "queuedAt": "2026-09-12T16:12:50.492Z"
 }
