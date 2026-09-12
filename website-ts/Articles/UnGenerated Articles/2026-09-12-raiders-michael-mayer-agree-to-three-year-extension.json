@@ -3,18 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders news: Tight end gets paid",
-      "description": "Michael Mayer gets contract extension",
-      "url": "https://sports.yahoo.com/articles/raiders-news-tight-end-gets-153335290.html"
-    },
-    {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders, Michael Mayer agree to three-year extension",
-      "description": "The Raiders are locking in tight end Michael Mayer.",
-      "url": "https://sports.yahoo.com/articles/raiders-michael-mayer-agree-three-150900514.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders, Michael Mayer agree to three-year extension",
       "description": "The Raiders are locking in tight end Michael Mayer.",
@@ -23,19 +11,15 @@
   ],
   "keywords": [
     "raiders",
-    "news",
-    "tight",
-    "end",
-    "gets",
-    "paid",
     "michael",
     "mayer",
-    "contract",
-    "extension",
     "agree",
     "threeyear",
-    "locking"
+    "extension",
+    "locking",
+    "tight",
+    "end"
   ],
-  "hash": "e39da7ba2fee63cf",
-  "queuedAt": "2026-09-12T16:12:43.711Z"
+  "hash": "b4ea886988c2e9c6",
+  "queuedAt": "2026-09-12T21:22:50.373Z"
 }

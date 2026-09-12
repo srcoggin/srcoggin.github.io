@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions create more than $35 million in cap space with restructurings",
-      "description": "One day before their first game of the 2026 regular season, the Lions have cleared a sizable chunk of cap space.",
-      "url": "https://sports.yahoo.com/articles/lions-create-more-35-million-124635755.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions create more than $35 million in cap space with restructurings",
       "description": "One day before their first game of the 2026 regular season, the Lions have cleared a sizable chunk of cap space.",
@@ -33,5 +27,5 @@
     "chunk"
   ],
   "hash": "233ddfd5951d713b",
-  "queuedAt": "2026-09-12T16:12:44.248Z"
+  "queuedAt": "2026-09-12T21:22:50.818Z"
 }
