@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyler Murray will be the ninth Vikings' starting QB since 2023",
-      "description": "On Sunday, Kyler Murray will make his first start for the Vikings.",
-      "url": "https://sports.yahoo.com/articles/kyler-murray-ninth-vikings-starting-024545927.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyler Murray will be the ninth Vikings' starting QB since 2023",
       "description": "On Sunday, Kyler Murray will make his first start for the Vikings.",
@@ -30,5 +24,5 @@
     "start"
   ],
   "hash": "b05b71c320652182",
-  "queuedAt": "2026-09-13T04:35:44.001Z"
+  "queuedAt": "2026-09-13T12:40:54.211Z"
 }

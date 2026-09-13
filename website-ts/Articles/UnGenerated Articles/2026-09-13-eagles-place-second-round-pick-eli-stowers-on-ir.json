@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles place second-round pick Eli Stowers on IR",
-      "description": "Eagles second-round pick Eli Stowers won't be making his regular season debut against the Commanders on Sunday.",
-      "url": "https://sports.yahoo.com/articles/eagles-place-second-round-pick-202924460.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles place second-round pick Eli Stowers on IR",
       "description": "Eagles second-round pick Eli Stowers won't be making his regular season debut against the Commanders on Sunday.",
@@ -32,5 +26,5 @@
     "sunday"
   ],
   "hash": "ee618b4ab990ef24",
-  "queuedAt": "2026-09-13T04:35:44.245Z"
+  "queuedAt": "2026-09-13T12:40:55.074Z"
 }
