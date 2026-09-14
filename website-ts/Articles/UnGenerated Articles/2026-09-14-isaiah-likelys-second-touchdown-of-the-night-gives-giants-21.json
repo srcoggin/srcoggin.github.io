@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Isaiah Likely's second touchdown of the night gives Giants 21-7 lead",
-      "description": "Don't look now, but the Giants are putting it on the Cowboys.",
-      "url": "https://sports.yahoo.com/articles/isaiah-likelys-second-touchdown-night-022232225.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Isaiah Likely's second touchdown of the night gives Giants 21-7 lead",
       "description": "Don't look now, but the Giants are putting it on the Cowboys.",
@@ -32,5 +26,5 @@
     "cowboys"
   ],
   "hash": "e446d0aebaf982fd",
-  "queuedAt": "2026-09-14T04:57:37.126Z"
+  "queuedAt": "2026-09-14T13:25:50.242Z"
 }

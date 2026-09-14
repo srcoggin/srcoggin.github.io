@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saints-Lions included controversial reversal of strip-sack-score",
-      "description": "Sunday's game between the Saints and Lions included a dash of first-half controversy that kept New Orleans from scoring what would have been their first touchdown of the game.",
-      "url": "https://sports.yahoo.com/articles/saints-lions-included-controversial-reversal-010658293.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saints-Lions included controversial reversal of strip-sack-score",
       "description": "Sunday's game between the Saints and Lions included a dash of first-half controversy that kept New Orleans from scoring what would have been their first touchdown of the game.",
@@ -38,5 +32,5 @@
     "touchdown"
   ],
   "hash": "c5495cf583432c41",
-  "queuedAt": "2026-09-14T04:57:37.355Z"
+  "queuedAt": "2026-09-14T13:25:50.783Z"
 }

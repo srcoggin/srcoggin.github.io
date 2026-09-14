@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sunday Night Football: Jaxson Dart throws three TDs, Giants beat Cowboys 28-20",
-      "description": "New York won its first game under new head coach John Harbaugh by controlling the ball and the clock.",
-      "url": "https://sports.yahoo.com/articles/sunday-night-football-jaxson-dart-033933807.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sunday Night Football: Jaxson Dart throws three TDs, Giants beat Cowboys 28-20",
       "description": "New York won its first game under new head coach John Harbaugh by controlling the ball and the clock.",
@@ -41,5 +35,5 @@
     "clock"
   ],
   "hash": "1776998a994de484",
-  "queuedAt": "2026-09-14T04:57:37.020Z"
+  "queuedAt": "2026-09-14T13:25:49.032Z"
 }
