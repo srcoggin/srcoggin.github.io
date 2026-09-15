@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sunday Ticket prices increase, while NFL decreases the number of Sunday afternoon games",
-      "description": "A quarter-century ago, NFL Sunday Ticket felt like a modern miracle to football fans.",
-      "url": "https://sports.yahoo.com/articles/sunday-ticket-prices-increase-while-113147960.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sunday Ticket prices increase, while NFL decreases the number of Sunday afternoon games",
       "description": "A quarter-century ago, NFL Sunday Ticket felt like a modern miracle to football fans.",
@@ -34,5 +28,5 @@
     "fans"
   ],
   "hash": "aff988353e83d83c",
-  "queuedAt": "2026-09-15T12:24:33.534Z"
+  "queuedAt": "2026-09-15T17:59:48.666Z"
 }

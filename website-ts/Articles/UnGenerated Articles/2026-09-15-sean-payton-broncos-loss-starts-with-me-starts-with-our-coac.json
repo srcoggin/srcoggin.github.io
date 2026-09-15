@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean Payton: Broncos' loss starts with me, starts with our coaching staff",
-      "description": "Payton handed off play calling to offensive coordinator Davis Webb for the Broncos' 31-10 loss to the Chiefs.",
-      "url": "https://sports.yahoo.com/articles/sean-payton-broncos-loss-starts-075408246.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean Payton: Broncos' loss starts with me, starts with our coaching staff",
       "description": "Payton handed off play calling to offensive coordinator Davis Webb for the Broncos' 31-10 loss to the Chiefs.",
@@ -36,5 +30,5 @@
     "chiefs"
   ],
   "hash": "fe521f57cb812dac",
-  "queuedAt": "2026-09-15T12:24:33.766Z"
+  "queuedAt": "2026-09-15T17:59:48.126Z"
 }
