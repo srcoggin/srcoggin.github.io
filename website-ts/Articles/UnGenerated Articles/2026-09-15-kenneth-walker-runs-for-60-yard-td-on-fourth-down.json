@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kenneth Walker runs for 60-yard TD on fourth down",
-      "description": "The Chiefs needed 1 yard on a fourth-down play at their own 40.",
-      "url": "https://sports.yahoo.com/articles/kenneth-walker-runs-60-yard-020608652.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kenneth Walker runs for 60-yard TD on fourth down",
       "description": "The Chiefs needed 1 yard on a fourth-down play at their own 40.",
@@ -30,5 +24,5 @@
     "their"
   ],
   "hash": "f6d9b8a608a0860e",
-  "queuedAt": "2026-09-15T05:11:59.447Z"
+  "queuedAt": "2026-09-15T12:24:40.814Z"
 }

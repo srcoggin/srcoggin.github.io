@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Monday Night Football: Kenneth Walker, Chiefs run by Broncos 31-10 in Patrick Mahomes' return",
-      "description": "Walker, who had a career-high 173 rushing yards, had more totals (191) than the Broncos had as a team (176).",
-      "url": "https://sports.yahoo.com/articles/monday-night-football-kenneth-walker-032134747.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Monday Night Football: Kenneth Walker, Chiefs run by Broncos 31-10 in Patrick Mahomes' return",
       "description": "Walker, who had a career-high 173 rushing yards, had more totals (191) than the Broncos had as a team (176).",
@@ -37,5 +31,5 @@
     "176"
   ],
   "hash": "9927c3589cd64a2b",
-  "queuedAt": "2026-09-15T05:11:59.240Z"
+  "queuedAt": "2026-09-15T12:24:40.728Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Monday Night Football: Chiefs lead the Broncos 14-7 at halftime",
-      "description": "Patrick Mahomes isn't completely back from his knee injury, but he has accounted for two touchdowns and the Chiefs lead the Broncos 14-7 at halftime.",
-      "url": "https://sports.yahoo.com/articles/monday-night-football-chiefs-lead-014936518.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Monday Night Football: Chiefs lead the Broncos 14-7 at halftime",
       "description": "Patrick Mahomes isn't completely back from his knee injury, but he has accounted for two touchdowns and the Chiefs lead the Broncos 14-7 at halftime.",
@@ -36,5 +30,5 @@
     "touchdowns"
   ],
   "hash": "0e396f26d8d8a80b",
-  "queuedAt": "2026-09-15T05:11:59.558Z"
+  "queuedAt": "2026-09-15T12:24:40.919Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mansoor Delane's INT sets up Patrick Mahomes' TD run",
-      "description": "Patrick Mahomes is still Patrick Mahomes.",
-      "url": "https://sports.yahoo.com/articles/mansoor-delanes-int-sets-patrick-003725529.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mansoor Delane's INT sets up Patrick Mahomes' TD run",
       "description": "Patrick Mahomes is still Patrick Mahomes.",
@@ -26,5 +20,5 @@
     "still"
   ],
   "hash": "9e39b712874d9679",
-  "queuedAt": "2026-09-15T05:11:59.978Z"
+  "queuedAt": "2026-09-15T12:24:41.397Z"
 }
