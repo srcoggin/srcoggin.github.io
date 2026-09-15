@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Week 2 TV schedule gives Jags coach Liam Coen more grist for \"disrespect\" mill",
-      "description": "With Week 1 in the books, it's time to start thinking about Week 2.",
-      "url": "https://sports.yahoo.com/articles/week-2-tv-schedule-gives-163722648.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Week 2 TV schedule gives Jags coach Liam Coen more grist for \"disrespect\" mill",
       "description": "With Week 1 in the books, it's time to start thinking about Week 2.",
@@ -33,5 +27,5 @@
     "about"
   ],
   "hash": "598ac74f4664e775",
-  "queuedAt": "2026-09-15T17:59:38.042Z"
+  "queuedAt": "2026-09-15T22:26:37.074Z"
 }

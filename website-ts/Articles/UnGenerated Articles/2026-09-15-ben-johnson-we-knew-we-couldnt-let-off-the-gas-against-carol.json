@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ben Johnson: We knew we couldn't let off the gas against Carolina",
-      "description": "Chicago's HC said his team kept scoring in part because of the Panthers' tendency to make fourth-quarter comebacks in 2025.",
-      "url": "https://sports.yahoo.com/articles/ben-johnson-knew-couldnt-let-155547923.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ben Johnson: We knew we couldn't let off the gas against Carolina",
       "description": "Chicago's HC said his team kept scoring in part because of the Panthers' tendency to make fourth-quarter comebacks in 2025.",
@@ -39,5 +33,5 @@
     "2025"
   ],
   "hash": "6ae6b1dece838c5b",
-  "queuedAt": "2026-09-15T17:59:38.139Z"
+  "queuedAt": "2026-09-15T22:26:37.192Z"
 }

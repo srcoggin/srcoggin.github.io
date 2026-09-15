@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Signs point, for now, to Cooper Rush for the Falcons on Sunday",
-      "description": "As of Monday, the Falcons had \"no updates\" on the quarterback situation for Sunday's home opener against the Panthers.",
-      "url": "https://sports.yahoo.com/articles/signs-point-now-cooper-rush-160137199.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Signs point, for now, to Cooper Rush for the Falcons on Sunday",
       "description": "As of Monday, the Falcons had \"no updates\" on the quarterback situation for Sunday's home opener against the Panthers.",
@@ -34,5 +28,5 @@
     "panthers"
   ],
   "hash": "de369488dbf8cc29",
-  "queuedAt": "2026-09-15T17:59:36.771Z"
+  "queuedAt": "2026-09-15T22:26:28.039Z"
 }
