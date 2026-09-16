@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers to put WR De'Zhaun Stribling on injured reserve",
-      "description": "49ers rookie wide receiver De'Zhaun Stribling will miss at least four games due to the ankle injury he suffered in last Thursday's season-opening win over the Rams.",
-      "url": "https://sports.yahoo.com/articles/49ers-put-wr-dezhaun-stribling-165209239.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers to put WR De'Zhaun Stribling on injured reserve",
       "description": "49ers rookie wide receiver De'Zhaun Stribling will miss at least four games due to the ankle injury he suffered in last Thursday's season-opening win over the Rams.",
@@ -41,5 +35,5 @@
     "rams"
   ],
   "hash": "41ffcbb1e7d4d6f2",
-  "queuedAt": "2026-09-16T17:08:12.805Z"
+  "queuedAt": "2026-09-16T21:38:07.649Z"
 }
