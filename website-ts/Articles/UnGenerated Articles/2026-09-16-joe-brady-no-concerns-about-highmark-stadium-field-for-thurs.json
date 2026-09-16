@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Joe Brady: No concerns about Highmark Stadium field for Thursday night",
-      "description": "The condition of the playing field at the new Highmark Stadium became a talking point after the Bills played their first preseason game at the building this summer.",
-      "url": "https://sports.yahoo.com/articles/joe-brady-no-concerns-highmark-105805230.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Joe Brady: No concerns about Highmark Stadium field for Thursday night",
       "description": "The condition of the playing field at the new Highmark Stadium became a talking point after the Bills played their first preseason game at the building this summer.",
@@ -41,5 +35,5 @@
     "summer"
   ],
   "hash": "6b9ff466908644d1",
-  "queuedAt": "2026-09-16T12:24:32.639Z"
+  "queuedAt": "2026-09-16T17:08:17.232Z"
 }
