@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "LB Kenneth Murray to join Texans' practice squad",
-      "description": "Linebacker Kenneth Murray has found a job.",
-      "url": "https://sports.yahoo.com/articles/lb-kenneth-murray-join-texans-013403430.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "LB Kenneth Murray to join Texans' practice squad",
       "description": "Linebacker Kenneth Murray has found a job.",
@@ -27,5 +21,5 @@
     "job"
   ],
   "hash": "8a225319418605d2",
-  "queuedAt": "2026-09-16T04:26:07.872Z"
+  "queuedAt": "2026-09-16T12:24:41.354Z"
 }

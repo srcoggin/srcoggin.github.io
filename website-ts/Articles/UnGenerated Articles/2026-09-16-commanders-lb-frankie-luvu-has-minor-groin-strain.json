@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Commanders LB Frankie Luvu has minor groin strain",
-      "description": "Commanders linebacker Frankie Luvu has a minor groin strain, according to multiple reports.",
-      "url": "https://sports.yahoo.com/articles/commanders-lb-frankie-luvu-minor-015152414.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Commanders LB Frankie Luvu has minor groin strain",
       "description": "Commanders linebacker Frankie Luvu has a minor groin strain, according to multiple reports.",
@@ -28,5 +22,5 @@
     "reports"
   ],
   "hash": "fad14289b29138ac",
-  "queuedAt": "2026-09-16T04:26:07.447Z"
+  "queuedAt": "2026-09-16T12:24:32.219Z"
 }
