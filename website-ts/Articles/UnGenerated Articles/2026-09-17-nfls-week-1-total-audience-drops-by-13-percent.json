@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL's Week 1 total audience drops by 13 percent",
-      "description": "The NFL is back.",
-      "url": "https://sports.yahoo.com/articles/nfls-week-1-total-audience-170721466.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL's Week 1 total audience drops by 13 percent",
       "description": "The NFL is back.",
@@ -24,5 +18,5 @@
     "back"
   ],
   "hash": "2cb6cbfb0776d9c6",
-  "queuedAt": "2026-09-17T17:59:47.247Z"
+  "queuedAt": "2026-09-17T22:31:11.020Z"
 }

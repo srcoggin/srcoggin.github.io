@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Joey Porter Jr. exits Thursday practice early with medical staff",
-      "description": "Steelers head coach Mike McCarthy told reporters earlier on Thursday that cornerback Joey Porter Jr. was scheduled to do more at practice than he did on Wednesday.",
-      "url": "https://sports.yahoo.com/articles/joey-porter-jr-exits-thursday-172510655.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Joey Porter Jr. exits Thursday practice early with medical staff",
       "description": "Steelers head coach Mike McCarthy told reporters earlier on Thursday that cornerback Joey Porter Jr. was scheduled to do more at practice than he did on Wednesday.",
@@ -38,5 +32,5 @@
     "wednesday"
   ],
   "hash": "5f42890e5d0082d3",
-  "queuedAt": "2026-09-17T17:59:45.819Z"
+  "queuedAt": "2026-09-17T22:31:02.551Z"
 }

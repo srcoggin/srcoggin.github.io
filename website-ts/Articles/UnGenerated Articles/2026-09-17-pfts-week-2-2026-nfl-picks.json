@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "PFT's Week 2 2026 NFL picks",
-      "description": "Here's a collection of guesswork as to all 16 games.",
-      "url": "https://sports.yahoo.com/articles/pfts-week-2-2026-nfl-163749578.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "PFT's Week 2 2026 NFL picks",
       "description": "Here's a collection of guesswork as to all 16 games.",
@@ -25,5 +19,5 @@
     "games"
   ],
   "hash": "a9c0fe0036dd4eaf",
-  "queuedAt": "2026-09-17T17:59:47.465Z"
+  "queuedAt": "2026-09-17T22:31:11.123Z"
 }

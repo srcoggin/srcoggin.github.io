@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Rodgers on DK Metcalf's bad game: I'm not worried, I love DK",
-      "description": "Steelers wide receiver DK Metcalf had a rough game in Week 1, dropping passes, twice getting called for offensive pass interference, and gaining just 40 receiving yards on the 10 passes Aaron Rodgers threw to him.",
-      "url": "https://sports.yahoo.com/articles/aaron-rodgers-dk-metcalfs-bad-164057074.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Rodgers on DK Metcalf's bad game: I'm not worried, I love DK",
       "description": "Steelers wide receiver DK Metcalf had a rough game in Week 1, dropping passes, twice getting called for offensive pass interference, and gaining just 40 receiving yards on the 10 passes Aaron Rodgers threw to him.",
@@ -42,5 +36,5 @@
     "him"
   ],
   "hash": "392c56f2ea6ecfc1",
-  "queuedAt": "2026-09-17T17:59:47.361Z"
+  "queuedAt": "2026-09-17T22:31:11.237Z"
 }
