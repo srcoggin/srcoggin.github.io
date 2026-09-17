@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ken Zampese: Browns \"mucked it up\" with Baker Mayfield",
-      "description": "Eight years to the day after Baker Mayfield made his debut for the Browns, he'll be facing the Browns in his fourth year as the starting quarterback of the Buccaneers.",
-      "url": "https://sports.yahoo.com/articles/ken-zampese-browns-mucked-baker-234153902.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ken Zampese: Browns \"mucked it up\" with Baker Mayfield",
       "description": "Eight years to the day after Baker Mayfield made his debut for the Browns, he'll be facing the Browns in his fourth year as the starting quarterback of the Buccaneers.",
@@ -36,5 +30,5 @@
     "buccaneers"
   ],
   "hash": "d079a459320451a5",
-  "queuedAt": "2026-09-17T05:19:51.938Z"
+  "queuedAt": "2026-09-17T11:46:49.818Z"
 }

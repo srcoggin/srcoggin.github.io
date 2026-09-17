@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "D'Andre Swift, Kyle Monangai limited in Bears practice",
-      "description": "The NFC offensive player of the week was a limited participant in Wednesday's practice.",
-      "url": "https://sports.yahoo.com/articles/dandre-swift-kyle-monangai-limited-223759817.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "D'Andre Swift, Kyle Monangai limited in Bears practice",
       "description": "The NFC offensive player of the week was a limited participant in Wednesday's practice.",
@@ -29,5 +23,5 @@
     "wednesdays"
   ],
   "hash": "2a901b89c395ede2",
-  "queuedAt": "2026-09-17T05:19:52.149Z"
+  "queuedAt": "2026-09-17T11:46:49.936Z"
 }

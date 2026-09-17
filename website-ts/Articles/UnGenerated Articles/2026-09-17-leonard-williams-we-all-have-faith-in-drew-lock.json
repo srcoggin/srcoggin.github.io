@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Leonard Williams: \"We all have faith\" in Drew Lock",
-      "description": "Seahawks believe in Sam Darnold's replacement.",
-      "url": "https://sports.yahoo.com/articles/leonard-williams-faith-drew-lock-000137500.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Leonard Williams: \"We all have faith\" in Drew Lock",
       "description": "Seahawks believe in Sam Darnold's replacement.",
@@ -28,5 +22,5 @@
     "replacement"
   ],
   "hash": "88cf4079526c8ba2",
-  "queuedAt": "2026-09-17T05:19:51.839Z"
+  "queuedAt": "2026-09-17T11:46:49.675Z"
 }

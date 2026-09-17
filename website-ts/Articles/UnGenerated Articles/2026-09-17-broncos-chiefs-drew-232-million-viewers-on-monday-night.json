@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos-Chiefs drew 23.2 million viewers on Monday night",
-      "description": "The Monday Night Football opener drew a big audience, with the Chiefs' 31-10 win over the Broncos getting 23.2 million viewers.",
-      "url": "https://sports.yahoo.com/articles/broncos-chiefs-drew-23-2-000442050.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos-Chiefs drew 23.2 million viewers on Monday night",
       "description": "The Monday Night Football opener drew a big audience, with the Chiefs' 31-10 win over the Broncos getting 23.2 million viewers.",
@@ -34,5 +28,5 @@
     "getting"
   ],
   "hash": "aea6f21ea3ed5681",
-  "queuedAt": "2026-09-17T05:19:51.738Z"
+  "queuedAt": "2026-09-17T11:46:49.724Z"
 }

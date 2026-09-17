@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jalen Carter, Cooper DeJean miss Eagles practice Wednesday",
-      "description": "A pair of Eagles defensive starters did not practice on Wednesday.",
-      "url": "https://sports.yahoo.com/articles/jalen-carter-cooper-dejean-miss-224711677.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jalen Carter, Cooper DeJean miss Eagles practice Wednesday",
       "description": "A pair of Eagles defensive starters did not practice on Wednesday.",
@@ -29,5 +23,5 @@
     "starters"
   ],
   "hash": "53d02cd6d3b6e566",
-  "queuedAt": "2026-09-17T05:19:52.054Z"
+  "queuedAt": "2026-09-17T11:46:49.902Z"
 }
