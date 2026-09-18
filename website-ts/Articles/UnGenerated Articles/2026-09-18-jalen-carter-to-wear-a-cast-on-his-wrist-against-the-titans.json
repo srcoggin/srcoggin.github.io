@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jalen Carter to wear a cast on his wrist against the Titans",
-      "description": "Eagles defensive tackle Jalen Carter returned to practice on Thursday with a new look.",
-      "url": "https://sports.yahoo.com/articles/jalen-carter-wear-cast-wrist-110557340.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jalen Carter to wear a cast on his wrist against the Titans",
       "description": "Eagles defensive tackle Jalen Carter returned to practice on Thursday with a new look.",
@@ -34,5 +28,5 @@
     "look"
   ],
   "hash": "9f5baf9794a99783",
-  "queuedAt": "2026-09-18T11:23:06.546Z"
+  "queuedAt": "2026-09-18T16:45:05.147Z"
 }

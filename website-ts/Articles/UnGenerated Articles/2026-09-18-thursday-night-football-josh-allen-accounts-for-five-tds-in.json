@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Thursday Night Football: Josh Allen accounts for five TDs in Bills' 41-31 win over Lions",
-      "description": "The Bills quarterback threw three touchdowns and ran for two.",
-      "url": "https://sports.yahoo.com/articles/thursday-night-football-josh-allen-033532950.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Thursday Night Football: Josh Allen accounts for five TDs in Bills' 41-31 win over Lions",
       "description": "The Bills quarterback threw three touchdowns and ran for two.",
@@ -36,5 +30,5 @@
     "two"
   ],
   "hash": "7129acec32d09f9e",
-  "queuedAt": "2026-09-18T11:23:06.752Z"
+  "queuedAt": "2026-09-18T16:45:04.895Z"
 }

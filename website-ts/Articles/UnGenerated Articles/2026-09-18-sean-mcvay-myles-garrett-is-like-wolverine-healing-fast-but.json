@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McVay: Myles Garrett is like Wolverine, healing fast, but we won't rush him back",
-      "description": "\"I'm reluctant to put a timeline on it. We know that he's going to miss those four weeks at a minimum,\" McVay said.",
-      "url": "https://sports.yahoo.com/articles/sean-mcvay-myles-garrett-wolverine-092003108.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McVay: Myles Garrett is like Wolverine, healing fast, but we won't rush him back",
       "description": "\"I'm reluctant to put a timeline on it. We know that he's going to miss those four weeks at a minimum,\" McVay said.",
@@ -43,5 +37,5 @@
     "said"
   ],
   "hash": "b4fb8b4b3b597f9f",
-  "queuedAt": "2026-09-18T11:23:06.670Z"
+  "queuedAt": "2026-09-18T16:45:05.206Z"
 }
