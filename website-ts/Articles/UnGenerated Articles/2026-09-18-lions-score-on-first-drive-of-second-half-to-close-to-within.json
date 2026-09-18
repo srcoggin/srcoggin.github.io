@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions score on first drive of second half to close to within 27-17",
-      "description": "The Lions aren't dead yet.",
-      "url": "https://sports.yahoo.com/articles/lions-score-first-drive-second-022007541.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions score on first drive of second half to close to within 27-17",
       "description": "The Lions aren't dead yet.",
@@ -30,5 +24,5 @@
     "yet"
   ],
   "hash": "bb0d99d741217dd9",
-  "queuedAt": "2026-09-18T04:16:59.736Z"
+  "queuedAt": "2026-09-18T11:23:10.487Z"
 }

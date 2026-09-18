@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bills take 7-0 lead on Josh Allen's 1-yard run",
-      "description": "The Bills started Thursday night's game with a holding penalty on the opening kickoff.",
-      "url": "https://sports.yahoo.com/articles/bills-7-0-lead-josh-003510846.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bills take 7-0 lead on Josh Allen's 1-yard run",
       "description": "The Bills started Thursday night's game with a holding penalty on the opening kickoff.",
@@ -32,5 +26,5 @@
     "kickoff"
   ],
   "hash": "4131b0a35bea1477",
-  "queuedAt": "2026-09-18T04:16:59.916Z"
+  "queuedAt": "2026-09-18T11:23:10.938Z"
 }
