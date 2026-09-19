@@ -1,0 +1,31 @@
+{
+  "title": "Week 2 injury report for Minnesota",
+  "category": "injuries",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Week 2 injury report for Minnesota",
+      "description": "The Minnesota Vikings have posted their injury report for the Week 2 game against the Chicago Bears",
+      "url": "https://sports.yahoo.com/articles/week-2-injury-report-minnesota-022446187.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Bears Week 2 injury report",
+      "description": "The Chicago Bears have posted their Week 2 injury report",
+      "url": "https://sports.yahoo.com/articles/bears-week-2-injury-report-002954268.html"
+    }
+  ],
+  "keywords": [
+    "injury",
+    "report",
+    "minnesota",
+    "vikings",
+    "posted",
+    "their",
+    "against",
+    "chicago",
+    "bears"
+  ],
+  "hash": "fb3480e9bc6fef37",
+  "queuedAt": "2026-09-19T04:50:23.533Z"
+}

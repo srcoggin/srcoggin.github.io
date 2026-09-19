@@ -1,0 +1,31 @@
+{
+  "title": "Week 2 injury report for Jacksonville",
+  "category": "free-agency",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Week 2 injury report for Denver",
+      "description": "The Denver Broncos have released their injury report for the Week 2 game against the Jaguars",
+      "url": "https://sports.yahoo.com/articles/week-2-injury-report-denver-020737988.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Week 2 injury report for Jacksonville",
+      "description": "The Jacksonville Jaguars have released their Week 2 injury report",
+      "url": "https://sports.yahoo.com/articles/week-2-injury-report-jacksonville-015743860.html"
+    }
+  ],
+  "keywords": [
+    "injury",
+    "report",
+    "denver",
+    "broncos",
+    "released",
+    "their",
+    "against",
+    "jaguars",
+    "jacksonville"
+  ],
+  "hash": "38ba3413bc3ce15c",
+  "queuedAt": "2026-09-19T04:50:23.605Z"
+}
