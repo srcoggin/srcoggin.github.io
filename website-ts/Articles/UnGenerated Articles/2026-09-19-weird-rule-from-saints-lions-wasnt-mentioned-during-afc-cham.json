@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Weird rule from Saints-Lions wasn't mentioned during AFC Championship",
-      "description": "That strange rule no one seemed to know about had a major impact on the Week 1 game between the Saints and Lions.",
-      "url": "https://sports.yahoo.com/articles/weird-rule-saints-lions-wasnt-133817006.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Weird rule from Saints-Lions wasn't mentioned during AFC Championship",
       "description": "That strange rule no one seemed to know about had a major impact on the Week 1 game between the Saints and Lions.",
@@ -35,5 +29,5 @@
     "lions"
   ],
   "hash": "6eed1e606e9ecde5",
-  "queuedAt": "2026-09-19T16:36:09.500Z"
+  "queuedAt": "2026-09-19T21:28:52.705Z"
 }

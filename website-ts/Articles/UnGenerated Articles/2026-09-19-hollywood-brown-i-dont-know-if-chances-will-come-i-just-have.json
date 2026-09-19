@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Hollywood Brown: I don't know if chances will come, I just have to work",
-      "description": "Wide receiver Hollywood Brown was active for the Eagles' Week 1 game against the Commanders, but he never got on the field during the 24-22 win.",
-      "url": "https://sports.yahoo.com/articles/hollywood-brown-dont-know-chances-123553275.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Hollywood Brown: I don't know if chances will come, I just have to work",
       "description": "Wide receiver Hollywood Brown was active for the Eagles' Week 1 game against the Commanders, but he never got on the field during the 24-22 win.",
@@ -36,5 +30,5 @@
     "win"
   ],
   "hash": "1b8051a0459dd0e9",
-  "queuedAt": "2026-09-19T16:36:09.592Z"
+  "queuedAt": "2026-09-19T21:28:52.892Z"
 }
