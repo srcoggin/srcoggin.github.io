@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bengals elevate Josh Johnson to active roster with Joe Burrow questionable",
-      "description": "Bengals quarterback Joe Burrow says he plans to play tomorrow against the Texans.",
-      "url": "https://sports.yahoo.com/articles/bengals-elevate-josh-johnson-active-223747798.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bengals elevate Josh Johnson to active roster with Joe Burrow questionable",
       "description": "Bengals quarterback Joe Burrow says he plans to play tomorrow against the Texans.",
@@ -34,5 +28,5 @@
     "texans"
   ],
   "hash": "aa8cd7fd50e5fe1b",
-  "queuedAt": "2026-09-20T04:57:59.133Z"
+  "queuedAt": "2026-09-20T12:10:56.050Z"
 }
