@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Trey Hendrickson, Chris Olave, Chase Young are expected to play in Ravens-Saints",
-      "description": "The Ravens will be without wide receiver Zay Flowers for Sunday's game against the Saints, but they are set to have linebacker Trey Hendrickson in the lineup.",
-      "url": "https://sports.yahoo.com/articles/trey-hendrickson-chris-olave-chase-115926822.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Trey Hendrickson, Chris Olave, Chase Young are expected to play in Ravens-Saints",
       "description": "The Ravens will be without wide receiver Zay Flowers for Sunday's game against the Saints, but they are set to have linebacker Trey Hendrickson in the lineup.",
@@ -40,5 +34,5 @@
     "lineup"
   ],
   "hash": "746b9e779fb32e3a",
-  "queuedAt": "2026-09-20T12:10:48.000Z"
+  "queuedAt": "2026-09-20T16:58:19.031Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL is aware of potential issues with field in Brazil for Ravens-Cowboys",
-      "description": "The clock is ticking for the Week 3 game.",
-      "url": "https://sports.yahoo.com/articles/nfl-aware-potential-issues-field-032003472.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL is aware of potential issues with field in Brazil for Ravens-Cowboys",
       "description": "The clock is ticking for the Week 3 game.",
@@ -26,5 +20,5 @@
     "ticking"
   ],
   "hash": "82db1b76ba09af42",
-  "queuedAt": "2026-09-20T12:10:48.191Z"
+  "queuedAt": "2026-09-20T16:58:19.341Z"
 }
