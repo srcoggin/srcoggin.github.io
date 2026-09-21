@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sunday Night Football: Patrick Mahomes throws for 382 yards, 3 TDs in 33-30 OT win",
-      "description": "The Chiefs are now 2-0 after the club used every second of regulation and OT to defeat the Colts.",
-      "url": "https://sports.yahoo.com/articles/sunday-night-football-patrick-mahomes-040248690.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sunday Night Football: Patrick Mahomes throws for 382 yards, 3 TDs in 33-30 OT win",
       "description": "The Chiefs are now 2-0 after the club used every second of regulation and OT to defeat the Colts.",
@@ -37,5 +31,5 @@
     "colts"
   ],
   "hash": "1da688003e79c71f",
-  "queuedAt": "2026-09-21T04:50:32.525Z"
+  "queuedAt": "2026-09-21T13:46:53.163Z"
 }

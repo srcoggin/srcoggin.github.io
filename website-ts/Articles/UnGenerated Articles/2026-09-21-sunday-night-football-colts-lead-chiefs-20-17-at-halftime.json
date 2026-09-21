@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sunday Night Football: Colts lead Chiefs 20-17 at halftime",
-      "description": "Jonathan Taylor ran in a 24-yard touchdown to give the Colts the lead at the break.",
-      "url": "https://sports.yahoo.com/articles/sunday-night-football-colts-lead-015158398.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sunday Night Football: Colts lead Chiefs 20-17 at halftime",
       "description": "Jonathan Taylor ran in a 24-yard touchdown to give the Colts the lead at the break.",
@@ -32,5 +26,5 @@
     "break"
   ],
   "hash": "23c4ea00b5ea7286",
-  "queuedAt": "2026-09-21T04:50:32.812Z"
+  "queuedAt": "2026-09-21T13:46:53.530Z"
 }

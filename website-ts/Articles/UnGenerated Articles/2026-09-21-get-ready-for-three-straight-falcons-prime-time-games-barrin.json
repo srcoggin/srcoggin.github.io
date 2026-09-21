@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Get ready for three straight Falcons prime-time games (barring a Week 5 flex)",
-      "description": "The Falcons aren't ready for prime time.",
-      "url": "https://sports.yahoo.com/articles/ready-three-straight-falcons-prime-013125769.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Get ready for three straight Falcons prime-time games (barring a Week 5 flex)",
       "description": "The Falcons aren't ready for prime time.",
@@ -30,5 +24,5 @@
     "time"
   ],
   "hash": "c5428a919db1f92c",
-  "queuedAt": "2026-09-21T04:50:32.872Z"
+  "queuedAt": "2026-09-21T13:46:53.766Z"
 }
