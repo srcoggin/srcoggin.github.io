@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants failed to adjust to Davante Adams",
-      "description": "The Rams didn't have receiver Puka Nacua on Monday night.",
-      "url": "https://sports.yahoo.com/articles/giants-failed-adjust-davante-adams-173702131.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants failed to adjust to Davante Adams",
       "description": "The Rams didn't have receiver Puka Nacua on Monday night.",
@@ -30,5 +24,5 @@
     "night"
   ],
   "hash": "d5e70bd7c48ec0d0",
-  "queuedAt": "2026-09-22T18:03:37.721Z"
+  "queuedAt": "2026-09-22T21:44:05.817Z"
 }
