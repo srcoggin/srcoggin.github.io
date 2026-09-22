@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaxson Dart is believed to have a sprained MCL",
-      "description": "MRI is coming on Monday.",
-      "url": "https://sports.yahoo.com/articles/jaxson-dart-believed-sprained-mcl-034611784.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaxson Dart is believed to have a sprained MCL",
       "description": "MRI is coming on Monday.",
@@ -26,5 +20,5 @@
     "monday"
   ],
   "hash": "3415513a6025f134",
-  "queuedAt": "2026-09-22T04:57:21.456Z"
+  "queuedAt": "2026-09-22T12:16:14.774Z"
 }

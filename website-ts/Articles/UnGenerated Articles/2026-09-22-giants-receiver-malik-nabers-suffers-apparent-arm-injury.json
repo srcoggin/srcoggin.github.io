@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants receiver Malik Nabers suffers apparent arm injury",
-      "description": "Nabers exits in considerable pain.",
-      "url": "https://sports.yahoo.com/articles/giants-receiver-malik-nabers-suffers-010024554.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants receiver Malik Nabers suffers apparent arm injury",
       "description": "Nabers exits in considerable pain.",
@@ -29,5 +23,5 @@
     "pain"
   ],
   "hash": "98c2ae3769f68d2a",
-  "queuedAt": "2026-09-22T04:57:22.182Z"
+  "queuedAt": "2026-09-22T12:16:15.395Z"
 }

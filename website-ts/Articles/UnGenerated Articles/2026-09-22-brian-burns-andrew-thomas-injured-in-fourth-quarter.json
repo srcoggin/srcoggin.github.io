@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brian Burns, Andrew Thomas injured in fourth quarter",
-      "description": "Monday night's game can't end soon enough for the Giants.",
-      "url": "https://sports.yahoo.com/articles/brian-burns-andrew-thomas-injured-031122967.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brian Burns, Andrew Thomas injured in fourth quarter",
       "description": "Monday night's game can't end soon enough for the Giants.",
@@ -32,5 +26,5 @@
     "giants"
   ],
   "hash": "31d9c25ccf7255f5",
-  "queuedAt": "2026-09-22T04:57:21.706Z"
+  "queuedAt": "2026-09-22T12:16:14.924Z"
 }

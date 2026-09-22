@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Matthew Stafford moves into tie for sixth on all-time TDs list as Rams take 14-0 lead",
-      "description": "Rams quarterback Matthew Stafford moved into a tie for sixth on the NFL's all-time passing touchdowns list on Monday night.",
-      "url": "https://sports.yahoo.com/articles/matthew-stafford-moves-tie-sixth-011406893.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Matthew Stafford moves into tie for sixth on all-time TDs list as Rams take 14-0 lead",
       "description": "Rams quarterback Matthew Stafford moved into a tie for sixth on the NFL's all-time passing touchdowns list on Monday night.",
@@ -37,5 +31,5 @@
     "night"
   ],
   "hash": "c5b9c5972f0a643b",
-  "queuedAt": "2026-09-22T04:57:22.008Z"
+  "queuedAt": "2026-09-22T12:16:15.154Z"
 }

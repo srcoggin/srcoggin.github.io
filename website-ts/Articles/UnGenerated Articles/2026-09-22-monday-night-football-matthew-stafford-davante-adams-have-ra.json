@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Monday Night Football: Matthew Stafford, Davante Adams have Rams up 14-3 at halftime",
-      "description": "The Rams are playing without wide receiver Puka Nacua and pass rusher Myles Garrett.",
-      "url": "https://sports.yahoo.com/articles/monday-night-football-matthew-stafford-015253620.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Monday Night Football: Matthew Stafford, Davante Adams have Rams up 14-3 at halftime",
       "description": "The Rams are playing without wide receiver Puka Nacua and pass rusher Myles Garrett.",
@@ -37,5 +31,5 @@
     "garrett"
   ],
   "hash": "0141492abfe82b5d",
-  "queuedAt": "2026-09-22T04:57:21.857Z"
+  "queuedAt": "2026-09-22T12:16:15.086Z"
 }

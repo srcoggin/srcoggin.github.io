@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Malik Nabers returns to Monday night game on next drive",
-      "description": "Nabers was back on the next drive after suffering shoulder injury.",
-      "url": "https://sports.yahoo.com/articles/malik-nabers-returns-monday-night-012217641.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Malik Nabers returns to Monday night game on next drive",
       "description": "Nabers was back on the next drive after suffering shoulder injury.",
@@ -29,5 +23,5 @@
     "injury"
   ],
   "hash": "9737d59baadbecdc",
-  "queuedAt": "2026-09-22T04:57:21.942Z"
+  "queuedAt": "2026-09-22T12:16:15.249Z"
 }

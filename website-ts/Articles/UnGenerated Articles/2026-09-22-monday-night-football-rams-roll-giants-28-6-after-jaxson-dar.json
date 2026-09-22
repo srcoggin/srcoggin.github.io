@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Monday Night Football: Rams roll Giants 28-6 after Jaxson Dart's departure",
-      "description": "Matthew Stafford threw four touchdown passes, two to Davante Adams, who had 195 yards.",
-      "url": "https://sports.yahoo.com/articles/monday-night-football-rams-roll-032414540.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Monday Night Football: Rams roll Giants 28-6 after Jaxson Dart's departure",
       "description": "Matthew Stafford threw four touchdown passes, two to Davante Adams, who had 195 yards.",
@@ -39,5 +33,5 @@
     "yards"
   ],
   "hash": "35d0fd06d5c5f1f0",
-  "queuedAt": "2026-09-22T04:57:21.603Z"
+  "queuedAt": "2026-09-22T12:16:14.848Z"
 }

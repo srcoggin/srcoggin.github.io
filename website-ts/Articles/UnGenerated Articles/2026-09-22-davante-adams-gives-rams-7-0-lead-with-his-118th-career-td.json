@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Davante Adams gives Rams 7-0 lead with his 118th career TD",
-      "description": "Matthew Stafford doesn't have Puka Nacua, but he does have Davante Adams.",
-      "url": "https://sports.yahoo.com/articles/davante-adams-gives-rams-7-005903745.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Davante Adams gives Rams 7-0 lead with his 118th career TD",
       "description": "Matthew Stafford doesn't have Puka Nacua, but he does have Davante Adams.",
@@ -31,5 +25,5 @@
     "nacua"
   ],
   "hash": "ada4b960e5ccbda2",
-  "queuedAt": "2026-09-22T04:57:22.259Z"
+  "queuedAt": "2026-09-22T12:16:15.478Z"
 }
