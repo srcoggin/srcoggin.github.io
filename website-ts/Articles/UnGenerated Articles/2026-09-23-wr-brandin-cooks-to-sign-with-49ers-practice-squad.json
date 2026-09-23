@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "WR Brandin Cooks to sign with 49ers practice squad",
-      "description": "The 49ers are adding a veteran wide receiver to their practice squad.",
-      "url": "https://sports.yahoo.com/articles/wr-brandin-cooks-sign-49ers-224949993.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "WR Brandin Cooks to sign with 49ers practice squad",
       "description": "The 49ers are adding a veteran wide receiver to their practice squad.",
@@ -29,5 +23,5 @@
     "their"
   ],
   "hash": "e4ca15cafd1e42d5",
-  "queuedAt": "2026-09-23T05:15:40.366Z"
+  "queuedAt": "2026-09-23T12:30:01.125Z"
 }
