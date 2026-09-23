@@ -4,9 +4,9 @@
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Yankees-Rays, NFL, MLB betting on Wednesday",
+      "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Rays-Yankees, NFL, MLB betting on Wednesday",
       "description": "DraftKings offers $150 in bonus bets after your first $5 wager for NFL, college football, MLB betting on Wednesday",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-yankees-rays-nfl-mlb-betting-wednesday/"
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-rays-yankees-nfl-mlb-betting-wednesday/"
     },
     {
       "name": "CBS Sports NFL",
@@ -25,7 +25,7 @@
     "bonus",
     "bets",
     "targeting",
-    "yankeesrays",
+    "raysyankees",
     "mlb",
     "betting",
     "wednesday",
@@ -37,11 +37,12 @@
     "betmgm",
     "cbssports",
     "1500",
+    "yankeesrays",
     "latest",
     "mgm",
     "bet",
     "loses"
   ],
   "hash": "5855814f18273864",
-  "queuedAt": "2026-09-23T17:00:56.181Z"
+  "queuedAt": "2026-09-23T21:54:34.171Z"
 }
