@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Macdonald's comments about Sean Payton weren't intended for public consumption",
-      "description": "Seahawks coach Mike Macdonald launched his career as a head coach with a win over Sean Payton and the Denver Broncos.",
-      "url": "https://sports.yahoo.com/articles/mike-macdonalds-comments-sean-payton-000908296.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Macdonald's comments about Sean Payton weren't intended for public consumption",
       "description": "Seahawks coach Mike Macdonald launched his career as a head coach with a win over Sean Payton and the Denver Broncos.",
@@ -39,5 +33,5 @@
     "broncos"
   ],
   "hash": "1cebcc662e137694",
-  "queuedAt": "2026-09-23T12:29:51.993Z"
+  "queuedAt": "2026-09-23T17:01:00.390Z"
 }

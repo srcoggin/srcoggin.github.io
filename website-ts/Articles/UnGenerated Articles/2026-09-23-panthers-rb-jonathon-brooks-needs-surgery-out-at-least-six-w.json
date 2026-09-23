@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers RB Jonathon Brooks needs surgery, out at least six weeks",
-      "description": "The groin injury suffered by Panthers running back Jonathon Brooks on Sunday was worse than initially believed.",
-      "url": "https://sports.yahoo.com/articles/panthers-rb-jonathon-brooks-needs-120036208.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers RB Jonathon Brooks needs surgery, out at least six weeks",
       "description": "The groin injury suffered by Panthers running back Jonathon Brooks on Sunday was worse than initially believed.",
@@ -36,5 +30,5 @@
     "believed"
   ],
   "hash": "0419ea555961b365",
-  "queuedAt": "2026-09-23T12:29:51.368Z"
+  "queuedAt": "2026-09-23T17:01:00.252Z"
 }
