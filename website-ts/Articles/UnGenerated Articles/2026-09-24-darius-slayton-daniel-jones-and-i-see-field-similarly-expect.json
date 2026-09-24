@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Darius Slayton: Daniel Jones and I see field similarly, expect that to work well for us",
-      "description": "Darius Slayton was watching last Sunday night's game between the Colts and Chiefs, which meant he saw Colts wideout Alec Pierce leave the game after aggravating a heel injury.",
-      "url": "https://sports.yahoo.com/articles/darius-slayton-daniel-jones-see-104956401.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Darius Slayton: Daniel Jones and I see field similarly, expect that to work well for us",
       "description": "Darius Slayton was watching last Sunday night's game between the Colts and Chiefs, which meant he saw Colts wideout Alec Pierce leave the game after aggravating a heel injury.",
@@ -45,5 +39,5 @@
     "injury"
   ],
   "hash": "6b5205625b30b3c6",
-  "queuedAt": "2026-09-24T12:14:40.661Z"
+  "queuedAt": "2026-09-24T18:03:54.790Z"
 }

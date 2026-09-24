@@ -1,0 +1,22 @@
+{
+  "title": "NFL Week 3 Game Picks",
+  "category": "draft",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "NFL Week 3 Game Picks",
+      "description": "Predicting the winners of this week’s football matchups.",
+      "url": "https://sports.yahoo.com/articles/nfl-week-3-game-picks-165000632.html"
+    }
+  ],
+  "keywords": [
+    "picks",
+    "predicting",
+    "winners",
+    "this",
+    "weeks",
+    "matchups"
+  ],
+  "hash": "646154299c3ee162",
+  "queuedAt": "2026-09-24T18:03:48.690Z"
+}

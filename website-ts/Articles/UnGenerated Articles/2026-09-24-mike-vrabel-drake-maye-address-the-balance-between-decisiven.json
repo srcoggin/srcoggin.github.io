@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Vrabel, Drake Maye address the balance between decisiveness and recklessness",
-      "description": "After a Week 2 win over the Steelers, Patriots coach Mike Vrabel didn't want to have his Sunday \"ruined\" by questions about the performance of quarterback Drake Maye.",
-      "url": "https://sports.yahoo.com/articles/mike-vrabel-drake-maye-address-102226979.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Vrabel, Drake Maye address the balance between decisiveness and recklessness",
       "description": "After a Week 2 win over the Steelers, Patriots coach Mike Vrabel didn't want to have his Sunday \"ruined\" by questions about the performance of quarterback Drake Maye.",
@@ -40,5 +34,5 @@
     "quarterback"
   ],
   "hash": "90dc1d848dc0dafb",
-  "queuedAt": "2026-09-24T12:14:40.732Z"
+  "queuedAt": "2026-09-24T18:03:54.885Z"
 }
