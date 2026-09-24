@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Case Keenum ready to start for Bears if needed",
-      "description": "The Bears haven't named Case Keenum the starter for Monday night's game against the Eagles, but he could be the next man up.",
-      "url": "https://sports.yahoo.com/articles/case-keenum-ready-start-bears-013858896.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Case Keenum ready to start for Bears if needed",
       "description": "The Bears haven't named Case Keenum the starter for Monday night's game against the Eagles, but he could be the next man up.",
@@ -33,5 +27,5 @@
     "man"
   ],
   "hash": "fa813a20e4812b9f",
-  "queuedAt": "2026-09-24T04:34:14.445Z"
+  "queuedAt": "2026-09-24T12:14:46.591Z"
 }

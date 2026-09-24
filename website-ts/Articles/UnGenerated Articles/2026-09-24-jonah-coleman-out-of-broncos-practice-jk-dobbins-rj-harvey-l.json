@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jonah Coleman out of Broncos practice; J.K. Dobbins, RJ Harvey limited",
-      "description": "The top three Broncos running backs are all on the injury report.",
-      "url": "https://sports.yahoo.com/articles/jonah-coleman-broncos-practice-j-224032938.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jonah Coleman out of Broncos practice; J.K. Dobbins, RJ Harvey limited",
       "description": "The top three Broncos running backs are all on the injury report.",
@@ -32,5 +26,5 @@
     "report"
   ],
   "hash": "d673d9c7ddffee43",
-  "queuedAt": "2026-09-24T04:34:12.985Z"
+  "queuedAt": "2026-09-24T12:14:40.364Z"
 }

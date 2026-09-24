@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Travis Etienne, Chase Young limited in Saints practice",
-      "description": "Running back Travis Etienne was among the Saints players on the team's first injury report ahead of their Week 3 game against the Raiders.",
-      "url": "https://sports.yahoo.com/articles/travis-etienne-chase-young-limited-224929634.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Travis Etienne, Chase Young limited in Saints practice",
       "description": "Running back Travis Etienne was among the Saints players on the team's first injury report ahead of their Week 3 game against the Raiders.",
@@ -37,5 +31,5 @@
     "raiders"
   ],
   "hash": "5ad5db656602c5ce",
-  "queuedAt": "2026-09-24T04:34:12.918Z"
+  "queuedAt": "2026-09-24T12:14:40.297Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bills WR DJ Moore (shoulder) was limited; WR Keon Coleman (ankle) did not practice",
-      "description": "Last Thursday night, Bills receiver DJ Moore left the home opener against the Lions with a shoulder injury.",
-      "url": "https://sports.yahoo.com/articles/bills-wr-dj-moore-shoulder-235419417.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bills WR DJ Moore (shoulder) was limited; WR Keon Coleman (ankle) did not practice",
       "description": "Last Thursday night, Bills receiver DJ Moore left the home opener against the Lions with a shoulder injury.",
@@ -36,5 +30,5 @@
     "injury"
   ],
   "hash": "bcd58d966fd33085",
-  "queuedAt": "2026-09-24T04:34:14.504Z"
+  "queuedAt": "2026-09-24T12:14:46.868Z"
 }
