@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "John Lynch on Mac Jones: QB is a good spot to be well insulated",
-      "description": "Injuries to Jayden Daniels and Jaxson Dart have led to a lot of chatter about what the Commanders and Giants could do to bolster their quarterback rooms before their seasons are lost.",
-      "url": "https://sports.yahoo.com/articles/john-lynch-mac-jones-qb-162935676.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "John Lynch on Mac Jones: QB is a good spot to be well insulated",
       "description": "Injuries to Jayden Daniels and Jaxson Dart have led to a lot of chatter about what the Commanders and Giants could do to bolster their quarterback rooms before their seasons are lost.",
@@ -44,5 +38,5 @@
     "lost"
   ],
   "hash": "a453d3c5b23ba32b",
-  "queuedAt": "2026-09-24T18:03:47.632Z"
+  "queuedAt": "2026-09-24T22:27:04.025Z"
 }

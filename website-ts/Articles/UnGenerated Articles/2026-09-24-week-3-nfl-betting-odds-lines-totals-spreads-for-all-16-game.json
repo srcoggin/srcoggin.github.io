@@ -1,12 +1,12 @@
 {
-  "title": "Week 3 NFL betting odds, lines, totals, spreads, for all 16 games, including Ravens-Cowboys, Rams-Broncos",
+  "title": "Week 3 NFL betting odds, lines, totals, spreads, for all 16 games, including Falcons-Packers, Ravens-Cowboys",
   "category": "general",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Week 3 NFL betting odds, lines, totals, spreads, for all 16 games, including Ravens-Cowboys, Rams-Broncos",
+      "title": "Week 3 NFL betting odds, lines, totals, spreads, for all 16 games, including Falcons-Packers, Ravens-Cowboys",
       "description": "The Week 3 NFL schedule features 16 games, starting with Packers vs. Falcons on Thursday Night Football",
-      "url": "https://www.cbssports.com/betting/news/week-3-nfl-odds-betting-lines-totals-spreads/"
+      "url": "https://www.cbssports.com/betting/news/week-3-nfl-odds-betting-lines-spreads-totals/"
     }
   ],
   "keywords": [
@@ -17,8 +17,8 @@
     "spreads",
     "games",
     "including",
+    "falconspackers",
     "ravenscowboys",
-    "ramsbroncos",
     "schedule",
     "features",
     "starting",
@@ -27,6 +27,6 @@
     "thursday",
     "night"
   ],
-  "hash": "30108ce74cc408e3",
-  "queuedAt": "2026-09-24T12:14:45.136Z"
+  "hash": "eaf4d7261be0b744",
+  "queuedAt": "2026-09-24T22:27:00.747Z"
 }

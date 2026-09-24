@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brian Schottenheimer confident Cowboys will arrive in Brazil rested and ready to practice",
-      "description": "The Cowboys are flying to Rio de Janeiro, Brazil, tonight, arriving Friday morning for their Sunday game against the Ravens.",
-      "url": "https://sports.yahoo.com/articles/brian-schottenheimer-confident-cowboys-arrive-170007773.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brian Schottenheimer confident Cowboys will arrive in Brazil rested and ready to practice",
       "description": "The Cowboys are flying to Rio de Janeiro, Brazil, tonight, arriving Friday morning for their Sunday game against the Ravens.",
@@ -38,5 +32,5 @@
     "ravens"
   ],
   "hash": "3c4e9964a1915575",
-  "queuedAt": "2026-09-24T18:03:47.438Z"
+  "queuedAt": "2026-09-24T22:27:03.758Z"
 }

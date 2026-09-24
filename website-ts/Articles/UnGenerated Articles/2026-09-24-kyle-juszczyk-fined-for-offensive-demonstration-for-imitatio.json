@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Juszczyk fined for offensive demonstration for \"imitation of chugging a beer\"",
-      "description": "There are plenty of beers being sold at NFL stadiums and advertisements for them being shown during games, but the NFL has apparently drawn the line at players pretending to drink them on the field.",
-      "url": "https://sports.yahoo.com/articles/kyle-juszczyk-fined-offensive-demonstration-164546885.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Juszczyk fined for offensive demonstration for \"imitation of chugging a beer\"",
       "description": "There are plenty of beers being sold at NFL stadiums and advertisements for them being shown during games, but the NFL has apparently drawn the line at players pretending to drink them on the field.",
@@ -41,5 +35,5 @@
     "field"
   ],
   "hash": "9c783687c21f5c7a",
-  "queuedAt": "2026-09-24T18:03:47.530Z"
+  "queuedAt": "2026-09-24T22:27:03.846Z"
 }
