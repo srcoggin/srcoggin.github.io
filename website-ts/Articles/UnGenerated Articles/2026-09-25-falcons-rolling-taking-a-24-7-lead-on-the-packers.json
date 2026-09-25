@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons rolling, taking a 24-7 lead on the Packers",
-      "description": "The Falcons are dominating the Packers at Lambeau Field.",
-      "url": "https://sports.yahoo.com/articles/falcons-rolling-taking-24-7-022837181.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons rolling, taking a 24-7 lead on the Packers",
       "description": "The Falcons are dominating the Packers at Lambeau Field.",
@@ -27,5 +21,5 @@
     "field"
   ],
   "hash": "5d21569daed5b3ab",
-  "queuedAt": "2026-09-25T12:02:18.100Z"
+  "queuedAt": "2026-09-25T17:29:36.597Z"
 }

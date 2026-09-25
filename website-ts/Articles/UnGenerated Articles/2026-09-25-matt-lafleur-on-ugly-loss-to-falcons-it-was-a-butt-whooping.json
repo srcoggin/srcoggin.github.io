@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Matt LaFleur on ugly loss to Falcons: \"It was a butt-whooping\"",
-      "description": "The running game was MIA against ATL.",
-      "url": "https://sports.yahoo.com/articles/matt-lafleur-ugly-loss-falcons-040518026.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Matt LaFleur on ugly loss to Falcons: \"It was a butt-whooping\"",
       "description": "The running game was MIA against ATL.",
@@ -28,5 +22,5 @@
     "atl"
   ],
   "hash": "30f3ca36e14f5348",
-  "queuedAt": "2026-09-25T12:02:18.017Z"
+  "queuedAt": "2026-09-25T17:29:36.405Z"
 }

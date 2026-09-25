@@ -1,12 +1,12 @@
 {
-  "title": "Week 3 NFL betting odds, lines, totals, spreads, for all 16 games, including Falcons-Packers, Ravens-Cowboys",
+  "title": "Week 3 NFL betting odds, lines, totals, spreads, for all 16 games, including Steelers-Bengals, Ravens-Cowboys",
   "category": "general",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Week 3 NFL betting odds, lines, totals, spreads, for all 16 games, including Falcons-Packers, Ravens-Cowboys",
-      "description": "The Week 3 NFL schedule features 16 games, starting with Packers vs. Falcons on Thursday Night Football",
-      "url": "https://www.cbssports.com/betting/news/week-3-nfl-odds-betting-lines-spreads-totals/"
+      "title": "Week 3 NFL betting odds, lines, totals, spreads, for all 16 games, including Steelers-Bengals, Ravens-Cowboys",
+      "description": "The Week 3 NFL schedule features 16 games, including Bengals vs. Steelers and Ravens vs. Cowboys on Sunday",
+      "url": "https://www.cbssports.com/betting/news/week-3-nfl-betting-odds-lines-spreads-totals/"
     }
   ],
   "keywords": [
@@ -17,16 +17,16 @@
     "spreads",
     "games",
     "including",
-    "falconspackers",
+    "steelersbengals",
     "ravenscowboys",
     "schedule",
     "features",
-    "starting",
-    "packers",
-    "falcons",
-    "thursday",
-    "night"
+    "bengals",
+    "steelers",
+    "ravens",
+    "cowboys",
+    "sunday"
   ],
-  "hash": "eaf4d7261be0b744",
-  "queuedAt": "2026-09-25T12:02:20.802Z"
+  "hash": "ac75ef87d077cd67",
+  "queuedAt": "2026-09-25T17:29:34.735Z"
 }

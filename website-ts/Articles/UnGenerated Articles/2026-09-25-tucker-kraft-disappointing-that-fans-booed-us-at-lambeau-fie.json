@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tucker Kraft: Disappointing that fans booed us at Lambeau Field, won't help us win",
-      "description": "\"It'd be much easier with the 70,000 people behind us rather than opposing us,\" Kraft said of the Packers fans who booed during the 35-14 loss.",
-      "url": "https://sports.yahoo.com/articles/tucker-kraft-disappointing-fans-booed-082232777.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tucker Kraft: Disappointing that fans booed us at Lambeau Field, won't help us win",
       "description": "\"It'd be much easier with the 70,000 people behind us rather than opposing us,\" Kraft said of the Packers fans who booed during the 35-14 loss.",
@@ -42,5 +36,5 @@
     "loss"
   ],
   "hash": "8eeeba03deeba01c",
-  "queuedAt": "2026-09-25T12:02:17.926Z"
+  "queuedAt": "2026-09-25T17:29:36.447Z"
 }

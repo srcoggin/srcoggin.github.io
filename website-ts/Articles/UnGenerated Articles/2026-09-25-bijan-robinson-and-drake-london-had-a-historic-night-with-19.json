@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bijan Robinson and Drake London had a historic night, with 194 yards each",
-      "description": "Falcons running back Bijan Robinson and wide receiver Drake London ran wild at Lambeau Field on Thursday night.",
-      "url": "https://sports.yahoo.com/articles/bijan-robinson-drake-london-had-090801109.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bijan Robinson and Drake London had a historic night, with 194 yards each",
       "description": "Falcons running back Bijan Robinson and wide receiver Drake London ran wild at Lambeau Field on Thursday night.",
@@ -36,5 +30,5 @@
     "thursday"
   ],
   "hash": "374c26f202980a75",
-  "queuedAt": "2026-09-25T12:02:17.887Z"
+  "queuedAt": "2026-09-25T17:29:36.231Z"
 }
