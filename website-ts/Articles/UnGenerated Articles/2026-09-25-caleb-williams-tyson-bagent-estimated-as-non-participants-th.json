@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Caleb Williams, Tyson Bagent estimated as non-participants Thursday",
-      "description": "The Bears did not practice on Thursday, but their practice report does not bode well for their top two quarterbacks.",
-      "url": "https://sports.yahoo.com/articles/caleb-williams-tyson-bagent-estimated-233021251.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Caleb Williams, Tyson Bagent estimated as non-participants Thursday",
       "description": "The Bears did not practice on Thursday, but their practice report does not bode well for their top two quarterbacks.",
@@ -34,5 +28,5 @@
     "quarterbacks"
   ],
   "hash": "ce16c5f0b260f65d",
-  "queuedAt": "2026-09-25T05:29:30.386Z"
+  "queuedAt": "2026-09-25T12:02:17.505Z"
 }

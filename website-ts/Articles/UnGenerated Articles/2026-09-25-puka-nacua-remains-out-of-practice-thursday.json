@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Puka Nacua remains out of practice Thursday",
-      "description": "Rams wide receiver Puka Nacua sat out practice again Thursday.",
-      "url": "https://sports.yahoo.com/articles/puka-nacua-remains-practice-thursday-003250462.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Puka Nacua remains out of practice Thursday",
       "description": "Rams wide receiver Puka Nacua sat out practice again Thursday.",
@@ -28,5 +22,5 @@
     "sat"
   ],
   "hash": "c8930df450fcf167",
-  "queuedAt": "2026-09-25T05:29:32.670Z"
+  "queuedAt": "2026-09-25T12:02:22.247Z"
 }

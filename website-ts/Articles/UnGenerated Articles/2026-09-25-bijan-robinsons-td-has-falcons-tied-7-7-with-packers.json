@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bijan Robinson's TD has Falcons tied 7-7 with Packers",
-      "description": "The Falcons became only the fourth team since 1978 without a red zone drive through two games.",
-      "url": "https://sports.yahoo.com/articles/bijan-robinsons-td-falcons-tied-005801012.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bijan Robinson's TD has Falcons tied 7-7 with Packers",
       "description": "The Falcons became only the fourth team since 1978 without a red zone drive through two games.",
@@ -33,5 +27,5 @@
     "games"
   ],
   "hash": "9bbed890f3130cbb",
-  "queuedAt": "2026-09-25T05:29:32.469Z"
+  "queuedAt": "2026-09-25T12:02:22.089Z"
 }

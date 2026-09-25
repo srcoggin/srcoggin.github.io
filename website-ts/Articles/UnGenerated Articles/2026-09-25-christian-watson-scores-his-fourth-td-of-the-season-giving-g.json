@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Christian Watson scores his fourth TD of the season, giving Green Bay a 7-0 lead",
-      "description": "It is Week 3, and Christian Watson already has four touchdown receptions.",
-      "url": "https://sports.yahoo.com/articles/christian-watson-scores-fourth-td-005035955.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Christian Watson scores his fourth TD of the season, giving Green Bay a 7-0 lead",
       "description": "It is Week 3, and Christian Watson already has four touchdown receptions.",
@@ -31,5 +25,5 @@
     "receptions"
   ],
   "hash": "b67bf7b33ed5b92e",
-  "queuedAt": "2026-09-25T05:29:32.565Z"
+  "queuedAt": "2026-09-25T12:02:22.203Z"
 }
