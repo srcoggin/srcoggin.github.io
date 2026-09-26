@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saquon Barkley back to full participation, Hollywood Brown doesn't practice",
-      "description": "Eagles running back Saquon Barkley said that he expects to be good to go for Monday night's game against the Bears and Friday's injury report shows that he's on track to play.",
-      "url": "https://sports.yahoo.com/articles/saquon-barkley-back-full-participation-222450726.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saquon Barkley back to full participation, Hollywood Brown doesn't practice",
       "description": "Eagles running back Saquon Barkley said that he expects to be good to go for Monday night's game against the Bears and Friday's injury report shows that he's on track to play.",
@@ -44,5 +38,5 @@
     "play"
   ],
   "hash": "87d54d906be21264",
-  "queuedAt": "2026-09-26T04:36:20.765Z"
+  "queuedAt": "2026-09-26T11:33:13.865Z"
 }

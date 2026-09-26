@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers WR Mike Evans is questionable with a hip injury",
-      "description": "49ers wide receiver Mike Evans returned to practice Friday, but he is questionable to play Sunday.",
-      "url": "https://sports.yahoo.com/articles/49ers-wr-mike-evans-questionable-214400333.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers WR Mike Evans is questionable with a hip injury",
       "description": "49ers wide receiver Mike Evans returned to practice Friday, but he is questionable to play Sunday.",
@@ -31,5 +25,5 @@
     "sunday"
   ],
   "hash": "e1c5a25e4fda6f81",
-  "queuedAt": "2026-09-26T04:36:21.584Z"
+  "queuedAt": "2026-09-26T11:33:17.196Z"
 }
