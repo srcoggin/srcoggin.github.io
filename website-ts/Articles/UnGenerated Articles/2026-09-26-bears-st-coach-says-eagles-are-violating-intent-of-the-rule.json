@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears ST coach says Eagles are violating intent of the rule by using holder on kickoffs",
-      "description": "Last week, the Eagles used a holder on their kickoffs so that the ball could be placed at an angle that affected the trajectory of the ball and made it harder for the returner to field.",
-      "url": "https://sports.yahoo.com/articles/bears-st-coach-says-eagles-233736476.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears ST coach says Eagles are violating intent of the rule by using holder on kickoffs",
       "description": "Last week, the Eagles used a holder on their kickoffs so that the ball could be placed at an angle that affected the trajectory of the ball and made it harder for the returner to field.",
@@ -41,5 +35,5 @@
     "field"
   ],
   "hash": "fde6c7eab9c78613",
-  "queuedAt": "2026-09-26T11:33:14.177Z"
+  "queuedAt": "2026-09-26T16:53:07.132Z"
 }

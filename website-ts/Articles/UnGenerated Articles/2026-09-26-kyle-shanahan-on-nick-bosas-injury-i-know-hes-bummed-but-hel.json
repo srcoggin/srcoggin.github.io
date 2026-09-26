@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Shanahan on Nick Bosa's injury: I know he's bummed, but he'll be back",
-      "description": "49ers head coach Kyle Shanahan confirmed defensive end Nick Bosa will miss multiple weeks after injuring his calf before Thursday's practice.",
-      "url": "https://sports.yahoo.com/articles/kyle-shanahan-nick-bosas-injury-230118653.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Shanahan on Nick Bosa's injury: I know he's bummed, but he'll be back",
       "description": "49ers head coach Kyle Shanahan confirmed defensive end Nick Bosa will miss multiple weeks after injuring his calf before Thursday's practice.",
@@ -43,5 +37,5 @@
     "practice"
   ],
   "hash": "314b157df5504d21",
-  "queuedAt": "2026-09-26T11:33:13.440Z"
+  "queuedAt": "2026-09-26T16:53:01.030Z"
 }

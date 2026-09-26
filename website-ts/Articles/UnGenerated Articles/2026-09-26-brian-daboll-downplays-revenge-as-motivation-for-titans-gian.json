@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brian Daboll downplays revenge as motivation for Titans-Giants game",
-      "description": "Titans offensive coordinator Brian Daboll will be coaching against the team that fired him when he faces the Giants on Sunday.",
-      "url": "https://sports.yahoo.com/articles/brian-daboll-downplays-revenge-motivation-110136935.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brian Daboll downplays revenge as motivation for Titans-Giants game",
       "description": "Titans offensive coordinator Brian Daboll will be coaching against the team that fired him when he faces the Giants on Sunday.",
@@ -35,5 +29,5 @@
     "sunday"
   ],
   "hash": "5004547308c7ee71",
-  "queuedAt": "2026-09-26T11:33:14.024Z"
+  "queuedAt": "2026-09-26T16:53:06.785Z"
 }

@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bud Light leans in to fines for beer celebrations",
-      "description": "The Church Lady has commandeered the league office.",
-      "url": "https://sports.yahoo.com/articles/bud-light-leans-fines-beer-235407831.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bud Light leans in to fines for beer celebrations",
       "description": "The Church Lady has commandeered the league office.",
@@ -29,5 +23,5 @@
     "office"
   ],
   "hash": "ca970c4d8d130cb6",
-  "queuedAt": "2026-09-26T11:33:14.139Z"
+  "queuedAt": "2026-09-26T16:53:07.064Z"
 }
