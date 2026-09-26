@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets' suddenly stout defense gets a big test at Lions",
-      "description": "Although the Jets have extended the record for games without an interception to 19, their defense has quietly become stout.",
-      "url": "https://sports.yahoo.com/articles/jets-suddenly-stout-defense-gets-144457117.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets' suddenly stout defense gets a big test at Lions",
       "description": "Although the Jets have extended the record for games without an interception to 19, their defense has quietly become stout.",
@@ -35,5 +29,5 @@
     "become"
   ],
   "hash": "f0c6fc880601b7de",
-  "queuedAt": "2026-09-26T16:53:01.481Z"
+  "queuedAt": "2026-09-26T21:24:59.472Z"
 }

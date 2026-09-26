@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts put Alec Pierce on IR, sign Anthony Gould to active roster",
-      "description": "Colts head coach Shane Steichen said this week that the team will put wide receiver Alec Pierce on injured reserve and the team made the move official on Saturday.",
-      "url": "https://sports.yahoo.com/articles/colts-put-alec-pierce-ir-162009594.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts put Alec Pierce on IR, sign Anthony Gould to active roster",
       "description": "Colts head coach Shane Steichen said this week that the team will put wide receiver Alec Pierce on injured reserve and the team made the move official on Saturday.",
@@ -42,5 +36,5 @@
     "saturday"
   ],
   "hash": "8095aeb99dab1d0f",
-  "queuedAt": "2026-09-26T16:53:00.646Z"
+  "queuedAt": "2026-09-26T21:24:55.642Z"
 }
