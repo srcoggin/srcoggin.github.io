@@ -1,0 +1,30 @@
+{
+  "title": "Week 3 injury report for Baltimore",
+  "category": "free-agency",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Week 3 injury report for Dallas",
+      "description": "The Dallas Cowboys have released their Week 3 injury report",
+      "url": "https://sports.yahoo.com/articles/week-3-injury-report-dallas-035944477.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Week 3 injury report for Baltimore",
+      "description": "The Baltimore Ravens have released their Week 3 injury report",
+      "url": "https://sports.yahoo.com/articles/week-3-injury-report-baltimore-034039917.html"
+    }
+  ],
+  "keywords": [
+    "injury",
+    "report",
+    "dallas",
+    "cowboys",
+    "released",
+    "their",
+    "baltimore",
+    "ravens"
+  ],
+  "hash": "3cfb1125a51a1463",
+  "queuedAt": "2026-09-26T04:36:20.682Z"
+}
