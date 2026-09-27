@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Myles Garrett will need about six weeks to recover from knee surgery",
-      "description": "Garrett might not be back until Week 9 against the Commanders.",
-      "url": "https://sports.yahoo.com/articles/report-myles-garrett-six-weeks-112123958.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Myles Garrett will need about six weeks to recover from knee surgery",
       "description": "Garrett might not be back until Week 9 against the Commanders.",
@@ -32,5 +26,5 @@
     "commanders"
   ],
   "hash": "75c0452ba6e0a10c",
-  "queuedAt": "2026-09-27T13:01:00.739Z"
+  "queuedAt": "2026-09-27T17:19:54.077Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: \"Handful\" of teams have begun inquiring about Steelers CB Joey Porter Jr.",
-      "description": "Cowboys and Lions reportedly have called.",
-      "url": "https://sports.yahoo.com/articles/report-handful-teams-begun-inquiring-122916876.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: \"Handful\" of teams have begun inquiring about Steelers CB Joey Porter Jr.",
       "description": "Cowboys and Lions reportedly have called.",
@@ -31,5 +25,5 @@
     "called"
   ],
   "hash": "69709f6cd8eda028",
-  "queuedAt": "2026-09-27T13:01:00.624Z"
+  "queuedAt": "2026-09-27T17:19:54.034Z"
 }

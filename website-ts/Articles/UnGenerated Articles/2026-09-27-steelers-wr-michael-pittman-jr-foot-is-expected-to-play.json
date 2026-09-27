@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers WR Michael Pittman Jr. (foot) is expected to play",
-      "description": "The Steelers need a lift on offense.",
-      "url": "https://sports.yahoo.com/articles/steelers-wr-michael-pittman-jr-121032379.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers WR Michael Pittman Jr. (foot) is expected to play",
       "description": "The Steelers need a lift on offense.",
@@ -27,5 +21,5 @@
     "offense"
   ],
   "hash": "c02c46ea1d28c904",
-  "queuedAt": "2026-09-27T13:01:01.997Z"
+  "queuedAt": "2026-09-27T17:19:57.552Z"
 }
