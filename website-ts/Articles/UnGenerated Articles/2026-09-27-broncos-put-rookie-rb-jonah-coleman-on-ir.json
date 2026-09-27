@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos put rookie RB Jonah Coleman on IR",
-      "description": "Broncos rookie running back Jonah Coleman scored his first NFL touchdown in Week 2, but he won't have a chance to add to that total for a while.",
-      "url": "https://sports.yahoo.com/articles/broncos-put-rookie-rb-jonah-215521788.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos put rookie RB Jonah Coleman on IR",
       "description": "Broncos rookie running back Jonah Coleman scored his first NFL touchdown in Week 2, but he won't have a chance to add to that total for a while.",
@@ -35,5 +29,5 @@
     "while"
   ],
   "hash": "2d7edf9044053854",
-  "queuedAt": "2026-09-27T04:51:09.351Z"
+  "queuedAt": "2026-09-27T13:01:11.080Z"
 }

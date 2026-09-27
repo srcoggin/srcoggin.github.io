@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Rodgers has gone seven straight games without multiple TD passes",
-      "description": "The final years of Aaron Rodgers's career aren't going as well as the rest of it.",
-      "url": "https://sports.yahoo.com/articles/aaron-rodgers-gone-seven-straight-025533419.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Rodgers has gone seven straight games without multiple TD passes",
       "description": "The final years of Aaron Rodgers's career aren't going as well as the rest of it.",
@@ -35,5 +29,5 @@
     "rest"
   ],
   "hash": "8194d1db1929a3b0",
-  "queuedAt": "2026-09-27T04:51:09.226Z"
+  "queuedAt": "2026-09-27T13:01:10.358Z"
 }

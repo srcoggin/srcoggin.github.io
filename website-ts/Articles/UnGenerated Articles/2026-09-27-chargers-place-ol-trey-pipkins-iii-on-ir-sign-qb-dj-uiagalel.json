@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chargers place OL Trey Pipkins III on IR, sign QB DJ Uiagalelei to active roster",
-      "description": "The Chargers placed offensive lineman Trey Pipkins III on injured reserve, the team announced Saturday.",
-      "url": "https://sports.yahoo.com/articles/chargers-place-ol-trey-pipkins-213248250.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chargers place OL Trey Pipkins III on IR, sign QB DJ Uiagalelei to active roster",
       "description": "The Chargers placed offensive lineman Trey Pipkins III on injured reserve, the team announced Saturday.",
@@ -34,5 +28,5 @@
     "saturday"
   ],
   "hash": "4f8cce4d634d2506",
-  "queuedAt": "2026-09-27T04:51:08.634Z"
+  "queuedAt": "2026-09-27T13:01:01.686Z"
 }
