@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sunday Night Football: Rams lead Broncos 16-0 at halftime",
-      "description": "Los Angeles scored on its last four possessions of the first half for a dominant first 30 minutes.",
-      "url": "https://sports.yahoo.com/articles/sunday-night-football-rams-lead-015946511.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sunday Night Football: Rams lead Broncos 16-0 at halftime",
       "description": "Los Angeles scored on its last four possessions of the first half for a dominant first 30 minutes.",
@@ -36,5 +30,5 @@
     "minutes"
   ],
   "hash": "03acf7949a514034",
-  "queuedAt": "2026-09-28T05:46:38.302Z"
+  "queuedAt": "2026-09-28T14:47:01.216Z"
 }
