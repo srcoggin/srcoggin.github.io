@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers list Joey Porter Jr. as a full practice participant",
-      "description": "The Steelers only held a walkthrough on Monday, but they said that a regular practice session would have resulted in a change of status for cornerback Joey Porter Jr.",
-      "url": "https://sports.yahoo.com/articles/steelers-list-joey-porter-jr-221536002.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers list Joey Porter Jr. as a full practice participant",
       "description": "The Steelers only held a walkthrough on Monday, but they said that a regular practice session would have resulted in a change of status for cornerback Joey Porter Jr.",
@@ -37,5 +31,5 @@
     "cornerback"
   ],
   "hash": "cee92b06f06c2278",
-  "queuedAt": "2026-09-29T00:21:25.165Z"
+  "queuedAt": "2026-09-29T06:24:33.936Z"
 }

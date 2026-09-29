@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Field survived Ravens-Cowboys, for the most part",
-      "description": "The Ravens-Cowboys game at Maracanå Stadium in Rio de Janeiro raised red flags regarding the quality of the field.",
-      "url": "https://sports.yahoo.com/articles/field-survived-ravens-cowboys-most-212009808.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Field survived Ravens-Cowboys, for the most part",
       "description": "The Ravens-Cowboys game at Maracanå Stadium in Rio de Janeiro raised red flags regarding the quality of the field.",
@@ -31,5 +25,5 @@
     "quality"
   ],
   "hash": "b923a31a1640f3cf",
-  "queuedAt": "2026-09-29T00:21:25.358Z"
+  "queuedAt": "2026-09-29T06:24:34.283Z"
 }

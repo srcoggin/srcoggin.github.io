@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers to open DE Mykel Williams' practice window this week",
-      "description": "The 49ers signed defensive end Matt Judon on Monday, because of their injuries at the position.",
-      "url": "https://sports.yahoo.com/articles/49ers-open-mykel-williams-practice-221613341.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers to open DE Mykel Williams' practice window this week",
       "description": "The 49ers signed defensive end Matt Judon on Monday, because of their injuries at the position.",
@@ -34,5 +28,5 @@
     "position"
   ],
   "hash": "3f655f2e90cc24fc",
-  "queuedAt": "2026-09-29T00:21:25.053Z"
+  "queuedAt": "2026-09-29T06:24:33.824Z"
 }
