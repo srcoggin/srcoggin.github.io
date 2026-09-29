@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jalen Hurts sent to sideline concussion check; Andy Dalton throws red zone INT",
-      "description": "Jalen Hurts was lit up by an illegal hit by Bears linebacker D'Marco Jackson.",
-      "url": "https://sports.yahoo.com/articles/jalen-hurts-sent-sideline-concussion-012402420.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jalen Hurts sent to sideline concussion check; Andy Dalton throws red zone INT",
       "description": "Jalen Hurts was lit up by an illegal hit by Bears linebacker D'Marco Jackson.",
@@ -37,5 +31,5 @@
     "jackson"
   ],
   "hash": "9a77195bedb4c81d",
-  "queuedAt": "2026-09-29T06:24:25.296Z"
+  "queuedAt": "2026-09-29T12:50:07.368Z"
 }

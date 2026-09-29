@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons-Packers generates 16.2 million on Prime Video",
-      "description": "The game wasn't good, unless you're a die-hard Falcons fan.",
-      "url": "https://sports.yahoo.com/articles/falcons-packers-generates-16-2-012736171.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons-Packers generates 16.2 million on Prime Video",
       "description": "The game wasn't good, unless you're a die-hard Falcons fan.",
@@ -31,5 +25,5 @@
     "fan"
   ],
   "hash": "3a029638362e200a",
-  "queuedAt": "2026-09-29T06:24:25.182Z"
+  "queuedAt": "2026-09-29T12:50:07.339Z"
 }

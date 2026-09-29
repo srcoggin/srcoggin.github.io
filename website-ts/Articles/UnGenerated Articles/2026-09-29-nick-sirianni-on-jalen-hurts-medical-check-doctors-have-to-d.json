@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nick Sirianni on Jalen Hurts medical check: \"Doctors have to do their job\"",
-      "description": "Eagles quarterback Jalen Hurts was visibly frustrated by a sideline concussion evaluation that kept him off the field for a promising drive that ended in an Andy Dalton interception during Monday night's game against the Bears.",
-      "url": "https://sports.yahoo.com/articles/nick-sirianni-jalen-hurts-medical-015247279.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nick Sirianni on Jalen Hurts medical check: \"Doctors have to do their job\"",
       "description": "Eagles quarterback Jalen Hurts was visibly frustrated by a sideline concussion evaluation that kept him off the field for a promising drive that ended in an Andy Dalton interception during Monday night's game against the Bears.",
@@ -49,5 +43,5 @@
     "bears"
   ],
   "hash": "b2b896e34087637d",
-  "queuedAt": "2026-09-29T06:24:25.035Z"
+  "queuedAt": "2026-09-29T12:50:07.304Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jim Harbaugh: Justin Herbert needs to \"be better\" in his decision-making",
-      "description": "The coach who not long ago said Chargers quarterback Justin Herbert will be remembered as the best quarterback in NFL history wants him to be better.",
-      "url": "https://sports.yahoo.com/articles/jim-harbaugh-justin-herbert-needs-004958972.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jim Harbaugh: Justin Herbert needs to \"be better\" in his decision-making",
       "description": "The coach who not long ago said Chargers quarterback Justin Herbert will be remembered as the best quarterback in NFL history wants him to be better.",
@@ -38,5 +32,5 @@
     "him"
   ],
   "hash": "f0eb673ca64a5031",
-  "queuedAt": "2026-09-29T06:24:25.566Z"
+  "queuedAt": "2026-09-29T12:50:07.438Z"
 }

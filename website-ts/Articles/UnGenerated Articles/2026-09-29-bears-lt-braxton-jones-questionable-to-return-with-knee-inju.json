@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears LT Braxton Jones questionable to return with knee injury",
-      "description": "Bears left tackle Braxton Jones is in the training room for further evaluation after a third-quarter injury.",
-      "url": "https://sports.yahoo.com/articles/bears-lt-braxton-jones-questionable-021645396.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears LT Braxton Jones questionable to return with knee injury",
       "description": "Bears left tackle Braxton Jones is in the training room for further evaluation after a third-quarter injury.",
@@ -31,5 +25,5 @@
     "thirdquarter"
   ],
   "hash": "5a1f3aeba0b4ba89",
-  "queuedAt": "2026-09-29T06:24:24.889Z"
+  "queuedAt": "2026-09-29T12:50:07.274Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Case Keenum's second TD pass has Bears holding 20-7 lead",
-      "description": "The Bears looked like they might be in trouble early in the practice week, with their top two quarterbacks on the injury report.",
-      "url": "https://sports.yahoo.com/articles/case-keenums-second-td-pass-022341094.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Case Keenum's second TD pass has Bears holding 20-7 lead",
       "description": "The Bears looked like they might be in trouble early in the practice week, with their top two quarterbacks on the injury report.",
@@ -38,5 +32,5 @@
     "report"
   ],
   "hash": "58b96977815be2f5",
-  "queuedAt": "2026-09-29T06:24:23.156Z"
+  "queuedAt": "2026-09-29T12:50:03.891Z"
 }
