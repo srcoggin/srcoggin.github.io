@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Case Keenum's Monday night performance shows importance of having three quarterbacks",
-      "description": "Last night, Bears quarterback Case Keenum played in a regular-season game for the first time in 1,009 days.",
-      "url": "https://sports.yahoo.com/articles/case-keenums-monday-night-performance-001552223.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Case Keenum's Monday night performance shows importance of having three quarterbacks",
       "description": "Last night, Bears quarterback Case Keenum played in a regular-season game for the first time in 1,009 days.",
@@ -38,5 +32,5 @@
     "days"
   ],
   "hash": "fb271beaa1ab9afd",
-  "queuedAt": "2026-09-30T05:29:37.916Z"
+  "queuedAt": "2026-09-30T12:52:10.085Z"
 }

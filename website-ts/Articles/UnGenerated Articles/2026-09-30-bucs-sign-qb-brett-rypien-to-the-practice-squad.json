@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bucs sign QB Brett Rypien to the practice squad",
-      "description": "The Buccaneers are signing quarterback Brett Rypien to their practice squad, Rick Stroud of the Tampa Bay Times reports.",
-      "url": "https://sports.yahoo.com/articles/bucs-sign-qb-brett-rypien-225851863.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bucs sign QB Brett Rypien to the practice squad",
       "description": "The Buccaneers are signing quarterback Brett Rypien to their practice squad, Rick Stroud of the Tampa Bay Times reports.",
@@ -34,5 +28,5 @@
     "reports"
   ],
   "hash": "0bea15d28e7a812b",
-  "queuedAt": "2026-09-30T05:29:36.415Z"
+  "queuedAt": "2026-09-30T12:52:04.786Z"
 }

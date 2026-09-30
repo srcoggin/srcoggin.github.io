@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jalen Ramsey says he has a broken wrist",
-      "description": "In advance of Thursday night's game at Cleveland, Steelers defensive back Jalen Ramsey was listed as limited in practice on Monday and Tuesday, with a wrist injury.",
-      "url": "https://sports.yahoo.com/articles/jalen-ramsey-says-broken-wrist-000116171.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jalen Ramsey says he has a broken wrist",
       "description": "In advance of Thursday night's game at Cleveland, Steelers defensive back Jalen Ramsey was listed as limited in practice on Monday and Tuesday, with a wrist injury.",
@@ -36,5 +30,5 @@
     "injury"
   ],
   "hash": "c2cd17fb8fd6e8b3",
-  "queuedAt": "2026-09-30T05:29:37.989Z"
+  "queuedAt": "2026-09-30T12:52:10.136Z"
 }

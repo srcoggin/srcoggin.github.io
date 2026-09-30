@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: 49ers to sign Dante Pettis to the practice squad",
-      "description": "The 49ers are signing wide receiver Dante Pettis to their practice squad, according to Jordan Schultz of The Schultz Report.",
-      "url": "https://sports.yahoo.com/articles/report-49ers-sign-dante-pettis-233242847.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: 49ers to sign Dante Pettis to the practice squad",
       "description": "The 49ers are signing wide receiver Dante Pettis to their practice squad, according to Jordan Schultz of The Schultz Report.",
@@ -32,5 +26,5 @@
     "schultz"
   ],
   "hash": "2c0b83f81a18b3d6",
-  "queuedAt": "2026-09-30T05:29:36.327Z"
+  "queuedAt": "2026-09-30T12:52:04.736Z"
 }

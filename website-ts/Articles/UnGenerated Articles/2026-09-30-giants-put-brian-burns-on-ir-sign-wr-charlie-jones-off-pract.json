@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Giants put Brian Burns on IR, sign WR Charlie Jones off practice squad",
-      "description": "The Giants' roster moves on Tuesday included moving linebacker Brian Burns to injured reserve.",
-      "url": "https://sports.yahoo.com/articles/giants-put-brian-burns-ir-215143291.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Giants put Brian Burns on IR, sign WR Charlie Jones off practice squad",
       "description": "The Giants' roster moves on Tuesday included moving linebacker Brian Burns to injured reserve.",
@@ -36,5 +30,5 @@
     "reserve"
   ],
   "hash": "40c4651e876c2d45",
-  "queuedAt": "2026-09-30T05:29:38.197Z"
+  "queuedAt": "2026-09-30T12:52:10.325Z"
 }
