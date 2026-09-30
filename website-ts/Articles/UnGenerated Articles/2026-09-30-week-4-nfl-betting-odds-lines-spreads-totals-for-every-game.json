@@ -1,12 +1,12 @@
 {
-  "title": "Week 4 NFL betting odds, lines, spreads, totals, for every game, including Steelers-Browns, Cowboys-Texans",
+  "title": "Week 4 NFL betting odds, lines, spreads, totals, for every game, including Browns-Steelers, Cowboys-Texans",
   "category": "general",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Week 4 NFL betting odds, lines, spreads, totals, for every game, including Steelers-Browns, Cowboys-Texans",
+      "title": "Week 4 NFL betting odds, lines, spreads, totals, for every game, including Browns-Steelers, Cowboys-Texans",
       "description": "The Week 4 NFL schedule features 16 games, starting with Steelers vs. Browns on Thursday Night Football",
-      "url": "https://www.cbssports.com/betting/news/week-4-nfl-betting-odds-lines-totals-spreads/"
+      "url": "https://www.cbssports.com/betting/news/week-4-nfl-betting-odds-lines-spreads-totals/"
     }
   ],
   "keywords": [
@@ -17,7 +17,7 @@
     "totals",
     "every",
     "including",
-    "steelersbrowns",
+    "brownssteelers",
     "cowboystexans",
     "schedule",
     "features",
@@ -28,6 +28,6 @@
     "thursday",
     "night"
   ],
-  "hash": "66ddee7e6860ee25",
-  "queuedAt": "2026-09-30T12:52:08.702Z"
+  "hash": "5d82bc0aecf6f567",
+  "queuedAt": "2026-09-30T22:42:58.733Z"
 }
