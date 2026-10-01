@@ -1,0 +1,22 @@
+{
+  "title": "NFL Week 4 Game Picks",
+  "category": "draft",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "NFL Week 4 Game Picks",
+      "description": "Predicting the winners of this week’s football matchups.",
+      "url": "https://sports.yahoo.com/articles/nfl-week-4-game-picks-211753275.html"
+    }
+  ],
+  "keywords": [
+    "picks",
+    "predicting",
+    "winners",
+    "this",
+    "weeks",
+    "matchups"
+  ],
+  "hash": "59e19342a396ad6f",
+  "queuedAt": "2026-10-01T23:55:57.625Z"
+}
