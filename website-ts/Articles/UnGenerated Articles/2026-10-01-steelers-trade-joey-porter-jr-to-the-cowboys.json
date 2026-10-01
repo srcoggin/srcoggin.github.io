@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers trade Joey Porter Jr. to the Cowboys",
-      "description": "Contract impasse ends with Porter being sent to a new team.",
-      "url": "https://sports.yahoo.com/articles/steelers-trade-joey-porter-jr-035431593.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers trade Joey Porter Jr. to the Cowboys",
       "description": "Contract impasse ends with Porter being sent to a new team.",
@@ -28,5 +22,5 @@
     "new"
   ],
   "hash": "df373b816537cd57",
-  "queuedAt": "2026-10-01T05:24:29.861Z"
+  "queuedAt": "2026-10-01T13:36:09.806Z"
 }

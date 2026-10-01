@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks S Julian Love returns to limited practice",
-      "description": "Seahawks safety Julian Love returned to practice on Wednesday.",
-      "url": "https://sports.yahoo.com/articles/seahawks-julian-love-returns-limited-001608596.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks S Julian Love returns to limited practice",
       "description": "Seahawks safety Julian Love returned to practice on Wednesday.",
@@ -27,5 +21,5 @@
     "wednesday"
   ],
   "hash": "835962ce25393a1d",
-  "queuedAt": "2026-10-01T05:24:30.124Z"
+  "queuedAt": "2026-10-01T13:36:10.369Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Zack Baun, DeVonta Smith miss practice for Eagles",
-      "description": "The Eagles were missing several players at Wednesday's practice, including linebacker Zack Baun.",
-      "url": "https://sports.yahoo.com/articles/zack-baun-devonta-smith-miss-231330045.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Zack Baun, DeVonta Smith miss practice for Eagles",
       "description": "The Eagles were missing several players at Wednesday's practice, including linebacker Zack Baun.",
@@ -31,5 +25,5 @@
     "linebacker"
   ],
   "hash": "09a0c4c62295aaff",
-  "queuedAt": "2026-10-01T05:24:30.162Z"
+  "queuedAt": "2026-10-01T13:36:10.637Z"
 }

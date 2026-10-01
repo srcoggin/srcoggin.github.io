@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Five Rams missed practice on Wednesday",
-      "description": "The Rams are banged up in advance of Sunday's key game at the Eagles.",
-      "url": "https://sports.yahoo.com/articles/five-rams-missed-practice-wednesday-013820775.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Five Rams missed practice on Wednesday",
       "description": "The Rams are banged up in advance of Sunday's key game at the Eagles.",
@@ -28,5 +22,5 @@
     "eagles"
   ],
   "hash": "0db47790c2bb1c58",
-  "queuedAt": "2026-10-01T05:24:30.027Z"
+  "queuedAt": "2026-10-01T13:36:10.065Z"
 }
