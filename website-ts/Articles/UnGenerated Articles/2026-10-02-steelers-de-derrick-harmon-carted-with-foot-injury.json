@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers DE Derrick Harmon carted with foot injury",
-      "description": "He is questionable to return after leaving in the second quarter.",
-      "url": "https://sports.yahoo.com/articles/steelers-derrick-harmon-carted-foot-012836024.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers DE Derrick Harmon carted with foot injury",
       "description": "He is questionable to return after leaving in the second quarter.",
@@ -29,5 +23,5 @@
     "quarter"
   ],
   "hash": "ec82ea66155f9188",
-  "queuedAt": "2026-10-02T06:02:04.998Z"
+  "queuedAt": "2026-10-02T12:50:42.094Z"
 }

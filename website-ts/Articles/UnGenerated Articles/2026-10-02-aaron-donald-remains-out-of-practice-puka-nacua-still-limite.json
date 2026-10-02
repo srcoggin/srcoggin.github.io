@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Donald remains out of practice; Puka Nacua still limited",
-      "description": "The Rams' injury report remained the same as on Wednesday aside from wide receiver Davante Adams returning from a rest day and nose tackle Poona Ford taking a rest day.",
-      "url": "https://sports.yahoo.com/articles/aaron-donald-remains-practice-puka-230949205.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Donald remains out of practice; Puka Nacua still limited",
       "description": "The Rams' injury report remained the same as on Wednesday aside from wide receiver Davante Adams returning from a rest day and nose tackle Poona Ford taking a rest day.",
@@ -45,5 +39,5 @@
     "taking"
   ],
   "hash": "e4b1c7a973576475",
-  "queuedAt": "2026-10-02T06:02:03.224Z"
+  "queuedAt": "2026-10-02T12:50:37.087Z"
 }

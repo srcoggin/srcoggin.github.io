@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Thursday Night Football: Steelers CB Jalen Ramsey is active vs. Browns",
-      "description": "Steelers cornerback Jalen Ramsey is active for Thursday Night Football.",
-      "url": "https://sports.yahoo.com/articles/thursday-night-football-steelers-cb-225937682.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Thursday Night Football: Steelers CB Jalen Ramsey is active vs. Browns",
       "description": "Steelers cornerback Jalen Ramsey is active for Thursday Night Football.",
@@ -26,5 +20,5 @@
     "cornerback"
   ],
   "hash": "7ea6b34b5a1a648e",
-  "queuedAt": "2026-10-02T06:02:05.579Z"
+  "queuedAt": "2026-10-02T12:50:42.439Z"
 }

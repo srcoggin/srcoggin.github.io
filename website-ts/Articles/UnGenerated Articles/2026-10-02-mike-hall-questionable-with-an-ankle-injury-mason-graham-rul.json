@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Hall questionable with an ankle injury; Mason Graham ruled out",
-      "description": "Browns defensive tackle Mike Hall, who replaced the injured Mason Graham in the first quarter, left late in the second quarter.",
-      "url": "https://sports.yahoo.com/articles/mike-hall-questionable-ankle-injury-021225093.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Hall questionable with an ankle injury; Mason Graham ruled out",
       "description": "Browns defensive tackle Mike Hall, who replaced the injured Mason Graham in the first quarter, left late in the second quarter.",
@@ -38,5 +32,5 @@
     "second"
   ],
   "hash": "ae795265d4fcc47b",
-  "queuedAt": "2026-10-02T06:02:04.807Z"
+  "queuedAt": "2026-10-02T12:50:41.981Z"
 }

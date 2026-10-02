@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Thursday Night Football: Deshaun Watson leads Browns to 27-24 win over Steelers",
-      "description": "Watson drove the Browns 36 yards in seven plays to set up Andre Szmyt's 56-yard field goal with 10 seconds left.",
-      "url": "https://sports.yahoo.com/articles/thursday-night-football-deshaun-watson-035438233.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Thursday Night Football: Deshaun Watson leads Browns to 27-24 win over Steelers",
       "description": "Watson drove the Browns 36 yards in seven plays to set up Andre Szmyt's 56-yard field goal with 10 seconds left.",
@@ -40,5 +34,5 @@
     "left"
   ],
   "hash": "2a32cc6b809ef3b4",
-  "queuedAt": "2026-10-02T06:02:04.619Z"
+  "queuedAt": "2026-10-02T12:50:41.773Z"
 }

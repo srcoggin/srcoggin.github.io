@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Thursday Night Football: Deshaun Watson, Browns lead Steelers 21-10 at halftime",
-      "description": "The Browns quarterback is 14-of-17 for 181 yards and a touchdown.",
-      "url": "https://sports.yahoo.com/articles/thursday-night-football-deshaun-watson-015707492.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Thursday Night Football: Deshaun Watson, Browns lead Steelers 21-10 at halftime",
       "description": "The Browns quarterback is 14-of-17 for 181 yards and a touchdown.",
@@ -32,5 +26,5 @@
     "touchdown"
   ],
   "hash": "a62ee5ec017d94e9",
-  "queuedAt": "2026-10-02T06:02:04.903Z"
+  "queuedAt": "2026-10-02T12:50:42.042Z"
 }

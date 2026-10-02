@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "RB Jadarian Price did not practice; RB Zach Charbonnet limited in his return",
-      "description": "Seahawks running back Jadarian Price was downgraded to out of practice Thursday, missing the session with a chest injury.",
-      "url": "https://sports.yahoo.com/articles/rb-jadarian-price-did-not-002205545.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "RB Jadarian Price did not practice; RB Zach Charbonnet limited in his return",
       "description": "Seahawks running back Jadarian Price was downgraded to out of practice Thursday, missing the session with a chest injury.",
@@ -36,5 +30,5 @@
     "injury"
   ],
   "hash": "27f1f262e76a174e",
-  "queuedAt": "2026-10-02T06:02:05.382Z"
+  "queuedAt": "2026-10-02T12:50:42.380Z"
 }
