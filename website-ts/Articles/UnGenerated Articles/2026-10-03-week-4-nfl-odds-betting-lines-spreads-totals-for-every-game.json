@@ -1,12 +1,12 @@
 {
-  "title": "Week 4 NFL odds, betting lines, spreads, totals, for every game, including Texans-Cowboys, Chiefs-Raiders",
+  "title": "Week 4 NFL odds, betting lines, spreads, totals, for every game, including Texans-Cowboys, Raiders-Chiefs",
   "category": "general",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Week 4 NFL odds, betting lines, spreads, totals, for every game, including Texans-Cowboys, Chiefs-Raiders",
+      "title": "Week 4 NFL odds, betting lines, spreads, totals, for every game, including Texans-Cowboys, Raiders-Chiefs",
       "description": "The Week 4 NFL schedule is here, featuring pivotal matchups like Cowboys vs. Texans, Raiders vs. Chiefs and Lions vs. Panthers",
-      "url": "https://www.cbssports.com/betting/news/week-4-nfl-odds-betting-lines-totals-spreads/"
+      "url": "https://www.cbssports.com/betting/news/week-4-nfl-betting-lines-odds-totals-spreads/"
     }
   ],
   "keywords": [
@@ -18,7 +18,7 @@
     "every",
     "including",
     "texanscowboys",
-    "chiefsraiders",
+    "raiderschiefs",
     "schedule",
     "featuring",
     "pivotal",
@@ -31,6 +31,6 @@
     "lions",
     "panthers"
   ],
-  "hash": "6b3f0aeebe9327ca",
-  "queuedAt": "2026-10-03T12:37:05.972Z"
+  "hash": "2a2347a46b7ec273",
+  "queuedAt": "2026-10-03T16:31:46.912Z"
 }

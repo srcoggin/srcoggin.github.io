@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean McVay is 0-4 against Nick Sirianni",
-      "description": "Rams coach Sean McVay has had tremendous success since becoming a head coach in 2017.",
-      "url": "https://sports.yahoo.com/articles/sean-mcvay-0-4-against-021236215.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean McVay is 0-4 against Nick Sirianni",
       "description": "Rams coach Sean McVay has had tremendous success since becoming a head coach in 2017.",
@@ -31,5 +25,5 @@
     "2017"
   ],
   "hash": "cbbf471b2cad3e29",
-  "queuedAt": "2026-10-03T12:37:00.505Z"
+  "queuedAt": "2026-10-03T16:31:48.198Z"
 }

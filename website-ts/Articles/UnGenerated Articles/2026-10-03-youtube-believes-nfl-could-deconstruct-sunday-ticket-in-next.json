@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "YouTube believes NFL could \"deconstruct\" Sunday Ticket in next broadcast deals",
-      "description": "Come 2030, out-of-market games could be seen without plunking down an extra $400.",
-      "url": "https://sports.yahoo.com/articles/youtube-believes-nfl-could-deconstruct-035354847.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "YouTube believes NFL could \"deconstruct\" Sunday Ticket in next broadcast deals",
       "description": "Come 2030, out-of-market games could be seen without plunking down an extra $400.",
@@ -36,5 +30,5 @@
     "400"
   ],
   "hash": "d53f9d3cbf348870",
-  "queuedAt": "2026-10-03T12:37:00.255Z"
+  "queuedAt": "2026-10-03T16:31:48.121Z"
 }
