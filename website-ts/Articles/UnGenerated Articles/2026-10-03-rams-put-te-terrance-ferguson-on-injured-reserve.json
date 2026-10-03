@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams put TE Terrance Ferguson on injured reserve",
-      "description": "The Rams ruled tight end Terrance Ferguson out for Sunday's game against the Eagles and that won't be the last one that Ferguson misses.",
-      "url": "https://sports.yahoo.com/articles/rams-put-te-terrance-ferguson-215559389.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams put TE Terrance Ferguson on injured reserve",
       "description": "The Rams ruled tight end Terrance Ferguson out for Sunday's game against the Eagles and that won't be the last one that Ferguson misses.",
@@ -36,5 +30,5 @@
     "misses"
   ],
   "hash": "363e6f5b7ba36093",
-  "queuedAt": "2026-10-03T04:56:05.796Z"
+  "queuedAt": "2026-10-03T12:37:08.527Z"
 }

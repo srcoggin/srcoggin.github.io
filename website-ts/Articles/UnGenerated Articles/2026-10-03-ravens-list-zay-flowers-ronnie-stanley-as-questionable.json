@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ravens list Zay Flowers, Ronnie Stanley as questionable",
-      "description": "Ravens head coach Jesse Minter announced that linebacker Trey Hendrickson will miss Sunday's game against the Titans during his Friday press conference and the team's final injury report has now been released.",
-      "url": "https://sports.yahoo.com/articles/ravens-list-zay-flowers-ronnie-202029359.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ravens list Zay Flowers, Ronnie Stanley as questionable",
       "description": "Ravens head coach Jesse Minter announced that linebacker Trey Hendrickson will miss Sunday's game against the Titans during his Friday press conference and the team's final injury report has now been released.",
@@ -48,5 +42,5 @@
     "released"
   ],
   "hash": "5cbe144eec7d62a8",
-  "queuedAt": "2026-10-03T04:56:04.898Z"
+  "queuedAt": "2026-10-03T12:37:00.040Z"
 }

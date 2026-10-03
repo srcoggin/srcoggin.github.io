@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Texans rule out Azeez Al-Shaair, list Jadeveon Clowney as questionable",
-      "description": "The Texans won't have linebacker Azeez Al-Shaair for Sunday's game against the Cowboys.",
-      "url": "https://sports.yahoo.com/articles/texans-rule-azeez-al-shaair-203108875.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Texans rule out Azeez Al-Shaair, list Jadeveon Clowney as questionable",
       "description": "The Texans won't have linebacker Azeez Al-Shaair for Sunday's game against the Cowboys.",
@@ -32,5 +26,5 @@
     "cowboys"
   ],
   "hash": "2924ca183afd412b",
-  "queuedAt": "2026-10-03T04:56:05.891Z"
+  "queuedAt": "2026-10-03T12:37:09.018Z"
 }
