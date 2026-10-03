@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Micah Parsons may not be ready to play until November",
-      "description": "The Packers aren't expecting linebacker Micah Parsons back on the field any time soon.",
-      "url": "https://sports.yahoo.com/articles/micah-parsons-may-not-ready-145607531.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Micah Parsons may not be ready to play until November",
       "description": "The Packers aren't expecting linebacker Micah Parsons back on the field any time soon.",
@@ -33,5 +27,5 @@
     "soon"
   ],
   "hash": "2f0121c97c6abbbc",
-  "queuedAt": "2026-10-03T16:31:44.826Z"
+  "queuedAt": "2026-10-03T21:48:39.595Z"
 }

@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jerry Jones on Joey Porter Jr. trade: \"It's important to think big\"",
-      "description": "The Steelers decided to move on from cornerback Joey Porter Jr.",
-      "url": "https://sports.yahoo.com/articles/jerry-jones-joey-porter-jr-130222747.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jerry Jones on Joey Porter Jr. trade: \"It's important to think big\"",
       "description": "The Steelers decided to move on from cornerback Joey Porter Jr.",
@@ -31,5 +25,5 @@
     "cornerback"
   ],
   "hash": "64dccc98f866343d",
-  "queuedAt": "2026-10-03T16:31:44.863Z"
+  "queuedAt": "2026-10-03T21:48:39.767Z"
 }

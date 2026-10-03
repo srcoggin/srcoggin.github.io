@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams don't have a timeline on Myles Garrett's return",
-      "description": "Despite a report that Rams defensive end Myles Garrett would miss about six weeks with his knee injury, head coach Sean McVay says the team isn't working on a timeline that specific.",
-      "url": "https://sports.yahoo.com/articles/rams-dont-timeline-myles-garretts-115607571.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams don't have a timeline on Myles Garrett's return",
       "description": "Despite a report that Rams defensive end Myles Garrett would miss about six weeks with his knee injury, head coach Sean McVay says the team isn't working on a timeline that specific.",
@@ -45,5 +39,5 @@
     "specific"
   ],
   "hash": "d72b6bfc0a5a9deb",
-  "queuedAt": "2026-10-03T16:31:44.307Z"
+  "queuedAt": "2026-10-03T21:48:33.514Z"
 }
