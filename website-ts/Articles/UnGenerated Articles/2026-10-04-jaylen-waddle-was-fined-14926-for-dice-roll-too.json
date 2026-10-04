@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaylen Waddle was fined $14,926 for dice roll, too",
-      "description": "Do as we say, not as we profit from.",
-      "url": "https://sports.yahoo.com/articles/jaylen-waddle-fined-14-926-203119956.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaylen Waddle was fined $14,926 for dice roll, too",
       "description": "Do as we say, not as we profit from.",
@@ -26,5 +20,5 @@
     "profit"
   ],
   "hash": "b58e9d6b77193136",
-  "queuedAt": "2026-10-04T06:03:10.747Z"
+  "queuedAt": "2026-10-04T13:31:21.331Z"
 }

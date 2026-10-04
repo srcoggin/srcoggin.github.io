@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears OT Braxton Jones lands on injured reserve",
-      "description": "The Bears are going to have a new left tackle for Sunday's game against the Jets and for several other games in the weeks to follow.",
-      "url": "https://sports.yahoo.com/articles/bears-ot-braxton-jones-lands-205136538.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears OT Braxton Jones lands on injured reserve",
       "description": "The Bears are going to have a new left tackle for Sunday's game against the Jets and for several other games in the weeks to follow.",
@@ -35,5 +29,5 @@
     "follow"
   ],
   "hash": "e7cf3ff0582e60c6",
-  "queuedAt": "2026-10-04T06:03:10.480Z"
+  "queuedAt": "2026-10-04T13:31:20.982Z"
 }

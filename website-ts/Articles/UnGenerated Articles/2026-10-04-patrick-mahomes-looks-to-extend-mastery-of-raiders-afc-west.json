@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patrick Mahomes looks to extend mastery of Raiders, AFC West",
-      "description": "When the Chiefs play in Las Vegas on Sunday, Kansas City quarterback Patrick Mahomes will be looking to extend his mastery of the Raiders — and of their division.",
-      "url": "https://sports.yahoo.com/articles/patrick-mahomes-looks-extend-mastery-234927409.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patrick Mahomes looks to extend mastery of Raiders, AFC West",
       "description": "When the Chiefs play in Las Vegas on Sunday, Kansas City quarterback Patrick Mahomes will be looking to extend his mastery of the Raiders — and of their division.",
@@ -38,5 +32,5 @@
     "division"
   ],
   "hash": "7a64ad10005ea74c",
-  "queuedAt": "2026-10-04T06:03:10.207Z"
+  "queuedAt": "2026-10-04T13:31:20.652Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks place RB Jadarian Price on IR",
-      "description": "Seahawks running back Jadarian Price not only will miss Sunday's game but at least the three games after that.",
-      "url": "https://sports.yahoo.com/articles/seahawks-place-rb-jadarian-price-203639960.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks place RB Jadarian Price on IR",
       "description": "Seahawks running back Jadarian Price not only will miss Sunday's game but at least the three games after that.",
@@ -30,5 +24,5 @@
     "that"
   ],
   "hash": "a046dd05255f51fb",
-  "queuedAt": "2026-10-04T06:03:10.668Z"
+  "queuedAt": "2026-10-04T13:31:21.224Z"
 }

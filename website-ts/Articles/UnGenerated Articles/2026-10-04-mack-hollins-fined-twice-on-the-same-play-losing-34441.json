@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mack Hollins fined twice on the same play, losing $34,441",
-      "description": "The NFL fined Patriots receiver Mack Hollins $34,441 for his actions on the same play against the Jaguars.",
-      "url": "https://sports.yahoo.com/articles/mack-hollins-fined-twice-same-213403577.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mack Hollins fined twice on the same play, losing $34,441",
       "description": "The NFL fined Patriots receiver Mack Hollins $34,441 for his actions on the same play against the Jaguars.",
@@ -31,5 +25,5 @@
     "jaguars"
   ],
   "hash": "0ddf8e8a6730aa85",
-  "queuedAt": "2026-10-04T06:03:10.379Z"
+  "queuedAt": "2026-10-04T13:31:20.865Z"
 }

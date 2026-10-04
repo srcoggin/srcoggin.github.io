@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bucs elevate QB Easton Stick from practice squad",
-      "description": "The Buccaneers elevated linebacker Caden Fordham and quarterback Easton Stick from the practice squad for Sunday's game against the Packers, the team announced.",
-      "url": "https://sports.yahoo.com/articles/bucs-elevate-qb-easton-stick-210916854.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bucs elevate QB Easton Stick from practice squad",
       "description": "The Buccaneers elevated linebacker Caden Fordham and quarterback Easton Stick from the practice squad for Sunday's game against the Packers, the team announced.",
@@ -34,5 +28,5 @@
     "announced"
   ],
   "hash": "82ad2e0f24290f74",
-  "queuedAt": "2026-10-04T06:03:08.961Z"
+  "queuedAt": "2026-10-04T13:31:13.524Z"
 }
