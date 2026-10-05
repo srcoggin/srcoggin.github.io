@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sunday Night Football: Tetairoa McMillan's big night powers Panthers to 32-26 victory",
-      "description": "McMillan caught 14 passes for 192 yards with two touchdowns against Detroit, as Carolina moved to 2-2 in 2026.",
-      "url": "https://sports.yahoo.com/articles/sunday-night-football-tetairoa-mcmillans-035122158.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sunday Night Football: Tetairoa McMillan's big night powers Panthers to 32-26 victory",
       "description": "McMillan caught 14 passes for 192 yards with two touchdowns against Detroit, as Carolina moved to 2-2 in 2026.",
@@ -39,5 +33,5 @@
     "2026"
   ],
   "hash": "c80224518d913971",
-  "queuedAt": "2026-10-05T05:45:15.970Z"
+  "queuedAt": "2026-10-05T15:04:52.747Z"
 }

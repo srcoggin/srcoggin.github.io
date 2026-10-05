@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "CeeDee Lamb calls it \"everything\" to have a career day in his return to Houston",
-      "description": "CeeDee Lamb grew up 24 miles from Reliant Stadium in Richmond, Texas.",
-      "url": "https://sports.yahoo.com/articles/ceedee-lamb-calls-everything-career-004559556.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "CeeDee Lamb calls it \"everything\" to have a career day in his return to Houston",
       "description": "CeeDee Lamb grew up 24 miles from Reliant Stadium in Richmond, Texas.",
@@ -33,5 +27,5 @@
     "texas"
   ],
   "hash": "a7542bfa193e57df",
-  "queuedAt": "2026-10-05T05:45:16.259Z"
+  "queuedAt": "2026-10-05T15:04:52.838Z"
 }

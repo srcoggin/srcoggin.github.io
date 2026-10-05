@@ -1,7 +1,19 @@
 {
-  "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Lions vs. Panthers Sunday Night Football",
+  "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Falcons vs. Saints Monday Night Football",
   "category": "general",
   "sources": [
+    {
+      "name": "CBS Sports NFL",
+      "title": "Use FanDuel promo code to claim $250 bonus bets by targeting Falcons vs. Saints Monday Night Football",
+      "description": "Sign up and bet with the latest FanDuel promo code on Monday to get your bonus bets",
+      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-claim-250-bonus-bets-falcons-vs-saints-monday-night-football/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Falcons vs. Saints Monday Night Football",
+      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Saints vs. Falcons, Monday Night Football",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-falcons-vs-saints-monday-night-football/"
+    },
     {
       "name": "CBS Sports NFL",
       "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Lions vs. Panthers Sunday Night Football",
@@ -13,34 +25,53 @@
       "title": "Use FanDuel promo code to get $250 in bonus bets by targeting Lions vs. Panthers, Week 4 Sunday Night Football",
       "description": "Sign up and bet on Lions vs. Panthers NFL Week 4 SNF with the latest FanDuel promo code",
       "url": "https://www.cbssports.com/nfl/news/use-fanduel-promo-code-to-get-250-bonus-bets-lions-vs-panthers-week-4-sunday-night-football/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Use FanDuel promo code to claim $250 bonus bets by targeting Lions-Panthers, NFL Week 4 Sunday Night Football",
+      "description": "Sign up and bet with the latest FanDuel promo code on Sunday to get your bonus bets",
+      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-claim-250-bonus-bets-lions-panthers-nfl-week-4-sunday-night-football/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Use FanDuel promo code to get $250 bonus bets by targeting Seahawks-Chargers, Chiefs-Raiders, NFL Week 4",
+      "description": "Sign up and bet with the latest FanDuel promo code on Sunday to get your bonus bets",
+      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-seahawks-chargers-chiefs-raiders-nfl-week-4/"
     }
   ],
   "keywords": [
     "use",
-    "betmgm",
-    "bonus",
+    "fanduel",
+    "promo",
     "code",
-    "cbssports",
-    "get",
-    "1500",
+    "claim",
+    "250",
+    "bonus",
     "bets",
     "targeting",
+    "falcons",
+    "saints",
+    "monday",
+    "night",
+    "sign",
+    "bet",
+    "latest",
+    "get",
+    "your",
+    "betmgm",
+    "cbssports",
+    "1500",
+    "mgm",
+    "first",
+    "loses",
     "lions",
     "panthers",
     "sunday",
-    "night",
-    "latest",
-    "mgm",
-    "promo",
-    "your",
-    "first",
-    "bet",
-    "loses",
-    "fanduel",
-    "250",
-    "sign",
-    "snf"
+    "snf",
+    "lionspanthers",
+    "seahawkschargers",
+    "chiefsraiders"
   ],
-  "hash": "89896ec9e422137b",
-  "queuedAt": "2026-10-05T05:45:16.331Z"
+  "hash": "71a60e5c6ef28cfd",
+  "queuedAt": "2026-10-05T15:04:46.216Z"
 }
