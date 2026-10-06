@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears release DL Marcus Davenport from practice squad at his request",
-      "description": "The Bears released veteran defensive end Marcus Davenport from the practice squad at his request, according to multiple reports.",
-      "url": "https://sports.yahoo.com/articles/bears-release-dl-marcus-davenport-000619015.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears release DL Marcus Davenport from practice squad at his request",
       "description": "The Bears released veteran defensive end Marcus Davenport from the practice squad at his request, according to multiple reports.",
@@ -33,5 +27,5 @@
     "reports"
   ],
   "hash": "22cd63d5f0b57776",
-  "queuedAt": "2026-10-06T06:55:14.425Z"
+  "queuedAt": "2026-10-06T13:48:36.742Z"
 }

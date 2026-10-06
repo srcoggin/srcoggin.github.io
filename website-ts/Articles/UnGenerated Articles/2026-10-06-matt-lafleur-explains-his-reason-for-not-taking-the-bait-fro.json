@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Matt LaFleur explains his reason for not taking the bait from Ben Johnson",
-      "description": "Bears coach Ben Johnson has no qualms about making his disdain for the Packers known.",
-      "url": "https://sports.yahoo.com/articles/matt-lafleur-explains-reason-not-005053411.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Matt LaFleur explains his reason for not taking the bait from Ben Johnson",
       "description": "Bears coach Ben Johnson has no qualms about making his disdain for the Packers known.",
@@ -35,5 +29,5 @@
     "known"
   ],
   "hash": "fe5ed0c295e86e67",
-  "queuedAt": "2026-10-06T06:55:17.613Z"
+  "queuedAt": "2026-10-06T13:48:40.892Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Monday Night Football: Bijan Robinson has Falcons leading 24-7 at halftime",
-      "description": "Robinson has 12 carries for 103 yards and two touchdowns.",
-      "url": "https://sports.yahoo.com/articles/monday-night-football-bijan-robinson-015951641.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Monday Night Football: Bijan Robinson has Falcons leading 24-7 at halftime",
       "description": "Robinson has 12 carries for 103 yards and two touchdowns.",
@@ -31,5 +25,5 @@
     "touchdowns"
   ],
   "hash": "9c5f4e892c907610",
-  "queuedAt": "2026-10-06T06:55:17.085Z"
+  "queuedAt": "2026-10-06T13:48:40.940Z"
 }

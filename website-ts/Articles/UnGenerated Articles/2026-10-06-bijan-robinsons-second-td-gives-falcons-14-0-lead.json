@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bijan Robinson's second TD gives Falcons 14-0 lead",
-      "description": "Bijan Robinson has a career-high 78 yards in the first quarter.",
-      "url": "https://sports.yahoo.com/articles/bijan-robinsons-second-td-gives-011307312.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bijan Robinson's second TD gives Falcons 14-0 lead",
       "description": "Bijan Robinson has a career-high 78 yards in the first quarter.",
@@ -30,5 +24,5 @@
     "quarter"
   ],
   "hash": "1eeefbab7754253a",
-  "queuedAt": "2026-10-06T06:55:17.400Z"
+  "queuedAt": "2026-10-06T13:48:40.842Z"
 }
