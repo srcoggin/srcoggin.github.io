@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "WR CeeDee Lamb (thigh), CB Joey Porter Jr. (ankle) estimated as full participants",
-      "description": "The Cowboys did not practice Monday, but they had to release an estimated injury report with Thursday's game against the Bucs looming.",
-      "url": "https://sports.yahoo.com/articles/wr-ceedee-lamb-thigh-cb-215309121.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "WR CeeDee Lamb (thigh), CB Joey Porter Jr. (ankle) estimated as full participants",
       "description": "The Cowboys did not practice Monday, but they had to release an estimated injury report with Thursday's game against the Bucs looming.",
@@ -38,5 +32,5 @@
     "looming"
   ],
   "hash": "4db2a7a971315f5f",
-  "queuedAt": "2026-10-06T00:36:26.317Z"
+  "queuedAt": "2026-10-06T06:55:16.486Z"
 }

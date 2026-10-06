@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Free agent RB Joe Mixon to join Seahawks' practice squad",
-      "description": "The Seahawks are signing running back Joe Mixon to their practice squad.",
-      "url": "https://sports.yahoo.com/articles/free-agent-rb-joe-mixon-225045770.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Free agent RB Joe Mixon to join Seahawks' practice squad",
       "description": "The Seahawks are signing running back Joe Mixon to their practice squad.",
@@ -30,5 +24,5 @@
     "their"
   ],
   "hash": "71dbb86d30ba7be3",
-  "queuedAt": "2026-10-06T00:36:27.956Z"
+  "queuedAt": "2026-10-06T06:55:23.203Z"
 }

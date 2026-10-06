@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bills CB Maxwell Hairston says he's got to be better in every way",
-      "description": "The Bills are not benching cornerback Maxwell Hairston, who has struggled this season.",
-      "url": "https://sports.yahoo.com/articles/bills-cb-maxwell-hairston-says-220634647.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bills CB Maxwell Hairston says he's got to be better in every way",
       "description": "The Bills are not benching cornerback Maxwell Hairston, who has struggled this season.",
@@ -32,5 +26,5 @@
     "this"
   ],
   "hash": "b9e1e8de9acb1d99",
-  "queuedAt": "2026-10-06T00:36:28.007Z"
+  "queuedAt": "2026-10-06T06:55:23.492Z"
 }

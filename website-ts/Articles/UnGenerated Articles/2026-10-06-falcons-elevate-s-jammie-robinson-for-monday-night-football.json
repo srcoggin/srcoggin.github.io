@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons elevate S Jammie Robinson for Monday Night Football",
-      "description": "The Falcons elevated safety Jammie Robinson to the active roster for Monday Night Football.",
-      "url": "https://sports.yahoo.com/articles/falcons-elevate-jammie-robinson-monday-212734856.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons elevate S Jammie Robinson for Monday Night Football",
       "description": "The Falcons elevated safety Jammie Robinson to the active roster for Monday Night Football.",
@@ -28,5 +22,5 @@
     "roster"
   ],
   "hash": "c2a42ddad7105e81",
-  "queuedAt": "2026-10-06T00:36:28.155Z"
+  "queuedAt": "2026-10-06T06:55:23.881Z"
 }

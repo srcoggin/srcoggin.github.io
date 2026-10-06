@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals left tackle Paris Johnson out for season with torn biceps",
-      "description": "The Cowboys have lost their starting left tackle for the season.",
-      "url": "https://sports.yahoo.com/articles/cardinals-left-tackle-paris-johnson-215724047.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals left tackle Paris Johnson out for season with torn biceps",
       "description": "The Cowboys have lost their starting left tackle for the season.",
@@ -30,5 +24,5 @@
     "starting"
   ],
   "hash": "0770a2c1abc10779",
-  "queuedAt": "2026-10-06T00:36:28.055Z"
+  "queuedAt": "2026-10-06T06:55:23.592Z"
 }
