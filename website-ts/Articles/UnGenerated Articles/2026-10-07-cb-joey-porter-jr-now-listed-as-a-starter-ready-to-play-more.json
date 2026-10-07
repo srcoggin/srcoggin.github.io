@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "CB Joey Porter Jr., now listed as a starter, ready to play more snaps",
-      "description": "The Cowboys' depth chart now lists cornerback Joey Porter Jr. as a starter.",
-      "url": "https://sports.yahoo.com/articles/cb-joey-porter-jr-now-220638461.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "CB Joey Porter Jr., now listed as a starter, ready to play more snaps",
       "description": "The Cowboys' depth chart now lists cornerback Joey Porter Jr. as a starter.",
@@ -31,5 +25,5 @@
     "cornerback"
   ],
   "hash": "94371abb7c477a25",
-  "queuedAt": "2026-10-07T06:00:40.717Z"
+  "queuedAt": "2026-10-07T14:20:27.215Z"
 }

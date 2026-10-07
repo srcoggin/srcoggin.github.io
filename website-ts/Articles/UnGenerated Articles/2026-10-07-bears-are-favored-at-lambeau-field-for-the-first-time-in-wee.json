@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears are favored at Lambeau Field for the first time in Week 1 2006",
-      "description": "The year was 2006.",
-      "url": "https://sports.yahoo.com/articles/bears-favored-lambeau-field-first-004833420.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears are favored at Lambeau Field for the first time in Week 1 2006",
       "description": "The year was 2006.",
@@ -25,5 +19,5 @@
     "2006"
   ],
   "hash": "4b357eb1f5d3abe4",
-  "queuedAt": "2026-10-07T06:00:40.649Z"
+  "queuedAt": "2026-10-07T14:20:27.021Z"
 }

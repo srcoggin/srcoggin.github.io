@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Carlie Irsay-Gordon: \"A good leader is about listening\"",
-      "description": "Colts owner addresses her presence on the sideline during games.",
-      "url": "https://sports.yahoo.com/articles/carlie-irsay-gordon-good-leader-014403809.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Carlie Irsay-Gordon: \"A good leader is about listening\"",
       "description": "Colts owner addresses her presence on the sideline during games.",
@@ -31,5 +25,5 @@
     "games"
   ],
   "hash": "7fcd86a5124feb39",
-  "queuedAt": "2026-10-07T06:00:40.572Z"
+  "queuedAt": "2026-10-07T14:20:26.925Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Texans place CB Jaylin Smith on IR",
-      "description": "The Texans placed cornerback Jaylin Smith on injured reserve Tuesday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/texans-place-cb-jaylin-smith-211239142.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Texans place CB Jaylin Smith on IR",
       "description": "The Texans placed cornerback Jaylin Smith on injured reserve Tuesday, the team announced.",
@@ -28,5 +22,5 @@
     "announced"
   ],
   "hash": "684ea1376f541ee5",
-  "queuedAt": "2026-10-07T06:00:39.149Z"
+  "queuedAt": "2026-10-07T14:20:17.445Z"
 }

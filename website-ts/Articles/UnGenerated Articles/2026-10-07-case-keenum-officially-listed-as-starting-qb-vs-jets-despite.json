@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Case Keenum officially listed as starting QB vs. Jets despite playing one snap",
-      "description": "Bears coach Ben Johnson trolled the media on Sunday, starting both Case Keenum and Tyson Bagent.",
-      "url": "https://sports.yahoo.com/articles/case-keenum-officially-listed-starting-031223549.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Case Keenum officially listed as starting QB vs. Jets despite playing one snap",
       "description": "Bears coach Ben Johnson trolled the media on Sunday, starting both Case Keenum and Tyson Bagent.",
@@ -38,5 +32,5 @@
     "bagent"
   ],
   "hash": "520e5ad56eb4e98e",
-  "queuedAt": "2026-10-07T06:00:38.969Z"
+  "queuedAt": "2026-10-07T14:20:17.149Z"
 }
