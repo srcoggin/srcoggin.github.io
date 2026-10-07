@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks sign RB Robert Henry off Commanders practice squad",
-      "description": "Joe Mixon may not be joining the Seahawks, but the club is still adding a running back.",
-      "url": "https://sports.yahoo.com/articles/seahawks-sign-rb-robert-henry-201337217.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks sign RB Robert Henry off Commanders practice squad",
       "description": "Joe Mixon may not be joining the Seahawks, but the club is still adding a running back.",
@@ -34,5 +28,5 @@
     "back"
   ],
   "hash": "7483fe1e4d0e079b",
-  "queuedAt": "2026-10-07T00:05:58.750Z"
+  "queuedAt": "2026-10-07T06:00:46.242Z"
 }

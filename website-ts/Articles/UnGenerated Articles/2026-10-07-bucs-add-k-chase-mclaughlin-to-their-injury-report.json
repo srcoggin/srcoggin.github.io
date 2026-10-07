@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bucs add K Chase McLaughlin to their injury report",
-      "description": "The Buccaneers added kicker Chase McLaughlin to their injury report on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/bucs-add-k-chase-mclaughlin-204346708.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bucs add K Chase McLaughlin to their injury report",
       "description": "The Buccaneers added kicker Chase McLaughlin to their injury report on Tuesday.",
@@ -29,5 +23,5 @@
     "tuesday"
   ],
   "hash": "81ec47f60ff05813",
-  "queuedAt": "2026-10-07T00:05:55.804Z"
+  "queuedAt": "2026-10-07T06:00:40.192Z"
 }
