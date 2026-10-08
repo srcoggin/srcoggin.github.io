@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saquon Barkley, DeVonta Smith did not practice Wednesday",
-      "description": "Eagles running back Saquon Barkley did not practice Wednesday.",
-      "url": "https://sports.yahoo.com/articles/saquon-barkley-devonta-smith-did-231321320.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saquon Barkley, DeVonta Smith did not practice Wednesday",
       "description": "Eagles running back Saquon Barkley did not practice Wednesday.",
@@ -27,5 +21,5 @@
     "back"
   ],
   "hash": "389cac6a24bc6222",
-  "queuedAt": "2026-10-08T06:45:06.347Z"
+  "queuedAt": "2026-10-08T14:06:44.391Z"
 }

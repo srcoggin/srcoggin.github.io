@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brock Bowers limited in Wednesday's practice",
-      "description": "Tight end Brock Bowers (knee) was limited in Wednesday's practice.",
-      "url": "https://sports.yahoo.com/articles/brock-bowers-limited-wednesdays-practice-002213770.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brock Bowers limited in Wednesday's practice",
       "description": "Tight end Brock Bowers (knee) was limited in Wednesday's practice.",
@@ -26,5 +20,5 @@
     "knee"
   ],
   "hash": "4ad739653ec47ad5",
-  "queuedAt": "2026-10-08T06:45:06.131Z"
+  "queuedAt": "2026-10-08T14:06:45.115Z"
 }

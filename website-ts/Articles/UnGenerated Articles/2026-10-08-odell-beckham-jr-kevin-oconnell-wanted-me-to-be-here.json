@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Odell Beckham Jr.: Kevin O'Connell wanted me to be here",
-      "description": "Vikings coach Kevin O'Connell and new Vikings receiver Odell Beckham Jr. spent time together with the Rams, and they both have a Super Bowl ring from it.",
-      "url": "https://sports.yahoo.com/articles/odell-beckham-jr-kevin-oconnell-225601551.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Odell Beckham Jr.: Kevin O'Connell wanted me to be here",
       "description": "Vikings coach Kevin O'Connell and new Vikings receiver Odell Beckham Jr. spent time together with the Rams, and they both have a Super Bowl ring from it.",
@@ -36,5 +30,5 @@
     "ring"
   ],
   "hash": "2981bc6c9369baf5",
-  "queuedAt": "2026-10-08T06:45:06.570Z"
+  "queuedAt": "2026-10-08T14:06:45.419Z"
 }
