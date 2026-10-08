@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aaron Rodgers won't comment on whether play calls are coming in fast enough",
-      "description": "After Thursday night's loss in Cleveland, Steelers quarterback Aaron Rodgers wasn't asked about his viral moment with coach Mike McCarthy, sparked by Rodgers's obvious frustration with the time it was taking to communicate the play call to the huddle.",
-      "url": "https://sports.yahoo.com/articles/aaron-rodgers-wont-whether-play-204026648.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aaron Rodgers won't comment on whether play calls are coming in fast enough",
       "description": "After Thursday night's loss in Cleveland, Steelers quarterback Aaron Rodgers wasn't asked about his viral moment with coach Mike McCarthy, sparked by Rodgers's obvious frustration with the time it was taking to communicate the play call to the huddle.",
@@ -52,5 +46,5 @@
     "huddle"
   ],
   "hash": "f2c997a59f8172a7",
-  "queuedAt": "2026-10-08T00:01:22.408Z"
+  "queuedAt": "2026-10-08T06:45:14.598Z"
 }

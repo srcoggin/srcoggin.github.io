@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Breece Hall remains out of practice for the Jets",
-      "description": "The Jets called running back Breece Hall week-to-week after he suffered a quad injury in their Week 3 loss to the Lions and Wednesday's practice report gave reason to believe his return to action won't come this week.",
-      "url": "https://sports.yahoo.com/articles/breece-hall-remains-practice-jets-203708745.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Breece Hall remains out of practice for the Jets",
       "description": "The Jets called running back Breece Hall week-to-week after he suffered a quad injury in their Week 3 loss to the Lions and Wednesday's practice report gave reason to believe his return to action won't come this week.",
@@ -45,5 +39,5 @@
     "this"
   ],
   "hash": "7b452949efb78c84",
-  "queuedAt": "2026-10-08T00:01:19.953Z"
+  "queuedAt": "2026-10-08T06:45:05.522Z"
 }

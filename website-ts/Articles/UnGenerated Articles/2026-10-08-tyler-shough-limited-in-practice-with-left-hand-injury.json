@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tyler Shough limited in practice with left hand injury",
-      "description": "Saints quarterback Tyler Shough had his left hand hit in Monday night's loss to the Falcons but played all 74 snaps.",
-      "url": "https://sports.yahoo.com/articles/tyler-shough-limited-practice-left-212214339.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tyler Shough limited in practice with left hand injury",
       "description": "Saints quarterback Tyler Shough had his left hand hit in Monday night's loss to the Falcons but played all 74 snaps.",
@@ -35,5 +29,5 @@
     "snaps"
   ],
   "hash": "0e30ae28cf9394d7",
-  "queuedAt": "2026-10-08T00:01:22.316Z"
+  "queuedAt": "2026-10-08T06:45:14.385Z"
 }
