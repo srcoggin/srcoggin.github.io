@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Marvin Harrison Jr. says he is paying trade rumors \"no mind\"",
-      "description": "The NFL trade deadline is still a month away, but Cardinals wide receiver Marvin Harrison Jr. is one of the NFL players who could find a new home in the coming weeks.",
-      "url": "https://sports.yahoo.com/articles/marvin-harrison-jr-says-paying-022653540.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Marvin Harrison Jr. says he is paying trade rumors \"no mind\"",
       "description": "The NFL trade deadline is still a month away, but Cardinals wide receiver Marvin Harrison Jr. is one of the NFL players who could find a new home in the coming weeks.",
@@ -40,5 +34,5 @@
     "weeks"
   ],
   "hash": "90b5f6ade4577cdb",
-  "queuedAt": "2026-10-09T06:39:30.770Z"
+  "queuedAt": "2026-10-09T13:40:16.483Z"
 }

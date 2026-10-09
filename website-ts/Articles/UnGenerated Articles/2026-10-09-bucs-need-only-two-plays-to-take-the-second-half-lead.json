@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bucs need only two plays to take the second-half lead",
-      "description": "The Bucs' first possession of Thursday night's game was a 15-play, 73-yard touchdown drive that ate 10:58 off the clock.",
-      "url": "https://sports.yahoo.com/articles/bucs-only-two-plays-second-020245193.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bucs need only two plays to take the second-half lead",
       "description": "The Bucs' first possession of Thursday night's game was a 15-play, 73-yard touchdown drive that ate 10:58 off the clock.",
@@ -38,5 +32,5 @@
     "clock"
   ],
   "hash": "7fbb6079659022fb",
-  "queuedAt": "2026-10-09T06:39:30.872Z"
+  "queuedAt": "2026-10-09T13:40:16.632Z"
 }

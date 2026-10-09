@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jerry Jones expresses confidence in Christian Parker",
-      "description": "Dan Quinn left as the Cowboys' defense coordinator after the 2023 season to become the Commanders' head coach.",
-      "url": "https://sports.yahoo.com/articles/jerry-jones-expresses-confidence-christian-045700716.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jerry Jones expresses confidence in Christian Parker",
       "description": "Dan Quinn left as the Cowboys' defense coordinator after the 2023 season to become the Commanders' head coach.",
@@ -35,5 +29,5 @@
     "coach"
   ],
   "hash": "377629dc48d6f1e5",
-  "queuedAt": "2026-10-09T06:39:30.361Z"
+  "queuedAt": "2026-10-09T13:40:16.150Z"
 }
