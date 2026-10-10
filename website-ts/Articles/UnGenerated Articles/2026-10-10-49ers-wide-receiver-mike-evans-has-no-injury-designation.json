@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers wide receiver Mike Evans has no injury designation",
-      "description": "49ers wide receiver Mike Evans does not have an injury designation for Sunday's game against the Seahawks.",
-      "url": "https://sports.yahoo.com/articles/49ers-wide-receiver-mike-evans-212958320.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers wide receiver Mike Evans has no injury designation",
       "description": "49ers wide receiver Mike Evans does not have an injury designation for Sunday's game against the Seahawks.",
@@ -28,5 +22,5 @@
     "seahawks"
   ],
   "hash": "0b7e93aca8253a78",
-  "queuedAt": "2026-10-10T06:04:25.865Z"
+  "queuedAt": "2026-10-10T12:40:38.472Z"
 }
