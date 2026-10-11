@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL issues season-high 10 fines for player safety fouls in Week 4",
-      "description": "The NFL's announced Week 4 fines featured a season-high 10 infractions for player safety fouls that qualify toward a possible suspension.",
-      "url": "https://sports.yahoo.com/articles/nfl-issues-season-high-10-215713505.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL issues season-high 10 fines for player safety fouls in Week 4",
       "description": "The NFL's announced Week 4 fines featured a season-high 10 infractions for player safety fouls that qualify toward a possible suspension.",
@@ -32,5 +26,5 @@
     "suspension"
   ],
   "hash": "04b931ebfe0bb87b",
-  "queuedAt": "2026-10-11T05:52:08.042Z"
+  "queuedAt": "2026-10-11T13:35:43.830Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kirk Cousins is having a rare debut run with the Raiders",
-      "description": "Now with his fourth NFL team, quarterback Kirk Cousins has made a significant initial impact in Las Vegas.",
-      "url": "https://sports.yahoo.com/articles/kirk-cousins-having-rare-debut-050251694.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kirk Cousins is having a rare debut run with the Raiders",
       "description": "Now with his fourth NFL team, quarterback Kirk Cousins has made a significant initial impact in Las Vegas.",
@@ -35,5 +29,5 @@
     "vegas"
   ],
   "hash": "dcc1c4c80f4d2dc1",
-  "queuedAt": "2026-10-11T05:52:09.239Z"
+  "queuedAt": "2026-10-11T13:35:48.153Z"
 }

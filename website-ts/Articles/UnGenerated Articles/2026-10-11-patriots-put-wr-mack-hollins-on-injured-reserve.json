@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots put WR Mack Hollins on injured reserve",
-      "description": "The Patriots could get A.J.",
-      "url": "https://sports.yahoo.com/articles/patriots-put-wr-mack-hollins-210117647.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots put WR Mack Hollins on injured reserve",
       "description": "The Patriots could get A.J.",
@@ -25,5 +19,5 @@
     "get"
   ],
   "hash": "a0fd34b44239d266",
-  "queuedAt": "2026-10-11T05:52:09.784Z"
+  "queuedAt": "2026-10-11T13:35:49.541Z"
 }

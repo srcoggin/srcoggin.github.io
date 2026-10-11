@@ -1,10 +1,10 @@
 {
-  "title": "Cardinals finalizing Marvin Harrison Jr. trade, former No. 4 pick inactive vs. Lions per report",
+  "title": "Cardinals finalizing Marvin Harrison Jr. trade, former No. 4 pick inactive vs. Lions",
   "category": "trades",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Cardinals finalizing Marvin Harrison Jr. trade, former No. 4 pick inactive vs. Lions per report",
+      "title": "Cardinals finalizing Marvin Harrison Jr. trade, former No. 4 pick inactive vs. Lions",
       "description": "The former No. 4 overall pick is inactive against the Lions after Arizona reportedly informed him of its decision",
       "url": "https://www.cbssports.com/nfl/news/cardinals-marvin-harrison-jr-trade-2026/"
     }
@@ -19,8 +19,6 @@
     "pick",
     "inactive",
     "lions",
-    "per",
-    "report",
     "overall",
     "against",
     "arizona",
@@ -30,6 +28,6 @@
     "its",
     "decision"
   ],
-  "hash": "c2d8774c1b6a4a1e",
-  "queuedAt": "2026-10-11T05:52:08.602Z"
+  "hash": "f33d415cc99f1a3d",
+  "queuedAt": "2026-10-11T13:35:43.432Z"
 }

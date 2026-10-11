@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "John Franklin-Myers was fined only $12,537 for kneeing Derrick Henry in the stomach",
-      "description": "The weekly list of NFL-imposed fines for Week 4 includes Titans defensive lineman John Franklin-Myers.",
-      "url": "https://sports.yahoo.com/articles/john-franklin-myers-fined-only-004637694.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "John Franklin-Myers was fined only $12,537 for kneeing Derrick Henry in the stomach",
       "description": "The weekly list of NFL-imposed fines for Week 4 includes Titans defensive lineman John Franklin-Myers.",
@@ -34,5 +28,5 @@
     "lineman"
   ],
   "hash": "d226d01c381181d1",
-  "queuedAt": "2026-10-11T05:52:09.542Z"
+  "queuedAt": "2026-10-11T13:35:48.752Z"
 }
