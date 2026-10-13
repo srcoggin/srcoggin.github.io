@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jim Harbaugh blames Justin Herbert's rough start to \"desperation time\"",
-      "description": "A month ago, Jim Harbaugh predicted Justin Herbert will retire as the greatest quarterback ever.",
-      "url": "https://sports.yahoo.com/articles/jim-harbaugh-blames-justin-herberts-013159874.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jim Harbaugh blames Justin Herbert's rough start to \"desperation time\"",
       "description": "A month ago, Jim Harbaugh predicted Justin Herbert will retire as the greatest quarterback ever.",
@@ -35,5 +29,5 @@
     "ever"
   ],
   "hash": "87d0a06d67ee3525",
-  "queuedAt": "2026-10-13T01:51:05.443Z"
+  "queuedAt": "2026-10-13T15:28:35.246Z"
 }
