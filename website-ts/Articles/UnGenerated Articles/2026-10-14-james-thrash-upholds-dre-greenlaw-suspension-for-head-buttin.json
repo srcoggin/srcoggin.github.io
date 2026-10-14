@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "James Thrash upholds Dre Greenlaw suspension for head-butting incident",
-      "description": "The 49ers won't have linebacker Dre Greenlaw for Monday night's game against the Commanders.",
-      "url": "https://sports.yahoo.com/articles/james-thrash-upholds-dre-greenlaw-012132711.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "James Thrash upholds Dre Greenlaw suspension for head-butting incident",
       "description": "The 49ers won't have linebacker Dre Greenlaw for Monday night's game against the Commanders.",
@@ -33,5 +27,5 @@
     "commanders"
   ],
   "hash": "ed2c865c5556eaad",
-  "queuedAt": "2026-10-14T12:13:49.934Z"
+  "queuedAt": "2026-10-14T17:51:02.369Z"
 }
