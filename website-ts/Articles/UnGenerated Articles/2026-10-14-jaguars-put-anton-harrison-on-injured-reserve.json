@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaguars put Anton Harrison on injured reserve",
-      "description": "A report on Tuesday morning said Jaguars left tackle Anton Harrison is headed for arthroscopic knee surgery and that his timeline for return won't be known until the operation takes place.",
-      "url": "https://sports.yahoo.com/articles/jaguars-put-anton-harrison-injured-202637067.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaguars put Anton Harrison on injured reserve",
       "description": "A report on Tuesday morning said Jaguars left tackle Anton Harrison is headed for arthroscopic knee surgery and that his timeline for return won't be known until the operation takes place.",
@@ -44,5 +38,5 @@
     "place"
   ],
   "hash": "42ef613318792bff",
-  "queuedAt": "2026-10-14T00:14:14.747Z"
+  "queuedAt": "2026-10-14T04:39:38.373Z"
 }

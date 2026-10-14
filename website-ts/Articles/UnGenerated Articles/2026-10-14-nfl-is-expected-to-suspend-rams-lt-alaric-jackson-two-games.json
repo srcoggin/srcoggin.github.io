@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL is expected to suspend Rams LT Alaric Jackson two games for postgame punch",
-      "description": "Jackson punched Bills linebacker Bradley Chubb in the face on the field after the Rams' 37-34 overtime loss Monday night.",
-      "url": "https://sports.yahoo.com/articles/nfl-expected-suspend-rams-lt-210539336.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL is expected to suspend Rams LT Alaric Jackson two games for postgame punch",
       "description": "Jackson punched Bills linebacker Bradley Chubb in the face on the field after the Rams' 37-34 overtime loss Monday night.",
@@ -39,5 +33,5 @@
     "night"
   ],
   "hash": "dfee68cb0ae9d250",
-  "queuedAt": "2026-10-14T00:14:16.384Z"
+  "queuedAt": "2026-10-14T04:39:41.862Z"
 }

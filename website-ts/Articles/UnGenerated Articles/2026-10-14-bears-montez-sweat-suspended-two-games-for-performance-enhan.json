@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears' Montez Sweat suspended two games for performance-enhancing substance violation",
-      "description": "The Bears will be without starting defensive end Montez Sweat for the next two games.",
-      "url": "https://sports.yahoo.com/articles/bears-montez-sweat-suspended-two-202529860.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears' Montez Sweat suspended two games for performance-enhancing substance violation",
       "description": "The Bears will be without starting defensive end Montez Sweat for the next two games.",
@@ -32,5 +26,5 @@
     "next"
   ],
   "hash": "f81324dc8f243ae0",
-  "queuedAt": "2026-10-14T00:14:16.755Z"
+  "queuedAt": "2026-10-14T04:39:42.025Z"
 }
