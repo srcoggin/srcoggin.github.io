@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saints waive CB Jayden Price, sign CB Decamerion Richardson",
-      "description": "The Saints waived cornerback Jayden Price two days after he fumbled the opening kickoff in the second half against the Vikings.",
-      "url": "https://sports.yahoo.com/articles/saints-waive-cb-jayden-price-224547256.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saints waive CB Jayden Price, sign CB Decamerion Richardson",
       "description": "The Saints waived cornerback Jayden Price two days after he fumbled the opening kickoff in the second half against the Vikings.",
@@ -36,5 +30,5 @@
     "vikings"
   ],
   "hash": "beb3632973175a56",
-  "queuedAt": "2026-10-14T04:39:38.578Z"
+  "queuedAt": "2026-10-14T12:13:55.105Z"
 }

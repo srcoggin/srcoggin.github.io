@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "It's official: Rams LT Alaric Jackson suspended two games",
-      "description": "The NFL has made the two-game suspension of Rams left tackle Alaric Jackson official.",
-      "url": "https://sports.yahoo.com/articles/official-rams-lt-alaric-jackson-233053374.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "It's official: Rams LT Alaric Jackson suspended two games",
       "description": "The NFL has made the two-game suspension of Rams left tackle Alaric Jackson official.",
@@ -31,5 +25,5 @@
     "tackle"
   ],
   "hash": "c8eef01e12d41385",
-  "queuedAt": "2026-10-14T04:39:37.906Z"
+  "queuedAt": "2026-10-14T12:13:49.494Z"
 }

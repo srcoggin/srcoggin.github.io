@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaxson Smith-Njigba, Leonard Williams listed as limited practice participants again on Tuesday",
-      "description": "The Seahawks released another estimated practice report on Tuesday and it didn't feature a change in status for wide receiver Jaxon Smith-Njigba or defensive tackle Leonard Williams.",
-      "url": "https://sports.yahoo.com/articles/jaxson-smith-njigba-leonard-williams-223555270.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaxson Smith-Njigba, Leonard Williams listed as limited practice participants again on Tuesday",
       "description": "The Seahawks released another estimated practice report on Tuesday and it didn't feature a change in status for wide receiver Jaxon Smith-Njigba or defensive tackle Leonard Williams.",
@@ -41,5 +35,5 @@
     "tackle"
   ],
   "hash": "cc5542dc7eff89ee",
-  "queuedAt": "2026-10-14T04:39:38.005Z"
+  "queuedAt": "2026-10-14T12:13:49.625Z"
 }

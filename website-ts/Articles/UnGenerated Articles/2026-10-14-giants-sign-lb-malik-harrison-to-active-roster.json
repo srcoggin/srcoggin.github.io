@@ -3,10 +3,10 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
+      "name": "Pro Football Talk",
       "title": "Giants sign LB Malik Harrison to active roster",
-      "description": "The Giants are adding practice squad linebacker Malik Harrison to their active roster.",
-      "url": "https://sports.yahoo.com/articles/giants-sign-lb-malik-harrison-222200642.html"
+      "description": "The Giants elevated linebacker Malik Harrison from the practice squad three times in the first five weeks of the season and they made a more permanent move with him on Tuesday.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-sign-lb-malik-harrison-to-active-roster"
     }
   ],
   "keywords": [
@@ -16,12 +16,22 @@
     "harrison",
     "active",
     "roster",
-    "adding",
+    "elevated",
+    "linebacker",
     "practice",
     "squad",
-    "linebacker",
-    "their"
+    "three",
+    "times",
+    "first",
+    "five",
+    "weeks",
+    "they",
+    "made",
+    "permanent",
+    "move",
+    "him",
+    "tuesday"
   ],
-  "hash": "2b5baf7c4d48a77b",
-  "queuedAt": "2026-10-14T04:39:39.633Z"
+  "hash": "f9ff8aad28e97c3e",
+  "queuedAt": "2026-10-14T12:13:55.196Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chargers agree to terms with QB Jake Browning",
-      "description": "With Trey Lance on injured reserve with a groin injury, the Chargers needed quarterback help.",
-      "url": "https://sports.yahoo.com/articles/chargers-agree-terms-qb-jake-231911550.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chargers agree to terms with QB Jake Browning",
       "description": "With Trey Lance on injured reserve with a groin injury, the Chargers needed quarterback help.",
@@ -32,5 +26,5 @@
     "help"
   ],
   "hash": "f7d3ea7fe59fcef5",
-  "queuedAt": "2026-10-14T04:39:38.540Z"
+  "queuedAt": "2026-10-14T12:13:54.943Z"
 }

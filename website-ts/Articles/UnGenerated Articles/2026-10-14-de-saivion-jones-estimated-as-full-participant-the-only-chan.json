@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "DE Sai'vion Jones estimated as full participant, the only change to the Broncos' report",
-      "description": "The Broncos had another walkthrough Tuesday as they get ready for their Thursday night gamea against the Seahawks.",
-      "url": "https://sports.yahoo.com/articles/saivion-jones-estimated-full-participant-230057473.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "DE Sai'vion Jones estimated as full participant, the only change to the Broncos' report",
       "description": "The Broncos had another walkthrough Tuesday as they get ready for their Thursday night gamea against the Seahawks.",
@@ -38,5 +32,5 @@
     "seahawks"
   ],
   "hash": "41811422192a5a7f",
-  "queuedAt": "2026-10-14T04:39:37.958Z"
+  "queuedAt": "2026-10-14T12:13:49.556Z"
 }
