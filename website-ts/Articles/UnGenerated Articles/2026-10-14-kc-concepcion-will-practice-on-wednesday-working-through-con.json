@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "KC Concepcion will practice on Wednesday, working through concussion protocol",
-      "description": "Browns receiver KC Concepcion will practice on Wednesday after suffering a concussion during Sunday’s loss to the Jets.",
-      "url": "https://sports.yahoo.com/articles/kc-concepcion-practice-wednesday-working-170120637.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "KC Concepcion will practice on Wednesday, working through concussion protocol",
       "description": "Browns receiver KC Concepcion will practice on Wednesday after suffering a concussion during Sunday’s loss to the Jets.",
@@ -30,5 +24,5 @@
     "jets"
   ],
   "hash": "e7c04e1e1a40d364",
-  "queuedAt": "2026-10-14T17:50:56.989Z"
+  "queuedAt": "2026-10-14T22:03:23.469Z"
 }

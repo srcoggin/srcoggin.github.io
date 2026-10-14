@@ -1,10 +1,10 @@
 {
-  "title": "NFL news, live updates: Lamar Jackson has 'real chance' to return Week 6, Caleb Williams to practice in full; Shedeur Sanders hires an agent",
-  "category": "coaching",
+  "title": "NFL news, live updates: Lamar Jackson has 'real chance' to return, Caleb Williams listed as 'full participant' Wednesday; Marvin Harrison Jr. to make Texans debut in Week 6",
+  "category": "general",
   "sources": [
     {
       "name": "Yahoo Sports NFL",
-      "title": "NFL news, live updates: Lamar Jackson has 'real chance' to return Week 6, Caleb Williams to practice in full; Shedeur Sanders hires an agent",
+      "title": "NFL news, live updates: Lamar Jackson has 'real chance' to return, Caleb Williams listed as 'full participant' Wednesday; Marvin Harrison Jr. to make Texans debut in Week 6",
       "description": "Follow along with the latest NFL news ahead of Week 6.",
       "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-live-week-6-152344178.html"
     }
@@ -20,17 +20,20 @@
     "return",
     "caleb",
     "williams",
-    "practice",
+    "listed",
     "full",
-    "shedeur",
-    "sanders",
-    "hires",
-    "agent",
+    "participant",
+    "wednesday",
+    "marvin",
+    "harrison",
+    "make",
+    "texans",
+    "debut",
     "follow",
     "along",
     "latest",
     "ahead"
   ],
-  "hash": "8a847035c353e3fa",
-  "queuedAt": "2026-10-14T17:50:55.543Z"
+  "hash": "a3bdd2f21f47a203",
+  "queuedAt": "2026-10-14T22:03:19.201Z"
 }

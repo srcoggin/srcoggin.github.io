@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots open A.J. Brown's 21-day window, Christian Gonzalez will practice Wednesday",
-      "description": "New England’s offense has come alive over the last two weeks and now the team may be getting its top receiver back soon.",
-      "url": "https://sports.yahoo.com/articles/patriots-open-j-browns-21-171514655.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots open A.J. Brown's 21-day window, Christian Gonzalez will practice Wednesday",
       "description": "New England’s offense has come alive over the last two weeks and now the team may be getting its top receiver back soon.",
@@ -43,5 +37,5 @@
     "soon"
   ],
   "hash": "58bd1a598d18e077",
-  "queuedAt": "2026-10-14T17:50:56.852Z"
+  "queuedAt": "2026-10-14T22:03:23.911Z"
 }
