@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mason Graham, Quinshon Judkins, Carson Schwesinger remain out of Browns practice",
-      "description": "The Browns remained without several key players at Thursday's practice.",
-      "url": "https://sports.yahoo.com/articles/mason-graham-quinshon-judkins-carson-173042132.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mason Graham, Quinshon Judkins, Carson Schwesinger remain out of Browns practice",
       "description": "The Browns remained without several key players at Thursday's practice.",
@@ -34,5 +28,5 @@
     "thursdays"
   ],
   "hash": "3c9f58ead29151b5",
-  "queuedAt": "2026-10-15T18:15:55.286Z"
+  "queuedAt": "2026-10-15T22:23:36.072Z"
 }

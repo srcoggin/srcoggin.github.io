@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lamar Jackson remains out of practice on Thursday for Week 6",
-      "description": "It looks like Tyler Huntley is likely to start another game.",
-      "url": "https://sports.yahoo.com/articles/lamar-jackson-remains-practice-thursday-172028625.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lamar Jackson remains out of practice on Thursday for Week 6",
       "description": "It looks like Tyler Huntley is likely to start another game.",
@@ -31,5 +25,5 @@
     "another"
   ],
   "hash": "88641cdca2b00550",
-  "queuedAt": "2026-10-15T18:15:55.410Z"
+  "queuedAt": "2026-10-15T22:23:36.156Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Tanner McKee set for the first meaningful start of his NFL career with Jalen Hurts out",
-      "description": "Eagles quarterback Tanner McKee is set to start on Sunday against the Panthers after Jalen Hurts was ruled out with a blood clot.",
-      "url": "https://sports.yahoo.com/articles/tanner-mckee-set-first-meaningful-173643978.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Tanner McKee set for the first meaningful start of his NFL career with Jalen Hurts out",
       "description": "Eagles quarterback Tanner McKee is set to start on Sunday against the Panthers after Jalen Hurts was ruled out with a blood clot.",
@@ -37,5 +31,5 @@
     "clot"
   ],
   "hash": "801fd6883b1670fe",
-  "queuedAt": "2026-10-15T18:15:55.163Z"
+  "queuedAt": "2026-10-15T22:23:35.995Z"
 }
