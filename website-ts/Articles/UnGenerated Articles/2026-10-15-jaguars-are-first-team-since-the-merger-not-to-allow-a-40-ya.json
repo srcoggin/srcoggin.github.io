@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaguars are first team since the merger not to allow a 40-yard rusher in first five games",
-      "description": "Opposing running backs have 83 carries for 210 yards against the Jaguars this season, an average of just 2.5 yards per carry.",
-      "url": "https://sports.yahoo.com/articles/jaguars-first-team-since-merger-081055579.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaguars are first team since the merger not to allow a 40-yard rusher in first five games",
       "description": "Opposing running backs have 83 carries for 210 yards against the Jaguars this season, an average of just 2.5 yards per carry.",
@@ -38,5 +32,5 @@
     "carry"
   ],
   "hash": "1f96162080f87148",
-  "queuedAt": "2026-10-15T12:20:29.045Z"
+  "queuedAt": "2026-10-15T18:16:02.927Z"
 }

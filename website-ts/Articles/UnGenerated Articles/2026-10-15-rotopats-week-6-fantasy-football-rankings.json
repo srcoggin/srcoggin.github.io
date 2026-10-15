@@ -1,0 +1,43 @@
+{
+  "title": "RotoPat’s Week 6 Fantasy Football Rankings",
+  "category": "general",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "RotoPat’s Week 6 Fantasy Football Rankings",
+      "description": "Ranking and evaluating all of Week 6's top plays at quarterback, running back, receiver, tight end, kicker and defense.",
+      "url": "https://sports.yahoo.com/articles/rotopats-week-6-fantasy-football-151326839.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Week 6 Fantasy Football Rankings: WR",
+      "description": "Ranking and evaluating all of Week 6's top plays at receiver.",
+      "url": "https://sports.yahoo.com/articles/week-6-fantasy-football-rankings-151044869.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Week 6 Fantasy Football Rankings: RB",
+      "description": "Ranking and evaluating all of Week 6's top plays at running back.",
+      "url": "https://sports.yahoo.com/articles/week-6-fantasy-football-rankings-151042605.html"
+    }
+  ],
+  "keywords": [
+    "rotopats",
+    "fantasy",
+    "rankings",
+    "ranking",
+    "evaluating",
+    "top",
+    "plays",
+    "quarterback",
+    "running",
+    "back",
+    "receiver",
+    "tight",
+    "end",
+    "kicker",
+    "defense"
+  ],
+  "hash": "f2942938b48c295b",
+  "queuedAt": "2026-10-15T18:15:54.943Z"
+}
