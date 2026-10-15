@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos list Riley Moss as questionable; rule out Pat Surtain II and Talanoa Hufanga",
-      "description": "The Broncos may have cornerback Riley Moss in the lineup against the Seahawks on Thursday night, but they'll be short a couple of defensive backs even if he does play.",
-      "url": "https://sports.yahoo.com/articles/broncos-list-riley-moss-questionable-224700104.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos list Riley Moss as questionable; rule out Pat Surtain II and Talanoa Hufanga",
       "description": "The Broncos may have cornerback Riley Moss in the lineup against the Seahawks on Thursday night, but they'll be short a couple of defensive backs even if he does play.",
@@ -42,5 +36,5 @@
     "play"
   ],
   "hash": "593a53a56b9ca4f8",
-  "queuedAt": "2026-10-15T04:54:30.086Z"
+  "queuedAt": "2026-10-15T12:20:37.187Z"
 }

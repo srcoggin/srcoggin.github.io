@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jeremiyah Love's lingering ankle issue could keep him out Sunday",
-      "description": "Cardinals running back Jeremiyah Love did not practice on Wednesday due to a lingering ankle issue.",
-      "url": "https://sports.yahoo.com/articles/jeremiyah-loves-lingering-ankle-issue-005537591.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jeremiyah Love's lingering ankle issue could keep him out Sunday",
       "description": "Cardinals running back Jeremiyah Love did not practice on Wednesday due to a lingering ankle issue.",
@@ -34,5 +28,5 @@
     "due"
   ],
   "hash": "7ece92df6c8c1c37",
-  "queuedAt": "2026-10-15T04:54:29.943Z"
+  "queuedAt": "2026-10-15T12:20:36.373Z"
 }
