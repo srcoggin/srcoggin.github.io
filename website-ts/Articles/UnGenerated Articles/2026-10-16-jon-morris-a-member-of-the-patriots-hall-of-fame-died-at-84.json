@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jon Morris, a member of the Patriots Hall of Fame, died at 84",
-      "description": "Jon Morris, a member of the Patriots Hall of Fame, has died, the team announced Thursday.",
-      "url": "https://sports.yahoo.com/articles/jon-morris-member-patriots-hall-002531929.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jon Morris, a member of the Patriots Hall of Fame, died at 84",
       "description": "Jon Morris, a member of the Patriots Hall of Fame, has died, the team announced Thursday.",
@@ -27,5 +21,5 @@
     "thursday"
   ],
   "hash": "3a2b47be2463c008",
-  "queuedAt": "2026-10-16T05:13:11.877Z"
+  "queuedAt": "2026-10-16T11:42:28.048Z"
 }

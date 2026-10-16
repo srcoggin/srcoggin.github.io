@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers WR Mike Evans misses practice with Achilles soreness",
-      "description": "49ers wide receiver Mike Evans has played through injured ribs.",
-      "url": "https://sports.yahoo.com/articles/49ers-wr-mike-evans-misses-005110793.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers WR Mike Evans misses practice with Achilles soreness",
       "description": "49ers wide receiver Mike Evans has played through injured ribs.",
@@ -30,5 +24,5 @@
     "ribs"
   ],
   "hash": "125008fca35dc241",
-  "queuedAt": "2026-10-16T05:13:14.357Z"
+  "queuedAt": "2026-10-16T11:42:32.231Z"
 }

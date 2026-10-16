@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos run for a second TD, 14-3 lead",
-      "description": "The Broncos entered Thursday night ranked 30th in total offense, including 25th in rushing.",
-      "url": "https://sports.yahoo.com/articles/broncos-run-second-td-14-012013458.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos run for a second TD, 14-3 lead",
       "description": "The Broncos entered Thursday night ranked 30th in total offense, including 25th in rushing.",
@@ -33,5 +27,5 @@
     "rushing"
   ],
   "hash": "b54ca93a611f2583",
-  "queuedAt": "2026-10-16T05:13:14.147Z"
+  "queuedAt": "2026-10-16T11:42:32.130Z"
 }

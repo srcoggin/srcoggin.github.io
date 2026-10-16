@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Thursday Night Football: Broncos lead Seahawks 14-3 at halftime",
-      "description": "The Broncos have stymied the Seahawks, limiting them to 91 yards and forcing a fumble.",
-      "url": "https://sports.yahoo.com/articles/thursday-night-football-broncos-lead-014446232.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Thursday Night Football: Broncos lead Seahawks 14-3 at halftime",
       "description": "The Broncos have stymied the Seahawks, limiting them to 91 yards and forcing a fumble.",
@@ -31,5 +25,5 @@
     "fumble"
   ],
   "hash": "e038d857e2c7fdef",
-  "queuedAt": "2026-10-16T05:13:14.047Z"
+  "queuedAt": "2026-10-16T11:42:32.081Z"
 }

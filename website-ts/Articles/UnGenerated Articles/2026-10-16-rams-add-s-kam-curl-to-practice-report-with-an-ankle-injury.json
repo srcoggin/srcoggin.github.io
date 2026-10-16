@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams add S Kam Curl to practice report with an ankle injury",
-      "description": "The Rams added safety Kam Curl to the practice report Thursday.",
-      "url": "https://sports.yahoo.com/articles/rams-add-kam-curl-practice-234317817.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams add S Kam Curl to practice report with an ankle injury",
       "description": "The Rams added safety Kam Curl to the practice report Thursday.",
@@ -29,5 +23,5 @@
     "thursday"
   ],
   "hash": "ceb38c495844d36c",
-  "queuedAt": "2026-10-16T05:13:11.977Z"
+  "queuedAt": "2026-10-16T11:42:28.108Z"
 }
