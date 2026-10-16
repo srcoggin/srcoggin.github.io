@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos won despite totaling just 32 yards on their last 10 possessions",
-      "description": "The Broncos' offense was stunningly bad for most of Thursday night's game.",
-      "url": "https://sports.yahoo.com/articles/broncos-won-despite-totaling-just-091031460.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos won despite totaling just 32 yards on their last 10 possessions",
       "description": "The Broncos' offense was stunningly bad for most of Thursday night's game.",
@@ -31,5 +25,5 @@
     "nights"
   ],
   "hash": "5a549d6c4ad88c15",
-  "queuedAt": "2026-10-16T11:42:28.248Z"
+  "queuedAt": "2026-10-16T17:55:02.000Z"
 }

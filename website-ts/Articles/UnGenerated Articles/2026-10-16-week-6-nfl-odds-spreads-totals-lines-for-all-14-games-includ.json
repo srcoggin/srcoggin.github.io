@@ -1,12 +1,12 @@
 {
-  "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Broncos-Seahawks, Packers-Cowboys",
+  "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Chiefs-Chargers, Packers-Cowboys",
   "category": "general",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Broncos-Seahawks, Packers-Cowboys",
-      "description": "Week 6 opens with Broncos-Seahawks on Thursday, while Packers-Cowboys and 49ers-Commanders headline primetime.",
-      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-odds-lines-spreads-totals/"
+      "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Chiefs-Chargers, Packers-Cowboys",
+      "description": "NFL Week 6 continues with Chiefs-Chargers and Packers-Cowboys on Sunday",
+      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-odds-spreads-lines-totals/"
     }
   ],
   "keywords": [
@@ -16,15 +16,11 @@
     "lines",
     "games",
     "including",
-    "broncosseahawks",
+    "chiefschargers",
     "packerscowboys",
-    "opens",
-    "thursday",
-    "while",
-    "49erscommanders",
-    "headline",
-    "primetime"
+    "continues",
+    "sunday"
   ],
-  "hash": "a7839ef363e174de",
-  "queuedAt": "2026-10-16T11:42:31.267Z"
+  "hash": "23bd8cbf16d16cb3",
+  "queuedAt": "2026-10-16T17:54:57.560Z"
 }

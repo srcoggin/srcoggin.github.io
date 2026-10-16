@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bo Nix: I don't know where the disconnect is offensively",
-      "description": "The point of playing football games is to win football games and the Broncos were able to do that against the Seahawks on Thursday night, but the result didn't shield their quarterback Bo Nix from some harsh criticism after the game.",
-      "url": "https://sports.yahoo.com/articles/bo-nix-dont-know-where-105519743.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bo Nix: I don't know where the disconnect is offensively",
       "description": "The point of playing football games is to win football games and the Broncos were able to do that against the Seahawks on Thursday night, but the result didn't shield their quarterback Bo Nix from some harsh criticism after the game.",
@@ -41,5 +35,5 @@
     "criticism"
   ],
   "hash": "633f11765a4dd9a9",
-  "queuedAt": "2026-10-16T11:42:28.204Z"
+  "queuedAt": "2026-10-16T17:55:01.891Z"
 }

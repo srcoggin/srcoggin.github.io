@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ryan Fitzpatrick on Bo Nix's night: \"That right there is garbage\"",
-      "description": "Quarterback-turned-analyst repeatedly tees off on Denver QB.",
-      "url": "https://sports.yahoo.com/articles/ryan-fitzpatrick-bo-nixs-night-042921128.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ryan Fitzpatrick on Bo Nix's night: \"That right there is garbage\"",
       "description": "Quarterback-turned-analyst repeatedly tees off on Denver QB.",
@@ -30,5 +24,5 @@
     "denver"
   ],
   "hash": "7b87169f08c02cef",
-  "queuedAt": "2026-10-16T11:42:28.299Z"
+  "queuedAt": "2026-10-16T17:55:02.121Z"
 }
