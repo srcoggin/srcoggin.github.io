@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lamar Jackson out of Friday's practice, Tyler Huntley in line to start",
-      "description": "It looks like Lamar Jackson is going to miss a second consecutive game as he deals with an ankle injury.",
-      "url": "https://sports.yahoo.com/articles/lamar-jackson-fridays-practice-tyler-163014651.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lamar Jackson out of Friday's practice, Tyler Huntley in line to start",
       "description": "It looks like Lamar Jackson is going to miss a second consecutive game as he deals with an ankle injury.",
@@ -36,5 +30,5 @@
     "injury"
   ],
   "hash": "4c8b3a1c9e1c726d",
-  "queuedAt": "2026-10-16T17:54:54.099Z"
+  "queuedAt": "2026-10-16T21:29:32.636Z"
 }
