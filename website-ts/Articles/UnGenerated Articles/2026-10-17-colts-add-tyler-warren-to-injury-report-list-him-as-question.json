@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts add Tyler Warren to injury report, list him as questionable",
-      "description": "The Colts added quarterback Daniel Jones's most frequent target to their injury report on Friday.",
-      "url": "https://sports.yahoo.com/articles/colts-add-tyler-warren-injury-204436664.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts add Tyler Warren to injury report, list him as questionable",
       "description": "The Colts added quarterback Daniel Jones's most frequent target to their injury report on Friday.",
@@ -35,5 +29,5 @@
     "friday"
   ],
   "hash": "462f4a510acf2110",
-  "queuedAt": "2026-10-17T04:45:09.248Z"
+  "queuedAt": "2026-10-17T10:56:53.478Z"
 }
