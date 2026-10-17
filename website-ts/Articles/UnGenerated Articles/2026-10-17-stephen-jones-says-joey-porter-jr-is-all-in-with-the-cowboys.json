@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Stephen Jones says Joey Porter Jr. is \"all-in\" with the Cowboys",
-      "description": "Cowboys cornerback Joey Porter Jr. did not play in four games with the Steelers.",
-      "url": "https://sports.yahoo.com/articles/stephen-jones-says-joey-porter-212553236.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Stephen Jones says Joey Porter Jr. is \"all-in\" with the Cowboys",
       "description": "Cowboys cornerback Joey Porter Jr. did not play in four games with the Steelers.",
@@ -30,5 +24,5 @@
     "steelers"
   ],
   "hash": "09cc3b3c45fea219",
-  "queuedAt": "2026-10-17T10:56:54.029Z"
+  "queuedAt": "2026-10-17T16:55:23.643Z"
 }

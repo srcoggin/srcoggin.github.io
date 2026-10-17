@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Troy Aikman's role with the Dolphins hovers over his broadcasting future",
-      "description": "Why would any network with options opt for someone who works for one of the NFL's teams?",
-      "url": "https://sports.yahoo.com/articles/troy-aikmans-role-dolphins-hovers-022422961.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Troy Aikman's role with the Dolphins hovers over his broadcasting future",
       "description": "Why would any network with options opt for someone who works for one of the NFL's teams?",
@@ -37,5 +31,5 @@
     "teams"
   ],
   "hash": "ab4b879e044ed797",
-  "queuedAt": "2026-10-17T10:56:53.851Z"
+  "queuedAt": "2026-10-17T16:55:23.040Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans CEO Burke Nihill: Our organization believes in coach Robert Saleh, GM Mike Borgonzi",
-      "description": "The Titans have fired a head coach or GM each of the last four years, but they say they're going to be patient with their current coach and GM.",
-      "url": "https://sports.yahoo.com/articles/titans-ceo-burke-nihill-organization-073016063.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans CEO Burke Nihill: Our organization believes in coach Robert Saleh, GM Mike Borgonzi",
       "description": "The Titans have fired a head coach or GM each of the last four years, but they say they're going to be patient with their current coach and GM.",
@@ -42,5 +36,5 @@
     "current"
   ],
   "hash": "669ea9439dba62fc",
-  "queuedAt": "2026-10-17T10:56:53.803Z"
+  "queuedAt": "2026-10-17T16:55:22.797Z"
 }

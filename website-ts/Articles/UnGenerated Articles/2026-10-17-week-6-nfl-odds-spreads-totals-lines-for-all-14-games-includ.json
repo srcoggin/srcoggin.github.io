@@ -1,12 +1,12 @@
 {
-  "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Chiefs-Chargers, Packers-Cowboys",
+  "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Chargers-Chiefs, Packers-Cowboys",
   "category": "general",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Chiefs-Chargers, Packers-Cowboys",
+      "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Chargers-Chiefs, Packers-Cowboys",
       "description": "NFL Week 6 continues with Chiefs-Chargers and Packers-Cowboys on Sunday",
-      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-odds-spreads-lines-totals/"
+      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-odds-spreads-totals-lines/"
     }
   ],
   "keywords": [
@@ -16,11 +16,12 @@
     "lines",
     "games",
     "including",
-    "chiefschargers",
+    "chargerschiefs",
     "packerscowboys",
     "continues",
+    "chiefschargers",
     "sunday"
   ],
-  "hash": "23bd8cbf16d16cb3",
-  "queuedAt": "2026-10-17T10:56:56.087Z"
+  "hash": "574af2bf134e3512",
+  "queuedAt": "2026-10-17T16:55:19.684Z"
 }

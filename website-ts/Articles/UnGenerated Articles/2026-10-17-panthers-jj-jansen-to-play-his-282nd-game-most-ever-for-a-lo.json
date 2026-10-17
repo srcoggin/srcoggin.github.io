@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers' JJ Jansen to play his 282nd game, most ever for a long snapper",
-      "description": "Carolina's JJ Jansen will become the NFL's all-time record holder for games played by a long snapper on Sunday.",
-      "url": "https://sports.yahoo.com/articles/panthers-jj-jansen-play-282nd-102726966.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers' JJ Jansen to play his 282nd game, most ever for a long snapper",
       "description": "Carolina's JJ Jansen will become the NFL's all-time record holder for games played by a long snapper on Sunday.",
@@ -35,5 +29,5 @@
     "sunday"
   ],
   "hash": "0d8fdbbd09649257",
-  "queuedAt": "2026-10-17T10:56:53.726Z"
+  "queuedAt": "2026-10-17T16:55:22.585Z"
 }

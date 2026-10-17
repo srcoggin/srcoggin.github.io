@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chiefs nose tackle Khyiris Tonga is playing almost as much offense as Travis Hunter",
-      "description": "Jaguars cornerback/wide receiver Travis Hunter has been much-hyped for his status as a two-way player, first as a Heisman Trophy winner at Colorado and now in the NFL.",
-      "url": "https://sports.yahoo.com/articles/chiefs-nose-tackle-khyiris-tonga-084100310.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chiefs nose tackle Khyiris Tonga is playing almost as much offense as Travis Hunter",
       "description": "Jaguars cornerback/wide receiver Travis Hunter has been much-hyped for his status as a two-way player, first as a Heisman Trophy winner at Colorado and now in the NFL.",
@@ -42,5 +36,5 @@
     "now"
   ],
   "hash": "289e5c512dc96988",
-  "queuedAt": "2026-10-17T10:56:53.763Z"
+  "queuedAt": "2026-10-17T16:55:22.702Z"
 }

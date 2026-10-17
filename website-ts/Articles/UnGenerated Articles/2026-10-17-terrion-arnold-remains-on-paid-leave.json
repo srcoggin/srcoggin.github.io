@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Terrion Arnold remains on paid leave",
-      "description": "The NFL's decision to reinstate Packers running back Josh Jacobs and Broncos linebacker Jonathon Cooper from the Commissioner Exempt list carried with it a conspicuous omission.",
-      "url": "https://sports.yahoo.com/articles/terrion-arnold-remains-paid-leave-015250918.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Terrion Arnold remains on paid leave",
       "description": "The NFL's decision to reinstate Packers running back Josh Jacobs and Broncos linebacker Jonathon Cooper from the Commissioner Exempt list carried with it a conspicuous omission.",
@@ -41,5 +35,5 @@
     "omission"
   ],
   "hash": "be6976bf735182bb",
-  "queuedAt": "2026-10-17T10:56:53.887Z"
+  "queuedAt": "2026-10-17T16:55:23.143Z"
 }
