@@ -4,16 +4,23 @@
   "sources": [
     {
       "name": "Yahoo Sports NFL",
+      "title": "Buffalo Bills vs. Las Vegas Raiders: How to watch today, start time, where to stream and more",
+      "description": "Find out how to watch the Bills vs. Raiders game this week.",
+      "url": "https://sports.yahoo.com/nfl/article/buffalo-bills-vs-las-vegas-raiders-how-to-watch-today-start-time-where-to-stream-and-more-112400378.html"
+    },
+    {
+      "name": "Yahoo Sports NFL",
       "title": "Carolina Panthers vs. Philadelphia Eagles: How to watch today, start time, where to stream and more",
       "description": "Find out how to watch the Panthers vs. Eagles game this week.",
       "url": "https://sports.yahoo.com/nfl/article/carolina-panthers-vs-philadelphia-eagles-how-to-watch-today-start-time-where-to-stream-and-more-105000060.html"
     }
   ],
   "keywords": [
-    "carolina",
-    "panthers",
-    "philadelphia",
-    "eagles",
+    "buffalo",
+    "bills",
+    "las",
+    "vegas",
+    "raiders",
     "watch",
     "today",
     "start",
@@ -21,8 +28,12 @@
     "stream",
     "find",
     "out",
-    "this"
+    "this",
+    "carolina",
+    "panthers",
+    "philadelphia",
+    "eagles"
   ],
-  "hash": "b1d6078737d5cbe8",
-  "queuedAt": "2026-10-18T11:26:23.231Z"
+  "hash": "97bff5172c1e2f56",
+  "queuedAt": "2026-10-18T17:07:41.052Z"
 }

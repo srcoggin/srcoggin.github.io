@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys downgrade LB Demarvion Overshown to out; Joey Porter Jr. makes trip to Green Bay",
-      "description": "As expected, Cowboys linebacker DeMarvion Overshown will miss Sunday night's game against the Packers at Lambeau Field.",
-      "url": "https://sports.yahoo.com/articles/cowboys-downgrade-lb-demarvion-overshown-020915703.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys downgrade LB Demarvion Overshown to out; Joey Porter Jr. makes trip to Green Bay",
       "description": "As expected, Cowboys linebacker DeMarvion Overshown will miss Sunday night's game against the Packers at Lambeau Field.",
@@ -38,5 +32,5 @@
     "field"
   ],
   "hash": "b1f9cf87d188b8ac",
-  "queuedAt": "2026-10-18T11:26:22.605Z"
+  "queuedAt": "2026-10-18T17:07:48.364Z"
 }

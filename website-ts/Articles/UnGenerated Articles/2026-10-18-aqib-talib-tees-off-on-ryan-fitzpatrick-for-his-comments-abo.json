@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aqib Talib tees off on Ryan Fitzpatrick for his comments about Bo Nix",
-      "description": "Four years ago, Aqib Talib and Ryan Fitzpatrick were scheduled to become colleagues on Prime Video's coverage of Thursday Night Football.",
-      "url": "https://sports.yahoo.com/articles/aqib-talib-tees-off-ryan-010458924.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aqib Talib tees off on Ryan Fitzpatrick for his comments about Bo Nix",
       "description": "Four years ago, Aqib Talib and Ryan Fitzpatrick were scheduled to become colleagues on Prime Video's coverage of Thursday Night Football.",
@@ -39,5 +33,5 @@
     "night"
   ],
   "hash": "f1241c095f3ae666",
-  "queuedAt": "2026-10-18T11:26:22.760Z"
+  "queuedAt": "2026-10-18T17:07:48.559Z"
 }
