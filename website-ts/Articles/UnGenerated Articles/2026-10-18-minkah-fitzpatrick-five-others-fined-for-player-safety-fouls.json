@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Minkah Fitzpatrick, five others fined for player safety fouls in Week 6",
-      "description": "The NFL confirmed that Jets safety Minkah Fitzpatrick was fined for his hit on a defenseless KC Concepcion in the Jets' Week 5 win over the Browns and they announced five other players were fined for the player safety fouls that count toward potential suspensions.",
-      "url": "https://sports.yahoo.com/articles/minkah-fitzpatrick-five-others-fined-202710448.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Minkah Fitzpatrick, five others fined for player safety fouls in Week 6",
       "description": "The NFL confirmed that Jets safety Minkah Fitzpatrick was fined for his hit on a defenseless KC Concepcion in the Jets' Week 5 win over the Browns and they announced five other players were fined for the player safety fouls that count toward potential suspensions.",
@@ -42,5 +36,5 @@
     "suspensions"
   ],
   "hash": "d64da996251e3a61",
-  "queuedAt": "2026-10-18T04:53:05.156Z"
+  "queuedAt": "2026-10-18T11:26:22.499Z"
 }
