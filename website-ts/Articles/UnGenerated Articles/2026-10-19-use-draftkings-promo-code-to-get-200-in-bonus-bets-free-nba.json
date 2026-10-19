@@ -1,18 +1,12 @@
 {
-  "title": "Use DraftKings promo code to get $200 in bonus bets, free NBA League Pass for NFL betting, Cowboys-Packers",
+  "title": "Use DraftKings promo code to get $200 in bonus bets, free NBA League Pass for Commanders vs. 49ers, MNF",
   "category": "draft",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Use DraftKings promo code to get $200 in bonus bets, free NBA League Pass for 49ers vs. Commanders, MNF",
+      "title": "Use DraftKings promo code to get $200 in bonus bets, free NBA League Pass for Commanders vs. 49ers, MNF",
       "description": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for Commanders vs. 49ers on Monday Night Football",
-      "url": "https://www.cbssports.com/nfl/news/use-draftkings-promo-code-to-get-200-in-bonus-bets-free-nba-league-pass-49ers-vs-commanders-mnf/"
-    },
-    {
-      "name": "CBS Sports NFL",
-      "title": "Use DraftKings promo code to get $200 in bonus bets, free NBA League Pass for NFL betting, Cowboys-Packers",
-      "description": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for NFL betting on Sunday",
-      "url": "https://www.cbssports.com/nfl/news/use-draftkings-promo-code-to-get-200-bonus-bets-free-nba-league-pass-for-nfl-betting-cowboys-packers/"
+      "url": "https://www.cbssports.com/nfl/news/use-draftkings-promo-code-to-get-200-in-bonus-bets-free-nba-league-pass-for-commanders-vs-49ers-mnf/"
     }
   ],
   "keywords": [
@@ -28,8 +22,8 @@
     "nba",
     "league",
     "pass",
-    "49ers",
     "commanders",
+    "49ers",
     "mnf",
     "offers",
     "three",
@@ -38,11 +32,8 @@
     "first",
     "wager",
     "monday",
-    "night",
-    "betting",
-    "cowboyspackers",
-    "sunday"
+    "night"
   ],
-  "hash": "1d0fc364e619ae34",
-  "queuedAt": "2026-10-19T13:56:26.936Z"
+  "hash": "c2688207acbccb63",
+  "queuedAt": "2026-10-19T22:58:36.278Z"
 }
