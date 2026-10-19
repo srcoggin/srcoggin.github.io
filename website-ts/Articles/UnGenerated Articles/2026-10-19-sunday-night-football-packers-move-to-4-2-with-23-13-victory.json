@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sunday Night Football: Packers move to 4-2 with 23-13 victory over Cowboys",
-      "description": "Green Bay has won three games in a row after a strong defensive performance against Dallas on Sunday night.",
-      "url": "https://sports.yahoo.com/articles/sunday-night-football-packers-move-035347374.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sunday Night Football: Packers move to 4-2 with 23-13 victory over Cowboys",
       "description": "Green Bay has won three games in a row after a strong defensive performance against Dallas on Sunday night.",
@@ -37,5 +31,5 @@
     "dallas"
   ],
   "hash": "d925a18b02e25220",
-  "queuedAt": "2026-10-19T04:42:34.437Z"
+  "queuedAt": "2026-10-19T13:56:35.607Z"
 }

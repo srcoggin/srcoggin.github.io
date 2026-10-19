@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "A.J. Brown: I'm much better than what I put on display",
-      "description": "The Patriots were excited to get wide receiver A.J.",
-      "url": "https://sports.yahoo.com/articles/j-brown-im-much-better-003447501.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "A.J. Brown: I'm much better than what I put on display",
       "description": "The Patriots were excited to get wide receiver A.J.",
@@ -29,5 +23,5 @@
     "receiver"
   ],
   "hash": "2d7664c501dc67d6",
-  "queuedAt": "2026-10-19T04:42:35.172Z"
+  "queuedAt": "2026-10-19T13:56:36.765Z"
 }

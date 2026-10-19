@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Javonte Williams scores 1-yard TD, Packers still lead Cowboys 17-7",
-      "description": "The Cowboys are on the board.",
-      "url": "https://sports.yahoo.com/articles/javonte-williams-scores-1-yard-021915081.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Javonte Williams scores 1-yard TD, Packers still lead Cowboys 17-7",
       "description": "The Cowboys are on the board.",
@@ -28,5 +22,5 @@
     "board"
   ],
   "hash": "e70c2bd65a73b176",
-  "queuedAt": "2026-10-19T04:42:34.613Z"
+  "queuedAt": "2026-10-19T13:56:35.935Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Former Broncos G.M. John Beake dies at 87",
-      "description": "Former Broncos G.M.",
-      "url": "https://sports.yahoo.com/articles/former-broncos-g-m-john-004143047.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Former Broncos G.M. John Beake dies at 87",
       "description": "Former Broncos G.M.",
@@ -23,5 +17,5 @@
     "dies"
   ],
   "hash": "ec5e9cbda91fe573",
-  "queuedAt": "2026-10-19T04:42:35.119Z"
+  "queuedAt": "2026-10-19T13:56:36.676Z"
 }

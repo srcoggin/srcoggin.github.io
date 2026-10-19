@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Referee Shawn Smith: Umpire Tra Blake witnessed C.J. Gardner-Johnson spitting on an opponent",
-      "description": "Bills safety C.J.",
-      "url": "https://sports.yahoo.com/articles/referee-shawn-smith-umpire-tra-010054213.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Referee Shawn Smith: Umpire Tra Blake witnessed C.J. Gardner-Johnson spitting on an opponent",
       "description": "Bills safety C.J.",
@@ -30,5 +24,5 @@
     "safety"
   ],
   "hash": "68639a0bd9361d54",
-  "queuedAt": "2026-10-19T04:42:34.848Z"
+  "queuedAt": "2026-10-19T13:56:36.401Z"
 }
