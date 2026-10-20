@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Monday Night Football: 49ers WR Mike Evans, Commanders WR Stefon Diggs are active",
-      "description": "The 49ers will have star wide receiver Mike Evans for Monday Night Football.",
-      "url": "https://sports.yahoo.com/articles/monday-night-football-49ers-wr-230113717.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Monday Night Football: 49ers WR Mike Evans, Commanders WR Stefon Diggs are active",
       "description": "The 49ers will have star wide receiver Mike Evans for Monday Night Football.",
@@ -30,5 +24,5 @@
     "receiver"
   ],
   "hash": "5621f7e60a255fc4",
-  "queuedAt": "2026-10-20T04:50:43.615Z"
+  "queuedAt": "2026-10-20T11:49:30.889Z"
 }

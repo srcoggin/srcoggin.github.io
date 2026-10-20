@@ -1,7 +1,13 @@
 {
   "title": "Stephen Jones: Brian Schottenheimer \"absolutely\" has full support of ownership",
-  "category": "team-news",
+  "category": "general",
   "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "Cowboys news: Stephen Jones gives full support to Brian Schottenheimer",
+      "description": "Here is today’s Cowboys news.",
+      "url": "https://sports.yahoo.com/articles/cowboys-news-stephen-jones-gives-110000842.html"
+    },
     {
       "name": "Yahoo Sports NFL",
       "title": "Stephen Jones: Brian Schottenheimer \"absolutely\" has full support of ownership",
@@ -16,17 +22,20 @@
     }
   ],
   "keywords": [
+    "cowboys",
+    "news",
     "stephen",
     "jones",
-    "brian",
-    "schottenheimer",
-    "absolutely",
+    "gives",
     "full",
     "support",
+    "brian",
+    "schottenheimer",
+    "todays",
+    "absolutely",
     "ownership",
-    "cowboys",
     "slumped"
   ],
-  "hash": "7b0bec8186538290",
-  "queuedAt": "2026-10-20T04:50:43.412Z"
+  "hash": "25c158db7002aa43",
+  "queuedAt": "2026-10-20T11:49:26.632Z"
 }

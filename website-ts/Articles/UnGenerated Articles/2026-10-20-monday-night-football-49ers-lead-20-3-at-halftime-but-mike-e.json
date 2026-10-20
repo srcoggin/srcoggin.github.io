@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Monday Night Football: 49ers lead 20-3 at halftime, but Mike Evans leaves early",
-      "description": "The 49ers star wide receiver appeared to aggravate his sore Achilles late in the first half.",
-      "url": "https://sports.yahoo.com/articles/monday-night-football-49ers-lead-014626371.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Monday Night Football: 49ers lead 20-3 at halftime, but Mike Evans leaves early",
       "description": "The 49ers star wide receiver appeared to aggravate his sore Achilles late in the first half.",
@@ -39,5 +33,5 @@
     "half"
   ],
   "hash": "3b71de941d21b65e",
-  "queuedAt": "2026-10-20T04:50:43.468Z"
+  "queuedAt": "2026-10-20T11:49:30.553Z"
 }

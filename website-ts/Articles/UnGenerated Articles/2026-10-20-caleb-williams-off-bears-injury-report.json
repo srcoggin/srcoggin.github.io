@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Caleb Williams off Bears' injury report",
-      "description": "Bears quarterback Caleb Williams is off the team's injury report.",
-      "url": "https://sports.yahoo.com/articles/caleb-williams-off-bears-injury-000753882.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Caleb Williams off Bears' injury report",
       "description": "Bears quarterback Caleb Williams is off the team's injury report.",
@@ -26,5 +20,5 @@
     "teams"
   ],
   "hash": "5bdc3474050a9af0",
-  "queuedAt": "2026-10-20T04:50:42.670Z"
+  "queuedAt": "2026-10-20T11:49:26.542Z"
 }

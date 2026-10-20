@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Ravens re-sign K Jake Moody to practice squad",
-      "description": "Jesse Minter did not hide his frustration with Tyler Loop after the kicker missed a 49-yard field goal in the fourth quarter.",
-      "url": "https://sports.yahoo.com/articles/report-ravens-sign-k-jake-231951246.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Ravens re-sign K Jake Moody to practice squad",
       "description": "Jesse Minter did not hide his frustration with Tyler Loop after the kicker missed a 49-yard field goal in the fourth quarter.",
@@ -39,5 +33,5 @@
     "quarter"
   ],
   "hash": "012732b1720b30e1",
-  "queuedAt": "2026-10-20T04:50:42.743Z"
+  "queuedAt": "2026-10-20T11:49:26.595Z"
 }

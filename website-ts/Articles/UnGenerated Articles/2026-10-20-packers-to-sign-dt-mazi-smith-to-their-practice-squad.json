@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers to sign DT Mazi Smith to their practice squad",
-      "description": "The Packers tried out defensive tackle Mazi Smith on Monday.",
-      "url": "https://sports.yahoo.com/articles/packers-sign-dt-mazi-smith-230624753.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers to sign DT Mazi Smith to their practice squad",
       "description": "The Packers tried out defensive tackle Mazi Smith on Monday.",
@@ -30,5 +24,5 @@
     "monday"
   ],
   "hash": "06413635f6a911ba",
-  "queuedAt": "2026-10-20T04:50:43.564Z"
+  "queuedAt": "2026-10-20T11:49:30.843Z"
 }
