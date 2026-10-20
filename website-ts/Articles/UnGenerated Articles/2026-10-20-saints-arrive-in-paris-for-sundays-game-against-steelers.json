@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saints arrive in Paris for Sunday's game against Steelers",
-      "description": "Amid ongoing local unrest that has sparked full-blown riots, the NFL is pushing forward with its first-ever game in Paris.",
-      "url": "https://sports.yahoo.com/articles/saints-arrive-paris-sundays-game-163457016.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saints arrive in Paris for Sunday's game against Steelers",
       "description": "Amid ongoing local unrest that has sparked full-blown riots, the NFL is pushing forward with its first-ever game in Paris.",
@@ -36,5 +30,5 @@
     "firstever"
   ],
   "hash": "7f8405275871a68d",
-  "queuedAt": "2026-10-20T17:55:16.368Z"
+  "queuedAt": "2026-10-20T22:50:06.103Z"
 }

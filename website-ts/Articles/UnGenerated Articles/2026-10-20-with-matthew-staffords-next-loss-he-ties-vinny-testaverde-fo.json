@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "With Matthew Stafford's next loss, he ties Vinny Testaverde for the most QB losses ever",
-      "description": "Rams quarterback Matthew Stafford lost his fourth start of the season on Sunday.",
-      "url": "https://sports.yahoo.com/articles/matthew-staffords-next-loss-ties-154916701.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "With Matthew Stafford's next loss, he ties Vinny Testaverde for the most QB losses ever",
       "description": "Rams quarterback Matthew Stafford lost his fourth start of the season on Sunday.",
@@ -35,5 +29,5 @@
     "sunday"
   ],
   "hash": "bdc465ea13906837",
-  "queuedAt": "2026-10-20T17:55:16.656Z"
+  "queuedAt": "2026-10-20T22:50:06.373Z"
 }

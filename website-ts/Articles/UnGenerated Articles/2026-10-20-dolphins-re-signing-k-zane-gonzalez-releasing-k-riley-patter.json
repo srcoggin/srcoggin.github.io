@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dolphins re-signing K Zane Gonzalez, releasing K Riley Patterson",
-      "description": "Coming off their Week 6 bye, the Dolphins are replacing their kicker.",
-      "url": "https://sports.yahoo.com/articles/dolphins-signing-k-zane-gonzalez-162242006.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dolphins re-signing K Zane Gonzalez, releasing K Riley Patterson",
       "description": "Coming off their Week 6 bye, the Dolphins are replacing their kicker.",
@@ -31,5 +25,5 @@
     "kicker"
   ],
   "hash": "bae9dd84134b0811",
-  "queuedAt": "2026-10-20T17:55:16.558Z"
+  "queuedAt": "2026-10-20T22:50:06.279Z"
 }

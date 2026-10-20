@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Umpire Larry Smith out for season after slipping on Wembley Stadium grass",
-      "description": "NFL official Larry Smith suffered a season-ending injury on Sunday in London.",
-      "url": "https://sports.yahoo.com/articles/report-umpire-larry-smith-season-165145996.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Umpire Larry Smith out for season after slipping on Wembley Stadium grass",
       "description": "NFL official Larry Smith suffered a season-ending injury on Sunday in London.",
@@ -33,5 +27,5 @@
     "london"
   ],
   "hash": "4e764bf71f2a3f2b",
-  "queuedAt": "2026-10-20T17:55:14.499Z"
+  "queuedAt": "2026-10-20T22:49:58.726Z"
 }
