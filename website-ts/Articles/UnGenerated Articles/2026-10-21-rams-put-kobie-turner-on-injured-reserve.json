@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams put Kobie Turner on injured reserve",
-      "description": "The Rams put a player on injured reserve for the fourth time this week on Wednesday.",
-      "url": "https://sports.yahoo.com/articles/rams-put-kobie-turner-injured-180330636.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams put Kobie Turner on injured reserve",
       "description": "The Rams put a player on injured reserve for the fourth time this week on Wednesday.",
@@ -28,5 +22,5 @@
     "wednesday"
   ],
   "hash": "bb030fc15f7621ea",
-  "queuedAt": "2026-10-21T18:12:04.358Z"
+  "queuedAt": "2026-10-21T23:06:30.122Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rashee Rice, Jaylon Moore out of Chiefs practice Wednesday",
-      "description": "The Chiefs will remain without wide receiver Rashee Rice as they kick off the practice week.",
-      "url": "https://sports.yahoo.com/articles/rashee-rice-jaylon-moore-chiefs-173617006.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rashee Rice, Jaylon Moore out of Chiefs practice Wednesday",
       "description": "The Chiefs will remain without wide receiver Rashee Rice as they kick off the practice week.",
@@ -33,5 +27,5 @@
     "off"
   ],
   "hash": "d001b6cde90847da",
-  "queuedAt": "2026-10-21T18:12:04.440Z"
+  "queuedAt": "2026-10-21T23:06:30.353Z"
 }
