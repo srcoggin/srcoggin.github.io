@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL will have heightened security for game in Paris after recent civil unrest",
-      "description": "The game in Paris between the Steelers and Saints will go on as scheduled Sunday.",
-      "url": "https://sports.yahoo.com/articles/nfl-heightened-security-game-paris-001552736.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL will have heightened security for game in Paris after recent civil unrest",
       "description": "The game in Paris between the Steelers and Saints will go on as scheduled Sunday.",
@@ -28,5 +22,5 @@
     "sunday"
   ],
   "hash": "e21b695fd3de00f4",
-  "queuedAt": "2026-10-21T12:55:52.214Z"
+  "queuedAt": "2026-10-21T18:12:11.762Z"
 }
