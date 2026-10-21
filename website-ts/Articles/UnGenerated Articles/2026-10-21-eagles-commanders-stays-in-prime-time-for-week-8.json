@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles-Commanders stays in prime time for Week 8",
-      "description": "NFL reportedly \"strongly considered\" replacing it with Browns-Steelers.",
-      "url": "https://sports.yahoo.com/articles/eagles-commanders-stays-prime-time-233636323.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles-Commanders stays in prime time for Week 8",
       "description": "NFL reportedly \"strongly considered\" replacing it with Browns-Steelers.",
@@ -27,5 +21,5 @@
     "brownssteelers"
   ],
   "hash": "6773fc8cd80ffb3d",
-  "queuedAt": "2026-10-21T05:03:18.979Z"
+  "queuedAt": "2026-10-21T12:55:50.985Z"
 }

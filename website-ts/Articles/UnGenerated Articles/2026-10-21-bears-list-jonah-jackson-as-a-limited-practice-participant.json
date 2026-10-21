@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears list Jonah Jackson as a limited practice participant",
-      "description": "The Bears had one change to their estimated practice report on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/bears-list-jonah-jackson-limited-214121789.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears list Jonah Jackson as a limited practice participant",
       "description": "The Bears had one change to their estimated practice report on Tuesday.",
@@ -31,5 +25,5 @@
     "tuesday"
   ],
   "hash": "f0ada1a56f9fc348",
-  "queuedAt": "2026-10-21T05:03:19.051Z"
+  "queuedAt": "2026-10-21T12:55:51.082Z"
 }

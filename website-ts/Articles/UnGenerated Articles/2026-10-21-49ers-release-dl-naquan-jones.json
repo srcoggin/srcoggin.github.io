@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers release DL Naquan Jones",
-      "description": "The 49ers released defensive lineman Naquan Jones, the team announced Tuesday.",
-      "url": "https://sports.yahoo.com/articles/49ers-release-dl-naquan-jones-213739921.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers release DL Naquan Jones",
       "description": "The 49ers released defensive lineman Naquan Jones, the team announced Tuesday.",
@@ -27,5 +21,5 @@
     "tuesday"
   ],
   "hash": "37c273a2ae7ea58e",
-  "queuedAt": "2026-10-21T05:03:19.126Z"
+  "queuedAt": "2026-10-21T12:55:51.184Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams put Davante Adams, Poona Ford on IR",
-      "description": "Wide receiver Davante Adams is expected to miss the next 6-10 weeks after rupturing his hamstring in last Sunday's loss to the Cardinals and the Rams moved him off of the active roster on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/rams-put-davante-adams-poona-222912374.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams put Davante Adams, Poona Ford on IR",
       "description": "Wide receiver Davante Adams is expected to miss the next 6-10 weeks after rupturing his hamstring in last Sunday's loss to the Cardinals and the Rams moved him off of the active roster on Tuesday.",
@@ -44,5 +38,5 @@
     "tuesday"
   ],
   "hash": "4e96596e5c3a8829",
-  "queuedAt": "2026-10-21T05:03:20.458Z"
+  "queuedAt": "2026-10-21T12:56:00.327Z"
 }
