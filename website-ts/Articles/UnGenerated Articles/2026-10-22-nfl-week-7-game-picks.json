@@ -1,0 +1,22 @@
+{
+  "title": "NFL Week 7 Game Picks",
+  "category": "draft",
+  "sources": [
+    {
+      "name": "Yahoo Sports NFL",
+      "title": "NFL Week 7 Game Picks",
+      "description": "Predicting the winners of this week’s football matchups.",
+      "url": "https://sports.yahoo.com/articles/nfl-week-7-game-picks-205801797.html"
+    }
+  ],
+  "keywords": [
+    "picks",
+    "predicting",
+    "winners",
+    "this",
+    "weeks",
+    "matchups"
+  ],
+  "hash": "b3264eb4130c0812",
+  "queuedAt": "2026-10-22T22:41:36.305Z"
+}
