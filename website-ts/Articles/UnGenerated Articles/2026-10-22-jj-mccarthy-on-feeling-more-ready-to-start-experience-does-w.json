@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "J.J. McCarthy on feeling more ready to start: Experience does wonders",
-      "description": "McCarthy will make his first start for the Giants this week.",
-      "url": "https://sports.yahoo.com/articles/j-j-mccarthy-feeling-more-223823144.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "J.J. McCarthy on feeling more ready to start: Experience does wonders",
       "description": "McCarthy will make his first start for the Giants this week.",
@@ -29,5 +23,5 @@
     "this"
   ],
   "hash": "4eb4a0158923ffd8",
-  "queuedAt": "2026-10-22T04:29:35.879Z"
+  "queuedAt": "2026-10-22T12:57:45.631Z"
 }

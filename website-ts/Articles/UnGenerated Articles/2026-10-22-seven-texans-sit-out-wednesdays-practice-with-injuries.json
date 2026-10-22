@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seven Texans sit out Wednesday's practice with injuries",
-      "description": "Seven key Texans players did not practice Wednesday as they began preparations for Sunday's game against the Giants.",
-      "url": "https://sports.yahoo.com/articles/seven-texans-sit-wednesdays-practice-215106648.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seven Texans sit out Wednesday's practice with injuries",
       "description": "Seven key Texans players did not practice Wednesday as they began preparations for Sunday's game against the Giants.",
@@ -34,5 +28,5 @@
     "giants"
   ],
   "hash": "80ae96d3d6c46988",
-  "queuedAt": "2026-10-22T04:29:35.916Z"
+  "queuedAt": "2026-10-22T12:57:45.919Z"
 }

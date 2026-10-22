@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Malik Willis listed as full participant with right thumb injury",
-      "description": "Dolphins quarterback Malik Willis was not spotted throwing last week during the team's off week.",
-      "url": "https://sports.yahoo.com/articles/malik-willis-listed-full-participant-212800251.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Malik Willis listed as full participant with right thumb injury",
       "description": "Dolphins quarterback Malik Willis was not spotted throwing last week during the team's off week.",
@@ -33,5 +27,5 @@
     "off"
   ],
   "hash": "b1703c4a7e588c28",
-  "queuedAt": "2026-10-22T04:29:35.952Z"
+  "queuedAt": "2026-10-22T12:57:46.223Z"
 }

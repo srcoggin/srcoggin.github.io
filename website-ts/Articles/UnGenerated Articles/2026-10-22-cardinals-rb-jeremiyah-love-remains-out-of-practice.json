@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals RB Jeremiyah Love remains out of practice",
-      "description": "Cardinals running back Jeremiyah Love is improving, Mike LaFleur said.",
-      "url": "https://sports.yahoo.com/articles/cardinals-rb-jeremiyah-love-remains-001133910.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals RB Jeremiyah Love remains out of practice",
       "description": "Cardinals running back Jeremiyah Love is improving, Mike LaFleur said.",
@@ -30,5 +24,5 @@
     "said"
   ],
   "hash": "ff2cd6102ba69492",
-  "queuedAt": "2026-10-22T04:29:35.837Z"
+  "queuedAt": "2026-10-22T12:57:44.942Z"
 }

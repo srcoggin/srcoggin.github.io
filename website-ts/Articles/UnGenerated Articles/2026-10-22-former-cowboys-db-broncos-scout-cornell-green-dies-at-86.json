@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Former Cowboys DB, Broncos scout Cornell Green dies at 86",
-      "description": "The Cowboys announced that former defensive back Cornell Green died Wednesday.",
-      "url": "https://sports.yahoo.com/articles/former-cowboys-db-broncos-scout-210852446.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Former Cowboys DB, Broncos scout Cornell Green dies at 86",
       "description": "The Cowboys announced that former defensive back Cornell Green died Wednesday.",
@@ -31,5 +25,5 @@
     "wednesday"
   ],
   "hash": "feb9c2cd1e99f6e4",
-  "queuedAt": "2026-10-22T04:29:35.054Z"
+  "queuedAt": "2026-10-22T12:57:35.922Z"
 }
