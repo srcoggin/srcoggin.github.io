@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Thursday Night Football: Bears fend off Patriots 30-24",
-      "description": "Caleb Williams was 22-of-33 for 308 yards and two touchdowns.",
-      "url": "https://sports.yahoo.com/articles/thursday-night-football-bears-fend-033121967.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Thursday Night Football: Bears fend off Patriots 30-24",
       "description": "Caleb Williams was 22-of-33 for 308 yards and two touchdowns.",
@@ -32,5 +26,5 @@
     "touchdowns"
   ],
   "hash": "880c7de696a732ec",
-  "queuedAt": "2026-10-23T05:03:28.418Z"
+  "queuedAt": "2026-10-23T13:04:05.801Z"
 }

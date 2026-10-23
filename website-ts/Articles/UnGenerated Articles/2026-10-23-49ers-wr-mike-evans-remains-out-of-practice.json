@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "49ers WR Mike Evans remains out of practice",
-      "description": "49ers wide receiver Mike Evans remained out of practice Thursday.",
-      "url": "https://sports.yahoo.com/articles/49ers-wr-mike-evans-remains-000101127.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "49ers WR Mike Evans remains out of practice",
       "description": "49ers wide receiver Mike Evans remained out of practice Thursday.",
@@ -28,5 +22,5 @@
     "thursday"
   ],
   "hash": "12953b0753bafe92",
-  "queuedAt": "2026-10-23T05:03:29.063Z"
+  "queuedAt": "2026-10-23T13:04:06.977Z"
 }

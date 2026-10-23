@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Multiple teams have trade interest in Jonathan Taylor",
-      "description": "It is unclear whether the Colts will be sellers at the trade deadline.",
-      "url": "https://sports.yahoo.com/articles/report-multiple-teams-trade-interest-012841828.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Multiple teams have trade interest in Jonathan Taylor",
       "description": "It is unclear whether the Colts will be sellers at the trade deadline.",
@@ -30,5 +24,5 @@
     "deadline"
   ],
   "hash": "00a2ebc326c7e991",
-  "queuedAt": "2026-10-23T05:03:27.313Z"
+  "queuedAt": "2026-10-23T13:03:54.682Z"
 }

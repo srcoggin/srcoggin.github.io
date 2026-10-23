@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears TE Kmet carted off with a knee injury",
-      "description": "The Bears quickly ruled him out.",
-      "url": "https://sports.yahoo.com/articles/bears-te-cole-kmet-carted-031033568.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears TE Kmet carted off with a knee injury",
       "description": "The Bears quickly ruled him out.",
@@ -28,5 +22,5 @@
     "out"
   ],
   "hash": "fda180a79661d118",
-  "queuedAt": "2026-10-23T05:03:28.492Z"
+  "queuedAt": "2026-10-23T13:04:05.559Z"
 }
