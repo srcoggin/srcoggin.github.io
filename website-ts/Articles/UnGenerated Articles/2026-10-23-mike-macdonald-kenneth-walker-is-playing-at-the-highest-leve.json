@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Macdonald: Kenneth Walker is playing at the highest level in the league right now",
-      "description": "Seahawks head coach Mike Macdonald knows how good a running back he'll be facing when he coaches against the Chiefs on Sunday night.",
-      "url": "https://sports.yahoo.com/articles/mike-macdonald-kenneth-walker-playing-104415722.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Macdonald: Kenneth Walker is playing at the highest level in the league right now",
       "description": "Seahawks head coach Mike Macdonald knows how good a running back he'll be facing when he coaches against the Chiefs on Sunday night.",
@@ -42,5 +36,5 @@
     "night"
   ],
   "hash": "539cf14c1f000eec",
-  "queuedAt": "2026-10-23T13:03:55.181Z"
+  "queuedAt": "2026-10-23T18:13:29.950Z"
 }

@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ben Johnson originally called a punt, but Cairo Santos asked to try a 58-yard field goal",
-      "description": "After Bears head coach Ben Johnson initially called for a punt late in Thursday night's win over the Patriots, Bears kicker Cairo Santos convinced his coaches to let him try the 58-yard field goal that sealed the win.",
-      "url": "https://sports.yahoo.com/articles/ben-johnson-originally-called-punt-094227101.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ben Johnson originally called a punt, but Cairo Santos asked to try a 58-yard field goal",
       "description": "After Bears head coach Ben Johnson initially called for a punt late in Thursday night's win over the Patriots, Bears kicker Cairo Santos convinced his coaches to let him try the 58-yard field goal that sealed the win.",
@@ -48,5 +42,5 @@
     "sealed"
   ],
   "hash": "c6bb76592660dda1",
-  "queuedAt": "2026-10-23T13:03:55.304Z"
+  "queuedAt": "2026-10-23T18:13:29.566Z"
 }

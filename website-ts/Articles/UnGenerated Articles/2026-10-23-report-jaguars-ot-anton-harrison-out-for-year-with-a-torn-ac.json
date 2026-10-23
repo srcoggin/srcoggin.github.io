@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: Jaguars OT Anton Harrison out for year with a torn ACL",
-      "description": "When Jaguars left tackle Anton Harrison was placed on injured reserve earlier this month, word was that the results of knee surgery would determine how long he'll be out.",
-      "url": "https://sports.yahoo.com/articles/report-jaguars-ot-anton-harrison-122837910.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: Jaguars OT Anton Harrison out for year with a torn ACL",
       "description": "When Jaguars left tackle Anton Harrison was placed on injured reserve earlier this month, word was that the results of knee surgery would determine how long he'll be out.",
@@ -41,5 +35,5 @@
     "hell"
   ],
   "hash": "3252776ee3ffd88d",
-  "queuedAt": "2026-10-23T13:03:54.036Z"
+  "queuedAt": "2026-10-23T18:13:22.394Z"
 }
