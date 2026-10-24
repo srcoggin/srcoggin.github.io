@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears lead NFL in time of possession, but Ben Johnson would prefer one-play TD drives",
-      "description": "\"\"I've never been one for the time of possession stat. I don't know that that really equates to winning and losing,\" Johnson said.",
-      "url": "https://sports.yahoo.com/articles/bears-lead-nfl-time-possession-093348163.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears lead NFL in time of possession, but Ben Johnson would prefer one-play TD drives",
       "description": "\"\"I've never been one for the time of possession stat. I don't know that that really equates to winning and losing,\" Johnson said.",
@@ -39,5 +33,5 @@
     "said"
   ],
   "hash": "605661001cd997a7",
-  "queuedAt": "2026-10-24T11:06:42.663Z"
+  "queuedAt": "2026-10-24T17:05:45.432Z"
 }

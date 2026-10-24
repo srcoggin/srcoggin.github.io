@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "President Trump on Sunday's game in Paris: \"The NFL probably could have postponed\"",
-      "description": "The NFL plans to press forward with Sunday's game between the Steelers and Saints in Paris.",
-      "url": "https://sports.yahoo.com/articles/president-trump-sundays-game-paris-025106353.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "President Trump on Sunday's game in Paris: \"The NFL probably could have postponed\"",
       "description": "The NFL plans to press forward with Sunday's game between the Steelers and Saints in Paris.",
@@ -29,5 +23,5 @@
     "saints"
   ],
   "hash": "1665af75c3cb418a",
-  "queuedAt": "2026-10-24T11:06:42.734Z"
+  "queuedAt": "2026-10-24T17:05:45.704Z"
 }

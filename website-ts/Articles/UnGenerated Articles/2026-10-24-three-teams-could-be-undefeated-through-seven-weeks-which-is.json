@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Three teams could be undefeated through seven weeks, which is a rarity",
-      "description": "Entering Week 7, three teams are undefeated.",
-      "url": "https://sports.yahoo.com/articles/three-teams-could-undefeated-seven-012013402.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Three teams could be undefeated through seven weeks, which is a rarity",
       "description": "Entering Week 7, three teams are undefeated.",
@@ -26,5 +20,5 @@
     "entering"
   ],
   "hash": "ea4a466eb03c7fa0",
-  "queuedAt": "2026-10-24T11:06:42.772Z"
+  "queuedAt": "2026-10-24T17:05:45.895Z"
 }
