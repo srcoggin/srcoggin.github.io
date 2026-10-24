@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "With Troy Aikman possibly exiting broadcasting, he extends an olive branch to Jerry Jones",
-      "description": "Hall of Fame quarterback Troy Aikman has talked openly for years about wanting to work in an NFL front office.",
-      "url": "https://sports.yahoo.com/articles/troy-aikman-possibly-exiting-broadcasting-135426855.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "With Troy Aikman possibly exiting broadcasting, he extends an olive branch to Jerry Jones",
       "description": "Hall of Fame quarterback Troy Aikman has talked openly for years about wanting to work in an NFL front office.",
@@ -39,5 +33,5 @@
     "office"
   ],
   "hash": "7b377b2bd310dfbb",
-  "queuedAt": "2026-10-24T17:05:37.913Z"
+  "queuedAt": "2026-10-24T21:52:57.881Z"
 }

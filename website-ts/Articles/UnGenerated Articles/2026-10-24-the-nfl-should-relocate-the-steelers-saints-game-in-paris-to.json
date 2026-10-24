@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "The NFL should relocate the Steelers-Saints game in Paris to London",
-      "description": "NFL scraps multiple Saturday events due to ongoing protests.",
-      "url": "https://sports.yahoo.com/articles/nfl-relocate-steelers-saints-game-130151833.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "The NFL should relocate the Steelers-Saints game in Paris to London",
       "description": "NFL scraps multiple Saturday events due to ongoing protests.",
@@ -29,5 +23,5 @@
     "protests"
   ],
   "hash": "edef2a534c83b327",
-  "queuedAt": "2026-10-24T17:05:38.093Z"
+  "queuedAt": "2026-10-24T21:52:57.697Z"
 }
