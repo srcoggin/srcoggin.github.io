@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Browns extend DT Maliek Collins by two years",
-      "description": "The contract year of veteran defensive tackle Maliek Collins has resulted after only six games in new contact.",
-      "url": "https://sports.yahoo.com/articles/browns-extend-dt-maliek-collins-031441473.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Browns extend DT Maliek Collins by two years",
       "description": "The contract year of veteran defensive tackle Maliek Collins has resulted after only six games in new contact.",
@@ -33,5 +27,5 @@
     "contact"
   ],
   "hash": "c68f07d059e92c9e",
-  "queuedAt": "2026-10-25T05:05:17.548Z"
+  "queuedAt": "2026-10-25T12:21:50.462Z"
 }

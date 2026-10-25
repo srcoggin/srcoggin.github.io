@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "The Dallas Cowboys cheerleaders have unionized",
-      "description": "One of the NFL's teams has another union to deal with — and the team in question didn't fight it.",
-      "url": "https://sports.yahoo.com/articles/dallas-cowboys-cheerleaders-unionized-200125181.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "The Dallas Cowboys cheerleaders have unionized",
       "description": "One of the NFL's teams has another union to deal with — and the team in question didn't fight it.",
@@ -31,5 +25,5 @@
     "fight"
   ],
   "hash": "f71bed500cd43e8b",
-  "queuedAt": "2026-10-25T05:05:18.268Z"
+  "queuedAt": "2026-10-25T12:21:52.076Z"
 }

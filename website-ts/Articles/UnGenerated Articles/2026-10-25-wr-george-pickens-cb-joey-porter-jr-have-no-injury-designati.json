@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "WR George Pickens, CB Joey Porter Jr. have no injury designation",
-      "description": "The Cowboys will have wide receiver George Pickens (shoulder) and cornerback Joey Porter Jr.",
-      "url": "https://sports.yahoo.com/articles/wr-george-pickens-cb-joey-204650907.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "WR George Pickens, CB Joey Porter Jr. have no injury designation",
       "description": "The Cowboys will have wide receiver George Pickens (shoulder) and cornerback Joey Porter Jr.",
@@ -29,5 +23,5 @@
     "cornerback"
   ],
   "hash": "4075cb340f023bea",
-  "queuedAt": "2026-10-25T05:05:17.997Z"
+  "queuedAt": "2026-10-25T12:21:51.491Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "After another day of Paris protests, NFL is on track to stage Steelers-Saints at Stade de France",
-      "description": "At this point, it's too late to turn back for Sunday's game.",
-      "url": "https://sports.yahoo.com/articles/another-day-paris-protests-nfl-004759516.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "After another day of Paris protests, NFL is on track to stage Steelers-Saints at Stade de France",
       "description": "At this point, it's too late to turn back for Sunday's game.",
@@ -34,5 +28,5 @@
     "sundays"
   ],
   "hash": "087d9ac0a072f50b",
-  "queuedAt": "2026-10-25T05:05:17.743Z"
+  "queuedAt": "2026-10-25T12:21:50.551Z"
 }
