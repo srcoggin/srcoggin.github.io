@@ -1,12 +1,12 @@
 {
-  "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Packers-Lions, Seahawks-Chiefs NFL picks",
+  "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Chiefs-Seahawks, Sunday Night Football",
   "category": "draft",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Packers-Lions, Seahawks-Chiefs NFL picks",
+      "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Chiefs-Seahawks, Sunday Night Football",
       "description": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for NFL betting on Sunday",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-for-packers-lions-seahawks-chiefs-nfl-picks/"
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-chiefs-seahawks-sunday-night-football/"
     }
   ],
   "keywords": [
@@ -21,9 +21,9 @@
     "nba",
     "league",
     "pass",
-    "packerslions",
-    "seahawkschiefs",
-    "picks",
+    "chiefsseahawks",
+    "sunday",
+    "night",
     "offers",
     "bets",
     "three",
@@ -31,9 +31,8 @@
     "your",
     "first",
     "wager",
-    "betting",
-    "sunday"
+    "betting"
   ],
-  "hash": "a474329f910cd262",
-  "queuedAt": "2026-10-25T16:35:47.508Z"
+  "hash": "b6a808471776a1a9",
+  "queuedAt": "2026-10-25T22:31:05.349Z"
 }

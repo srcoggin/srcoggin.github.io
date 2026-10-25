@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saints benefit from questionable replay review on T.J. Watt strip sack of Tyler Shough",
-      "description": "What appeared to be a Saints turnover was overturned on replay, leading to a Saints field goal in Paris.",
-      "url": "https://sports.yahoo.com/articles/saints-benefit-questionable-replay-review-143234764.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saints benefit from questionable replay review on T.J. Watt strip sack of Tyler Shough",
       "description": "What appeared to be a Saints turnover was overturned on replay, leading to a Saints field goal in Paris.",
@@ -36,5 +30,5 @@
     "paris"
   ],
   "hash": "41145ade49aea131",
-  "queuedAt": "2026-10-25T16:35:44.879Z"
+  "queuedAt": "2026-10-25T22:31:10.031Z"
 }
