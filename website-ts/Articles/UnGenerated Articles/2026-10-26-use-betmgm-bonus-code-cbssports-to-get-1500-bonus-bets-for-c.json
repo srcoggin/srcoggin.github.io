@@ -4,9 +4,15 @@
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Cowboys vs. Eagles, Monday Night Football",
+      "title": "Use FanDuel promo code to get $350 in bonus bets by targeting Cowboys vs. Eagles, Monday Night Football",
+      "description": "Sign up and bet on Monday Night Football with the latest FanDuel promo code to get your bonus bets",
+      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-cowboys-eagles-monday-night-football/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Eagles vs. Cowboys on Monday Night Football",
       "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Eagles vs. Cowboys on Monday Night Football",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-cowboys-vs-eagles-monday-night-football/"
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-eagles-vs-cowboys-on-monday-night-football/"
     },
     {
       "name": "CBS Sports NFL",
@@ -17,29 +23,33 @@
   ],
   "keywords": [
     "use",
-    "betmgm",
-    "bonus",
+    "fanduel",
+    "promo",
     "code",
-    "cbssports",
     "get",
-    "1500",
+    "350",
+    "bonus",
     "bets",
+    "targeting",
     "cowboys",
     "eagles",
     "monday",
     "night",
-    "latest",
-    "mgm",
-    "promo",
-    "your",
-    "first",
+    "sign",
     "bet",
+    "latest",
+    "your",
+    "betmgm",
+    "cbssports",
+    "1500",
+    "mgm",
+    "first",
     "loses",
     "chiefsseahawks",
     "sunday",
     "footbal",
     "betting"
   ],
-  "hash": "b8be7d05ded8157a",
-  "queuedAt": "2026-10-26T14:09:59.181Z"
+  "hash": "97f1dc3b48cd128e",
+  "queuedAt": "2026-10-26T23:58:50.312Z"
 }
