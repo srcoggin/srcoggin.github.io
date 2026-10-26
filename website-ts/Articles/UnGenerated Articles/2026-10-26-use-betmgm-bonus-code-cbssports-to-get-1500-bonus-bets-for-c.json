@@ -4,6 +4,12 @@
   "sources": [
     {
       "name": "CBS Sports NFL",
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Cowboys vs. Eagles, Monday Night Football",
+      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Eagles vs. Cowboys on Monday Night Football",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-cowboys-vs-eagles-monday-night-football/"
+    },
+    {
+      "name": "CBS Sports NFL",
       "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Chiefs-Seahawks, NFL Sunday Night Footbal betting",
       "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NFL betting",
       "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-for-chiefs-seahawks-nfl-sunday-night-football-betting/"
@@ -18,19 +24,22 @@
     "get",
     "1500",
     "bets",
-    "chiefsseahawks",
-    "sunday",
+    "cowboys",
+    "eagles",
+    "monday",
     "night",
-    "footbal",
-    "betting",
     "latest",
     "mgm",
     "promo",
     "your",
     "first",
     "bet",
-    "loses"
+    "loses",
+    "chiefsseahawks",
+    "sunday",
+    "footbal",
+    "betting"
   ],
-  "hash": "7ebc2672f7bb8085",
-  "queuedAt": "2026-10-26T04:48:03.617Z"
+  "hash": "b8be7d05ded8157a",
+  "queuedAt": "2026-10-26T14:09:59.181Z"
 }

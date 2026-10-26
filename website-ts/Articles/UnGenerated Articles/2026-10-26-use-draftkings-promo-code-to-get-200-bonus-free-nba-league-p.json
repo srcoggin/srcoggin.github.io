@@ -4,6 +4,12 @@
   "sources": [
     {
       "name": "CBS Sports NFL",
+      "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Cowboys-Eagles, Monday Night Football",
+      "description": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for Eagles vs. Cowboys on Monday Night Football",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-cowboys-eagles-monday-night-football/"
+    },
+    {
+      "name": "CBS Sports NFL",
       "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Chiefs-Seahawks, Sunday Night Football",
       "description": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for NFL betting on Sunday",
       "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-chiefs-seahawks-sunday-night-football/"
@@ -21,8 +27,8 @@
     "nba",
     "league",
     "pass",
-    "chiefsseahawks",
-    "sunday",
+    "cowboyseagles",
+    "monday",
     "night",
     "offers",
     "bets",
@@ -31,8 +37,12 @@
     "your",
     "first",
     "wager",
+    "eagles",
+    "cowboys",
+    "chiefsseahawks",
+    "sunday",
     "betting"
   ],
-  "hash": "b6a808471776a1a9",
-  "queuedAt": "2026-10-26T04:48:04.077Z"
+  "hash": "d8132743e988ef35",
+  "queuedAt": "2026-10-26T14:09:58.991Z"
 }
