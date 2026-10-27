@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saquon Barkley scores on second carry for 7-3 Eagles lead",
-      "description": "The Cowboys got a 55-yard field goal from Brandon Aubrey to end their first drive.",
-      "url": "https://sports.yahoo.com/articles/saquon-barkley-scores-second-carry-003714463.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saquon Barkley scores on second carry for 7-3 Eagles lead",
       "description": "The Cowboys got a 55-yard field goal from Brandon Aubrey to end their first drive.",
@@ -36,5 +30,5 @@
     "drive"
   ],
   "hash": "55b066c1f7e67d5d",
-  "queuedAt": "2026-10-27T06:03:25.695Z"
+  "queuedAt": "2026-10-27T13:17:52.231Z"
 }

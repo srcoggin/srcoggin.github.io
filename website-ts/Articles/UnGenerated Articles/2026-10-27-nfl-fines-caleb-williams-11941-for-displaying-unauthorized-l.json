@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL fines Caleb Williams $11,941 for displaying \"unauthorized logo\" on his shoes in Week 6",
-      "description": "The No Fun League is also the No Footwear League.",
-      "url": "https://sports.yahoo.com/articles/nfl-fines-caleb-williams-11-022804662.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL fines Caleb Williams $11,941 for displaying \"unauthorized logo\" on his shoes in Week 6",
       "description": "The No Fun League is also the No Footwear League.",
@@ -31,5 +25,5 @@
     "footwear"
   ],
   "hash": "4cca927ebeb75d85",
-  "queuedAt": "2026-10-27T06:03:24.840Z"
+  "queuedAt": "2026-10-27T13:17:51.463Z"
 }

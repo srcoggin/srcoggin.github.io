@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles take 21-20 lead on Cowboys to open second half",
-      "description": "Rookie Makai Lemon scored his first NFL touchdown, a 4-yard reception from Tanner McKee.",
-      "url": "https://sports.yahoo.com/articles/eagles-21-20-lead-cowboys-022037514.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles take 21-20 lead on Cowboys to open second half",
       "description": "Rookie Makai Lemon scored his first NFL touchdown, a 4-yard reception from Tanner McKee.",
@@ -37,5 +31,5 @@
     "mckee"
   ],
   "hash": "6f170edb9e136916",
-  "queuedAt": "2026-10-27T06:03:24.965Z"
+  "queuedAt": "2026-10-27T13:17:51.568Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saquon Barkley is questionable to return with back injury",
-      "description": "The Eagles running back entered with a right hamstring injury.",
-      "url": "https://sports.yahoo.com/articles/saquon-barkley-questionable-return-back-025110847.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saquon Barkley is questionable to return with back injury",
       "description": "The Eagles running back entered with a right hamstring injury.",
@@ -29,5 +23,5 @@
     "hamstring"
   ],
   "hash": "1ce75b071a9ecc72",
-  "queuedAt": "2026-10-27T06:03:24.612Z"
+  "queuedAt": "2026-10-27T13:17:51.224Z"
 }

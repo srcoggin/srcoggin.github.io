@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Monday Night Football: Jonathan Greenard, Saquon Barkley are active for Eagles vs. Cowboys",
-      "description": "The Eagles will have outside linebackers Jonathan Greenard (ankle) and Jalyx Hunt (knee/ankle) tonight.",
-      "url": "https://sports.yahoo.com/articles/monday-night-football-jonathan-greenard-230525245.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Monday Night Football: Jonathan Greenard, Saquon Barkley are active for Eagles vs. Cowboys",
       "description": "The Eagles will have outside linebackers Jonathan Greenard (ankle) and Jalyx Hunt (knee/ankle) tonight.",
@@ -34,5 +28,5 @@
     "tonight"
   ],
   "hash": "006f015be7a4d7c7",
-  "queuedAt": "2026-10-27T06:03:25.807Z"
+  "queuedAt": "2026-10-27T13:17:52.330Z"
 }

@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL announces Jay-Z as the Super Bowl LXI halftime act",
-      "description": "As expected, the selection of Super Bowl halftime show producer Jay-Z to perform at halftime of Super Bowl LXI at SoFi Stadium is . . .",
-      "url": "https://www.yahoo.com/entertainment/music/articles/nfl-announces-jay-z-super-020649507.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL announces Jay-Z as the Super Bowl LXI halftime act",
       "description": "As expected, the selection of Super Bowl halftime show producer Jay-Z to perform at halftime of Super Bowl LXI at SoFi Stadium is . . .",
@@ -32,5 +26,5 @@
     "stadium"
   ],
   "hash": "0afba2be3ae2fe6e",
-  "queuedAt": "2026-10-27T06:03:25.090Z"
+  "queuedAt": "2026-10-27T13:17:51.761Z"
 }
