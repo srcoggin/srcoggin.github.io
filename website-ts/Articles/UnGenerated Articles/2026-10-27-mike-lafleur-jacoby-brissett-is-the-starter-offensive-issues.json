@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike LaFleur: Jacoby Brissett is the starter, offensive issues are collective",
-      "description": "After defeating the division-rival Rams in Week 6, the Cardinals extended their home losing streak on Sunday with a 30-16 loss to the Broncos.",
-      "url": "https://sports.yahoo.com/articles/mike-lafleur-jacoby-brissett-starter-181303823.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike LaFleur: Jacoby Brissett is the starter, offensive issues are collective",
       "description": "After defeating the division-rival Rams in Week 6, the Cardinals extended their home losing streak on Sunday with a 30-16 loss to the Broncos.",
@@ -39,5 +33,5 @@
     "broncos"
   ],
   "hash": "578727aaa6ead704",
-  "queuedAt": "2026-10-27T19:24:28.958Z"
+  "queuedAt": "2026-10-27T23:12:10.354Z"
 }

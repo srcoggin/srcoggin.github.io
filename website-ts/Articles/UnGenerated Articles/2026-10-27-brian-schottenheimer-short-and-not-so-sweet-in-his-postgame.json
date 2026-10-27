@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brian Schottenheimer short and not so sweet in his postgame media availability",
-      "description": "Brian Schottenheimer's first six postgame news conferences this season averaged almost 13 minutes each.",
-      "url": "https://sports.yahoo.com/articles/brian-schottenheimer-short-not-sweet-191111812.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brian Schottenheimer short and not so sweet in his postgame media availability",
       "description": "Brian Schottenheimer's first six postgame news conferences this season averaged almost 13 minutes each.",
@@ -35,5 +29,5 @@
     "minutes"
   ],
   "hash": "01a888d00e3e2e4f",
-  "queuedAt": "2026-10-27T19:24:28.772Z"
+  "queuedAt": "2026-10-27T23:12:10.022Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bengals put TE Erick All on IR, sign TE Cam Grandy",
-      "description": "An injury in Sunday's win over the Ravens has led to the Bengals to make a couple of changes to their tight end room.",
-      "url": "https://sports.yahoo.com/articles/bengals-put-te-erick-ir-173236030.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bengals put TE Erick All on IR, sign TE Cam Grandy",
       "description": "An injury in Sunday's win over the Ravens has led to the Bengals to make a couple of changes to their tight end room.",
@@ -37,5 +31,5 @@
     "room"
   ],
   "hash": "e340dd02e29bdd17",
-  "queuedAt": "2026-10-27T19:24:29.069Z"
+  "queuedAt": "2026-10-27T23:12:10.512Z"
 }
