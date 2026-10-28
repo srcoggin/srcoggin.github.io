@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers LB Zaire Franklin won't play Thursday night",
-      "description": "Packers linebacker Zaire Franklin will miss another game.",
-      "url": "https://sports.yahoo.com/articles/packers-lb-zaire-franklin-wont-225534135.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers LB Zaire Franklin won't play Thursday night",
       "description": "Packers linebacker Zaire Franklin will miss another game.",
@@ -28,5 +22,5 @@
     "another"
   ],
   "hash": "febb54503c64b720",
-  "queuedAt": "2026-10-28T06:06:33.937Z"
+  "queuedAt": "2026-10-28T13:31:23.999Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers-Saints in Paris generates 7.7 million on Sunday morning",
-      "description": "Sunday morning football doesn't do the same numbers as Sunday afternoon or evening (or Monday night or Thursday) football, but it does better than anything else on TV at that time of day.",
-      "url": "https://sports.yahoo.com/articles/steelers-saints-paris-generates-7-004606024.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers-Saints in Paris generates 7.7 million on Sunday morning",
       "description": "Sunday morning football doesn't do the same numbers as Sunday afternoon or evening (or Monday night or Thursday) football, but it does better than anything else on TV at that time of day.",
@@ -37,5 +31,5 @@
     "day"
   ],
   "hash": "f07137c621877573",
-  "queuedAt": "2026-10-28T06:06:33.620Z"
+  "queuedAt": "2026-10-28T13:31:23.528Z"
 }

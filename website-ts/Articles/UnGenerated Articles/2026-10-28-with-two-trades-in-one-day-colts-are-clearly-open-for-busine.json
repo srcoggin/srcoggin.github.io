@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "With two trades in one day, Colts are clearly open for business",
-      "description": "The Sunday Splash!",
-      "url": "https://sports.yahoo.com/articles/two-trades-one-day-colts-210611986.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "With two trades in one day, Colts are clearly open for business",
       "description": "The Sunday Splash!",
@@ -28,5 +22,5 @@
     "splash"
   ],
   "hash": "5edfcf7318281ac8",
-  "queuedAt": "2026-10-28T06:06:34.121Z"
+  "queuedAt": "2026-10-28T13:31:23.018Z"
 }

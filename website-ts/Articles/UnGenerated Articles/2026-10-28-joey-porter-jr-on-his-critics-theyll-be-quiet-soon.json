@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Joey Porter Jr. on his critics: They'll be quiet soon",
-      "description": "Upset about not getting a contract extension before the season, cornerback Joey Porter Jr. didn't play in four games with the Steelers.",
-      "url": "https://sports.yahoo.com/articles/joey-porter-jr-critics-theyll-015820434.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Joey Porter Jr. on his critics: They'll be quiet soon",
       "description": "Upset about not getting a contract extension before the season, cornerback Joey Porter Jr. didn't play in four games with the Steelers.",
@@ -36,5 +30,5 @@
     "steelers"
   ],
   "hash": "16818bcdf954e174",
-  "queuedAt": "2026-10-28T06:06:33.522Z"
+  "queuedAt": "2026-10-28T13:31:23.446Z"
 }
