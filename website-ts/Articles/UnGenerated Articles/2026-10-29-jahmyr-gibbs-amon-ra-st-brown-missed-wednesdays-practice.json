@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jahmyr Gibbs, Amon-Ra St. Brown missed Wednesday's practice",
-      "description": "The Lions kicked off the practice week without two of their biggest offensive weapons.",
-      "url": "https://sports.yahoo.com/articles/jahmyr-gibbs-amon-ra-st-205442457.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jahmyr Gibbs, Amon-Ra St. Brown missed Wednesday's practice",
       "description": "The Lions kicked off the practice week without two of their biggest offensive weapons.",
@@ -34,5 +28,5 @@
     "weapons"
   ],
   "hash": "78c6869ecbb6609c",
-  "queuedAt": "2026-10-29T00:03:43.635Z"
+  "queuedAt": "2026-10-29T06:21:13.651Z"
 }

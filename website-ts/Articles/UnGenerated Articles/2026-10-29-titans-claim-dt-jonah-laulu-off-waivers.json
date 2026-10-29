@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans claim DT Jonah Laulu off waivers",
-      "description": "The Titans claimed defensive tackle Jonah Laulu off waivers, according to Jordan Schultz of the Schultz Report.",
-      "url": "https://sports.yahoo.com/articles/titans-claim-dt-jonah-laulu-211457702.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans claim DT Jonah Laulu off waivers",
       "description": "The Titans claimed defensive tackle Jonah Laulu off waivers, according to Jordan Schultz of the Schultz Report.",
@@ -31,5 +25,5 @@
     "report"
   ],
   "hash": "2c2951bd4ea27280",
-  "queuedAt": "2026-10-29T00:03:41.141Z"
+  "queuedAt": "2026-10-29T06:21:05.955Z"
 }
