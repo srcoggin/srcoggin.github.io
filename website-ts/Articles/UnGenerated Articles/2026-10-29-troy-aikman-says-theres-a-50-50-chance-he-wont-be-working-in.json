@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Troy Aikman says there's a \"50-50 chance\" he won't be working in TV next year",
-      "description": "Hall of Fame quarterback Troy Aikman appeared at a Dallas event on Wednesday night with Peter King, in connection with Peter's new book, The Game.",
-      "url": "https://sports.yahoo.com/articles/troy-aikman-says-theres-50-004647362.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Troy Aikman says there's a \"50-50 chance\" he won't be working in TV next year",
       "description": "Hall of Fame quarterback Troy Aikman appeared at a Dallas event on Wednesday night with Peter King, in connection with Peter's new book, The Game.",
@@ -41,5 +35,5 @@
     "book"
   ],
   "hash": "7b99e528abb6b3b4",
-  "queuedAt": "2026-10-29T06:21:06.422Z"
+  "queuedAt": "2026-10-29T14:05:05.557Z"
 }

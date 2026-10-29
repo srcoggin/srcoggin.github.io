@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles RB Saquon Barkley listed as non-participant Wednesday",
-      "description": "Eagles running back Saquon Barkley played with a hamstring injury on Monday night.",
-      "url": "https://sports.yahoo.com/articles/eagles-rb-saquon-barkley-listed-002055273.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles RB Saquon Barkley listed as non-participant Wednesday",
       "description": "Eagles running back Saquon Barkley played with a hamstring injury on Monday night.",
@@ -31,5 +25,5 @@
     "night"
   ],
   "hash": "5e2389f891851fdc",
-  "queuedAt": "2026-10-29T06:21:06.508Z"
+  "queuedAt": "2026-10-29T14:05:05.658Z"
 }

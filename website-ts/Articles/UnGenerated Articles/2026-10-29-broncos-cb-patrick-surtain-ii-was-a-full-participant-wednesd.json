@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos CB Patrick Surtain II was a full participant Wednesday",
-      "description": "Broncos cornerback Patrick Surtain II has missed the past three games with an ankle injury.",
-      "url": "https://sports.yahoo.com/articles/broncos-cb-patrick-surtain-ii-225343677.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos CB Patrick Surtain II was a full participant Wednesday",
       "description": "Broncos cornerback Patrick Surtain II has missed the past three games with an ankle injury.",
@@ -31,5 +25,5 @@
     "injury"
   ],
   "hash": "77706de1fc1efd19",
-  "queuedAt": "2026-10-29T06:21:06.681Z"
+  "queuedAt": "2026-10-29T14:05:06.055Z"
 }

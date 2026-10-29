@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jared Verse misses practice, Browns expect him to play against Steelers",
-      "description": "The Browns had a significant member of their defense on the sideline at Wednesday's practice, but concern is low about defensive end Jared Verse missing Sunday's game against the Steelers.",
-      "url": "https://sports.yahoo.com/articles/jared-verse-misses-practice-browns-224022010.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jared Verse misses practice, Browns expect him to play against Steelers",
       "description": "The Browns had a significant member of their defense on the sideline at Wednesday's practice, but concern is low about defensive end Jared Verse missing Sunday's game against the Steelers.",
@@ -41,5 +35,5 @@
     "sundays"
   ],
   "hash": "cd8296d07cb3efb8",
-  "queuedAt": "2026-10-29T06:21:06.764Z"
+  "queuedAt": "2026-10-29T14:05:06.147Z"
 }
