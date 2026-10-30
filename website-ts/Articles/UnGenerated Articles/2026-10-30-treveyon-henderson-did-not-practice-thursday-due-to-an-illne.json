@@ -1,19 +1,7 @@
 {
   "title": "TreVeyon Henderson did not practice Thursday due to an illness",
-  "category": "injuries",
+  "category": "general",
   "sources": [
-    {
-      "name": "Yahoo Sports NFL",
-      "title": "TreVeyon Henderson unable to practice Thursday",
-      "description": "Patriots RB TreVeyon Henderson added to Week 8 injury report due to illness",
-      "url": "https://sports.yahoo.com/articles/treveyon-henderson-unable-practice-thursday-222302449.html"
-    },
-    {
-      "name": "Yahoo Sports NFL",
-      "title": "TreVeyon Henderson did not practice Thursday due to an illness",
-      "description": "Aside from A.J.",
-      "url": "https://sports.yahoo.com/articles/treveyon-henderson-did-not-practice-205349333.html"
-    },
     {
       "name": "Pro Football Talk",
       "title": "TreVeyon Henderson did not practice Thursday due to an illness",
@@ -24,17 +12,12 @@
   "keywords": [
     "treveyon",
     "henderson",
-    "unable",
     "practice",
     "thursday",
-    "patriots",
-    "added",
-    "injury",
-    "report",
     "due",
     "illness",
     "aside"
   ],
-  "hash": "3f62aaecec8831df",
-  "queuedAt": "2026-10-30T00:06:40.635Z"
+  "hash": "22e263cfa5432570",
+  "queuedAt": "2026-10-30T05:47:01.309Z"
 }

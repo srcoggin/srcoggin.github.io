@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals RB Jeremiyah Love, WR Michael Wilson remain limited Thursday",
-      "description": "Cardinals rookie running back Jeremiyah Love was limited again Thursday.",
-      "url": "https://sports.yahoo.com/articles/cardinals-rb-jeremiyah-love-wr-231553997.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals RB Jeremiyah Love, WR Michael Wilson remain limited Thursday",
       "description": "Cardinals rookie running back Jeremiyah Love was limited again Thursday.",
@@ -29,5 +23,5 @@
     "back"
   ],
   "hash": "67e8a67cf264739e",
-  "queuedAt": "2026-10-30T00:06:42.747Z"
+  "queuedAt": "2026-10-30T05:47:00.659Z"
 }

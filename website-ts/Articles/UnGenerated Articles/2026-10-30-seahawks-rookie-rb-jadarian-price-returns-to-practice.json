@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks rookie RB Jadarian Price returns to practice",
-      "description": "Seahawks rookie running back Jadarian Price is nearing a return.",
-      "url": "https://sports.yahoo.com/articles/seahawks-rookie-rb-jadarian-price-210133915.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks rookie RB Jadarian Price returns to practice",
       "description": "Seahawks rookie running back Jadarian Price is nearing a return.",
@@ -28,5 +22,5 @@
     "return"
   ],
   "hash": "0c66200fb10dd082",
-  "queuedAt": "2026-10-30T00:06:43.345Z"
+  "queuedAt": "2026-10-30T05:47:01.251Z"
 }
