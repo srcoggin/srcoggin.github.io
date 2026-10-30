@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Christian Watson transported to hospital; Will Lee injures hamstring on same play",
-      "description": "The Packers receiver injured his chest on a 53-yard reception.",
-      "url": "https://sports.yahoo.com/articles/christian-watson-transported-hospital-lee-012848854.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Christian Watson transported to hospital; Will Lee injures hamstring on same play",
       "description": "The Packers receiver injured his chest on a 53-yard reception.",
@@ -33,5 +27,5 @@
     "reception"
   ],
   "hash": "d25d49c9b4dbb989",
-  "queuedAt": "2026-10-30T05:46:56.556Z"
+  "queuedAt": "2026-10-30T13:41:35.174Z"
 }

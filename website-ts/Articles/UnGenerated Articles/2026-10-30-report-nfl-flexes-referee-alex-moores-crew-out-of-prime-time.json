@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Report: NFL flexes referee Alex Moore's crew out of prime time",
-      "description": "The NFL, for reasons still neither known nor apparent, opted not to flex the game between the 2-5 Eagles and 1-4-1 Commanders out of prime time, despite multiple other compelling Sunday afternoon games.",
-      "url": "https://sports.yahoo.com/articles/report-nfl-flexes-referee-alex-014410499.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Report: NFL flexes referee Alex Moore's crew out of prime time",
       "description": "The NFL, for reasons still neither known nor apparent, opted not to flex the game between the 2-5 Eagles and 1-4-1 Commanders out of prime time, despite multiple other compelling Sunday afternoon games.",
@@ -43,5 +37,5 @@
     "games"
   ],
   "hash": "9f00b488ba22a4b3",
-  "queuedAt": "2026-10-30T05:46:55.761Z"
+  "queuedAt": "2026-10-30T13:41:27.141Z"
 }

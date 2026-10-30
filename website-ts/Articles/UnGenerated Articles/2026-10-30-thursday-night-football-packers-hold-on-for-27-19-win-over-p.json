@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Thursday Night Football: Packers hold on for 27-19 win over Panthers",
-      "description": "The Packers improved to 5-3 despite a sluggish fourth quarter.",
-      "url": "https://sports.yahoo.com/articles/thursday-night-football-packers-hold-033445723.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Thursday Night Football: Packers hold on for 27-19 win over Panthers",
       "description": "The Packers improved to 5-3 despite a sluggish fourth quarter.",
@@ -31,5 +25,5 @@
     "quarter"
   ],
   "hash": "7b7cce18b294ada0",
-  "queuedAt": "2026-10-30T05:46:56.257Z"
+  "queuedAt": "2026-10-30T13:41:34.590Z"
 }

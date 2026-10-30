@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears announce trade for DT Jeffery Simmons",
-      "description": "It was a very big day for the Chicago Bears; they added one of the best defensive tackles in the league, and they're reportedly closing in on a deal to stay in Illinois.",
-      "url": "https://sports.yahoo.com/articles/bears-announce-trade-dt-jeffery-011826138.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears announce trade for DT Jeffery Simmons",
       "description": "It was a very big day for the Chicago Bears; they added one of the best defensive tackles in the league, and they're reportedly closing in on a deal to stay in Illinois.",
@@ -39,5 +33,5 @@
     "illinois"
   ],
   "hash": "fc7533c4680dd662",
-  "queuedAt": "2026-10-30T05:46:55.836Z"
+  "queuedAt": "2026-10-30T13:41:27.290Z"
 }

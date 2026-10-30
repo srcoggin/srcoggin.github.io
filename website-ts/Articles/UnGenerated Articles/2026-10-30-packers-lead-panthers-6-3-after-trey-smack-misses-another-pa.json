@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Packers lead Panthers 6-3 after Trey Smack misses another PAT",
-      "description": "The Packers stuck with kicker Trey Smack after his misses from 26 and 35 in a 20-17 loss to the Lions last week.",
-      "url": "https://sports.yahoo.com/articles/packers-lead-panthers-6-3-004749752.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Packers lead Panthers 6-3 after Trey Smack misses another PAT",
       "description": "The Packers stuck with kicker Trey Smack after his misses from 26 and 35 in a 20-17 loss to the Lions last week.",
@@ -33,5 +27,5 @@
     "last"
   ],
   "hash": "cc8cad25f0e3170f",
-  "queuedAt": "2026-10-30T05:46:56.712Z"
+  "queuedAt": "2026-10-30T13:41:35.415Z"
 }

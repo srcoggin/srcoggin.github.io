@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "CeeDee Lamb on Cardinals' dominance over Cowboys: It's crazy",
-      "description": "The Cardinals, no matter how bad they have been, have had the Cowboys' number.",
-      "url": "https://sports.yahoo.com/articles/ceedee-lamb-cardinals-dominance-over-004844424.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "CeeDee Lamb on Cardinals' dominance over Cowboys: It's crazy",
       "description": "The Cardinals, no matter how bad they have been, have had the Cowboys' number.",
@@ -30,5 +24,5 @@
     "number"
   ],
   "hash": "af34925f05db49eb",
-  "queuedAt": "2026-10-30T05:46:56.654Z"
+  "queuedAt": "2026-10-30T13:41:35.326Z"
 }
