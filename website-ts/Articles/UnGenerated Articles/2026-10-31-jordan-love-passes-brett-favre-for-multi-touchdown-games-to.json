@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jordan Love passes Brett Favre for multi-touchdown games to start season",
-      "description": "The Packers have had three starting quarterbacks since Brett Favre replaced Don Majkowski in Week 3 of the 1992 season.",
-      "url": "https://sports.yahoo.com/articles/jordan-love-passes-brett-favre-021251584.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jordan Love passes Brett Favre for multi-touchdown games to start season",
       "description": "The Packers have had three starting quarterbacks since Brett Favre replaced Don Majkowski in Week 3 of the 1992 season.",
@@ -35,5 +29,5 @@
     "1992"
   ],
   "hash": "f4577836fe97c854",
-  "queuedAt": "2026-10-31T12:44:07.856Z"
+  "queuedAt": "2026-10-31T18:27:30.583Z"
 }

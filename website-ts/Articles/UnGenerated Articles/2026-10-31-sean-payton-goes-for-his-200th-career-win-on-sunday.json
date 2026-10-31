@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Sean Payton goes for his 200th career win on Sunday",
-      "description": "Broncos coach Sean Payton, with five wins in 2026, now sits one win short of a milestone only 11 other NFL coaches have achieved.",
-      "url": "https://sports.yahoo.com/articles/sean-payton-goes-200th-career-014752600.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Sean Payton goes for his 200th career win on Sunday",
       "description": "Broncos coach Sean Payton, with five wins in 2026, now sits one win short of a milestone only 11 other NFL coaches have achieved.",
@@ -38,5 +32,5 @@
     "achieved"
   ],
   "hash": "1fda32ca92a58d4c",
-  "queuedAt": "2026-10-31T12:44:07.907Z"
+  "queuedAt": "2026-10-31T18:27:30.671Z"
 }
