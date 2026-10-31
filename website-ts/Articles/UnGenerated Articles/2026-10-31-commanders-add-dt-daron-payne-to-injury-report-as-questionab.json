@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Commanders add DT Daron Payne to injury report as questionable",
-      "description": "The Commanders had already ruled out defensive tackle Javon Kinlaw (knee).",
-      "url": "https://sports.yahoo.com/articles/commanders-add-dt-daron-payne-205227658.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Commanders add DT Daron Payne to injury report as questionable",
       "description": "The Commanders had already ruled out defensive tackle Javon Kinlaw (knee).",
@@ -33,5 +27,5 @@
     "knee"
   ],
   "hash": "15cfd226945994b8",
-  "queuedAt": "2026-10-31T05:34:13.077Z"
+  "queuedAt": "2026-10-31T12:44:07.480Z"
 }

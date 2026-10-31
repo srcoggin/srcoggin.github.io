@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans rule out WR Carnell Tate, RB Tyjae Spears, P Tommy Townsend",
-      "description": "The Titans ruled out rookie wide receiver Carnell Tate (shoulder) for Sunday's game against the Bengals.",
-      "url": "https://sports.yahoo.com/articles/titans-rule-wr-carnell-tate-201315635.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans rule out WR Carnell Tate, RB Tyjae Spears, P Tommy Townsend",
       "description": "The Titans ruled out rookie wide receiver Carnell Tate (shoulder) for Sunday's game against the Bengals.",
@@ -35,5 +29,5 @@
     "bengals"
   ],
   "hash": "9c9e386e9a14a3ff",
-  "queuedAt": "2026-10-31T05:34:14.555Z"
+  "queuedAt": "2026-10-31T12:44:12.266Z"
 }

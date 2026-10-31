@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys list Kenny Clark, George Pickens as questionable",
-      "description": "The Cowboys added defensive tackle Kenny Clark to the injury report on Friday.",
-      "url": "https://sports.yahoo.com/articles/cowboys-list-kenny-clark-george-210927397.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys list Kenny Clark, George Pickens as questionable",
       "description": "The Cowboys added defensive tackle Kenny Clark to the injury report on Friday.",
@@ -31,5 +25,5 @@
     "friday"
   ],
   "hash": "26acd6ff4863244c",
-  "queuedAt": "2026-10-31T05:34:13.019Z"
+  "queuedAt": "2026-10-31T12:44:07.434Z"
 }
