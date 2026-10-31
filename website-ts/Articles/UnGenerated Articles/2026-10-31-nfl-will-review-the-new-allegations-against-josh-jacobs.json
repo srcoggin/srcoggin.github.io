@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFL \"will review\" the new allegations against Josh Jacobs",
-      "description": "Jacobs could be facing a lengthy suspension.",
-      "url": "https://sports.yahoo.com/articles/nfl-review-allegations-against-josh-164447927.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFL \"will review\" the new allegations against Josh Jacobs",
       "description": "Jacobs could be facing a lengthy suspension.",
@@ -27,5 +21,5 @@
     "suspension"
   ],
   "hash": "36cac0e07e9fae16",
-  "queuedAt": "2026-10-31T18:27:23.641Z"
+  "queuedAt": "2026-10-31T22:44:48.673Z"
 }

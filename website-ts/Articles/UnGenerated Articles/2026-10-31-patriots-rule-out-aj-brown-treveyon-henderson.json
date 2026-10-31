@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots rule out A.J. Brown, TreVeyon Henderson",
-      "description": "Wide receiver A.J.",
-      "url": "https://sports.yahoo.com/articles/patriots-rule-j-brown-treveyon-172156213.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots rule out A.J. Brown, TreVeyon Henderson",
       "description": "Wide receiver A.J.",
@@ -26,5 +20,5 @@
     "receiver"
   ],
   "hash": "50ee6e428c07a913",
-  "queuedAt": "2026-10-31T18:27:23.419Z"
+  "queuedAt": "2026-10-31T22:44:49.158Z"
 }
