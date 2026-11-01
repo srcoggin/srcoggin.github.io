@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons rule out four players, elevate two",
-      "description": "The Falcons ruled out cornerback Billy Bowman Jr.",
-      "url": "https://sports.yahoo.com/articles/falcons-rule-four-players-elevate-201351358.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons rule out four players, elevate two",
       "description": "The Falcons ruled out cornerback Billy Bowman Jr.",
@@ -29,5 +23,5 @@
     "bowman"
   ],
   "hash": "168d7447ba4900f8",
-  "queuedAt": "2026-11-01T06:04:45.780Z"
+  "queuedAt": "2026-11-01T13:34:38.058Z"
 }

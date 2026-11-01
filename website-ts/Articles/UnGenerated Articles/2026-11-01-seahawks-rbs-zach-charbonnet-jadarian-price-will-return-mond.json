@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Seahawks RBs Zach Charbonnet, Jadarian Price will return Monday night",
-      "description": "The Seahawks will have veteran running back Zach Charbonnet and rookie running back Jadarian Price in the same game for the first time on Monday.",
-      "url": "https://sports.yahoo.com/articles/seahawks-rbs-zach-charbonnet-jadarian-215738718.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Seahawks RBs Zach Charbonnet, Jadarian Price will return Monday night",
       "description": "The Seahawks will have veteran running back Zach Charbonnet and rookie running back Jadarian Price in the same game for the first time on Monday.",
@@ -33,5 +27,5 @@
     "time"
   ],
   "hash": "502d8403f0874f00",
-  "queuedAt": "2026-11-01T06:04:45.409Z"
+  "queuedAt": "2026-11-01T13:34:37.508Z"
 }

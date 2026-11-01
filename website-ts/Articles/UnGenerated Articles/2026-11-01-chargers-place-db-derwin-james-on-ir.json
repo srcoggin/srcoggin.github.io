@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chargers place DB Derwin James on IR",
-      "description": "Chargers defensive back Derwin James hasn't played since Sept. 27.",
-      "url": "https://sports.yahoo.com/articles/chargers-place-db-derwin-james-203343180.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chargers place DB Derwin James on IR",
       "description": "Chargers defensive back Derwin James hasn't played since Sept. 27.",
@@ -28,5 +22,5 @@
     "sept"
   ],
   "hash": "eeaf3ec2e7cf38ae",
-  "queuedAt": "2026-11-01T06:04:45.641Z"
+  "queuedAt": "2026-11-01T13:34:37.975Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "As Eagles prepare for Sunday night, questions of effort from Monday night linger",
-      "description": "As the Eagles plunged to their fifth straight loss, questions emerged regarding effort, or lack thereof.",
-      "url": "https://sports.yahoo.com/articles/eagles-prepare-sunday-night-questions-001900701.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "As Eagles prepare for Sunday night, questions of effort from Monday night linger",
       "description": "As the Eagles plunged to their fifth straight loss, questions emerged regarding effort, or lack thereof.",
@@ -35,5 +29,5 @@
     "thereof"
   ],
   "hash": "b37a4c96d3b757f4",
-  "queuedAt": "2026-11-01T06:04:45.267Z"
+  "queuedAt": "2026-11-01T13:34:37.414Z"
 }
