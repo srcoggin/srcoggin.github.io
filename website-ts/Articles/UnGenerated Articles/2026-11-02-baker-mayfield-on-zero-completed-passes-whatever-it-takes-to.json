@@ -3,12 +3,6 @@
   "category": "team-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Baker Mayfield on zero completed passes: Whatever it takes to win",
-      "description": "The Buccaneers set a franchise-record with 324 rushing yards in Sunday's 16-0 win over the Falcons and they made a little other history as well.",
-      "url": "https://sports.yahoo.com/articles/baker-mayfield-zero-completed-passes-015626549.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Baker Mayfield on zero completed passes: Whatever it takes to win",
       "description": "The Buccaneers set a franchise-record with 324 rushing yards in Sunday's 16-0 win over the Falcons and they made a little other history as well.",
@@ -41,5 +35,5 @@
     "well"
   ],
   "hash": "a1e14a7eb18b6928",
-  "queuedAt": "2026-11-02T06:32:34.989Z"
+  "queuedAt": "2026-11-02T16:12:30.416Z"
 }

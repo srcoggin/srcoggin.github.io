@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ravens may explore trading for Tyson Bagent",
-      "description": "The Baltimore quarterback room was decimated on Sunday.",
-      "url": "https://sports.yahoo.com/articles/ravens-may-explore-trading-tyson-024608925.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ravens may explore trading for Tyson Bagent",
       "description": "The Baltimore quarterback room was decimated on Sunday.",
@@ -28,5 +22,5 @@
     "sunday"
   ],
   "hash": "98f3f2834b502477",
-  "queuedAt": "2026-11-02T06:32:34.641Z"
+  "queuedAt": "2026-11-02T16:12:30.647Z"
 }
