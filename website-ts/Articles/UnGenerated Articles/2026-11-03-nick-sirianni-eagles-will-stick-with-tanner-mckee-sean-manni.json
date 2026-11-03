@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nick Sirianni: Eagles will stick with Tanner McKee, Sean Mannion despite offensive woes",
-      "description": "The Eagles have lost six in a row and rank 30th in the NFL in points per game, but Nick Sirianni said Monday that he isn't making a change at offensive coordinator or quarterback.",
-      "url": "https://sports.yahoo.com/articles/nick-sirianni-eagles-stick-tanner-020456302.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nick Sirianni: Eagles will stick with Tanner McKee, Sean Mannion despite offensive woes",
       "description": "The Eagles have lost six in a row and rank 30th in the NFL in points per game, but Nick Sirianni said Monday that he isn't making a change at offensive coordinator or quarterback.",
@@ -44,5 +38,5 @@
     "quarterback"
   ],
   "hash": "e8233807f3466de2",
-  "queuedAt": "2026-11-03T02:27:44.476Z"
+  "queuedAt": "2026-11-03T15:11:33.940Z"
 }

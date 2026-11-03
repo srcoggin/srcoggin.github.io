@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears' 17-play drive on their opening possession gives them a 7-0 lead",
-      "description": "The Bears had an almost perfect drive to open Monday Night Football.",
-      "url": "https://sports.yahoo.com/articles/bears-17-play-drive-opening-014510981.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears' 17-play drive on their opening possession gives them a 7-0 lead",
       "description": "The Bears had an almost perfect drive to open Monday Night Football.",
@@ -32,5 +26,5 @@
     "night"
   ],
   "hash": "0d4d7197ba571901",
-  "queuedAt": "2026-11-03T02:27:44.575Z"
+  "queuedAt": "2026-11-03T15:11:35.104Z"
 }

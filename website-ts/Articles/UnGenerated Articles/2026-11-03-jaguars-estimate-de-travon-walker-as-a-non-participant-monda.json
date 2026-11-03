@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaguars estimate DE Travon Walker as a non-participant Monday",
-      "description": "Jaguars defensive tackle DaVon Hamilton (torn quad) and safety Eric Murray (elbow) are out for the season.",
-      "url": "https://sports.yahoo.com/articles/jaguars-estimate-travon-walker-non-005556356.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaguars estimate DE Travon Walker as a non-participant Monday",
       "description": "Jaguars defensive tackle DaVon Hamilton (torn quad) and safety Eric Murray (elbow) are out for the season.",
@@ -35,5 +29,5 @@
     "out"
   ],
   "hash": "2f6801be962982de",
-  "queuedAt": "2026-11-03T02:27:44.938Z"
+  "queuedAt": "2026-11-03T15:11:35.332Z"
 }
