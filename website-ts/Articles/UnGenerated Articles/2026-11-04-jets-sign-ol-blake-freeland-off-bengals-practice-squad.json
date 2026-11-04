@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jets sign OL Blake Freeland off Bengals' practice squad",
-      "description": "The Jets signed offensive tackle Blake Freeland off the Bengals' practice squad, the team announced Tuesday.",
-      "url": "https://sports.yahoo.com/articles/jets-sign-ol-blake-freeland-231141125.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jets sign OL Blake Freeland off Bengals' practice squad",
       "description": "The Jets signed offensive tackle Blake Freeland off the Bengals' practice squad, the team announced Tuesday.",
@@ -31,5 +25,5 @@
     "tuesday"
   ],
   "hash": "f6ff4f52c26e971a",
-  "queuedAt": "2026-11-04T06:49:42.790Z"
+  "queuedAt": "2026-11-04T15:25:09.139Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles waive CB Jakorian Bennett off of injured reserve",
-      "description": "Cornerback Jakorian Bennett returned to practice a few weeks ago, but he won't be returning to the Eagles lineup.",
-      "url": "https://sports.yahoo.com/articles/eagles-waive-cb-jakorian-bennett-225748060.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles waive CB Jakorian Bennett off of injured reserve",
       "description": "Cornerback Jakorian Bennett returned to practice a few weeks ago, but he won't be returning to the Eagles lineup.",
@@ -33,5 +27,5 @@
     "lineup"
   ],
   "hash": "fc33c9ba6e4a5879",
-  "queuedAt": "2026-11-04T06:49:44.516Z"
+  "queuedAt": "2026-11-04T15:25:17.671Z"
 }

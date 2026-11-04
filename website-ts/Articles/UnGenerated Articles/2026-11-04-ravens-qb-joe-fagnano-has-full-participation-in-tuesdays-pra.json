@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Ravens QB Joe Fagnano has full participation in Tuesday's practice",
-      "description": "Lamar Jackson (right thumb) and Tyler Huntley (toe) are expected to land on injured reserve this week.",
-      "url": "https://sports.yahoo.com/articles/ravens-qb-joe-fagnano-full-222410992.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Ravens QB Joe Fagnano has full participation in Tuesday's practice",
       "description": "Lamar Jackson (right thumb) and Tyler Huntley (toe) are expected to land on injured reserve this week.",
@@ -37,5 +31,5 @@
     "this"
   ],
   "hash": "4250fc34cf049bf2",
-  "queuedAt": "2026-11-04T06:49:44.696Z"
+  "queuedAt": "2026-11-04T15:25:17.830Z"
 }

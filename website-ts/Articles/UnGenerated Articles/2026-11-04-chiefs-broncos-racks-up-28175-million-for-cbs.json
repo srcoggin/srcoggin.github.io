@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chiefs-Broncos racks up 28.175 million for CBS",
-      "description": "To no surprise, the top late-afternoon game from Week 8 of the 2026 NFL season generated very big numbers.",
-      "url": "https://sports.yahoo.com/articles/chiefs-broncos-racks-28-175-001345900.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chiefs-Broncos racks up 28.175 million for CBS",
       "description": "To no surprise, the top late-afternoon game from Week 8 of the 2026 NFL season generated very big numbers.",
@@ -30,5 +24,5 @@
     "numbers"
   ],
   "hash": "c377c4bfbcf4ca3d",
-  "queuedAt": "2026-11-04T06:49:44.337Z"
+  "queuedAt": "2026-11-04T15:25:17.585Z"
 }

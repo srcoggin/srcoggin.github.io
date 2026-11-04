@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Josh Jacobs needs to display more (or any) contrition",
-      "description": "In May 2026, Packers running back Josh Jacobs crossed a line that should never be crossed.",
-      "url": "https://sports.yahoo.com/articles/josh-jacobs-needs-display-more-021941160.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Josh Jacobs needs to display more (or any) contrition",
       "description": "In May 2026, Packers running back Josh Jacobs crossed a line that should never be crossed.",
@@ -32,5 +26,5 @@
     "never"
   ],
   "hash": "3f9cb15ee3df78be",
-  "queuedAt": "2026-11-04T06:49:44.235Z"
+  "queuedAt": "2026-11-04T15:25:16.449Z"
 }

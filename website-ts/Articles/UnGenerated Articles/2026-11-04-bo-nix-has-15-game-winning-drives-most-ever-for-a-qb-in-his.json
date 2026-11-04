@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bo Nix has 15 game-winning drives, most ever for a QB in his first three seasons",
-      "description": "The Broncos trailed the Chiefs 24-13 with 10 minutes left on Sunday, but anyone who thought the Broncos were out of it hasn't been watching Nix.",
-      "url": "https://sports.yahoo.com/articles/bo-nix-15-game-winning-224635377.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bo Nix has 15 game-winning drives, most ever for a QB in his first three seasons",
       "description": "The Broncos trailed the Chiefs 24-13 with 10 minutes left on Sunday, but anyone who thought the Broncos were out of it hasn't been watching Nix.",
@@ -39,5 +33,5 @@
     "watching"
   ],
   "hash": "c9edbf46e52cdcdf",
-  "queuedAt": "2026-11-04T06:49:44.610Z"
+  "queuedAt": "2026-11-04T15:25:17.755Z"
 }

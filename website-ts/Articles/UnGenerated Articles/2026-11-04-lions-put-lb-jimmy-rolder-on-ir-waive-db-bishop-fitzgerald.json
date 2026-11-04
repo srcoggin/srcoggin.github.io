@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions put LB Jimmy Rolder on IR, waive DB Bishop Fitzgerald",
-      "description": "The Lions announced that linebacker Jimmy Rolder suffered a season-ending hamstring injury during Sunday's win over the Vikings and they moved him to the injured reserve list.",
-      "url": "https://sports.yahoo.com/articles/lions-put-lb-jimmy-rolder-230432821.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions put LB Jimmy Rolder on IR, waive DB Bishop Fitzgerald",
       "description": "The Lions announced that linebacker Jimmy Rolder suffered a season-ending hamstring injury during Sunday's win over the Vikings and they moved him to the injured reserve list.",
@@ -42,5 +36,5 @@
     "list"
   ],
   "hash": "c617ca8227756608",
-  "queuedAt": "2026-11-04T06:49:42.887Z"
+  "queuedAt": "2026-11-04T15:25:08.833Z"
 }

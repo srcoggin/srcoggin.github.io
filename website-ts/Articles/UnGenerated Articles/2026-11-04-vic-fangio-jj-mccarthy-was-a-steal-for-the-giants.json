@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Vic Fangio: J.J. McCarthy was a \"steal\" for the Giants",
-      "description": "In late September, the Vikings sent quarterback J.J.",
-      "url": "https://sports.yahoo.com/articles/vic-fangio-j-j-mccarthy-025246470.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Vic Fangio: J.J. McCarthy was a \"steal\" for the Giants",
       "description": "In late September, the Vikings sent quarterback J.J.",
@@ -28,5 +22,5 @@
     "quarterback"
   ],
   "hash": "9650d7f72a8ff738",
-  "queuedAt": "2026-11-04T06:49:44.137Z"
+  "queuedAt": "2026-11-04T15:25:17.419Z"
 }
