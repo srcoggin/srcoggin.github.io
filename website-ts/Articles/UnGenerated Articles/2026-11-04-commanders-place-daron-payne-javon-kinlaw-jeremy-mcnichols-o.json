@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Commanders place Daron Payne, Javon Kinlaw, Jeremy McNichols on IR",
-      "description": "The Commanders have placed defensive lineman Daron Payne, defensive lineman Javon Kinlaw and running back Jeremy McNichols on injured reserve, the team announced Tuesday.",
-      "url": "https://sports.yahoo.com/articles/commanders-place-daron-payne-javon-215344681.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Commanders place Daron Payne, Javon Kinlaw, Jeremy McNichols on IR",
       "description": "The Commanders have placed defensive lineman Daron Payne, defensive lineman Javon Kinlaw and running back Jeremy McNichols on injured reserve, the team announced Tuesday.",
@@ -35,5 +29,5 @@
     "tuesday"
   ],
   "hash": "bc18a32d1d867231",
-  "queuedAt": "2026-11-04T00:19:41.178Z"
+  "queuedAt": "2026-11-04T06:49:43.944Z"
 }

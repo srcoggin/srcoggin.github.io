@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Falcons place DE Samson Ebukam on IR",
-      "description": "The Falcons placed defensive end Samson Ebukam on injured reserve Tuesday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/falcons-place-samson-ebukam-ir-220236139.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Falcons place DE Samson Ebukam on IR",
       "description": "The Falcons placed defensive end Samson Ebukam on injured reserve Tuesday, the team announced.",
@@ -29,5 +23,5 @@
     "announced"
   ],
   "hash": "be14ca75b1fda256",
-  "queuedAt": "2026-11-04T00:19:41.094Z"
+  "queuedAt": "2026-11-04T06:49:43.858Z"
 }

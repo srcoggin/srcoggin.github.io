@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals officially place Jeremiyah Love, Kendrick Bourne on IR",
-      "description": "The Cardinals made the move of running back Jeremiyah Love to injured reserve official on Tuesday.",
-      "url": "https://sports.yahoo.com/articles/cardinals-officially-place-jeremiyah-love-212650506.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals officially place Jeremiyah Love, Kendrick Bourne on IR",
       "description": "The Cardinals made the move of running back Jeremiyah Love to injured reserve official on Tuesday.",
@@ -33,5 +27,5 @@
     "tuesday"
   ],
   "hash": "cf0a8e803ab2a59c",
-  "queuedAt": "2026-11-04T00:19:41.276Z"
+  "queuedAt": "2026-11-04T06:49:44.031Z"
 }

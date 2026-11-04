@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Greg Newsome, Giants agree on three-year extension",
-      "description": "Cornerback Greg Newsome signed a one-year deal with the Giants as a free agent this offseason, but his stay with the team won't be done once the 2026 season comes to an end.",
-      "url": "https://sports.yahoo.com/articles/greg-newsome-giants-agree-three-212543024.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Greg Newsome, Giants agree on three-year extension",
       "description": "Cornerback Greg Newsome signed a one-year deal with the Giants as a free agent this offseason, but his stay with the team won't be done once the 2026 season comes to an end.",
@@ -39,5 +33,5 @@
     "end"
   ],
   "hash": "7209a8f8c51c56e7",
-  "queuedAt": "2026-11-04T00:19:42.985Z"
+  "queuedAt": "2026-11-04T06:49:51.606Z"
 }
