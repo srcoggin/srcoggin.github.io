@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Matthew Stafford has full participation with elbow injury; Myles Garrett limited in return",
-      "description": "Rams coach Sean McVay wouldn't allow much about the ice pack on quarterback Matthew Stafford's arm after Sunday's win over the Chargers other than to say it was soreness.",
-      "url": "https://sports.yahoo.com/articles/matthew-stafford-full-participation-wednesday-012024613.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Matthew Stafford has full participation with elbow injury; Myles Garrett limited in return",
       "description": "Rams coach Sean McVay wouldn't allow much about the ice pack on quarterback Matthew Stafford's arm after Sunday's win over the Chargers other than to say it was soreness.",
@@ -47,5 +41,5 @@
     "soreness"
   ],
   "hash": "9833a21f9c15b819",
-  "queuedAt": "2026-11-05T07:11:31.507Z"
+  "queuedAt": "2026-11-05T15:47:51.338Z"
 }

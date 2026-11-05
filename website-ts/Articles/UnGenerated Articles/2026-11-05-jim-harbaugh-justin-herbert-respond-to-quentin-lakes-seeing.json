@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jim Harbaugh, Justin Herbert respond to Quentin Lake's \"seeing ghosts\" critique",
-      "description": "As the football-following world tries to figure out the problem(s) with Chargers quarterback Justin Herbert, Rams safety Quentin Lake provided a scathing critique of Herbert's most recent performance, in a 24-9 loss to the Rams.",
-      "url": "https://sports.yahoo.com/articles/jim-harbaugh-justin-herbert-respond-013132827.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jim Harbaugh, Justin Herbert respond to Quentin Lake's \"seeing ghosts\" critique",
       "description": "As the football-following world tries to figure out the problem(s) with Chargers quarterback Justin Herbert, Rams safety Quentin Lake provided a scathing critique of Herbert's most recent performance, in a 24-9 loss to the Rams.",
@@ -46,5 +40,5 @@
     "loss"
   ],
   "hash": "ab6b6cdc30a8d5a6",
-  "queuedAt": "2026-11-05T07:11:31.425Z"
+  "queuedAt": "2026-11-05T15:47:52.242Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Nick Bosa returns to practice with limited work",
-      "description": "49ers defensive end Nick Bosa returned to practice Wednesday after missing the team's past five games with a calf injury.",
-      "url": "https://sports.yahoo.com/articles/nick-bosa-returns-practice-limited-004106629.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Nick Bosa returns to practice with limited work",
       "description": "49ers defensive end Nick Bosa returned to practice Wednesday after missing the team's past five games with a calf injury.",
@@ -36,5 +30,5 @@
     "injury"
   ],
   "hash": "40e0dd3083dc7a45",
-  "queuedAt": "2026-11-05T07:11:31.589Z"
+  "queuedAt": "2026-11-05T15:47:52.146Z"
 }
