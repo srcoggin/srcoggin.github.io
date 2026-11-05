@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cam Skattebo misses practice due to a hamstring injury",
-      "description": "Giants running back Cam Skattebo said he felt something in his hamstring near the end of the team's Week 7 win over the Texans and it's still an issue coming out of the team's bye week.",
-      "url": "https://sports.yahoo.com/articles/cam-skattebo-misses-practice-due-214605054.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cam Skattebo misses practice due to a hamstring injury",
       "description": "Giants running back Cam Skattebo said he felt something in his hamstring near the end of the team's Week 7 win over the Texans and it's still an issue coming out of the team's bye week.",
@@ -44,5 +38,5 @@
     "bye"
   ],
   "hash": "da3d228c04b2a937",
-  "queuedAt": "2026-11-05T00:36:50.967Z"
+  "queuedAt": "2026-11-05T07:11:38.606Z"
 }

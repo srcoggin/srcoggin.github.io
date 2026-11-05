@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "David Bailey, Breece Hall listed as limited in Jets practice",
-      "description": "The Jets played without rookie linebacker David Bailey in Week 8 after he missed practice all week with a groin injury, but Week 9's practice schedule got off to a better start.",
-      "url": "https://sports.yahoo.com/articles/david-bailey-breece-hall-listed-215523589.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "David Bailey, Breece Hall listed as limited in Jets practice",
       "description": "The Jets played without rookie linebacker David Bailey in Week 8 after he missed practice all week with a groin injury, but Week 9's practice schedule got off to a better start.",
@@ -38,5 +32,5 @@
     "start"
   ],
   "hash": "ad9b4fa6954458f5",
-  "queuedAt": "2026-11-05T00:36:50.896Z"
+  "queuedAt": "2026-11-05T07:11:38.341Z"
 }

@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaylen Watson to undergo season-ending shoulder surgery",
-      "description": "The Rams will not have one of their starting cornerbacks for the rest of the year.",
-      "url": "https://sports.yahoo.com/articles/jaylen-watson-undergo-season-ending-220608812.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaylen Watson to undergo season-ending shoulder surgery",
       "description": "The Rams will not have one of their starting cornerbacks for the rest of the year.",
@@ -30,5 +24,5 @@
     "rest"
   ],
   "hash": "8ec151a3cf801922",
-  "queuedAt": "2026-11-05T00:36:50.828Z"
+  "queuedAt": "2026-11-05T07:11:38.059Z"
 }

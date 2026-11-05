@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "WR George Pickens, OG Tyler Smith were limited in Wednesday's practice",
-      "description": "The Cowboys' injury report has 16 names, with five players sitting out Wednesday's practice with injuries.",
-      "url": "https://sports.yahoo.com/articles/wr-george-pickens-og-tyler-225239783.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "WR George Pickens, OG Tyler Smith were limited in Wednesday's practice",
       "description": "The Cowboys' injury report has 16 names, with five players sitting out Wednesday's practice with injuries.",
@@ -34,5 +28,5 @@
     "injuries"
   ],
   "hash": "6aca5223df52bdcb",
-  "queuedAt": "2026-11-05T00:36:48.513Z"
+  "queuedAt": "2026-11-05T07:11:30.973Z"
 }

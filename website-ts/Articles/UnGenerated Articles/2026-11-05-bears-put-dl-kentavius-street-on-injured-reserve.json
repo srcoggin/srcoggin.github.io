@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bears put DL Kentavius Street on injured reserve",
-      "description": "The Bears saw defensive lineman Kentavius Street leave Monday night's win over the Seahawks with a knee injury and it is going to keep him out for an extended period of time.",
-      "url": "https://sports.yahoo.com/articles/bears-put-dl-kentavius-street-213735137.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bears put DL Kentavius Street on injured reserve",
       "description": "The Bears saw defensive lineman Kentavius Street leave Monday night's win over the Seahawks with a knee injury and it is going to keep him out for an extended period of time.",
@@ -42,5 +36,5 @@
     "time"
   ],
   "hash": "27c4ba30ece8276f",
-  "queuedAt": "2026-11-05T00:36:51.121Z"
+  "queuedAt": "2026-11-05T07:11:38.780Z"
 }
