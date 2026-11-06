@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Thursday Night Football: Jaguars lead Ravens 17-3 at halftime",
-      "description": "Jaguars QB Trevor Lawrence was 9-of-15 for 197 yards and a touchdown in the first half.",
-      "url": "https://sports.yahoo.com/articles/thursday-night-football-jaguars-lead-024256666.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Thursday Night Football: Jaguars lead Ravens 17-3 at halftime",
       "description": "Jaguars QB Trevor Lawrence was 9-of-15 for 197 yards and a touchdown in the first half.",
@@ -33,5 +27,5 @@
     "half"
   ],
   "hash": "330631aa7c08ecaf",
-  "queuedAt": "2026-11-06T07:07:00.569Z"
+  "queuedAt": "2026-11-06T15:29:59.811Z"
 }

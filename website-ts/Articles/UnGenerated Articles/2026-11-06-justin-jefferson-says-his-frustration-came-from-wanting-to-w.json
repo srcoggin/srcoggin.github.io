@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Justin Jefferson says his frustration came from \"wanting to win\"",
-      "description": "Vikings receiver Justin Jefferson engaged in a rare display of frustration late in Sunday's 19-15 loss to the Lions.",
-      "url": "https://sports.yahoo.com/articles/justin-jefferson-says-frustration-came-052255952.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Justin Jefferson says his frustration came from \"wanting to win\"",
       "description": "Vikings receiver Justin Jefferson engaged in a rare display of frustration late in Sunday's 19-15 loss to the Lions.",
@@ -36,5 +30,5 @@
     "lions"
   ],
   "hash": "def3858679e8b3b8",
-  "queuedAt": "2026-11-06T07:07:00.305Z"
+  "queuedAt": "2026-11-06T15:29:59.414Z"
 }
