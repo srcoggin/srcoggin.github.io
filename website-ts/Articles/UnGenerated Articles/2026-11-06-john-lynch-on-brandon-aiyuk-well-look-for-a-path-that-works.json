@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "John Lynch on Brandon Aiyuk: We'll look for a path that works for both sides",
-      "description": "Brandon Aiyuk filed for reinstatement from the 49ers' left squad list this week and he's expected to be at the team's facility on Friday to take the next step in resuming his football career.",
-      "url": "https://sports.yahoo.com/articles/john-lynch-brandon-aiyuk-well-233315399.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "John Lynch on Brandon Aiyuk: We'll look for a path that works for both sides",
       "description": "Brandon Aiyuk filed for reinstatement from the 49ers' left squad list this week and he's expected to be at the team's facility on Friday to take the next step in resuming his football career.",
@@ -47,5 +41,5 @@
     "career"
   ],
   "hash": "0e7fac4ea58e411e",
-  "queuedAt": "2026-11-06T01:07:55.071Z"
+  "queuedAt": "2026-11-06T07:07:07.446Z"
 }

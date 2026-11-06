@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saquon Barkley returns to limited work Thursday",
-      "description": "Eagles running back Saquon Barkley returned to limited work Thursday after missing Wednesday's practice with hamstring and back injuries.",
-      "url": "https://sports.yahoo.com/articles/saquon-barkley-returns-limited-thursday-223810971.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saquon Barkley returns to limited work Thursday",
       "description": "Eagles running back Saquon Barkley returned to limited work Thursday after missing Wednesday's practice with hamstring and back injuries.",
@@ -33,5 +27,5 @@
     "injuries"
   ],
   "hash": "8cb2bd6240c88b3d",
-  "queuedAt": "2026-11-06T01:07:55.762Z"
+  "queuedAt": "2026-11-06T07:07:08.157Z"
 }

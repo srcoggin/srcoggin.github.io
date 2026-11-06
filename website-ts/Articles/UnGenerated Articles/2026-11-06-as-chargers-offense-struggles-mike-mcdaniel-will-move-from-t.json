@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "As Chargers' offense struggles, Mike McDaniel will move from the sideline to the booth",
-      "description": "Chargers offensive coordinator Mike McDaniel will get a different perspective on his struggling offense on Sunday against the Texans.",
-      "url": "https://sports.yahoo.com/articles/chargers-offense-struggles-mike-mcdaniel-231937778.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "As Chargers' offense struggles, Mike McDaniel will move from the sideline to the booth",
       "description": "Chargers offensive coordinator Mike McDaniel will get a different perspective on his struggling offense on Sunday against the Texans.",
@@ -36,5 +30,5 @@
     "texans"
   ],
   "hash": "a68c11817933e874",
-  "queuedAt": "2026-11-06T01:07:55.169Z"
+  "queuedAt": "2026-11-06T07:07:07.536Z"
 }

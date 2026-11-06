@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Raiders re-sign WR Cody White, waive TE Carter Runyon",
-      "description": "The Raiders released wide receiver Cody White on Wednesday, but his absence from the team was a short one.",
-      "url": "https://sports.yahoo.com/articles/raiders-sign-wr-cody-white-225706718.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Raiders re-sign WR Cody White, waive TE Carter Runyon",
       "description": "The Raiders released wide receiver Cody White on Wednesday, but his absence from the team was a short one.",
@@ -33,5 +27,5 @@
     "one"
   ],
   "hash": "8b81f98b9d282756",
-  "queuedAt": "2026-11-06T01:07:55.454Z"
+  "queuedAt": "2026-11-06T07:07:07.793Z"
 }

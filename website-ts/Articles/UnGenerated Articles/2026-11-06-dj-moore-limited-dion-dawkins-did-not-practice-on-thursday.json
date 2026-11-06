@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "DJ Moore limited, Dion Dawkins did not practice on Thursday",
-      "description": "The Bills have a lengthy injury report to begin Week 9, with the club playing the Vikings on Monday night.",
-      "url": "https://sports.yahoo.com/articles/dj-moore-limited-dion-dawkins-222427605.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "DJ Moore limited, Dion Dawkins did not practice on Thursday",
       "description": "The Bills have a lengthy injury report to begin Week 9, with the club playing the Vikings on Monday night.",
@@ -34,5 +28,5 @@
     "night"
   ],
   "hash": "75dec9118a64b192",
-  "queuedAt": "2026-11-06T01:07:53.237Z"
+  "queuedAt": "2026-11-06T07:06:59.925Z"
 }

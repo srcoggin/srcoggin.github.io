@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Christian McCaffrey returned to practice as limited participant",
-      "description": "Christian McCaffrey returned to practice Thursday as a limited participant.",
-      "url": "https://sports.yahoo.com/articles/christian-mccaffrey-returned-practice-limited-225608228.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Christian McCaffrey returned to practice as limited participant",
       "description": "Christian McCaffrey returned to practice Thursday as a limited participant.",
@@ -25,5 +19,5 @@
     "thursday"
   ],
   "hash": "0414015d3b3cd194",
-  "queuedAt": "2026-11-06T01:07:55.537Z"
+  "queuedAt": "2026-11-06T07:07:07.876Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Talanoa Hufanga returns to Broncos practice",
-      "description": "The Broncos got a starting safety back on the practice field Thursday.",
-      "url": "https://sports.yahoo.com/articles/talanoa-hufanga-returns-broncos-practice-224902498.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Talanoa Hufanga returns to Broncos practice",
       "description": "The Broncos got a starting safety back on the practice field Thursday.",
@@ -29,5 +23,5 @@
     "thursday"
   ],
   "hash": "704c94a91768b649",
-  "queuedAt": "2026-11-06T01:07:55.645Z"
+  "queuedAt": "2026-11-06T07:07:08.068Z"
 }
