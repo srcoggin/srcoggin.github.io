@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Trent McDuffie, Colby Parkinson listed as questionable for the Rams",
-      "description": "The biggest injury news for the Rams this week is that defensive end Myles Garrett is set to make his first appearance since Week 1 of the regular season, but it is not the only injury news.",
-      "url": "https://sports.yahoo.com/articles/trent-mcduffie-colby-parkinson-listed-213725595.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Trent McDuffie, Colby Parkinson listed as questionable for the Rams",
       "description": "The biggest injury news for the Rams this week is that defensive end Myles Garrett is set to make his first appearance since Week 1 of the regular season, but it is not the only injury news.",
@@ -41,5 +35,5 @@
     "regular"
   ],
   "hash": "22e9b57c3d7a5c64",
-  "queuedAt": "2026-11-07T00:29:49.468Z"
+  "queuedAt": "2026-11-07T07:00:09.465Z"
 }

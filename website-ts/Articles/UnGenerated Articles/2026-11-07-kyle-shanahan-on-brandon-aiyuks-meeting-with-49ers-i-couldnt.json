@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Kyle Shanahan on Brandon Aiyuk's meeting with 49ers: I couldn't care less",
-      "description": "The wide receiver and his agent will meet with team officials later today.",
-      "url": "https://sports.yahoo.com/articles/kyle-shanahan-brandon-aiyuks-meeting-221654753.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Kyle Shanahan on Brandon Aiyuk's meeting with 49ers: I couldn't care less",
       "description": "The wide receiver and his agent will meet with team officials later today.",
@@ -35,5 +29,5 @@
     "today"
   ],
   "hash": "105a17ff06adf09b",
-  "queuedAt": "2026-11-07T00:29:46.708Z"
+  "queuedAt": "2026-11-07T06:59:59.436Z"
 }

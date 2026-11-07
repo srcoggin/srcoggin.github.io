@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Commanders rule out WRs Dyami Brown, Treylon Burks",
-      "description": "The Commanders will play without two of their receivers against the Rams on Sunday.",
-      "url": "https://sports.yahoo.com/articles/commanders-rule-wrs-dyami-brown-213005035.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Commanders rule out WRs Dyami Brown, Treylon Burks",
       "description": "The Commanders will play without two of their receivers against the Rams on Sunday.",
@@ -34,5 +28,5 @@
     "sunday"
   ],
   "hash": "e503a9daeae8c127",
-  "queuedAt": "2026-11-07T00:29:49.599Z"
+  "queuedAt": "2026-11-07T07:00:09.574Z"
 }

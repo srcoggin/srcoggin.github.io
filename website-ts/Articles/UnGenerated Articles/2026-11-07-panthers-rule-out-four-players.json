@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Panthers rule out four players",
-      "description": "The Panthers ruled four players out for Sunday's game against the Broncos.",
-      "url": "https://sports.yahoo.com/articles/panthers-rule-four-players-222518329.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Panthers rule out four players",
       "description": "The Panthers ruled four players out for Sunday's game against the Broncos.",
@@ -27,5 +21,5 @@
     "broncos"
   ],
   "hash": "a2303f70286b64bb",
-  "queuedAt": "2026-11-07T00:29:48.932Z"
+  "queuedAt": "2026-11-07T07:00:08.990Z"
 }

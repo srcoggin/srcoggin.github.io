@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patriots list eight players as questionable after ruling out A.J. Brown, TreVeyon Henderson",
-      "description": "The Patriots officially ruled out wide receiver A.J.",
-      "url": "https://sports.yahoo.com/articles/patriots-list-eight-players-questionable-212015815.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patriots list eight players as questionable after ruling out A.J. Brown, TreVeyon Henderson",
       "description": "The Patriots officially ruled out wide receiver A.J.",
@@ -32,5 +26,5 @@
     "receiver"
   ],
   "hash": "3f98ae21f289e649",
-  "queuedAt": "2026-11-07T00:29:46.825Z"
+  "queuedAt": "2026-11-07T06:59:59.644Z"
 }

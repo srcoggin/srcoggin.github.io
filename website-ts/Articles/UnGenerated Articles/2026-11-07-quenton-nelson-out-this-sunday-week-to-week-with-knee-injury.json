@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Quenton Nelson out this Sunday, week-to-week with knee injury",
-      "description": "Sam Darnold and Leonard Williams will also miss the Week 9 game against the Cardinals.",
-      "url": "https://sports.yahoo.com/articles/quenton-nelson-sunday-week-week-214903982.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Quenton Nelson out this Sunday, week-to-week with knee injury",
       "description": "Sam Darnold and Leonard Williams will also miss the Week 9 game against the Cardinals.",
@@ -34,5 +28,5 @@
     "cardinals"
   ],
   "hash": "52969569fad69db3",
-  "queuedAt": "2026-11-07T00:29:49.376Z"
+  "queuedAt": "2026-11-07T07:00:09.348Z"
 }

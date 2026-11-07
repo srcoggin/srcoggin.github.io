@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts rule out CB Justin Walley, LB Akeem Davis-Gaither",
-      "description": "The Colts ruled out cornerback Justin Walley (knee) and linebacker Akeem Davis-Gaither (knee) ahead of Sunday's game against the Cowboys.",
-      "url": "https://sports.yahoo.com/articles/colts-rule-cb-justin-walley-210338487.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts rule out CB Justin Walley, LB Akeem Davis-Gaither",
       "description": "The Colts ruled out cornerback Justin Walley (knee) and linebacker Akeem Davis-Gaither (knee) ahead of Sunday's game against the Cowboys.",
@@ -33,5 +27,5 @@
     "cowboys"
   ],
   "hash": "101b8ea987d1562f",
-  "queuedAt": "2026-11-07T00:29:49.865Z"
+  "queuedAt": "2026-11-07T07:00:09.893Z"
 }
