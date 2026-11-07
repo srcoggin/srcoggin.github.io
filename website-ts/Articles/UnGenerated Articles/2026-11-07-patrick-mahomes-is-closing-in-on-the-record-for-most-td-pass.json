@@ -3,12 +3,6 @@
   "category": "superbowl",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Patrick Mahomes is closing in on the record for most TD passes in a QB's first 10 years",
-      "description": "Mahomes has 325 career touchdown passes, counting the playoffs. Peyton Manning had 327 in his first 10 seasons.",
-      "url": "https://sports.yahoo.com/articles/patrick-mahomes-closing-record-most-091434919.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Patrick Mahomes is closing in on the record for most TD passes in a QB's first 10 years",
       "description": "Mahomes has 325 career touchdown passes, counting the playoffs. Peyton Manning had 327 in his first 10 seasons.",
@@ -36,5 +30,5 @@
     "seasons"
   ],
   "hash": "fc8ccac7d8a5a16f",
-  "queuedAt": "2026-11-07T13:46:33.990Z"
+  "queuedAt": "2026-11-07T23:09:28.476Z"
 }

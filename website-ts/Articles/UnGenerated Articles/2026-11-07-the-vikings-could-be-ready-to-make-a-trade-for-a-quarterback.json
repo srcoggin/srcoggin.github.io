@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "The Vikings could be ready to make a trade for a quarterback, if they lose Monday night",
-      "description": "Tuesday could become very interesting, absent a Carson Wentz-led win vs. the Bills.",
-      "url": "https://sports.yahoo.com/articles/vikings-could-ready-trade-quarterback-050648342.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "The Vikings could be ready to make a trade for a quarterback, if they lose Monday night",
       "description": "Tuesday could become very interesting, absent a Carson Wentz-led win vs. the Bills.",
@@ -35,5 +29,5 @@
     "bills"
   ],
   "hash": "8204bcab1e26b1bb",
-  "queuedAt": "2026-11-07T13:46:34.072Z"
+  "queuedAt": "2026-11-07T23:09:28.570Z"
 }
