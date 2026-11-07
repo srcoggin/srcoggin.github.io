@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "S Talanoa Hufanga questionable for Sunday's game",
-      "description": "Broncos safety Talanoa Hufanga (ankle) is questionable for Sunday's game against the Panthers.",
-      "url": "https://sports.yahoo.com/articles/talanoa-hufanga-questionable-sundays-game-225701302.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "S Talanoa Hufanga questionable for Sunday's game",
       "description": "Broncos safety Talanoa Hufanga (ankle) is questionable for Sunday's game against the Panthers.",
@@ -27,5 +21,5 @@
     "panthers"
   ],
   "hash": "24513f7121836a0b",
-  "queuedAt": "2026-11-07T07:00:00.371Z"
+  "queuedAt": "2026-11-07T13:46:40.110Z"
 }

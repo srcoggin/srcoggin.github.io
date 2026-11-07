@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFC North has 17-3 record against non-NFC North teams",
-      "description": "The NFC North is the best division in the NFL.",
-      "url": "https://sports.yahoo.com/articles/nfc-north-17-3-record-004026017.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFC North has 17-3 record against non-NFC North teams",
       "description": "The NFC North is the best division in the NFL.",
@@ -27,5 +21,5 @@
     "division"
   ],
   "hash": "304beeb0c636ca3a",
-  "queuedAt": "2026-11-07T06:59:59.961Z"
+  "queuedAt": "2026-11-07T13:46:39.653Z"
 }

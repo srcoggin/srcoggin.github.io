@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Drew Rosenhaus after Brandon Aiyuk's meeting with 49ers: \"To be continued\"",
-      "description": "First session ends with no resolution.",
-      "url": "https://sports.yahoo.com/articles/drew-rosenhaus-brandon-aiyuks-meeting-005800382.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Drew Rosenhaus after Brandon Aiyuk's meeting with 49ers: \"To be continued\"",
       "description": "First session ends with no resolution.",
@@ -29,5 +23,5 @@
     "resolution"
   ],
   "hash": "d8a950947be5cfe5",
-  "queuedAt": "2026-11-07T06:59:59.846Z"
+  "queuedAt": "2026-11-07T13:46:39.581Z"
 }

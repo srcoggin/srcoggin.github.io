@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Amon-Ra St. Brown listed as questionable for Lions",
-      "description": "The Lions ruled out several starters for Sunday's game against the Dolphins and they're still deciding the status of their top wide receiver.",
-      "url": "https://sports.yahoo.com/articles/amon-ra-st-brown-listed-230924414.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Amon-Ra St. Brown listed as questionable for Lions",
       "description": "The Lions ruled out several starters for Sunday's game against the Dolphins and they're still deciding the status of their top wide receiver.",
@@ -38,5 +32,5 @@
     "receiver"
   ],
   "hash": "c3a14dc3524f9bba",
-  "queuedAt": "2026-11-07T07:00:00.263Z"
+  "queuedAt": "2026-11-07T13:46:39.905Z"
 }

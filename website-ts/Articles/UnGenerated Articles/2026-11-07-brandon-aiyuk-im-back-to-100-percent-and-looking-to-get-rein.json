@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brandon Aiyuk: I’m back to 100 percent and looking to get reinstated",
-      "description": "The wide receiver and his agent are meeting with the 49ers about Aiyuk's future.",
-      "url": "https://sports.yahoo.com/articles/brandon-aiyuk-m-back-100-232408046.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brandon Aiyuk: I’m back to 100 percent and looking to get reinstated",
       "description": "The wide receiver and his agent are meeting with the 49ers about Aiyuk's future.",
@@ -35,5 +29,5 @@
     "future"
   ],
   "hash": "d94a98aa6878683b",
-  "queuedAt": "2026-11-07T07:00:00.162Z"
+  "queuedAt": "2026-11-07T13:46:39.779Z"
 }
