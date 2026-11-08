@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Player Personnel Handbook implies that the NFL can delay (or deny) Brandon Aiyuk's reinstatement",
-      "description": "The CBA is silent on the issue.",
-      "url": "https://sports.yahoo.com/articles/player-personnel-handbook-implies-nfl-004916778.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Player Personnel Handbook implies that the NFL can delay (or deny) Brandon Aiyuk's reinstatement",
       "description": "The CBA is silent on the issue.",
@@ -30,5 +24,5 @@
     "issue"
   ],
   "hash": "ed07aa7bc99f9aee",
-  "queuedAt": "2026-11-08T06:13:27.922Z"
+  "queuedAt": "2026-11-08T14:03:42.104Z"
 }

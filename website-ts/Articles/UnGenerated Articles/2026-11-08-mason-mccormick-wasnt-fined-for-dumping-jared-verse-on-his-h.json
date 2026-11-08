@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mason McCormick wasn't fined for dumping Jared Verse on his head",
-      "description": "Browns defensive end Jared Verse is getting upset.",
-      "url": "https://sports.yahoo.com/articles/mason-mccormick-wasnt-fined-dumping-214557725.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mason McCormick wasn't fined for dumping Jared Verse on his head",
       "description": "Browns defensive end Jared Verse is getting upset.",
@@ -32,5 +26,5 @@
     "upset"
   ],
   "hash": "6041da397000735b",
-  "queuedAt": "2026-11-08T06:13:28.068Z"
+  "queuedAt": "2026-11-08T14:03:42.590Z"
 }

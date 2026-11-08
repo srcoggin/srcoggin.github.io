@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cam Jordan will become third defensive player to play 250 games with same team",
-      "description": "When the Saints host the Browns on Sunday, New Orleans defensive end Cam Jordan will reach a rare milestone.",
-      "url": "https://sports.yahoo.com/articles/cam-jordan-become-third-defensive-030536611.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cam Jordan will become third defensive player to play 250 games with same team",
       "description": "When the Saints host the Browns on Sunday, New Orleans defensive end Cam Jordan will reach a rare milestone.",
@@ -36,5 +30,5 @@
     "milestone"
   ],
   "hash": "a9b48585f809eaaf",
-  "queuedAt": "2026-11-08T06:13:27.764Z"
+  "queuedAt": "2026-11-08T14:03:42.042Z"
 }

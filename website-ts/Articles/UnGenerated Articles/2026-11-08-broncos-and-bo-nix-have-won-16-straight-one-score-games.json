@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Broncos and Bo Nix have won 16 straight one-score games",
-      "description": "The Broncos keep finding ways to win games — especially close games.",
-      "url": "https://sports.yahoo.com/articles/broncos-bo-nix-won-16-011752435.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Broncos and Bo Nix have won 16 straight one-score games",
       "description": "The Broncos keep finding ways to win games — especially close games.",
@@ -30,5 +24,5 @@
     "close"
   ],
   "hash": "67177b27c4f0f05c",
-  "queuedAt": "2026-11-08T06:13:27.854Z"
+  "queuedAt": "2026-11-08T14:03:42.451Z"
 }
