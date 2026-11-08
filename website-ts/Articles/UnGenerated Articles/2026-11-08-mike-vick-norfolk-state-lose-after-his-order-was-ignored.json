@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Vick, Norfolk State lose after his order was ignored",
-      "description": "Like a growing number of former NFL players, Mike Vick has become a college football coach.",
-      "url": "https://sports.yahoo.com/articles/mike-vick-norfolk-state-lose-131931889.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Vick, Norfolk State lose after his order was ignored",
       "description": "Like a growing number of former NFL players, Mike Vick has become a college football coach.",
@@ -34,5 +28,5 @@
     "coach"
   ],
   "hash": "0428a6ab4798ca7a",
-  "queuedAt": "2026-11-08T14:03:37.541Z"
+  "queuedAt": "2026-11-08T22:59:58.369Z"
 }
