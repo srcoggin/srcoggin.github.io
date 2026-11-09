@@ -3,10 +3,10 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
+      "name": "Pro Football Talk",
       "title": "Report: MRI shows Patrick Mahomes avoided serious injury",
       "description": "The Chiefs quarterback injured his right elbow in the second quarter Sunday.",
-      "url": "https://sports.yahoo.com/articles/report-mri-shows-patrick-mahomes-023051244.html"
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-mri-shows-patrick-mahomes-avoided-serious-injury"
     }
   ],
   "keywords": [
@@ -29,5 +29,5 @@
     "sunday"
   ],
   "hash": "5eda328e3657bda8",
-  "queuedAt": "2026-11-09T06:17:11.848Z"
+  "queuedAt": "2026-11-09T16:40:55.841Z"
 }
