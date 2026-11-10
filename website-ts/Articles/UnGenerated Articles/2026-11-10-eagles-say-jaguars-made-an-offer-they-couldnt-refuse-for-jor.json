@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Eagles say Jaguars made an offer they couldn't refuse for Jordan Davis",
-      "description": "The Eagles announced the trade that sent defensive tackle Jordan Davis to the Jaguars, saying the \"Jaguars made an offer that executive vice president/General Manager Howie Roseman simply could not refuse.\"",
-      "url": "https://sports.yahoo.com/articles/eagles-jaguars-made-offer-couldnt-225524917.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Eagles say Jaguars made an offer they couldn't refuse for Jordan Davis",
       "description": "The Eagles announced the trade that sent defensive tackle Jordan Davis to the Jaguars, saying the \"Jaguars made an offer that executive vice president/General Manager Howie Roseman simply could not refuse.\"",
@@ -42,5 +36,5 @@
     "simply"
   ],
   "hash": "79103bbcf9c36b7b",
-  "queuedAt": "2026-11-10T02:45:10.477Z"
+  "queuedAt": "2026-11-10T15:55:55.405Z"
 }
