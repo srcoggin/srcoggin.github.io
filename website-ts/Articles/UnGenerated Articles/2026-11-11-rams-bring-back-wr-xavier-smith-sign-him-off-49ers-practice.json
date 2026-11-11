@@ -3,12 +3,6 @@
   "category": "trades",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams bring back WR Xavier Smith, sign him off 49ers practice squad",
-      "description": "The Rams did not bring in a receiver via trade before the deadline, but they have acquired one who knows their system.",
-      "url": "https://sports.yahoo.com/articles/rams-bring-back-wr-xavier-213349824.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams bring back WR Xavier Smith, sign him off 49ers practice squad",
       "description": "The Rams did not bring in a receiver via trade before the deadline, but they have acquired one who knows their system.",
@@ -40,5 +34,5 @@
     "system"
   ],
   "hash": "46236943c6dc1daf",
-  "queuedAt": "2026-11-11T00:09:27.658Z"
+  "queuedAt": "2026-11-11T06:06:55.064Z"
 }

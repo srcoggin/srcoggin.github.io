@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Vikings release WR Odell Beckham Jr., but will re-sign him to the practice squad",
-      "description": "The Vikings terminated the contract of wide receiver Odell Beckham Jr. on Tuesday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/vikings-release-wr-odell-beckham-214843828.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Vikings release WR Odell Beckham Jr., but will re-sign him to the practice squad",
       "description": "The Vikings terminated the contract of wide receiver Odell Beckham Jr. on Tuesday, the team announced.",
@@ -32,5 +26,5 @@
     "announced"
   ],
   "hash": "bc72873e916f6d2f",
-  "queuedAt": "2026-11-11T00:09:26.076Z"
+  "queuedAt": "2026-11-11T06:06:50.403Z"
 }
