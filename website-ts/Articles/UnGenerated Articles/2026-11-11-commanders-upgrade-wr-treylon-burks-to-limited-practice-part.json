@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Commanders upgrade WR Treylon Burks to limited practice participation",
-      "description": "Commanders wide receiver Treylon Burks missed last Sunday's loss to the Rams with a foot injury, but he's moving toward a return to the lineup.",
-      "url": "https://sports.yahoo.com/articles/commanders-upgrade-wr-treylon-burks-000225099.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Commanders upgrade WR Treylon Burks to limited practice participation",
       "description": "Commanders wide receiver Treylon Burks missed last Sunday's loss to the Rams with a foot injury, but he's moving toward a return to the lineup.",
@@ -39,5 +33,5 @@
     "lineup"
   ],
   "hash": "d968fe0b20465b9b",
-  "queuedAt": "2026-11-11T06:06:51.040Z"
+  "queuedAt": "2026-11-11T15:08:39.395Z"
 }

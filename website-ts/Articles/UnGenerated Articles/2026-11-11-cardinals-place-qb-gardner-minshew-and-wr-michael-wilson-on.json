@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cardinals place QB Gardner Minshew and WR Michael Wilson on IR",
-      "description": "The Cardinals placed quarterback Gardner Minshew and wide receiver Michael Wilson on injured reserve Tuesday, the team announced.",
-      "url": "https://sports.yahoo.com/articles/cardinals-place-qb-gardner-minshew-223229663.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cardinals place QB Gardner Minshew and WR Michael Wilson on IR",
       "description": "The Cardinals placed quarterback Gardner Minshew and wide receiver Michael Wilson on injured reserve Tuesday, the team announced.",
@@ -32,5 +26,5 @@
     "announced"
   ],
   "hash": "d162113ac956449b",
-  "queuedAt": "2026-11-11T06:06:49.705Z"
+  "queuedAt": "2026-11-11T15:08:32.025Z"
 }

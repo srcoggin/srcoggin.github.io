@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaguars-Ravens averages 13.96 million on Prime Video",
-      "description": "When it comes to interpreting press releases regarding the audiences for sporting events, there's a rule of thumb.",
-      "url": "https://sports.yahoo.com/articles/jaguars-ravens-averages-13-96-015132369.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaguars-Ravens averages 13.96 million on Prime Video",
       "description": "When it comes to interpreting press releases regarding the audiences for sporting events, there's a rule of thumb.",
@@ -35,5 +29,5 @@
     "thumb"
   ],
   "hash": "019584da84504e6f",
-  "queuedAt": "2026-11-11T06:06:50.930Z"
+  "queuedAt": "2026-11-11T15:08:39.273Z"
 }

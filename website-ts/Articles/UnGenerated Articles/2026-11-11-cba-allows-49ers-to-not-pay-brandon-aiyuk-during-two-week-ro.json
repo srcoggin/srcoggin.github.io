@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "CBA allows 49ers to not pay Brandon Aiyuk during two-week roster exemption",
-      "description": "When unusual situations emerge in the NFL, it becomes a piece-by-piece exercise in figuring out the specific rules that apply.",
-      "url": "https://sports.yahoo.com/articles/cba-allows-49ers-not-pay-031224664.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "CBA allows 49ers to not pay Brandon Aiyuk during two-week roster exemption",
       "description": "When unusual situations emerge in the NFL, it becomes a piece-by-piece exercise in figuring out the specific rules that apply.",
@@ -39,5 +33,5 @@
     "apply"
   ],
   "hash": "d84898d8e3980db0",
-  "queuedAt": "2026-11-11T06:06:50.817Z"
+  "queuedAt": "2026-11-11T15:08:39.101Z"
 }
