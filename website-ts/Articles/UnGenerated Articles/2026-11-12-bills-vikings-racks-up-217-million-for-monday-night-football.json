@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bills-Vikings racks up 21.7 million for Monday Night Football",
-      "description": "The game itself was not much fun to watch, except for Bills fans.",
-      "url": "https://sports.yahoo.com/articles/bills-vikings-racks-21-7-005634517.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bills-Vikings racks up 21.7 million for Monday Night Football",
       "description": "The game itself was not much fun to watch, except for Bills fans.",
@@ -31,5 +25,5 @@
     "fans"
   ],
   "hash": "cee036e98ba4c53d",
-  "queuedAt": "2026-11-12T01:56:57.561Z"
+  "queuedAt": "2026-11-12T16:01:19.835Z"
 }

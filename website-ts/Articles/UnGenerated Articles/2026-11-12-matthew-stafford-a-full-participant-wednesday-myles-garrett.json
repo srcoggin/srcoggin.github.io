@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Matthew Stafford a full participant Wednesday; Myles Garrett limited",
-      "description": "Rams quarterback Matthew Stafford (right elbow) had full participation on Wednesday.",
-      "url": "https://sports.yahoo.com/articles/matthew-stafford-full-participant-wednesday-003813842.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Matthew Stafford a full participant Wednesday; Myles Garrett limited",
       "description": "Rams quarterback Matthew Stafford (right elbow) had full participation on Wednesday.",
@@ -31,5 +25,5 @@
     "participation"
   ],
   "hash": "e4f70a72c1c46e88",
-  "queuedAt": "2026-11-12T01:56:57.671Z"
+  "queuedAt": "2026-11-12T16:01:19.902Z"
 }
