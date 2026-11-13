@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rhamondre Stevenson returns to practice, A.J. Brown remains limited",
-      "description": "The Patriots had some positive news on their injury report from Thursday's reportedly light practice in Munich.",
-      "url": "https://sports.yahoo.com/articles/rhamondre-stevenson-returns-practice-j-220156266.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rhamondre Stevenson returns to practice, A.J. Brown remains limited",
       "description": "The Patriots had some positive news on their injury report from Thursday's reportedly light practice in Munich.",
@@ -35,5 +29,5 @@
     "munich"
   ],
   "hash": "a82d220f308727b8",
-  "queuedAt": "2026-11-13T00:18:06.742Z"
+  "queuedAt": "2026-11-13T07:11:30.214Z"
 }

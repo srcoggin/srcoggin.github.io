@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Knoxville, Chattanooga Fox affiliates pass on Titans game, for now",
-      "description": "The Tennessee Titans apparently need an asterisk on their name.",
-      "url": "https://sports.yahoo.com/articles/knoxville-chattanooga-fox-affiliates-pass-231518729.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Knoxville, Chattanooga Fox affiliates pass on Titans game, for now",
       "description": "The Tennessee Titans apparently need an asterisk on their name.",
@@ -31,5 +25,5 @@
     "name"
   ],
   "hash": "37635c2371243b7f",
-  "queuedAt": "2026-11-13T00:18:07.846Z"
+  "queuedAt": "2026-11-13T07:11:37.943Z"
 }

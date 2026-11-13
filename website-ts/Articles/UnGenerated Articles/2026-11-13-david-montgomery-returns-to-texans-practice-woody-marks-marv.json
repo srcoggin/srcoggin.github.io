@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "David Montgomery returns to Texans practice; Woody Marks, Marvin Harrison Jr. don't practice",
-      "description": "The Texans had running back David Montgomery back on the practice field on Thursday, but they were missing a couple of other key offensive players.",
-      "url": "https://sports.yahoo.com/articles/david-montgomery-returns-texans-practice-222859054.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "David Montgomery returns to Texans practice; Woody Marks, Marvin Harrison Jr. don't practice",
       "description": "The Texans had running back David Montgomery back on the practice field on Thursday, but they were missing a couple of other key offensive players.",
@@ -38,5 +32,5 @@
     "players"
   ],
   "hash": "639e5740b9a09358",
-  "queuedAt": "2026-11-13T00:18:08.121Z"
+  "queuedAt": "2026-11-13T07:11:37.852Z"
 }

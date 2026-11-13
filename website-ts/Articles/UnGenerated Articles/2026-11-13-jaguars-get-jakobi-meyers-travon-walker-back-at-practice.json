@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaguars get Jakobi Meyers, Travon Walker back at practice",
-      "description": "The Jaguars got a couple of their top players back on the practice field on Thursday.",
-      "url": "https://sports.yahoo.com/articles/jaguars-jakobi-meyers-travon-walker-230853599.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaguars get Jakobi Meyers, Travon Walker back at practice",
       "description": "The Jaguars got a couple of their top players back on the practice field on Thursday.",
@@ -33,5 +27,5 @@
     "thursday"
   ],
   "hash": "6b0369f406c90c96",
-  "queuedAt": "2026-11-13T00:18:07.908Z"
+  "queuedAt": "2026-11-13T07:11:38.032Z"
 }

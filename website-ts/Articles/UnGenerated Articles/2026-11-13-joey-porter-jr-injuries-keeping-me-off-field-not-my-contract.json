@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Joey Porter Jr.: Injuries keeping me off field, not my contract situation",
-      "description": "Porter missed practice again on Thursday with an ankle injury.",
-      "url": "https://sports.yahoo.com/articles/joey-porter-jr-injuries-keeping-224528607.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Joey Porter Jr.: Injuries keeping me off field, not my contract situation",
       "description": "Porter missed practice again on Thursday with an ankle injury.",
@@ -31,5 +25,5 @@
     "injury"
   ],
   "hash": "422ff88ea668909a",
-  "queuedAt": "2026-11-13T00:18:08.070Z"
+  "queuedAt": "2026-11-13T07:11:38.403Z"
 }
