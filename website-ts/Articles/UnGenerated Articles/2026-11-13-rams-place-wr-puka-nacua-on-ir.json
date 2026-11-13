@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Rams place WR Puka Nacua on IR",
-      "description": "Nacua injured the MCL and PCL in his knee and has turf toe.",
-      "url": "https://sports.yahoo.com/articles/rams-place-wr-puka-nacua-005650916.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Rams place WR Puka Nacua on IR",
       "description": "Nacua injured the MCL and PCL in his knee and has turf toe.",
@@ -29,5 +23,5 @@
     "toe"
   ],
   "hash": "ed5acf0a42c480d2",
-  "queuedAt": "2026-11-13T07:11:30.774Z"
+  "queuedAt": "2026-11-13T15:34:59.022Z"
 }

@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dre Greenlaw, Trent Williams were limited in Thursday's practice",
-      "description": "49ers linebacker Dre Greenlaw and left tackle Trent Williams rested during Wednesday's practice, but they had different listings on Thursday's practice report.",
-      "url": "https://sports.yahoo.com/articles/dre-greenlaw-trent-williams-were-234305908.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dre Greenlaw, Trent Williams were limited in Thursday's practice",
       "description": "49ers linebacker Dre Greenlaw and left tackle Trent Williams rested during Wednesday's practice, but they had different listings on Thursday's practice report.",
@@ -35,5 +29,5 @@
     "report"
   ],
   "hash": "4a989e6d550cf5ed",
-  "queuedAt": "2026-11-13T07:11:29.476Z"
+  "queuedAt": "2026-11-13T15:34:50.668Z"
 }

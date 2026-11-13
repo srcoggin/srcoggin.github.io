@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Thursday Night Football: Stefon Diggs' late TD gives Commanders 24-21 win",
-      "description": "The wide receiver caught a 32-yard touchdown pass from Jayden Daniels with 57 seconds left.",
-      "url": "https://sports.yahoo.com/articles/thursday-night-football-stefon-diggs-042909175.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Thursday Night Football: Stefon Diggs' late TD gives Commanders 24-21 win",
       "description": "The wide receiver caught a 32-yard touchdown pass from Jayden Daniels with 57 seconds left.",
@@ -37,5 +31,5 @@
     "left"
   ],
   "hash": "a9467f2253142677",
-  "queuedAt": "2026-11-13T07:11:30.300Z"
+  "queuedAt": "2026-11-13T15:34:58.150Z"
 }

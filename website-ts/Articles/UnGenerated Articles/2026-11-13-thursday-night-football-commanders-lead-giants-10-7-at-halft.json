@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Thursday Night Football: Commanders lead Giants 10-7 at halftime",
-      "description": "Ben Sinnott caught a 1-yard touchdown pass from Jayden Daniels with 5 seconds remaining in the first half.",
-      "url": "https://sports.yahoo.com/articles/thursday-night-football-commanders-lead-024035313.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Thursday Night Football: Commanders lead Giants 10-7 at halftime",
       "description": "Ben Sinnott caught a 1-yard touchdown pass from Jayden Daniels with 5 seconds remaining in the first half.",
@@ -37,5 +31,5 @@
     "half"
   ],
   "hash": "ab05c12b413b546a",
-  "queuedAt": "2026-11-13T07:11:30.590Z"
+  "queuedAt": "2026-11-13T15:34:58.949Z"
 }

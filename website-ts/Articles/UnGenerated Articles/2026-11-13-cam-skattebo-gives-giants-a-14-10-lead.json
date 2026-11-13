@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cam Skattebo gives Giants a 14-10 lead",
-      "description": "Cam Skattebo has his second touchdown, and the Giants lead for the second time.",
-      "url": "https://sports.yahoo.com/articles/cam-skattebo-gives-giants-14-030650730.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cam Skattebo gives Giants a 14-10 lead",
       "description": "Cam Skattebo has his second touchdown, and the Giants lead for the second time.",
@@ -28,5 +22,5 @@
     "time"
   ],
   "hash": "2956cce39f0be5a0",
-  "queuedAt": "2026-11-13T07:11:30.491Z"
+  "queuedAt": "2026-11-13T15:34:58.875Z"
 }

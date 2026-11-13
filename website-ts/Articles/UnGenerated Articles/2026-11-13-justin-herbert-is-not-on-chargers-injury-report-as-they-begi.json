@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Justin Herbert is not on Chargers' injury report as they begin prep for Ravens",
-      "description": "Justin Herbert injured the middle finger on his left hand in Sunday's loss to the Texans.",
-      "url": "https://sports.yahoo.com/articles/justin-herbert-not-chargers-injury-002306892.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Justin Herbert is not on Chargers' injury report as they begin prep for Ravens",
       "description": "Justin Herbert injured the middle finger on his left hand in Sunday's loss to the Texans.",
@@ -36,5 +30,5 @@
     "texans"
   ],
   "hash": "ae06daf51e57e88b",
-  "queuedAt": "2026-11-13T07:11:29.354Z"
+  "queuedAt": "2026-11-13T15:34:50.586Z"
 }
