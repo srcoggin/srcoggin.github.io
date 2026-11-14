@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Joe Burrow can join Peyton Manning as only QBs with 4 total TDs in 5 straight games",
-      "description": "A big game from Burrow on Sunday night would put him in some very exclusive company in NFL history.",
-      "url": "https://sports.yahoo.com/articles/joe-burrow-join-peyton-manning-100151255.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Joe Burrow can join Peyton Manning as only QBs with 4 total TDs in 5 straight games",
       "description": "A big game from Burrow on Sunday night would put him in some very exclusive company in NFL history.",
@@ -36,5 +30,5 @@
     "history"
   ],
   "hash": "7839d981dea4b9a7",
-  "queuedAt": "2026-11-14T14:43:15.370Z"
+  "queuedAt": "2026-11-14T23:15:09.363Z"
 }
