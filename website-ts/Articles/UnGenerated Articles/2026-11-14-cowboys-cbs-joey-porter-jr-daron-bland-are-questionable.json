@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Cowboys CBs Joey Porter Jr., DaRon Bland are questionable",
-      "description": "The Cowboys added cornerback DaRon Bland to the injury report Friday.",
-      "url": "https://sports.yahoo.com/articles/cowboys-cbs-joey-porter-jr-223004998.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Cowboys CBs Joey Porter Jr., DaRon Bland are questionable",
       "description": "The Cowboys added cornerback DaRon Bland to the injury report Friday.",
@@ -30,5 +24,5 @@
     "friday"
   ],
   "hash": "7644313b10e56239",
-  "queuedAt": "2026-11-14T06:36:05.975Z"
+  "queuedAt": "2026-11-14T14:43:16.149Z"
 }

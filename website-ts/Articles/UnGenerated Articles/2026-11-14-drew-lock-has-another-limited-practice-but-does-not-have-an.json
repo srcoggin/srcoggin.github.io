@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Drew Lock has another limited practice but does not have an injury designation",
-      "description": "Drew Lock was limited in practice Friday, his sixth consecutive practice without team drills.",
-      "url": "https://sports.yahoo.com/articles/drew-lock-another-limited-practice-001452613.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Drew Lock has another limited practice but does not have an injury designation",
       "description": "Drew Lock was limited in practice Friday, his sixth consecutive practice without team drills.",
@@ -31,5 +25,5 @@
     "drills"
   ],
   "hash": "9e3d8f71be33ba43",
-  "queuedAt": "2026-11-14T06:36:07.246Z"
+  "queuedAt": "2026-11-14T14:43:24.450Z"
 }

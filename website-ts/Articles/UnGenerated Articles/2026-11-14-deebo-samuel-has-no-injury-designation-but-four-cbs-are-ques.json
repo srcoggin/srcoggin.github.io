@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Deebo Samuel has no injury designation, but four CBs are questionable for 49ers",
-      "description": "The 49ers will see the return of wide receiver Deebo Samuel.",
-      "url": "https://sports.yahoo.com/articles/deebo-samuel-no-injury-designation-221626880.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Deebo Samuel has no injury designation, but four CBs are questionable for 49ers",
       "description": "The 49ers will see the return of wide receiver Deebo Samuel.",
@@ -30,5 +24,5 @@
     "receiver"
   ],
   "hash": "b0d7c044e986bab1",
-  "queuedAt": "2026-11-14T06:36:07.305Z"
+  "queuedAt": "2026-11-14T14:43:24.531Z"
 }

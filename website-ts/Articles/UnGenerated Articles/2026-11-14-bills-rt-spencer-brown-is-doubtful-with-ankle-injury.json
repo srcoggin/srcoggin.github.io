@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Bills RT Spencer Brown is doubtful with ankle injury",
-      "description": "Bills right tackle Spencer Brown (ankle) is doubtful for Sunday's game against the Jets.",
-      "url": "https://sports.yahoo.com/articles/bills-rt-spencer-brown-doubtful-211723130.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Bills RT Spencer Brown is doubtful with ankle injury",
       "description": "Bills right tackle Spencer Brown (ankle) is doubtful for Sunday's game against the Jets.",
@@ -29,5 +23,5 @@
     "jets"
   ],
   "hash": "de8ceebc25d3423e",
-  "queuedAt": "2026-11-14T06:36:07.507Z"
+  "queuedAt": "2026-11-14T14:43:25.120Z"
 }
