@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "German fan favorite Amon-Ra St. Brown scores first TD in Munich",
-      "description": "Amon-Ra St. Brown, whose mother is German and who spent some of his childhood in Germany, scored the game's first touchdown today.",
-      "url": "https://sports.yahoo.com/articles/german-fan-favorite-amon-ra-145637325.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "German fan favorite Amon-Ra St. Brown scores first TD in Munich",
       "description": "Amon-Ra St. Brown, whose mother is German and who spent some of his childhood in Germany, scored the game's first touchdown today.",
@@ -37,5 +31,5 @@
     "today"
   ],
   "hash": "7d3342c5cab4a27e",
-  "queuedAt": "2026-11-15T15:29:17.120Z"
+  "queuedAt": "2026-11-15T23:29:07.371Z"
 }

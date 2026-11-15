@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Drake Maye limps to locker room, Tommy DeVito in at QB for Patriots in Germany",
-      "description": "Maye was injured when Aidan Hutchinson sacked him. Hutchinson was also injured while celebrating the sack.",
-      "url": "https://sports.yahoo.com/articles/drake-maye-limps-locker-room-150028757.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Drake Maye limps to locker room, Tommy DeVito in at QB for Patriots in Germany",
       "description": "Maye was injured when Aidan Hutchinson sacked him. Hutchinson was also injured while celebrating the sack.",
@@ -36,5 +30,5 @@
     "sack"
   ],
   "hash": "4d5918062fde44df",
-  "queuedAt": "2026-11-15T15:29:17.016Z"
+  "queuedAt": "2026-11-15T23:29:07.421Z"
 }

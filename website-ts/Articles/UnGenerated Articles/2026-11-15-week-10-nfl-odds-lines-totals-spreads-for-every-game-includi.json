@@ -1,12 +1,12 @@
 {
-  "title": "Week 10 NFL odds, lines, totals, spreads for every game, including Cowboys-49ers, Steelers-Bengals",
+  "title": "Week 10 NFL odds, lines, totals, spreads for every game, including Bills-Jets, Cowboys-49ers, Steelers-Bengals",
   "category": "general",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Week 10 NFL odds, lines, totals, spreads for every game, including Cowboys-49ers, Steelers-Bengals",
+      "title": "Week 10 NFL odds, lines, totals, spreads for every game, including Bills-Jets, Cowboys-49ers, Steelers-Bengals",
       "description": "NFL Week 10 spreads and totals for every game, including 49ers-Cowboys and Steelers-Bengals",
-      "url": "https://www.cbssports.com/betting/news/week-10-nfl-betting-lines-odds-spreads-totals/"
+      "url": "https://www.cbssports.com/betting/news/week-10-nfl-betting-lines-spreads-totals-odds/"
     }
   ],
   "keywords": [
@@ -16,10 +16,11 @@
     "spreads",
     "every",
     "including",
+    "billsjets",
     "cowboys49ers",
     "steelersbengals",
     "49erscowboys"
   ],
-  "hash": "2f66ac637efff43f",
-  "queuedAt": "2026-11-15T15:29:19.881Z"
+  "hash": "a1f2353a63fa9809",
+  "queuedAt": "2026-11-15T23:29:06.124Z"
 }

@@ -1,12 +1,12 @@
 {
-  "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Vikings-Packers, 49ers-Cowboys, NFL",
+  "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Bengals-Steelers, Sunday Night Football",
   "category": "draft",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Vikings-Packers, 49ers-Cowboys, NFL",
+      "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Bengals-Steelers, Sunday Night Football",
       "description": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for NFL betting on Sunday",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-for-vikings-packers-49ers-cowboys-nfl/"
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-bengals-steelers-sunday-night-football/"
     }
   ],
   "keywords": [
@@ -21,8 +21,9 @@
     "nba",
     "league",
     "pass",
-    "vikingspackers",
-    "49erscowboys",
+    "bengalssteelers",
+    "sunday",
+    "night",
     "offers",
     "bets",
     "three",
@@ -30,9 +31,8 @@
     "your",
     "first",
     "wager",
-    "betting",
-    "sunday"
+    "betting"
   ],
-  "hash": "d2da06e29239260c",
-  "queuedAt": "2026-11-15T15:29:19.261Z"
+  "hash": "7c9766c5703f0c80",
+  "queuedAt": "2026-11-15T23:29:05.584Z"
 }
