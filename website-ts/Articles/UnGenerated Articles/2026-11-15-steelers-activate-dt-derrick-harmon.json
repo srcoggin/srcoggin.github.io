@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Steelers activate DT Derrick Harmon",
-      "description": "Defensive tackle Derrick Harmon is set to return to the Steelers lineup against the Bengals on Sunday night.",
-      "url": "https://sports.yahoo.com/articles/steelers-activate-dt-derrick-harmon-011405045.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Steelers activate DT Derrick Harmon",
       "description": "Defensive tackle Derrick Harmon is set to return to the Steelers lineup against the Bengals on Sunday night.",
@@ -31,5 +25,5 @@
     "night"
   ],
   "hash": "57a1b22150dc6adb",
-  "queuedAt": "2026-11-15T06:57:11.693Z"
+  "queuedAt": "2026-11-15T15:29:22.716Z"
 }

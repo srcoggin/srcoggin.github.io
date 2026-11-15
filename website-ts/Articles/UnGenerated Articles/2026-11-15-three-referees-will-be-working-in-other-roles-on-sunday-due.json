@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Three referees will be working in other roles on Sunday, due to the ground stop",
-      "description": "The full scope of the adjustments to the usual officiating crews isn't officially known.",
-      "url": "https://sports.yahoo.com/articles/three-referees-working-other-roles-045040010.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Three referees will be working in other roles on Sunday, due to the ground stop",
       "description": "The full scope of the adjustments to the usual officiating crews isn't officially known.",
@@ -35,5 +29,5 @@
     "known"
   ],
   "hash": "5f9018aefe3b7f88",
-  "queuedAt": "2026-11-15T06:57:10.099Z"
+  "queuedAt": "2026-11-15T15:29:16.386Z"
 }
