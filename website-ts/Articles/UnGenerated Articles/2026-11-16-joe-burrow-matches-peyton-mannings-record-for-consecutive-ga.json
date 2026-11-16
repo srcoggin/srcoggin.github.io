@@ -3,12 +3,6 @@
   "category": "free-agency",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Joe Burrow matches Peyton Manning's record for consecutive games with at least four TDs",
-      "description": "Joe Burrow has accomplished something that had not been done for over 20 years.",
-      "url": "https://sports.yahoo.com/articles/joe-burrow-matches-peyton-mannings-033405898.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Joe Burrow matches Peyton Manning's record for consecutive games with at least four TDs",
       "description": "Joe Burrow has accomplished something that had not been done for over 20 years.",
@@ -35,5 +29,5 @@
     "years"
   ],
   "hash": "8c2a3acb9ceb589a",
-  "queuedAt": "2026-11-16T06:38:12.707Z"
+  "queuedAt": "2026-11-16T17:01:12.335Z"
 }

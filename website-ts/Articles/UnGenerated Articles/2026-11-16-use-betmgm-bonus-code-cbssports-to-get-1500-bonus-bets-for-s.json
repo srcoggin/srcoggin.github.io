@@ -1,7 +1,13 @@
 {
   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Steelers-Bengals, NFL Sunday Night Football picks",
-  "category": "draft",
+  "category": "general",
   "sources": [
+    {
+      "name": "CBS Sports NFL",
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Chargers-Ravens, Monday Night Football betting",
+      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Ravens vs. Chargers on Monday Night Football",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-chargers-ravens-monday-night-football-betting/"
+    },
     {
       "name": "CBS Sports NFL",
       "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Steelers-Bengals, NFL Sunday Night Football picks",
@@ -24,10 +30,10 @@
     "get",
     "1500",
     "bets",
-    "steelersbengals",
-    "sunday",
+    "chargersravens",
+    "monday",
     "night",
-    "picks",
+    "betting",
     "latest",
     "mgm",
     "promo",
@@ -35,12 +41,16 @@
     "first",
     "bet",
     "loses",
-    "betting",
+    "ravens",
+    "chargers",
+    "steelersbengals",
+    "sunday",
+    "picks",
     "fanduel",
     "200",
     "targeting",
     "sign"
   ],
-  "hash": "2a6ecf412f743643",
-  "queuedAt": "2026-11-16T06:38:13.103Z"
+  "hash": "a6a62e8158ee1947",
+  "queuedAt": "2026-11-16T17:01:02.005Z"
 }

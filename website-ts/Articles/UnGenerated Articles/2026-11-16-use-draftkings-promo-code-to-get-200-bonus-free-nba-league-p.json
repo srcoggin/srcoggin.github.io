@@ -1,7 +1,19 @@
 {
   "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Bengals-Steelers, Sunday Night Football",
-  "category": "draft",
+  "category": "general",
   "sources": [
+    {
+      "name": "CBS Sports NFL",
+      "title": "Use FanDuel promo code to get $200 in bonus bets for Chargers vs. Ravens on Monday Night Football",
+      "description": "Sign up with the latest FanDuel promo code and wager on Monday to get your bonus bets",
+      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-200-bonus-bets-chargers-vs-ravens-monday-night-football/"
+    },
+    {
+      "name": "CBS Sports NFL",
+      "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Chargers-Ravens, Monday Night Football",
+      "description": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for Ravens vs. Chargers on Monday Night Football",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-chargers-ravens-monday-night-football/"
+    },
     {
       "name": "CBS Sports NFL",
       "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Bengals-Steelers, Sunday Night Football",
@@ -11,28 +23,35 @@
   ],
   "keywords": [
     "use",
-    "draftkings",
+    "fanduel",
     "promo",
     "code",
     "get",
     "200",
     "bonus",
+    "bets",
+    "chargers",
+    "ravens",
+    "monday",
+    "night",
+    "sign",
+    "latest",
+    "wager",
+    "your",
+    "draftkings",
     "free",
     "nba",
     "league",
     "pass",
-    "bengalssteelers",
-    "sunday",
-    "night",
+    "chargersravens",
     "offers",
-    "bets",
     "three",
     "months",
-    "your",
     "first",
-    "wager",
+    "bengalssteelers",
+    "sunday",
     "betting"
   ],
-  "hash": "7c9766c5703f0c80",
-  "queuedAt": "2026-11-16T06:38:16.333Z"
+  "hash": "c733739034b056f6",
+  "queuedAt": "2026-11-16T17:01:01.883Z"
 }
