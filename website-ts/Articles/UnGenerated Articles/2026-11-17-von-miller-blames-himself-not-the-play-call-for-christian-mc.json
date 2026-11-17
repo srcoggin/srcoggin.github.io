@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Von Miller blames himself, not the play call, for Christian McCaffrey's late TD",
-      "description": "The Cowboys pulled within 38-32 of the 49ers with 3:42 left in the fourth quarter on Sunday.",
-      "url": "https://sports.yahoo.com/articles/von-miller-blames-himself-not-021737535.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Von Miller blames himself, not the play call, for Christian McCaffrey's late TD",
       "description": "The Cowboys pulled within 38-32 of the 49ers with 3:42 left in the fourth quarter on Sunday.",
@@ -37,5 +31,5 @@
     "sunday"
   ],
   "hash": "96380cb139c8cf6a",
-  "queuedAt": "2026-11-17T03:01:45.239Z"
+  "queuedAt": "2026-11-17T16:51:53.943Z"
 }

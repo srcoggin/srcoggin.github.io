@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Monday Night Football: Chargers lead Ravens 17-10 at halftime",
-      "description": "Justin Herbert and Omarion Hampton have touchdown runs for the winless Chargers.",
-      "url": "https://sports.yahoo.com/articles/monday-night-football-chargers-lead-024944638.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Monday Night Football: Chargers lead Ravens 17-10 at halftime",
       "description": "Justin Herbert and Omarion Hampton have touchdown runs for the winless Chargers.",
@@ -32,5 +26,5 @@
     "winless"
   ],
   "hash": "7d9308a03df56ada",
-  "queuedAt": "2026-11-17T03:01:45.164Z"
+  "queuedAt": "2026-11-17T16:51:55.163Z"
 }

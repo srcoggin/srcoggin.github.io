@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Vrabel disagrees with Milton Williams's claim that field conditions caused injuries",
-      "description": "On Sunday in Germany, both teams had key players go down with significant injuries.",
-      "url": "https://sports.yahoo.com/articles/mike-vrabel-disagrees-milton-williamss-225815829.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Vrabel disagrees with Milton Williams's claim that field conditions caused injuries",
       "description": "On Sunday in Germany, both teams had key players go down with significant injuries.",
@@ -37,5 +31,5 @@
     "significant"
   ],
   "hash": "8ea75fd227a6a829",
-  "queuedAt": "2026-11-17T03:01:45.546Z"
+  "queuedAt": "2026-11-17T16:51:54.172Z"
 }
