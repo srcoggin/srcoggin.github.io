@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Texans CB Kamari Lassiter downgraded to a non-participant Tuesday",
-      "description": "The Texans' injury report on Tuesday had only one change from the estimated report on Monday.",
-      "url": "https://sports.yahoo.com/articles/texans-cb-kamari-lassiter-downgraded-224805625.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Texans CB Kamari Lassiter downgraded to a non-participant Tuesday",
       "description": "The Texans' injury report on Tuesday had only one change from the estimated report on Monday.",
@@ -30,5 +24,5 @@
     "monday"
   ],
   "hash": "bba6d080c79940a7",
-  "queuedAt": "2026-11-18T01:55:55.435Z"
+  "queuedAt": "2026-11-18T16:30:30.741Z"
 }
