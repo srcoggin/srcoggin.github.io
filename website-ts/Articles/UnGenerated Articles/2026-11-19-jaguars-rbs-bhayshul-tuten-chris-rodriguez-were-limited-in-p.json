@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Jaguars RBs Bhayshul Tuten, Chris Rodriguez were limited in practice Wednesday",
-      "description": "The Jaguars listed their top two running backs as limited participants in practice on Wednesday.",
-      "url": "https://sports.yahoo.com/articles/jaguars-rbs-bhayshul-tuten-chris-212554346.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Jaguars RBs Bhayshul Tuten, Chris Rodriguez were limited in practice Wednesday",
       "description": "The Jaguars listed their top two running backs as limited participants in practice on Wednesday.",
@@ -34,5 +28,5 @@
     "participants"
   ],
   "hash": "f83235a242790dac",
-  "queuedAt": "2026-11-19T01:08:16.017Z"
+  "queuedAt": "2026-11-19T08:52:12.271Z"
 }

@@ -3,12 +3,6 @@
   "category": "draft",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Titans get Carnell Tate back at practice",
-      "description": "The Titans won't be getting wide receiver Wan'Dale Robinson back on the field this season, but they could be getting first-round pick Carnell Tate back in the lineup against the Cowboys this week.",
-      "url": "https://sports.yahoo.com/articles/titans-carnell-tate-back-practice-214003714.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Titans get Carnell Tate back at practice",
       "description": "The Titans won't be getting wide receiver Wan'Dale Robinson back on the field this season, but they could be getting first-round pick Carnell Tate back in the lineup against the Cowboys this week.",
@@ -38,5 +32,5 @@
     "cowboys"
   ],
   "hash": "cb1de370ec7b9f2f",
-  "queuedAt": "2026-11-19T01:08:15.885Z"
+  "queuedAt": "2026-11-19T08:52:11.813Z"
 }

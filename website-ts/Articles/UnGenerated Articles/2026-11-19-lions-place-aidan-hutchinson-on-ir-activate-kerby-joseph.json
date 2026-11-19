@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Lions place Aidan Hutchinson on IR, activate Kerby Joseph",
-      "description": "While one Lions player is out, another is on his way back in.",
-      "url": "https://sports.yahoo.com/articles/lions-place-aidan-hutchinson-ir-213702441.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Lions place Aidan Hutchinson on IR, activate Kerby Joseph",
       "description": "While one Lions player is out, another is on his way back in.",
@@ -32,5 +26,5 @@
     "back"
   ],
   "hash": "fcc456dae3cf9788",
-  "queuedAt": "2026-11-19T01:08:15.954Z"
+  "queuedAt": "2026-11-19T08:52:12.181Z"
 }

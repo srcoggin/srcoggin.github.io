@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Dalton Kincaid, Christian Benford listed as out of Bills practice",
-      "description": "The Bills listed starters on both sides of the ball as out of practice on Wednesday.",
-      "url": "https://sports.yahoo.com/articles/dalton-kincaid-christian-benford-listed-220243580.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Dalton Kincaid, Christian Benford listed as out of Bills practice",
       "description": "The Bills listed starters on both sides of the ball as out of practice on Wednesday.",
@@ -31,5 +25,5 @@
     "wednesday"
   ],
   "hash": "21b27869de503fb0",
-  "queuedAt": "2026-11-19T01:08:15.505Z"
+  "queuedAt": "2026-11-19T08:52:11.896Z"
 }
