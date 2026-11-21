@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Chargers rule out LB Daiyan Henley, list WR Ladd McConkey as questionable",
-      "description": "Chargers linebacker Daiyan Henley missed practice this week with knee soreness, and the team has ruled him out for Sunday's game against the Jets.",
-      "url": "https://sports.yahoo.com/articles/chargers-rule-lb-daiyan-henley-214859444.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Chargers rule out LB Daiyan Henley, list WR Ladd McConkey as questionable",
       "description": "Chargers linebacker Daiyan Henley missed practice this week with knee soreness, and the team has ruled him out for Sunday's game against the Jets.",
@@ -38,5 +32,5 @@
     "jets"
   ],
   "hash": "37cbbb39f79b2775",
-  "queuedAt": "2026-11-21T07:16:41.445Z"
+  "queuedAt": "2026-11-21T20:15:52.636Z"
 }

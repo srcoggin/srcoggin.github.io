@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Brock Bowers, Matt Gay questionable for Raiders-Broncos",
-      "description": "There’s a chance quarterback Fernando Mendoza will have his top target for his second start.",
-      "url": "https://sports.yahoo.com/articles/brock-bowers-matt-gay-questionable-210852265.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Brock Bowers, Matt Gay questionable for Raiders-Broncos",
       "description": "There’s a chance quarterback Fernando Mendoza will have his top target for his second start.",
@@ -34,5 +28,5 @@
     "start"
   ],
   "hash": "e71f2950366f2478",
-  "queuedAt": "2026-11-21T07:16:41.592Z"
+  "queuedAt": "2026-11-21T20:15:52.875Z"
 }

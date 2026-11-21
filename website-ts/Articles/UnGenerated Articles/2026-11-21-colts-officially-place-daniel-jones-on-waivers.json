@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Colts officially place Daniel Jones on waivers",
-      "description": "Daniel Jones is officially on the waiver wire.",
-      "url": "https://sports.yahoo.com/articles/colts-officially-place-daniel-jones-220057172.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Colts officially place Daniel Jones on waivers",
       "description": "Daniel Jones is officially on the waiver wire.",
@@ -26,5 +20,5 @@
     "wire"
   ],
   "hash": "52f4615cae70f8ee",
-  "queuedAt": "2026-11-21T07:16:40.359Z"
+  "queuedAt": "2026-11-21T20:15:44.863Z"
 }

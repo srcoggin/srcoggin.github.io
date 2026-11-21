@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "S Talanoa Hufanga, WR Jaylen Waddle, CB Riley Moss set to return Sunday",
-      "description": "The Broncos' injury report Friday was not about who has a status, but who doesn't.",
-      "url": "https://sports.yahoo.com/articles/talanoa-hufanga-wr-jaylen-waddle-220313612.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "S Talanoa Hufanga, WR Jaylen Waddle, CB Riley Moss set to return Sunday",
       "description": "The Broncos' injury report Friday was not about who has a status, but who doesn't.",
@@ -35,5 +29,5 @@
     "doesnt"
   ],
   "hash": "bd8cd150ebceb4c6",
-  "queuedAt": "2026-11-21T07:16:40.284Z"
+  "queuedAt": "2026-11-21T20:15:44.753Z"
 }
