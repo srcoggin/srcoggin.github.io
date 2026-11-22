@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Knee surgery complicates Puka Nacua's future",
-      "description": "Timeline for recovery make mean he won't be 100 percent before free agency.",
-      "url": "https://sports.yahoo.com/articles/knee-surgery-complicates-puka-nacuas-023708964.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Knee surgery complicates Puka Nacua's future",
       "description": "Timeline for recovery make mean he won't be 100 percent before free agency.",
@@ -33,5 +27,5 @@
     "agency"
   ],
   "hash": "e6b509817564af0b",
-  "queuedAt": "2026-11-22T06:50:08.272Z"
+  "queuedAt": "2026-11-22T15:32:42.237Z"
 }

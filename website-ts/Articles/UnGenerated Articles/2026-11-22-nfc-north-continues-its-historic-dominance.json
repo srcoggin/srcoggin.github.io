@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "NFC North continues its historic dominance",
-      "description": "They're 27-10 overall, and 21-4 in games outside the division.",
-      "url": "https://sports.yahoo.com/articles/nfc-north-continues-historic-dominance-020116093.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "NFC North continues its historic dominance",
       "description": "They're 27-10 overall, and 21-4 in games outside the division.",
@@ -31,5 +25,5 @@
     "division"
   ],
   "hash": "012d33650e5ca46b",
-  "queuedAt": "2026-11-22T06:50:08.338Z"
+  "queuedAt": "2026-11-22T15:32:42.312Z"
 }

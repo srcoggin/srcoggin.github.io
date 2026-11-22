@@ -3,12 +3,6 @@
   "category": "player-news",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Aidan Hutchinson wasn't fined for sack that injured Drake Maye",
-      "description": "As expected, Lions defensive end Aidan Hutchinson wasn't fined for the tackle that may have ended Patriots quarterback Drake Maye's season.",
-      "url": "https://sports.yahoo.com/articles/aidan-hutchinson-wasnt-fined-sack-013258410.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Aidan Hutchinson wasn't fined for sack that injured Drake Maye",
       "description": "As expected, Lions defensive end Aidan Hutchinson wasn't fined for the tackle that may have ended Patriots quarterback Drake Maye's season.",
@@ -36,5 +30,5 @@
     "mayes"
   ],
   "hash": "b96c0efaeb29009b",
-  "queuedAt": "2026-11-22T06:50:08.408Z"
+  "queuedAt": "2026-11-22T15:32:42.384Z"
 }
