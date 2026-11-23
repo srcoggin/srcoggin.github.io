@@ -3,10 +3,10 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
+      "name": "Pro Football Talk",
       "title": "Fernando Mendoza throws first touchdown pass, Raiders trail Broncos 17-10",
       "description": "Fernando Mendoza ran it into the end zone for his first professional touchdown last week.",
-      "url": "https://sports.yahoo.com/articles/fernando-mendoza-throws-first-touchdown-224426043.html"
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fernando-mendoza-throws-first-touchdown-pass-raiders-trail-broncos-17-10"
     }
   ],
   "keywords": [
@@ -28,5 +28,5 @@
     "last"
   ],
   "hash": "4d8d0b61eecdf050",
-  "queuedAt": "2026-11-23T00:16:45.146Z"
+  "queuedAt": "2026-11-23T07:42:54.676Z"
 }

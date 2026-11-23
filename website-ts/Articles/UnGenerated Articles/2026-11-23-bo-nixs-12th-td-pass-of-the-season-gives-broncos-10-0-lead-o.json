@@ -3,10 +3,10 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
+      "name": "Pro Football Talk",
       "title": "Bo Nix's 12th TD pass of the season gives Broncos 10-0 lead over Raiders",
       "description": "The Broncos have gotten into the end zone.",
-      "url": "https://sports.yahoo.com/articles/bo-nixs-12th-td-pass-220639031.html"
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nixs-12th-td-pass-of-the-season-gives-broncos-10-0-lead-over-raiders"
     }
   ],
   "keywords": [
@@ -24,5 +24,5 @@
     "zone"
   ],
   "hash": "585c6f3e1eeda76d",
-  "queuedAt": "2026-11-23T00:16:46.071Z"
+  "queuedAt": "2026-11-23T07:42:54.601Z"
 }

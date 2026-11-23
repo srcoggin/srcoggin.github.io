@@ -3,10 +3,10 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
+      "name": "Pro Football Talk",
       "title": "Jets lead Chargers 17-10 at halftime",
       "description": "The Jets didn't score a touchdown in Weeks 9 or 10, but they doubled down on them in the first half of their Week 11 game against the Chargers.",
-      "url": "https://sports.yahoo.com/articles/jets-lead-chargers-17-10-222427324.html"
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-lead-chargers-17-10-at-halftime"
     }
   ],
   "keywords": [
@@ -29,5 +29,5 @@
     "against"
   ],
   "hash": "c034a9224755622b",
-  "queuedAt": "2026-11-23T00:16:45.540Z"
+  "queuedAt": "2026-11-23T07:42:55.403Z"
 }

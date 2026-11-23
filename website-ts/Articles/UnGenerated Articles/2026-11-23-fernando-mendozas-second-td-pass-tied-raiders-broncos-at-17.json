@@ -3,12 +3,6 @@
   "category": "general",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Fernando Mendoza's second TD pass tied Raiders-Broncos at 17-17",
-      "description": "The Raiders are back in business.",
-      "url": "https://sports.yahoo.com/articles/fernando-mendozas-second-td-pass-234110600.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Fernando Mendoza's second TD pass tied Raiders-Broncos at 17-17",
       "description": "The Raiders are back in business.",
@@ -28,5 +22,5 @@
     "business"
   ],
   "hash": "f1120a27dc6daaea",
-  "queuedAt": "2026-11-23T00:16:43.951Z"
+  "queuedAt": "2026-11-23T07:42:54.840Z"
 }
