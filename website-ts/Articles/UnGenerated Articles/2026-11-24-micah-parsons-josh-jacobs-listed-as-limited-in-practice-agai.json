@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Micah Parsons, Josh Jacobs listed as limited in practice again on Monday",
-      "description": "The Packers' injury report for Monday looks a lot like the one they turned in on Sunday.",
-      "url": "https://sports.yahoo.com/articles/micah-parsons-josh-jacobs-listed-214037638.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Micah Parsons, Josh Jacobs listed as limited in practice again on Monday",
       "description": "The Packers' injury report for Monday looks a lot like the one they turned in on Sunday.",
@@ -36,5 +30,5 @@
     "sunday"
   ],
   "hash": "2e9f8cbbf9c9b817",
-  "queuedAt": "2026-11-24T00:45:18.982Z"
+  "queuedAt": "2026-11-24T10:12:57.166Z"
 }

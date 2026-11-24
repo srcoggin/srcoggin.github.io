@@ -3,12 +3,6 @@
   "category": "injuries",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Saquon Barkley among Eagles listed as limited on Monday",
-      "description": "After defeating the Steelers on Sunday for their third victory of the season, the Eagles have several players on their first injury report of a short week as they'll play the Cowboys on Thanksgiving.",
-      "url": "https://sports.yahoo.com/articles/saquon-barkley-among-eagles-listed-220910954.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Saquon Barkley among Eagles listed as limited on Monday",
       "description": "After defeating the Steelers on Sunday for their third victory of the season, the Eagles have several players on their first injury report of a short week as they'll play the Cowboys on Thanksgiving.",
@@ -41,5 +35,5 @@
     "thanksgiving"
   ],
   "hash": "23a9e3db3d60b64a",
-  "queuedAt": "2026-11-24T00:45:18.917Z"
+  "queuedAt": "2026-11-24T10:12:57.087Z"
 }
