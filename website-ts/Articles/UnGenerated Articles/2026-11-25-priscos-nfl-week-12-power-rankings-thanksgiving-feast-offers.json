@@ -5,7 +5,7 @@
     {
       "name": "CBS Sports NFL",
       "title": "Prisco&#039;s NFL Week 12 Power Rankings: Thanksgiving feast offers a proving ground for contenders",
-      "description": "Pete Prisco shares his Week 12 Power Rankings for the 2026 NFL season, including the",
+      "description": "Pete Prisco shares his Week 12 Power Rankings for the 2026 NFL season, including the Jaguars falling five spots",
       "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-12-power-rankings-thanksgiving-games/"
     }
   ],
@@ -24,8 +24,12 @@
     "shares",
     "his",
     "2026",
-    "including"
+    "including",
+    "jaguars",
+    "falling",
+    "five",
+    "spots"
   ],
-  "hash": "ad76db1a564041ed",
-  "queuedAt": "2026-11-25T08:23:31.100Z"
+  "hash": "c78dfaf17ac47f4a",
+  "queuedAt": "2026-11-25T22:29:44.572Z"
 }
