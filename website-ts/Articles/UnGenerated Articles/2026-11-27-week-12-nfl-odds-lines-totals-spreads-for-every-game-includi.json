@@ -1,12 +1,12 @@
 {
-  "title": "Week 12 NFL odds, lines, totals, spreads for every game, including Bears-Lions, Cowboys-Eagles, Bills-Chiefs",
+  "title": "Week 12 NFL odds, lines, totals, spreads for every game, including Broncos-Steelers, 49ers-Seahawks",
   "category": "general",
   "sources": [
     {
       "name": "CBS Sports NFL",
-      "title": "Week 12 NFL odds, lines, totals, spreads for every game, including Bears-Lions, Cowboys-Eagles, Bills-Chiefs",
-      "description": "A look at the latest Week 12 NFL odds, spreads, and totals for all 16 games, including Thanksgiving matchups.",
-      "url": "https://www.cbssports.com/betting/news/week-12-nfl-betting-lines-odds-spreads-totals/"
+      "title": "Week 12 NFL odds, lines, totals, spreads for every game, including Broncos-Steelers, 49ers-Seahawks",
+      "description": "A look at the latest Week 12 NFL odds, spreads, and totals for all 16 games, including Steelers vs. Broncos on Black Friday",
+      "url": "https://www.cbssports.com/betting/news/week-12-nfl-betting-lines-spreads-odds-totals/"
     }
   ],
   "keywords": [
@@ -16,15 +16,16 @@
     "spreads",
     "every",
     "including",
-    "bearslions",
-    "cowboyseagles",
-    "billschiefs",
+    "broncossteelers",
+    "49ersseahawks",
     "look",
     "latest",
     "games",
-    "thanksgiving",
-    "matchups"
+    "steelers",
+    "broncos",
+    "black",
+    "friday"
   ],
-  "hash": "001a2c101ead8fde",
-  "queuedAt": "2026-11-27T08:24:28.758Z"
+  "hash": "a29440be16f708da",
+  "queuedAt": "2026-11-27T22:45:27.435Z"
 }

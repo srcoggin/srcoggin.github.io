@@ -3,12 +3,6 @@
   "category": "coaching",
   "sources": [
     {
-      "name": "Yahoo Sports NFL",
-      "title": "Mike Tomlin on current Steelers situation: \"It's a dumpster fire\"",
-      "description": "Former Steelers coach speaks at length about this week's events.",
-      "url": "https://sports.yahoo.com/nfl/articles/mike-tomlin-current-steelers-situation-030130229.html"
-    },
-    {
       "name": "Pro Football Talk",
       "title": "Mike Tomlin on current Steelers situation: \"It's a dumpster fire\"",
       "description": "Former Steelers coach speaks at length about this week's events.",
@@ -34,5 +28,5 @@
     "events"
   ],
   "hash": "da08859405e57cdd",
-  "queuedAt": "2026-11-27T08:24:25.184Z"
+  "queuedAt": "2026-11-27T22:45:31.036Z"
 }
